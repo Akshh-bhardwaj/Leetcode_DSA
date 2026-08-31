@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
