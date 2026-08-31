@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +89,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
