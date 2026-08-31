@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
+| [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
