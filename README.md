@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@
 | [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
