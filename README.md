@@ -38,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
