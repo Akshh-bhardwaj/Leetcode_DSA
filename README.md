@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
