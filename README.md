@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -110,6 +112,7 @@
 | [0027-remove-element](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,4 +141,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
