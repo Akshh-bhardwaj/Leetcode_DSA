@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -113,10 +114,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Breadth-First Search
 |  |
@@ -126,4 +129,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
