@@ -24,6 +24,7 @@
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -110,6 +111,7 @@
 | [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
