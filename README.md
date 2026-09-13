@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
