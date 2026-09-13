@@ -24,6 +24,7 @@
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -166,4 +169,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
