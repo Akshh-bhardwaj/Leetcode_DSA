@@ -26,6 +26,7 @@
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -139,6 +141,7 @@
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -157,6 +160,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 <!---LeetCode Topics End-->
