@@ -63,6 +63,7 @@
 | [0836-rectangle-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -120,6 +122,7 @@
 | [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
