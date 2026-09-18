@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -85,6 +86,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -151,6 +153,7 @@
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 ## Stack
