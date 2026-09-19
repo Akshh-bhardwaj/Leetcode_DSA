@@ -66,6 +66,7 @@
 | [0836-rectangle-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
