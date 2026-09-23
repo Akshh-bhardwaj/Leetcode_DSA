@@ -24,6 +24,7 @@
 | [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -172,6 +176,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
