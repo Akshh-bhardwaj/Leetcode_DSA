@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:31:51.206Z",
+  "updatedAt": "2026-09-24T18:32:28.394Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1570,7 +1570,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "f3a6bda93bbc5228f65b50958e0a102658e111dc",
-          "lastSyncedAt": "2026-09-24T17:29:22.065Z"
+          "lastSyncedAt": "2026-09-24T18:32:28.394Z"
         }
       ]
     },
