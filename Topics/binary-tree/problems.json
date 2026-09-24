@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-24T12:00:40.021Z",
+  "updatedAt": "2026-09-24T12:18:43.899Z",
   "problems": [
+    {
+      "frontendId": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "problemName": "1022-sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+      "folderPath": "1022-sum-of-root-to-leaf-binary-numbers/",
+      "readmePath": "1022-sum-of-root-to-leaf-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1022-sum-of-root-to-leaf-binary-numbers.c",
+          "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.c",
+          "sha": "ae093b5a3475d22bc00f6c86add0145e6d9b3e97",
+          "lastSyncedAt": "2026-09-24T12:18:43.899Z"
+        }
+      ]
+    },
     {
       "frontendId": "2196",
       "title": "Create Binary Tree From Descriptions",
