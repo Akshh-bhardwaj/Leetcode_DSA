@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:18:29.823Z",
+  "updatedAt": "2026-09-24T12:19:30.709Z",
   "problems": [
     {
       "frontendId": "49",
@@ -163,6 +163,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
           "lastSyncedAt": "2026-09-24T11:52:08.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "0761-special-binary-string/",
+      "readmePath": "0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0761-special-binary-string.c",
+          "path": "0761-special-binary-string/0761-special-binary-string.c",
+          "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
+          "lastSyncedAt": "2026-09-24T12:19:30.709Z"
         }
       ]
     },
