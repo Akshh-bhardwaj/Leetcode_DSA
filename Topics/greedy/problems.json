@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T08:16:46.353Z",
+  "updatedAt": "2026-09-24T08:17:01.096Z",
   "problems": [
     {
       "frontendId": "502",
@@ -22,7 +22,7 @@
           "filename": "0502-ipo.java",
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
-          "lastSyncedAt": "2026-09-24T07:48:39.814Z"
+          "lastSyncedAt": "2026-09-24T08:17:01.096Z"
         }
       ]
     },
