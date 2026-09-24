@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:36:00.310Z",
+  "updatedAt": "2026-09-24T12:37:38.860Z",
   "problems": [
     {
       "frontendId": "67",
@@ -283,6 +283,26 @@
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
           "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
           "lastSyncedAt": "2026-09-24T12:00:32.086Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2211",
+      "title": "Count Collisions on a Road",
+      "slug": "count-collisions-on-a-road",
+      "problemName": "2211-count-collisions-on-a-road",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-collisions-on-a-road/",
+      "folderPath": "2211-count-collisions-on-a-road/",
+      "readmePath": "2211-count-collisions-on-a-road/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2211-count-collisions-on-a-road.c",
+          "path": "2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.c",
+          "sha": "d65a68fdadfdfd0d5c8ffcf2f948f3e17ba914f8",
+          "lastSyncedAt": "2026-09-24T12:37:38.860Z"
         }
       ]
     },
