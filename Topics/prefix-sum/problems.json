@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:14:42.389Z",
+  "updatedAt": "2026-09-24T12:15:08.223Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -151,6 +151,26 @@
           "path": "1871-jump-game-vii/1871-jump-game-vii.c",
           "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
           "lastSyncedAt": "2026-09-24T08:47:32.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1878",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "problemName": "1878-get-biggest-three-rhombus-sums-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+      "folderPath": "1878-get-biggest-three-rhombus-sums-in-a-grid/",
+      "readmePath": "1878-get-biggest-three-rhombus-sums-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1878-get-biggest-three-rhombus-sums-in-a-grid.c",
+          "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.c",
+          "sha": "01daefeed9a9d3b073a7ae0483ef973243bb0969",
+          "lastSyncedAt": "2026-09-24T12:15:08.223Z"
         }
       ]
     },
