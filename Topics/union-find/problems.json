@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T12:08:18.210Z",
+  "updatedAt": "2026-09-24T12:12:12.770Z",
   "problems": [
     {
       "frontendId": "1391",
@@ -63,6 +63,26 @@
           "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.c",
           "sha": "c3455776d414c49a0eb371a3e9bbd2dd8ea3f2f8",
           "lastSyncedAt": "2026-09-24T12:08:18.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "2573-find-the-string-with-lcp/",
+      "readmePath": "2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2573-find-the-string-with-lcp.c",
+          "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
+          "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
+          "lastSyncedAt": "2026-09-24T12:12:12.770Z"
         }
       ]
     }
