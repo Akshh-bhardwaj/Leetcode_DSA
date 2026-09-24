@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:30:05.180Z",
+  "updatedAt": "2026-09-24T12:30:46.803Z",
   "problems": [
     {
       "frontendId": "3",
@@ -999,6 +999,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
           "lastSyncedAt": "2026-09-24T11:51:49.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2483",
+      "title": "Minimum Penalty for a Shop",
+      "slug": "minimum-penalty-for-a-shop",
+      "problemName": "2483-minimum-penalty-for-a-shop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+      "folderPath": "2483-minimum-penalty-for-a-shop/",
+      "readmePath": "2483-minimum-penalty-for-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2483-minimum-penalty-for-a-shop.c",
+          "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.c",
+          "sha": "59f656d9c06bd0a4c6f29059f2f7a47f6b33359a",
+          "lastSyncedAt": "2026-09-24T12:30:46.803Z"
         }
       ]
     },
