@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:23:15.185Z",
+  "updatedAt": "2026-09-24T12:23:49.922Z",
   "problems": [
     {
       "frontendId": "53",
@@ -671,6 +671,26 @@
           "path": "3640-trionic-array-ii/3640-trionic-array-ii.c",
           "sha": "7a01e95bf009fa532da9f610d3367c19d45bed35",
           "lastSyncedAt": "2026-09-24T12:22:25.065Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3651",
+      "title": "Minimum Cost Path with Teleportations",
+      "slug": "minimum-cost-path-with-teleportations",
+      "problemName": "3651-minimum-cost-path-with-teleportations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-teleportations/",
+      "folderPath": "3651-minimum-cost-path-with-teleportations/",
+      "readmePath": "3651-minimum-cost-path-with-teleportations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3651-minimum-cost-path-with-teleportations.c",
+          "path": "3651-minimum-cost-path-with-teleportations/3651-minimum-cost-path-with-teleportations.c",
+          "sha": "541c2cf41f995dbd75857cf2322dd8c6e049bdb8",
+          "lastSyncedAt": "2026-09-24T12:23:49.922Z"
         }
       ]
     },
