@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:28:13.701Z",
+  "updatedAt": "2026-09-24T12:28:45.015Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1311,6 +1311,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T11:56:15.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "problemName": "1975-maximum-matrix-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum/",
+      "folderPath": "1975-maximum-matrix-sum/",
+      "readmePath": "1975-maximum-matrix-sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1975-maximum-matrix-sum.c",
+          "path": "1975-maximum-matrix-sum/1975-maximum-matrix-sum.c",
+          "sha": "e4272918081de8b57c448c6786b000aabf5da0d7",
+          "lastSyncedAt": "2026-09-24T12:28:45.015Z"
         }
       ]
     },
