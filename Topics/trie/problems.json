@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-09-24T17:43:23.809Z",
+  "updatedAt": "2026-09-24T17:47:22.429Z",
   "problems": [
     {
       "frontendId": "14",
@@ -42,7 +42,7 @@
           "filename": "2452-words-within-two-edits-of-dictionary.c",
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.c",
           "sha": "eeb78cf19a31479a062f252e676f93fbc360708c",
-          "lastSyncedAt": "2026-09-24T12:08:07.246Z"
+          "lastSyncedAt": "2026-09-24T17:47:22.429Z"
         }
       ]
     },
