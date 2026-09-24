@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:44:42.979Z",
+  "updatedAt": "2026-09-24T12:44:52.992Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1519,6 +1519,26 @@
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.c",
           "sha": "b39cfdaa893825d9a9e1960b94db6304e4e7cde9",
           "lastSyncedAt": "2026-09-24T12:02:15.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3227",
+      "title": "Vowels Game in a String",
+      "slug": "vowels-game-in-a-string",
+      "problemName": "3227-vowels-game-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/vowels-game-in-a-string/",
+      "folderPath": "3227-vowels-game-in-a-string/",
+      "readmePath": "3227-vowels-game-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3227-vowels-game-in-a-string.c",
+          "path": "3227-vowels-game-in-a-string/3227-vowels-game-in-a-string.c",
+          "sha": "595bedbc0bfb1737b44df3cd5ae4cea338006ab2",
+          "lastSyncedAt": "2026-09-24T12:44:52.992Z"
         }
       ]
     },
