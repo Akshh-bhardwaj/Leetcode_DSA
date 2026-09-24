@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T17:59:30.338Z",
+  "updatedAt": "2026-09-24T18:01:05.164Z",
   "problems": [
     {
       "frontendId": "15",
@@ -890,7 +890,7 @@
           "filename": "2943-maximize-area-of-square-hole-in-grid.c",
           "path": "2943-maximize-area-of-square-hole-in-grid/2943-maximize-area-of-square-hole-in-grid.c",
           "sha": "b82ceb40ea0608a5674e788030cf581e34ae74c5",
-          "lastSyncedAt": "2026-09-24T12:26:34.287Z"
+          "lastSyncedAt": "2026-09-24T18:01:05.164Z"
         }
       ]
     },
