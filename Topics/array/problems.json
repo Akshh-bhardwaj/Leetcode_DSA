@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:08:18.210Z",
+  "updatedAt": "2026-09-24T12:08:30.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -971,6 +971,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.c",
           "sha": "f3661bc855266193c41077609b03a97dd587c617",
           "lastSyncedAt": "2026-09-24T12:06:43.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2078",
+      "title": "Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "problemName": "2078-two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+      "folderPath": "2078-two-furthest-houses-with-different-colors/",
+      "readmePath": "2078-two-furthest-houses-with-different-colors/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2078-two-furthest-houses-with-different-colors.c",
+          "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.c",
+          "sha": "d5b018767e4a90a42f9dea3a3b0f88862ce906d9",
+          "lastSyncedAt": "2026-09-24T12:08:30.258Z"
         }
       ]
     },
