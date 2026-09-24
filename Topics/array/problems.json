@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:06:36.424Z",
+  "updatedAt": "2026-09-24T18:06:44.090Z",
   "problems": [
     {
       "frontendId": "1",
@@ -650,7 +650,7 @@
           "filename": "0448-find-all-numbers-disappeared-in-an-array.c",
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.c",
           "sha": "106f1e6268a01bdee9db65f295c7059e9c18f1d8",
-          "lastSyncedAt": "2026-09-24T12:34:22.362Z"
+          "lastSyncedAt": "2026-09-24T18:06:44.090Z"
         }
       ]
     },
