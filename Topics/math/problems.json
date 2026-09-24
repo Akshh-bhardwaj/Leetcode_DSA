@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:38:05.996Z",
+  "updatedAt": "2026-09-24T12:40:41.135Z",
   "problems": [
     {
       "frontendId": "2",
@@ -483,6 +483,26 @@
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
           "lastSyncedAt": "2026-09-24T11:57:28.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1513",
+      "title": "Number of Substrings With Only 1s",
+      "slug": "number-of-substrings-with-only-1s",
+      "problemName": "1513-number-of-substrings-with-only-1s",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+      "folderPath": "1513-number-of-substrings-with-only-1s/",
+      "readmePath": "1513-number-of-substrings-with-only-1s/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1513-number-of-substrings-with-only-1s.c",
+          "path": "1513-number-of-substrings-with-only-1s/1513-number-of-substrings-with-only-1s.c",
+          "sha": "a7e5de4e45aaddffad07e85305962124c9f7768e",
+          "lastSyncedAt": "2026-09-24T12:40:41.135Z"
         }
       ]
     },
