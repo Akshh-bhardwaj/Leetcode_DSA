@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:45:44.710Z",
+  "updatedAt": "2026-09-24T12:46:03.780Z",
   "problems": [
     {
       "frontendId": "1",
@@ -691,6 +691,26 @@
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.c",
           "sha": "0d1fcf7f64b43105a6ee35634bd50c67fc52a9c5",
           "lastSyncedAt": "2026-09-24T12:04:13.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1733",
+      "title": "Minimum Number of People to Teach",
+      "slug": "minimum-number-of-people-to-teach",
+      "problemName": "1733-minimum-number-of-people-to-teach",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-people-to-teach/",
+      "folderPath": "1733-minimum-number-of-people-to-teach/",
+      "readmePath": "1733-minimum-number-of-people-to-teach/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1733-minimum-number-of-people-to-teach.c",
+          "path": "1733-minimum-number-of-people-to-teach/1733-minimum-number-of-people-to-teach.c",
+          "sha": "ae0c9a8d7eed15a4cb112e79b9d741f122018166",
+          "lastSyncedAt": "2026-09-24T12:46:03.780Z"
         }
       ]
     },
