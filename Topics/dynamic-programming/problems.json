@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:48:22.072Z",
+  "updatedAt": "2026-09-24T17:48:35.756Z",
   "problems": [
     {
       "frontendId": "5",
@@ -422,7 +422,7 @@
           "filename": "1320-minimum-distance-to-type-a-word-using-two-fingers.c",
           "path": "1320-minimum-distance-to-type-a-word-using-two-fingers/1320-minimum-distance-to-type-a-word-using-two-fingers.c",
           "sha": "30fd0d1b8f664483bd615d76b5d40f720efb5988",
-          "lastSyncedAt": "2026-09-24T12:09:46.399Z"
+          "lastSyncedAt": "2026-09-24T17:48:35.756Z"
         }
       ]
     },
