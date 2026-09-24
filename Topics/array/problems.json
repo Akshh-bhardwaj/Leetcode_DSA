@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T11:49:26.551Z",
+  "updatedAt": "2026-09-24T11:50:08.303Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1102,7 +1102,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "583cde1ef0ff60f730e339bd2c33d5c1e00aa156",
-          "lastSyncedAt": "2026-09-24T08:45:24.992Z"
+          "lastSyncedAt": "2026-09-24T11:50:08.303Z"
         }
       ]
     },
