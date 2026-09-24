@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:11:35.571Z",
+  "updatedAt": "2026-09-24T12:12:12.770Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1267,6 +1267,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.c",
           "sha": "fd08231ac38781c866056f58d80c9d281bc80f56",
           "lastSyncedAt": "2026-09-24T12:04:36.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "2573-find-the-string-with-lcp/",
+      "readmePath": "2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2573-find-the-string-with-lcp.c",
+          "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
+          "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
+          "lastSyncedAt": "2026-09-24T12:12:12.770Z"
         }
       ]
     },
