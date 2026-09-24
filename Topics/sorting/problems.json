@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:35:46.311Z",
+  "updatedAt": "2026-09-24T12:36:00.310Z",
   "problems": [
     {
       "frontendId": "49",
@@ -791,6 +791,26 @@
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
           "lastSyncedAt": "2026-09-24T11:52:28.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3433",
+      "title": "Count Mentions Per User",
+      "slug": "count-mentions-per-user",
+      "problemName": "3433-count-mentions-per-user",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-mentions-per-user/",
+      "folderPath": "3433-count-mentions-per-user/",
+      "readmePath": "3433-count-mentions-per-user/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3433-count-mentions-per-user.c",
+          "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.c",
+          "sha": "7dd7490f207f61510dfd249a4520365b6a871a04",
+          "lastSyncedAt": "2026-09-24T12:36:00.310Z"
         }
       ]
     },
