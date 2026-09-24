@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:11:00.554Z",
+  "updatedAt": "2026-09-24T12:11:35.571Z",
   "problems": [
     {
       "frontendId": "412",
@@ -203,6 +203,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.c",
           "sha": "fd08231ac38781c866056f58d80c9d281bc80f56",
           "lastSyncedAt": "2026-09-24T12:04:36.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "problemName": "2751-robot-collisions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+      "folderPath": "2751-robot-collisions/",
+      "readmePath": "2751-robot-collisions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2751-robot-collisions.c",
+          "path": "2751-robot-collisions/2751-robot-collisions.c",
+          "sha": "297389755392144fc6e78aca055530e73ee24b3e",
+          "lastSyncedAt": "2026-09-24T12:11:35.571Z"
         }
       ]
     },
