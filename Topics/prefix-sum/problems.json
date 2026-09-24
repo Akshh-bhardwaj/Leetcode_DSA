@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:13:24.563Z",
+  "updatedAt": "2026-09-24T12:14:25.645Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -219,6 +219,26 @@
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
           "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
           "lastSyncedAt": "2026-09-24T12:13:24.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3212",
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "problemName": "3212-count-submatrices-with-equal-frequency-of-x-and-y",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+      "folderPath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/",
+      "readmePath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
+          "path": "3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
+          "sha": "570c062bf9360c63af28700ae6d7b360cc8e3abb",
+          "lastSyncedAt": "2026-09-24T12:14:25.645Z"
         }
       ]
     },
