@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:34:19.266Z",
+  "updatedAt": "2026-09-24T17:34:26.060Z",
   "problems": [
     {
       "frontendId": "1",
@@ -290,7 +290,7 @@
           "filename": "0053-maximum-subarray.java",
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "0f99a7ac8ddc940c24ecae2a648c89315e35968b",
-          "lastSyncedAt": "2026-09-24T11:55:24.417Z"
+          "lastSyncedAt": "2026-09-24T17:34:26.060Z"
         }
       ]
     },
