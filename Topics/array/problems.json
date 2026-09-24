@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:49:36.504Z",
+  "updatedAt": "2026-09-24T18:49:44.787Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2010,7 +2010,7 @@
           "filename": "1848-minimum-distance-to-the-target-element.c",
           "path": "1848-minimum-distance-to-the-target-element/1848-minimum-distance-to-the-target-element.c",
           "sha": "e3b0a60c19f4d43ca682ccbe283949eb9c86dd56",
-          "lastSyncedAt": "2026-09-24T17:48:31.687Z"
+          "lastSyncedAt": "2026-09-24T18:49:44.787Z"
         }
       ]
     },
