@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:37:24.815Z",
+  "updatedAt": "2026-09-24T12:38:39.048Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -63,6 +63,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "cf858651ec7c99a086a844d05aa69435705bdb49",
           "lastSyncedAt": "2026-09-24T11:56:02.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "problemName": "1590-make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+      "folderPath": "1590-make-sum-divisible-by-p/",
+      "readmePath": "1590-make-sum-divisible-by-p/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1590-make-sum-divisible-by-p.c",
+          "path": "1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.c",
+          "sha": "87500f84cf22f01e8cc7872a7eb93e006e60e767",
+          "lastSyncedAt": "2026-09-24T12:38:39.048Z"
         }
       ]
     },
