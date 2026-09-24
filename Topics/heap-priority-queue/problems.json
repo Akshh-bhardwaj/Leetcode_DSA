@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T17:29:57.847Z",
+  "updatedAt": "2026-09-24T17:30:15.113Z",
   "problems": [
     {
       "frontendId": "215",
@@ -82,7 +82,7 @@
           "filename": "0502-ipo.java",
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
-          "lastSyncedAt": "2026-09-24T11:52:08.943Z"
+          "lastSyncedAt": "2026-09-24T17:30:15.113Z"
         }
       ]
     },
