@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T18:30:50.768Z",
+  "updatedAt": "2026-09-24T18:37:29.475Z",
   "problems": [
     {
       "frontendId": "2",
@@ -122,7 +122,7 @@
           "filename": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
           "path": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
           "sha": "707c262f3718a41126da1805d2767340aa7a2270",
-          "lastSyncedAt": "2026-09-24T17:35:37.968Z"
+          "lastSyncedAt": "2026-09-24T18:37:29.475Z"
         }
       ]
     },
