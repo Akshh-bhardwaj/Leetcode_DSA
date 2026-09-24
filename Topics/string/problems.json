@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:48:55.791Z",
+  "updatedAt": "2026-09-24T12:49:41.193Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
           "lastSyncedAt": "2026-09-24T11:56:20.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0008-string-to-integer-atoi.c",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.c",
+          "sha": "21d552c5d096094a27e87f7d4d738c70a39041bb",
+          "lastSyncedAt": "2026-09-24T12:49:41.193Z"
         }
       ]
     },
