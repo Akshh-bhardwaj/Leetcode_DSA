@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-24T12:26:11.487Z",
+  "updatedAt": "2026-09-24T12:27:08.956Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,6 +23,26 @@
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.java",
           "sha": "eb5b6710584094be3aa372df06d982e9ff9fa3c3",
           "lastSyncedAt": "2026-09-24T11:52:23.985Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "problemName": "1266-minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+      "folderPath": "1266-minimum-time-visiting-all-points/",
+      "readmePath": "1266-minimum-time-visiting-all-points/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1266-minimum-time-visiting-all-points.c",
+          "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.c",
+          "sha": "fab4cb8480f331dd894c7bd6b973ef0803d89199",
+          "lastSyncedAt": "2026-09-24T12:27:08.956Z"
         }
       ]
     },
