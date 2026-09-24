@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:30:46.803Z",
+  "updatedAt": "2026-09-24T12:31:32.054Z",
   "problems": [
     {
       "frontendId": "3",
@@ -631,6 +631,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "fb74d634db3c82db7115f03c630db27c638028ce",
           "lastSyncedAt": "2026-09-24T11:53:51.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "960",
+      "title": "Delete Columns to Make Sorted III",
+      "slug": "delete-columns-to-make-sorted-iii",
+      "problemName": "0960-delete-columns-to-make-sorted-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii/",
+      "folderPath": "0960-delete-columns-to-make-sorted-iii/",
+      "readmePath": "0960-delete-columns-to-make-sorted-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0960-delete-columns-to-make-sorted-iii.c",
+          "path": "0960-delete-columns-to-make-sorted-iii/0960-delete-columns-to-make-sorted-iii.c",
+          "sha": "8410e8a4805204417e5db5d6f1e434e3ac20dcd8",
+          "lastSyncedAt": "2026-09-24T12:31:32.054Z"
         }
       ]
     },
