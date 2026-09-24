@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:06:15.551Z",
+  "updatedAt": "2026-09-24T18:06:22.893Z",
   "problems": [
     {
       "frontendId": "1",
@@ -750,7 +750,7 @@
           "filename": "0636-exclusive-time-of-functions.c",
           "path": "0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.c",
           "sha": "c3e0af2620626f2f0aa2ca8619fe2d4b05878b37",
-          "lastSyncedAt": "2026-09-24T12:33:54.411Z"
+          "lastSyncedAt": "2026-09-24T18:06:22.893Z"
         }
       ]
     },
