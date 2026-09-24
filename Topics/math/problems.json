@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T17:46:54.429Z",
+  "updatedAt": "2026-09-24T17:47:53.099Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1398,7 +1398,7 @@
           "filename": "3783-mirror-distance-of-an-integer.c",
           "path": "3783-mirror-distance-of-an-integer/3783-mirror-distance-of-an-integer.c",
           "sha": "18e7bd0786301a20572e3ef7764f5c2ccf5333c0",
-          "lastSyncedAt": "2026-09-24T12:08:48.765Z"
+          "lastSyncedAt": "2026-09-24T17:47:53.099Z"
         }
       ]
     },
