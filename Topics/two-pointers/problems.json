@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T18:46:41.478Z",
+  "updatedAt": "2026-09-24T18:46:49.326Z",
   "problems": [
     {
       "frontendId": "5",
@@ -202,7 +202,7 @@
           "filename": "0061-rotate-list.c",
           "path": "0061-rotate-list/0061-rotate-list.c",
           "sha": "b3904676d4cea97fa9e8855296bcf1cbd634babb",
-          "lastSyncedAt": "2026-09-24T17:45:34.169Z"
+          "lastSyncedAt": "2026-09-24T18:46:49.326Z"
         }
       ]
     },
