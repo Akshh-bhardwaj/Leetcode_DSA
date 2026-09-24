@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:47:38.939Z",
+  "updatedAt": "2026-09-24T17:47:45.820Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2030,7 +2030,7 @@
           "filename": "1855-maximum-distance-between-a-pair-of-values.c",
           "path": "1855-maximum-distance-between-a-pair-of-values/1855-maximum-distance-between-a-pair-of-values.c",
           "sha": "a7dd3eb157e41cdfa74aa2e68393937cbd6e26a1",
-          "lastSyncedAt": "2026-09-24T12:08:39.301Z"
+          "lastSyncedAt": "2026-09-24T17:47:45.820Z"
         }
       ]
     },
