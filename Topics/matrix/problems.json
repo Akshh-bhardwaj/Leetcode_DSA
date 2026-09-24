@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:06:43.261Z",
+  "updatedAt": "2026-09-24T12:06:55.134Z",
   "problems": [
     {
       "frontendId": "48",
@@ -83,6 +83,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
           "lastSyncedAt": "2026-09-24T11:52:37.356Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1391",
+      "title": "Check if There is a Valid Path in a Grid",
+      "slug": "check-if-there-is-a-valid-path-in-a-grid",
+      "problemName": "1391-check-if-there-is-a-valid-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
+      "folderPath": "1391-check-if-there-is-a-valid-path-in-a-grid/",
+      "readmePath": "1391-check-if-there-is-a-valid-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1391-check-if-there-is-a-valid-path-in-a-grid.c",
+          "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
+          "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
+          "lastSyncedAt": "2026-09-24T12:06:55.134Z"
         }
       ]
     },
