@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:17:24.453Z",
+  "updatedAt": "2026-09-24T18:17:33.248Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0012-integer-to-roman.c",
           "path": "0012-integer-to-roman/0012-integer-to-roman.c",
           "sha": "f85b04ea1e33c2d395a01424f01fd1d526a1344c",
-          "lastSyncedAt": "2026-09-24T12:48:55.791Z"
+          "lastSyncedAt": "2026-09-24T18:17:33.248Z"
         }
       ]
     },
