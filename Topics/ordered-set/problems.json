@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-09-24T12:24:46.538Z",
+  "updatedAt": "2026-09-24T12:25:08.604Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -51,6 +51,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.c",
           "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
           "lastSyncedAt": "2026-09-24T08:45:43.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "problemName": "3507-minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+      "folderPath": "3507-minimum-pair-removal-to-sort-array-i/",
+      "readmePath": "3507-minimum-pair-removal-to-sort-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3507-minimum-pair-removal-to-sort-array-i.c",
+          "path": "3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.c",
+          "sha": "6b6c2c5f913f87a30f392fdf796bfc79f5c48ac1",
+          "lastSyncedAt": "2026-09-24T12:25:08.604Z"
         }
       ]
     },
