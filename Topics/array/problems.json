@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:33:42.371Z",
+  "updatedAt": "2026-09-24T12:33:54.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -471,6 +471,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
           "lastSyncedAt": "2026-09-24T11:52:08.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "636",
+      "title": "Exclusive Time of Functions",
+      "slug": "exclusive-time-of-functions",
+      "problemName": "0636-exclusive-time-of-functions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+      "folderPath": "0636-exclusive-time-of-functions/",
+      "readmePath": "0636-exclusive-time-of-functions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0636-exclusive-time-of-functions.c",
+          "path": "0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.c",
+          "sha": "c3e0af2620626f2f0aa2ca8619fe2d4b05878b37",
+          "lastSyncedAt": "2026-09-24T12:33:54.411Z"
         }
       ]
     },
