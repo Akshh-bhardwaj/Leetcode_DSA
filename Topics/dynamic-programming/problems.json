@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:27:36.046Z",
+  "updatedAt": "2026-09-24T12:28:13.701Z",
   "problems": [
     {
       "frontendId": "53",
@@ -283,6 +283,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.java",
           "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
           "lastSyncedAt": "2026-09-24T11:58:33.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1458",
+      "title": "Max Dot Product of Two Subsequences",
+      "slug": "max-dot-product-of-two-subsequences",
+      "problemName": "1458-max-dot-product-of-two-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/",
+      "folderPath": "1458-max-dot-product-of-two-subsequences/",
+      "readmePath": "1458-max-dot-product-of-two-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1458-max-dot-product-of-two-subsequences.c",
+          "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.c",
+          "sha": "a5c3677242ff4c9e1bf7d853a3082733b555f880",
+          "lastSyncedAt": "2026-09-24T12:28:13.701Z"
         }
       ]
     },
