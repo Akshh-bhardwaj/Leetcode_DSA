@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:52:49.356Z",
+  "updatedAt": "2026-09-24T18:52:57.166Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3234,7 +3234,7 @@
           "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
-          "lastSyncedAt": "2026-09-24T17:52:01.664Z"
+          "lastSyncedAt": "2026-09-24T18:52:57.166Z"
         }
       ]
     },
