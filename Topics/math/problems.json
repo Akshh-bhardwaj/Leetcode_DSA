@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:14:11.622Z",
+  "updatedAt": "2026-09-24T18:14:45.325Z",
   "problems": [
     {
       "frontendId": "2",
@@ -922,7 +922,7 @@
           "filename": "3227-vowels-game-in-a-string.c",
           "path": "3227-vowels-game-in-a-string/3227-vowels-game-in-a-string.c",
           "sha": "595bedbc0bfb1737b44df3cd5ae4cea338006ab2",
-          "lastSyncedAt": "2026-09-24T12:44:52.992Z"
+          "lastSyncedAt": "2026-09-24T18:14:45.325Z"
         }
       ]
     },
