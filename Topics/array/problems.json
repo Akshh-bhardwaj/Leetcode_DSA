@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:46:00.494Z",
+  "updatedAt": "2026-09-24T17:46:08.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4538,7 +4538,7 @@
           "filename": "3742-maximum-path-score-in-a-grid.c",
           "path": "3742-maximum-path-score-in-a-grid/3742-maximum-path-score-in-a-grid.c",
           "sha": "9849e357eefe1614d2ec7df5aec47b9801e74c1d",
-          "lastSyncedAt": "2026-09-24T12:06:21.827Z"
+          "lastSyncedAt": "2026-09-24T17:46:08.411Z"
         }
       ]
     },
