@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:00:48.295Z",
+  "updatedAt": "2026-09-24T18:00:56.103Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3054,7 +3054,7 @@
           "filename": "2975-maximum-square-area-by-removing-fences-from-a-field.c",
           "path": "2975-maximum-square-area-by-removing-fences-from-a-field/2975-maximum-square-area-by-removing-fences-from-a-field.c",
           "sha": "0571e9bd6012469843a813ebc08c5e9e796439e1",
-          "lastSyncedAt": "2026-09-24T12:26:23.010Z"
+          "lastSyncedAt": "2026-09-24T18:00:56.103Z"
         }
       ]
     },
