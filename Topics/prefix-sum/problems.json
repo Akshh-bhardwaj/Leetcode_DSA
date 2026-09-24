@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:12:51.968Z",
+  "updatedAt": "2026-09-24T12:13:09.843Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -219,6 +219,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.c",
           "sha": "0110c000a0036654f74df32d8156145eed0e7853",
           "lastSyncedAt": "2026-09-24T12:06:32.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "problemName": "3546-equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "folderPath": "3546-equal-sum-grid-partition-i/",
+      "readmePath": "3546-equal-sum-grid-partition-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3546-equal-sum-grid-partition-i.c",
+          "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.c",
+          "sha": "36cefbb388c010d95b21be002a9a54d7a7a6a785",
+          "lastSyncedAt": "2026-09-24T12:13:09.843Z"
         }
       ]
     },
