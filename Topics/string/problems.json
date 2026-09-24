@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:46:53.768Z",
+  "updatedAt": "2026-09-24T08:47:12.119Z",
   "problems": [
     {
       "frontendId": "3",
@@ -611,6 +611,26 @@
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
           "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
           "lastSyncedAt": "2026-09-24T08:46:31.648Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "problemName": "3120-count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "folderPath": "3120-count-the-number-of-special-characters-i/",
+      "readmePath": "3120-count-the-number-of-special-characters-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3120-count-the-number-of-special-characters-i.c",
+          "path": "3120-count-the-number-of-special-characters-i/3120-count-the-number-of-special-characters-i.c",
+          "sha": "1fb99dc6362c27a97fd6edaa48bcd517de581e20",
+          "lastSyncedAt": "2026-09-24T08:47:12.119Z"
         }
       ]
     },
