@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:41:31.398Z",
+  "updatedAt": "2026-09-24T12:41:44.917Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2843,6 +2843,26 @@
           "path": "3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
           "sha": "570c062bf9360c63af28700ae6d7b360cc8e3abb",
           "lastSyncedAt": "2026-09-24T12:14:25.645Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "problemName": "3217-delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "folderPath": "3217-delete-nodes-from-linked-list-present-in-array/",
+      "readmePath": "3217-delete-nodes-from-linked-list-present-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3217-delete-nodes-from-linked-list-present-in-array.c",
+          "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.c",
+          "sha": "bb1261d3c5508dac171a28d86601c4b57d041a72",
+          "lastSyncedAt": "2026-09-24T12:41:44.917Z"
         }
       ]
     },
