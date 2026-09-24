@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:51:55.194Z",
+  "updatedAt": "2026-09-24T07:52:13.569Z",
   "problems": [
     {
       "frontendId": "14",
@@ -83,6 +83,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
           "lastSyncedAt": "2026-09-24T07:50:35.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0217-contains-duplicate.java",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.java",
+          "sha": "86bc0540cc1a82be1340e35a1f8591e8f73e7f72",
+          "lastSyncedAt": "2026-09-24T07:52:13.569Z"
         }
       ]
     },
