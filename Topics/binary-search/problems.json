@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T12:15:50.774Z",
+  "updatedAt": "2026-09-24T12:16:06.371Z",
   "problems": [
     {
       "frontendId": "33",
@@ -319,6 +319,26 @@
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
           "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
           "lastSyncedAt": "2026-09-24T12:09:05.942Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3600",
+      "title": "Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "problemName": "3600-maximize-spanning-tree-stability-with-upgrades",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "folderPath": "3600-maximize-spanning-tree-stability-with-upgrades/",
+      "readmePath": "3600-maximize-spanning-tree-stability-with-upgrades/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3600-maximize-spanning-tree-stability-with-upgrades.c",
+          "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.c",
+          "sha": "017d65e5f890b8de404bd6fae2c146037c70cd27",
+          "lastSyncedAt": "2026-09-24T12:16:06.371Z"
         }
       ]
     },
