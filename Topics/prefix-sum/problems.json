@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T08:37:49.250Z",
+  "updatedAt": "2026-09-24T08:40:00.737Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -83,6 +83,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
           "lastSyncedAt": "2026-09-24T08:27:58.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1732-find-the-highest-altitude.java",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
+          "sha": "bbe0baee5be86aa096bb2cc86a725636811f717e",
+          "lastSyncedAt": "2026-09-24T08:40:00.737Z"
         }
       ]
     },
