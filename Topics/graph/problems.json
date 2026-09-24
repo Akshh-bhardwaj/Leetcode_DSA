@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-24T17:58:51.665Z",
+  "updatedAt": "2026-09-24T17:59:09.894Z",
   "problems": [
     {
       "frontendId": "547",
@@ -142,7 +142,7 @@
           "filename": "3650-minimum-cost-path-with-edge-reversals.c",
           "path": "3650-minimum-cost-path-with-edge-reversals/3650-minimum-cost-path-with-edge-reversals.c",
           "sha": "07b5bd3b1f9abd3306941f80cda661889df15923",
-          "lastSyncedAt": "2026-09-24T12:23:59.391Z"
+          "lastSyncedAt": "2026-09-24T17:59:09.894Z"
         }
       ]
     }
