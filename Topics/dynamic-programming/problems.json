@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T08:47:32.493Z",
+  "updatedAt": "2026-09-24T08:47:55.209Z",
   "problems": [
     {
       "frontendId": "53",
@@ -123,6 +123,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
           "lastSyncedAt": "2026-09-24T08:37:49.250Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1340",
+      "title": "Jump Game V",
+      "slug": "jump-game-v",
+      "problemName": "1340-jump-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-v/",
+      "folderPath": "1340-jump-game-v/",
+      "readmePath": "1340-jump-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1340-jump-game-v.c",
+          "path": "1340-jump-game-v/1340-jump-game-v.c",
+          "sha": "3012fb885c7447592893758d4d52b923901416e9",
+          "lastSyncedAt": "2026-09-24T08:47:55.209Z"
         }
       ]
     },
