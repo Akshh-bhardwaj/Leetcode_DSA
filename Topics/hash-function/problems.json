@@ -4,7 +4,7 @@
     "slug": "hash-function",
     "name": "Hash Function"
   },
-  "updatedAt": "2026-09-24T17:55:18.199Z",
+  "updatedAt": "2026-09-24T18:56:01.556Z",
   "problems": [
     {
       "frontendId": "1461",
@@ -22,7 +22,7 @@
           "filename": "1461-check-if-a-string-contains-all-binary-codes-of-size-k.c",
           "path": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k.c",
           "sha": "9e130dd20c8ba42fa20a9c3f0688cc4b28715ccc",
-          "lastSyncedAt": "2026-09-24T17:55:18.199Z"
+          "lastSyncedAt": "2026-09-24T18:56:01.556Z"
         }
       ]
     }
