@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:05:46.096Z",
+  "updatedAt": "2026-09-24T12:06:04.243Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,6 +143,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "f861e2cfc6198d509d1cbc74ecb3ce6d613a396f",
           "lastSyncedAt": "2026-09-24T11:57:13.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "788",
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "problemName": "0788-rotated-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+      "folderPath": "0788-rotated-digits/",
+      "readmePath": "0788-rotated-digits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0788-rotated-digits.c",
+          "path": "0788-rotated-digits/0788-rotated-digits.c",
+          "sha": "a51d847dbf8b865e50cc1dc7f01dc983f74f0868",
+          "lastSyncedAt": "2026-09-24T12:06:04.243Z"
         }
       ]
     },
