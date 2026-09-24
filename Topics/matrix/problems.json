@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:12:12.770Z",
+  "updatedAt": "2026-09-24T12:12:32.036Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
           "lastSyncedAt": "2026-09-24T12:12:12.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.c",
+          "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.c",
+          "sha": "94ff444e63ddfe2cd392f15dde34b4caf60bb267",
+          "lastSyncedAt": "2026-09-24T12:12:32.036Z"
         }
       ]
     },
