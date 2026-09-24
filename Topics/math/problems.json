@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:46:54.315Z",
+  "updatedAt": "2026-09-24T18:47:08.844Z",
   "problems": [
     {
       "frontendId": "2",
@@ -322,7 +322,7 @@
           "filename": "0788-rotated-digits.c",
           "path": "0788-rotated-digits/0788-rotated-digits.c",
           "sha": "a51d847dbf8b865e50cc1dc7f01dc983f74f0868",
-          "lastSyncedAt": "2026-09-24T17:45:54.935Z"
+          "lastSyncedAt": "2026-09-24T18:47:08.844Z"
         }
       ]
     },
