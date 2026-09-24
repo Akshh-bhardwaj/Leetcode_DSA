@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T17:53:30.715Z",
+  "updatedAt": "2026-09-24T17:56:23.811Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -638,7 +638,7 @@
           "filename": "3714-longest-balanced-substring-ii.c",
           "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.c",
           "sha": "c40f21d9dabb9bd7f686299db2f6f83882324c56",
-          "lastSyncedAt": "2026-09-24T12:20:29.797Z"
+          "lastSyncedAt": "2026-09-24T17:56:23.811Z"
         }
       ]
     },
