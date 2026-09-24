@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T17:46:37.402Z",
+  "updatedAt": "2026-09-24T17:47:31.415Z",
   "problems": [
     {
       "frontendId": "110",
@@ -222,7 +222,7 @@
           "filename": "1722-minimize-hamming-distance-after-swap-operations.c",
           "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.c",
           "sha": "c3455776d414c49a0eb371a3e9bbd2dd8ea3f2f8",
-          "lastSyncedAt": "2026-09-24T12:08:18.210Z"
+          "lastSyncedAt": "2026-09-24T17:47:31.415Z"
         }
       ]
     },
