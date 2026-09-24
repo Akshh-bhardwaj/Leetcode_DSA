@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:53:04.626Z",
+  "updatedAt": "2026-09-24T07:53:11.286Z",
   "problems": [
     {
       "frontendId": "14",
@@ -323,6 +323,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
           "lastSyncedAt": "2026-09-24T07:49:17.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.java",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
+          "sha": "f19ac2e2d33ff124bc8efda7d0f65c96be263ac1",
+          "lastSyncedAt": "2026-09-24T07:53:11.286Z"
         }
       ]
     },
