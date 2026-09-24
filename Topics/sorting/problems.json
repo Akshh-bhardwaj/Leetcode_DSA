@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:02:37.794Z",
+  "updatedAt": "2026-09-24T12:04:01.037Z",
   "problems": [
     {
       "frontendId": "49",
@@ -291,6 +291,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.c",
           "sha": "9957dc7867dc809efc149acc2e68379da1f9e750",
           "lastSyncedAt": "2026-09-24T08:45:11.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "2784-check-if-array-is-good/",
+      "readmePath": "2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2784-check-if-array-is-good.c",
+          "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
+          "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
+          "lastSyncedAt": "2026-09-24T12:04:01.037Z"
         }
       ]
     },
