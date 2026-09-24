@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:31:16.758Z",
+  "updatedAt": "2026-09-24T12:32:28.444Z",
   "problems": [
     {
       "frontendId": "49",
@@ -443,6 +443,26 @@
           "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.c",
           "sha": "483542d8c1229e8ff60fa94bfe1c98965285bd28",
           "lastSyncedAt": "2026-09-24T12:31:16.758Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2092",
+      "title": "Find All People With Secret",
+      "slug": "find-all-people-with-secret",
+      "problemName": "2092-find-all-people-with-secret",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-people-with-secret/",
+      "folderPath": "2092-find-all-people-with-secret/",
+      "readmePath": "2092-find-all-people-with-secret/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2092-find-all-people-with-secret.c",
+          "path": "2092-find-all-people-with-secret/2092-find-all-people-with-secret.c",
+          "sha": "06e8cf29992600691e78bb1ea2670db4ab8608e7",
+          "lastSyncedAt": "2026-09-24T12:32:28.444Z"
         }
       ]
     },
