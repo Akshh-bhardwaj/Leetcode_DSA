@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:20:54.190Z",
+  "updatedAt": "2026-09-24T12:21:10.008Z",
   "problems": [
     {
       "frontendId": "1",
@@ -851,6 +851,26 @@
           "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.c",
           "sha": "c40f21d9dabb9bd7f686299db2f6f83882324c56",
           "lastSyncedAt": "2026-09-24T12:20:29.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3719-longest-balanced-subarray-i.c",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.c",
+          "sha": "774c7813ecbbf727faf5331d190f87791189bd41",
+          "lastSyncedAt": "2026-09-24T12:21:10.008Z"
         }
       ]
     },
