@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T08:30:09.993Z",
+  "updatedAt": "2026-09-24T08:38:11.984Z",
   "problems": [
     {
       "frontendId": "502",
@@ -122,7 +122,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.java",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
           "sha": "203be90f3da02c9a9969b684b270a550c8775481",
-          "lastSyncedAt": "2026-09-24T08:24:53.141Z"
+          "lastSyncedAt": "2026-09-24T08:38:11.984Z"
         }
       ]
     },
