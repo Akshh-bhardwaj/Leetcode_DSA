@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T08:26:56.448Z",
+  "updatedAt": "2026-09-24T08:28:53.133Z",
   "problems": [
     {
       "frontendId": "502",
@@ -42,7 +42,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.java",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
-          "lastSyncedAt": "2026-09-24T08:15:32.194Z"
+          "lastSyncedAt": "2026-09-24T08:28:53.133Z"
         }
       ]
     },
