@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T17:57:26.894Z",
+  "updatedAt": "2026-09-24T18:01:56.891Z",
   "problems": [
     {
       "frontendId": "110",
@@ -62,7 +62,7 @@
           "filename": "0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "sha": "9cf2e83a3953a0b5dde754c3208b9a6e0b347fae",
-          "lastSyncedAt": "2026-09-24T12:27:47.346Z"
+          "lastSyncedAt": "2026-09-24T18:01:56.891Z"
         }
       ]
     },
