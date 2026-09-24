@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:39:46.799Z",
+  "updatedAt": "2026-09-24T12:40:11.759Z",
   "problems": [
     {
       "frontendId": "1",
@@ -651,6 +651,26 @@
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
           "sha": "48c72429044eef67081377787de57496d6e1fe5c",
           "lastSyncedAt": "2026-09-24T12:16:45.914Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2154-keep-multiplying-found-values-by-two.c",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.c",
+          "sha": "802f80c296932ef83bba28ea4d3a5644c123a508",
+          "lastSyncedAt": "2026-09-24T12:40:11.759Z"
         }
       ]
     },
