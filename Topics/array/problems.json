@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:35:46.311Z",
+  "updatedAt": "2026-09-24T12:36:00.310Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2771,6 +2771,26 @@
           "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.c",
           "sha": "b15ecbeed9da3f19d4db7a731f8da2a64478b217",
           "lastSyncedAt": "2026-09-24T12:11:23.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3433",
+      "title": "Count Mentions Per User",
+      "slug": "count-mentions-per-user",
+      "problemName": "3433-count-mentions-per-user",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-mentions-per-user/",
+      "folderPath": "3433-count-mentions-per-user/",
+      "readmePath": "3433-count-mentions-per-user/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3433-count-mentions-per-user.c",
+          "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.c",
+          "sha": "7dd7490f207f61510dfd249a4520365b6a871a04",
+          "lastSyncedAt": "2026-09-24T12:36:00.310Z"
         }
       ]
     },
