@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:11:23.717Z",
+  "updatedAt": "2026-09-24T12:11:35.571Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1335,6 +1335,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
           "lastSyncedAt": "2026-09-24T12:03:04.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "problemName": "2751-robot-collisions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+      "folderPath": "2751-robot-collisions/",
+      "readmePath": "2751-robot-collisions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2751-robot-collisions.c",
+          "path": "2751-robot-collisions/2751-robot-collisions.c",
+          "sha": "297389755392144fc6e78aca055530e73ee24b3e",
+          "lastSyncedAt": "2026-09-24T12:11:35.571Z"
         }
       ]
     },
