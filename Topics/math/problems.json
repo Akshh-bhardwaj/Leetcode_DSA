@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T07:51:36.807Z",
+  "updatedAt": "2026-09-24T07:51:42.708Z",
   "problems": [
     {
       "frontendId": "9",
@@ -23,6 +23,26 @@
           "path": "0009-palindrome-number/0009-palindrome-number.java",
           "sha": "a483dee2e8c9ed279910e0bdf201ffc99a6c3e3a",
           "lastSyncedAt": "2026-09-24T07:45:24.569Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0050-powx-n.java",
+          "path": "0050-powx-n/0050-powx-n.java",
+          "sha": "c400ff4691ce4e8c6369b01b89029a9d207b53bb",
+          "lastSyncedAt": "2026-09-24T07:51:42.708Z"
         }
       ]
     },
