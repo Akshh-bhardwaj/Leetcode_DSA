@@ -4,7 +4,7 @@
     "slug": "sprague-grundy-theorem",
     "name": "Sprague–Grundy Theorem"
   },
-  "updatedAt": "2026-09-24T08:37:26.524Z",
+  "updatedAt": "2026-09-24T11:57:28.724Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -22,7 +22,7 @@
           "filename": "1510-stone-game-iv.java",
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
-          "lastSyncedAt": "2026-09-24T08:37:26.524Z"
+          "lastSyncedAt": "2026-09-24T11:57:28.724Z"
         }
       ]
     }
