@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:01:05.164Z",
+  "updatedAt": "2026-09-24T18:03:58.435Z",
   "problems": [
     {
       "frontendId": "15",
@@ -750,7 +750,7 @@
           "filename": "2402-meeting-rooms-iii.c",
           "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.c",
           "sha": "96f81662c7954e028f9bc1c65e080438754cf93d",
-          "lastSyncedAt": "2026-09-24T12:30:31.013Z"
+          "lastSyncedAt": "2026-09-24T18:03:58.435Z"
         }
       ]
     },
