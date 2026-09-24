@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:08:55.039Z",
+  "updatedAt": "2026-09-24T12:09:05.942Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1531,6 +1531,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "335cde772b0f676f4ae3470451ef20b555406378",
           "lastSyncedAt": "2026-09-24T11:52:42.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3488",
+      "title": "Closest Equal Element Queries",
+      "slug": "closest-equal-element-queries",
+      "problemName": "3488-closest-equal-element-queries",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
+      "folderPath": "3488-closest-equal-element-queries/",
+      "readmePath": "3488-closest-equal-element-queries/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3488-closest-equal-element-queries.c",
+          "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
+          "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
+          "lastSyncedAt": "2026-09-24T12:09:05.942Z"
         }
       ]
     },
