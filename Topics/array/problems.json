@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:34:02.666Z",
+  "updatedAt": "2026-09-24T12:34:12.505Z",
   "problems": [
     {
       "frontendId": "1",
@@ -991,6 +991,26 @@
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
           "sha": "f19ac2e2d33ff124bc8efda7d0f65c96be263ac1",
           "lastSyncedAt": "2026-09-24T11:55:48.479Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "problemName": "1441-build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+      "folderPath": "1441-build-an-array-with-stack-operations/",
+      "readmePath": "1441-build-an-array-with-stack-operations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1441-build-an-array-with-stack-operations.c",
+          "path": "1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.c",
+          "sha": "5c093ba87bcd6dfe2c9321b30b68eeaab4d0ff6e",
+          "lastSyncedAt": "2026-09-24T12:34:12.505Z"
         }
       ]
     },
