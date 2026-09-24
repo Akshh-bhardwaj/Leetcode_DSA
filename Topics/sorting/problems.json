@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:56:24.605Z",
+  "updatedAt": "2026-09-24T18:58:12.577Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1130,7 +1130,7 @@
           "filename": "3634-minimum-removals-to-balance-array.c",
           "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.c",
           "sha": "22cbbf166a806689d47c86d01e199b9b07c236e2",
-          "lastSyncedAt": "2026-09-24T17:57:43.910Z"
+          "lastSyncedAt": "2026-09-24T18:58:12.577Z"
         }
       ]
     },
