@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:17:01.238Z",
+  "updatedAt": "2026-09-24T12:22:01.791Z",
   "problems": [
     {
       "frontendId": "3",
@@ -211,6 +211,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "1a2a63ec9a703358a13e1d81e988d048c9635293",
           "lastSyncedAt": "2026-09-24T11:56:49.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3634",
+      "title": "Minimum Removals to Balance Array",
+      "slug": "minimum-removals-to-balance-array",
+      "problemName": "3634-minimum-removals-to-balance-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+      "folderPath": "3634-minimum-removals-to-balance-array/",
+      "readmePath": "3634-minimum-removals-to-balance-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3634-minimum-removals-to-balance-array.c",
+          "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.c",
+          "sha": "22cbbf166a806689d47c86d01e199b9b07c236e2",
+          "lastSyncedAt": "2026-09-24T12:22:01.791Z"
         }
       ]
     }
