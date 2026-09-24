@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T18:53:59.233Z",
+  "updatedAt": "2026-09-24T18:58:12.577Z",
   "problems": [
     {
       "frontendId": "4",
@@ -618,7 +618,7 @@
           "filename": "3634-minimum-removals-to-balance-array.c",
           "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.c",
           "sha": "22cbbf166a806689d47c86d01e199b9b07c236e2",
-          "lastSyncedAt": "2026-09-24T17:57:43.910Z"
+          "lastSyncedAt": "2026-09-24T18:58:12.577Z"
         }
       ]
     },
