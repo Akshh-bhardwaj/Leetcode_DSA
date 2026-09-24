@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T18:47:32.803Z",
+  "updatedAt": "2026-09-24T18:49:36.504Z",
   "problems": [
     {
       "frontendId": "5",
@@ -790,7 +790,7 @@
           "filename": "2463-minimum-total-distance-traveled.c",
           "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.c",
           "sha": "5a46a5ec6438256dadacca5b38f66acc480427a2",
-          "lastSyncedAt": "2026-09-24T17:48:22.072Z"
+          "lastSyncedAt": "2026-09-24T18:49:36.504Z"
         }
       ]
     },
