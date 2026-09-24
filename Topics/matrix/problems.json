@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:13:59.055Z",
+  "updatedAt": "2026-09-24T12:14:12.135Z",
   "problems": [
     {
       "frontendId": "48",
@@ -383,6 +383,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.c",
           "sha": "dd7b2892ea7ac84fb325751fc5571af27bd6e587",
           "lastSyncedAt": "2026-09-24T12:12:51.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3567",
+      "title": "Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "problemName": "3567-minimum-absolute-difference-in-sliding-submatrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "folderPath": "3567-minimum-absolute-difference-in-sliding-submatrix/",
+      "readmePath": "3567-minimum-absolute-difference-in-sliding-submatrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3567-minimum-absolute-difference-in-sliding-submatrix.c",
+          "path": "3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.c",
+          "sha": "57c38e329735bc236c9fb3b24fc6cc88c79e265f",
+          "lastSyncedAt": "2026-09-24T12:14:12.135Z"
         }
       ]
     },
