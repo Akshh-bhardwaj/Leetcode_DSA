@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:12:12.770Z",
+  "updatedAt": "2026-09-24T12:15:41.820Z",
   "problems": [
     {
       "frontendId": "3",
@@ -571,6 +571,26 @@
           "path": "1320-minimum-distance-to-type-a-word-using-two-fingers/1320-minimum-distance-to-type-a-word-using-two-fingers.c",
           "sha": "30fd0d1b8f664483bd615d76b5d40f720efb5988",
           "lastSyncedAt": "2026-09-24T12:09:46.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "problemName": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "folderPath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "readmePath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
+          "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
+          "sha": "1b690312d256f12c2d208cb86a918c9a1af41733",
+          "lastSyncedAt": "2026-09-24T12:15:41.820Z"
         }
       ]
     },
