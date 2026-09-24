@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:01:40.495Z",
+  "updatedAt": "2026-09-24T12:01:48.960Z",
   "problems": [
     {
       "frontendId": "1",
@@ -980,6 +980,14 @@
       "folderPath": "3161-block-placement-queries/",
       "readmePath": "3161-block-placement-queries/README.md",
       "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3161-block-placement-queries.c",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.c",
+          "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
+          "lastSyncedAt": "2026-09-24T12:01:48.960Z"
+        },
         {
           "language": "Java",
           "extension": ".c",
