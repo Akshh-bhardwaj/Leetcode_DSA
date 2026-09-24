@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:44:06.377Z",
+  "updatedAt": "2026-09-24T12:44:52.992Z",
   "problems": [
     {
       "frontendId": "2",
@@ -843,6 +843,26 @@
           "path": "3047-find-the-largest-area-of-square-inside-two-rectangles/3047-find-the-largest-area-of-square-inside-two-rectangles.c",
           "sha": "6e5b18028fe6ecbd65d89f75c9e587215a1209b2",
           "lastSyncedAt": "2026-09-24T12:26:11.487Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3227",
+      "title": "Vowels Game in a String",
+      "slug": "vowels-game-in-a-string",
+      "problemName": "3227-vowels-game-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/vowels-game-in-a-string/",
+      "folderPath": "3227-vowels-game-in-a-string/",
+      "readmePath": "3227-vowels-game-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3227-vowels-game-in-a-string.c",
+          "path": "3227-vowels-game-in-a-string/3227-vowels-game-in-a-string.c",
+          "sha": "595bedbc0bfb1737b44df3cd5ae4cea338006ab2",
+          "lastSyncedAt": "2026-09-24T12:44:52.992Z"
         }
       ]
     },
