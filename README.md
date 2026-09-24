@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -99,6 +100,7 @@
 | [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -282,5 +284,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
