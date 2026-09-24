@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:49:13.763Z",
+  "updatedAt": "2026-09-24T18:49:16.892Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1378,7 +1378,7 @@
           "filename": "3761-minimum-absolute-distance-between-mirror-pairs.c",
           "path": "3761-minimum-absolute-distance-between-mirror-pairs/3761-minimum-absolute-distance-between-mirror-pairs.c",
           "sha": "a1f655f3a3bc94a4e08b8fc219cd7977086097ed",
-          "lastSyncedAt": "2026-09-24T17:47:56.356Z"
+          "lastSyncedAt": "2026-09-24T18:49:16.892Z"
         }
       ]
     },
