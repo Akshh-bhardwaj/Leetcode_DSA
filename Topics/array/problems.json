@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:05:28.480Z",
+  "updatedAt": "2026-09-24T12:05:46.096Z",
   "problems": [
     {
       "frontendId": "1",
@@ -111,6 +111,26 @@
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.c",
           "sha": "c74fe0f5d9ba996a32f9c4c83a69749e9a505d6a",
           "lastSyncedAt": "2026-09-24T08:48:35.147Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0048-rotate-image.c",
+          "path": "0048-rotate-image/0048-rotate-image.c",
+          "sha": "26f915a6cb9c2f5a499dae5a760adda4b189f47d",
+          "lastSyncedAt": "2026-09-24T12:05:46.096Z"
         }
       ]
     },
