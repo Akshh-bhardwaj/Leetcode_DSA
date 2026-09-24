@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T18:13:17.607Z",
+  "updatedAt": "2026-09-24T18:15:46.348Z",
   "problems": [
     {
       "frontendId": "215",
@@ -122,7 +122,7 @@
           "filename": "1792-maximum-average-pass-ratio.c",
           "path": "1792-maximum-average-pass-ratio/1792-maximum-average-pass-ratio.c",
           "sha": "7de5ee3e3a5e381eeefaa64b4a1bc971e5281739",
-          "lastSyncedAt": "2026-09-24T12:46:15.889Z"
+          "lastSyncedAt": "2026-09-24T18:15:46.348Z"
         }
       ]
     },
