@@ -1,297 +1,73 @@
 # Leetcode_DSA
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
-| [0014-longest-common-prefix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0027-remove-element) |
-| [0049-group-anagrams](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0049-group-anagrams) |
-| [0053-maximum-subarray](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0066-plus-one) |
-| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
-| [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
-| [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
-| [0835-image-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0835-image-overlap) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
-| [1470-shuffle-the-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1470-shuffle-the-array) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
-| [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
-| [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-| [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
-| [3875-construct-uniform-parity-array-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
-| [3876-construct-uniform-parity-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
-| [3903-smallest-stable-index-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
-| [3904-smallest-stable-index-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0049-group-anagrams](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0049-group-anagrams) |
-| [0205-isomorphic-strings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
-| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
-| [0290-word-pattern](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0290-word-pattern) |
-| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0009-palindrome-number) |
-| [0050-powx-n](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0050-powx-n) |
-| [0066-plus-one](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0066-plus-one) |
-| [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
-| [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
-| [0836-rectangle-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-| [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3870-count-commas-in-range](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3870-count-commas-in-range/) | Easy |
-| [3871-count-commas-in-range-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
-| [3875-construct-uniform-parity-array-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
-| [3876-construct-uniform-parity-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0002-add-two-numbers) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [0050-powx-n](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0050-powx-n) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0014-longest-common-prefix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0049-group-anagrams](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0049-group-anagrams) |
-| [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
-| [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
-| [0205-isomorphic-strings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
-| [0290-word-pattern](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0290-word-pattern) |
-| [0344-reverse-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0344-reverse-string) |
-| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
-| [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
-| [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3498-reverse-degree-of-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Simulation
-|  |
-| ------- |
-| [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
-| [1920-build-array-from-permutation](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
-| [1929-concatenation-of-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
-| [3498-reverse-degree-of-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Matrix
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0835-image-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0835-image-overlap) |
-| [1672-richest-customer-wealth](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [3903-smallest-stable-index-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
-| [3904-smallest-stable-index-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0053-maximum-subarray) |
-| [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0940-distinct-subsequences-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
-| [0283-move-zeroes](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-| [0344-reverse-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0344-reverse-string) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0053-maximum-subarray) |
-| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0049-group-anagrams) |
-| [0088-merge-sorted-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
-| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0217-contains-duplicate](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0217-contains-duplicate) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Breadth-First Search
-|  |
-| ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-## Binary Search
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
-## Pigeonhole Principle
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
-## Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Depth-First Search
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Binary Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Enumeration
-|  |
-| ------- |
-| [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
-## Geometry
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
-## Greedy
-|  |
-| ------- |
-| [0502-ipo](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/0502-ipo/) | Hard |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
-| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
-## Combinatorics
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-## Segment Tree
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
-<!---LeetCode Topics End-->
+
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 2 | 0 | 2 | 0 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 1 days | 1 days | 2 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-09-22 | 1 |
+| 2026-09-24 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| Array | 1 | 50% |
+| Bucket Sort | 1 | 50% |
+| Counting | 1 | 50% |
+| Dynamic Programming | 1 | 50% |
+| Hash Table | 1 | 50% |
+| Heap (Priority Queue) | 1 | 50% |
+| Math | 1 | 50% |
+| Sorting | 1 | 50% |
+| String | 1 | 50% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 6 |
+| [Backtracking](Topics/backtracking/) | 0 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Counting](Topics/counting/) | 3 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Geometry](Topics/geometry/) | 1 |
+| [Graph](Topics/graph/) | 0 |
+| [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 8 |
+| [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
+| [Linked List](Topics/linked-list/) | 1 |
+| [Math](Topics/math/) | 4 |
+| [Matrix](Topics/matrix/) | 0 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Queue](Topics/queue/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Simulation](Topics/simulation/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 13 |
+| [String Matching](Topics/string-matching/) | 1 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Z Algorithm](Topics/z-algorithm/) | 1 |
+<!---LeetHub Summary End-->
