@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:12:45.595Z",
+  "updatedAt": "2026-09-24T18:13:04.566Z",
   "problems": [
     {
       "frontendId": "2",
@@ -802,7 +802,7 @@
           "filename": "2125-number-of-laser-beams-in-a-bank.c",
           "path": "2125-number-of-laser-beams-in-a-bank/2125-number-of-laser-beams-in-a-bank.c",
           "sha": "ebe3605893a4831004e7d042ddc2e489ac0637d5",
-          "lastSyncedAt": "2026-09-24T12:42:36.249Z"
+          "lastSyncedAt": "2026-09-24T18:13:04.566Z"
         }
       ]
     },
