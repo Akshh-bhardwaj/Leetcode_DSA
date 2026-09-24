@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T18:57:02.394Z",
+  "updatedAt": "2026-09-24T18:57:21.818Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -678,7 +678,7 @@
           "filename": "3721-longest-balanced-subarray-ii.c",
           "path": "3721-longest-balanced-subarray-ii/3721-longest-balanced-subarray-ii.c",
           "sha": "f3770c8a223983c0fe25e1c011a5c540db71a471",
-          "lastSyncedAt": "2026-09-24T17:56:43.841Z"
+          "lastSyncedAt": "2026-09-24T18:57:21.818Z"
         }
       ]
     },
