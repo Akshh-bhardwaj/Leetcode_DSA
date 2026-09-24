@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T18:09:01.175Z",
+  "updatedAt": "2026-09-24T18:09:17.703Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -498,7 +498,7 @@
           "filename": "3432-count-partitions-with-even-sum-difference.c",
           "path": "3432-count-partitions-with-even-sum-difference/3432-count-partitions-with-even-sum-difference.c",
           "sha": "a3b43b88feffd92608729bbcece0d038757a58b4",
-          "lastSyncedAt": "2026-09-24T12:37:24.815Z"
+          "lastSyncedAt": "2026-09-24T18:09:17.703Z"
         }
       ]
     },
