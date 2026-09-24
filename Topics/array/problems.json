@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:48:34.510Z",
+  "updatedAt": "2026-09-24T12:49:06.702Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2547,6 +2547,26 @@
           "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.c",
           "sha": "96f81662c7954e028f9bc1c65e080438754cf93d",
           "lastSyncedAt": "2026-09-24T12:30:31.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2419",
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "slug": "longest-subarray-with-maximum-bitwise-and",
+      "problemName": "2419-longest-subarray-with-maximum-bitwise-and",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/",
+      "folderPath": "2419-longest-subarray-with-maximum-bitwise-and/",
+      "readmePath": "2419-longest-subarray-with-maximum-bitwise-and/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2419-longest-subarray-with-maximum-bitwise-and.c",
+          "path": "2419-longest-subarray-with-maximum-bitwise-and/2419-longest-subarray-with-maximum-bitwise-and.c",
+          "sha": "23bda180e01df250e3bb89525ecf178c05ae099b",
+          "lastSyncedAt": "2026-09-24T12:49:06.702Z"
         }
       ]
     },
