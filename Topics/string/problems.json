@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:09:46.399Z",
+  "updatedAt": "2026-09-24T12:10:52.184Z",
   "problems": [
     {
       "frontendId": "3",
@@ -471,6 +471,26 @@
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.java",
           "sha": "9e35de965ab69da88617076374e6da9402067825",
           "lastSyncedAt": "2026-09-24T11:48:47.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0657-robot-return-to-origin.c",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.c",
+          "sha": "ee7c1f99bc54af743048251489787c6a6ee5d8cb",
+          "lastSyncedAt": "2026-09-24T12:10:52.184Z"
         }
       ]
     },
