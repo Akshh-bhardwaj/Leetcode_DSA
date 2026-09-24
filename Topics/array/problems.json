@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:40:11.759Z",
+  "updatedAt": "2026-09-24T12:40:26.056Z",
   "problems": [
     {
       "frontendId": "1",
@@ -571,6 +571,26 @@
           "path": "0645-set-mismatch/0645-set-mismatch.c",
           "sha": "8781085d6a76e0938d452625556ce50f30f9fa31",
           "lastSyncedAt": "2026-09-24T12:34:45.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "717",
+      "title": "1-bit and 2-bit Characters",
+      "slug": "1-bit-and-2-bit-characters",
+      "problemName": "0717-1-bit-and-2-bit-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+      "folderPath": "0717-1-bit-and-2-bit-characters/",
+      "readmePath": "0717-1-bit-and-2-bit-characters/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0717-1-bit-and-2-bit-characters.c",
+          "path": "0717-1-bit-and-2-bit-characters/0717-1-bit-and-2-bit-characters.c",
+          "sha": "c286c32a27759d568d7a5e12e9fe75691ff732fc",
+          "lastSyncedAt": "2026-09-24T12:40:26.056Z"
         }
       ]
     },
