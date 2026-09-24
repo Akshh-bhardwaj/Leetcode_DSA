@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:44:30.356Z",
+  "updatedAt": "2026-09-24T18:44:39.446Z",
   "problems": [
     {
       "frontendId": "1",
@@ -970,7 +970,7 @@
           "filename": "2657-find-the-prefix-common-array-of-two-arrays.c",
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
-          "lastSyncedAt": "2026-09-24T17:43:34.231Z"
+          "lastSyncedAt": "2026-09-24T18:44:39.446Z"
         }
       ]
     },
