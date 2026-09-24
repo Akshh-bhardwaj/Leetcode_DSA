@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:53:42.181Z",
+  "updatedAt": "2026-09-24T18:54:23.994Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1238,7 +1238,7 @@
           "filename": "1980-find-unique-binary-string.c",
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
           "sha": "48c72429044eef67081377787de57496d6e1fe5c",
-          "lastSyncedAt": "2026-09-24T17:53:38.393Z"
+          "lastSyncedAt": "2026-09-24T18:54:23.994Z"
         }
       ]
     },
