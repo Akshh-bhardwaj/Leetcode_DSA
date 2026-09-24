@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:02:46.012Z",
+  "updatedAt": "2026-09-24T18:03:03.606Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1050,7 +1050,7 @@
           "filename": "0961-n-repeated-element-in-size-2n-array.c",
           "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.c",
           "sha": "d1ccf43d5a675b6433a2c95a39526f5247e85192",
-          "lastSyncedAt": "2026-09-24T12:29:23.739Z"
+          "lastSyncedAt": "2026-09-24T18:03:03.606Z"
         }
       ]
     },
