@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T12:15:41.820Z",
+  "updatedAt": "2026-09-24T12:16:45.914Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -23,6 +23,26 @@
           "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
           "sha": "1b690312d256f12c2d208cb86a918c9a1af41733",
           "lastSyncedAt": "2026-09-24T12:15:41.820Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1980-find-unique-binary-string.c",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
+          "sha": "48c72429044eef67081377787de57496d6e1fe5c",
+          "lastSyncedAt": "2026-09-24T12:16:45.914Z"
         }
       ]
     },
