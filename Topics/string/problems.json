@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:48:45.367Z",
+  "updatedAt": "2026-09-24T12:48:55.791Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
           "lastSyncedAt": "2026-09-24T11:56:20.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0012-integer-to-roman.c",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.c",
+          "sha": "f85b04ea1e33c2d395a01424f01fd1d526a1344c",
+          "lastSyncedAt": "2026-09-24T12:48:55.791Z"
         }
       ]
     },
