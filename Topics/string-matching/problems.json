@@ -4,7 +4,7 @@
     "slug": "string-matching",
     "name": "String Matching"
   },
-  "updatedAt": "2026-09-24T17:45:48.946Z",
+  "updatedAt": "2026-09-24T17:50:02.897Z",
   "problems": [
     {
       "frontendId": "28",
@@ -62,7 +62,7 @@
           "filename": "3474-lexicographically-smallest-generated-string.c",
           "path": "3474-lexicographically-smallest-generated-string/3474-lexicographically-smallest-generated-string.c",
           "sha": "d89710afdfe160c7c8d5220c2feb147d3217fbdc",
-          "lastSyncedAt": "2026-09-24T12:11:48.006Z"
+          "lastSyncedAt": "2026-09-24T17:50:02.897Z"
         }
       ]
     }
