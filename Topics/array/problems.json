@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:45:24.992Z",
+  "updatedAt": "2026-09-24T08:45:29.286Z",
   "problems": [
     {
       "frontendId": "1",
@@ -623,6 +623,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T08:35:26.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "2126-destroying-asteroids/",
+      "readmePath": "2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "2126-destroying-asteroids.c",
+          "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
+          "sha": "8036fee0a837906f256fc34992c155d13913602a",
+          "lastSyncedAt": "2026-09-24T08:45:29.286Z"
         }
       ]
     },
