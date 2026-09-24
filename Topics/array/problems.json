@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:45:52.671Z",
+  "updatedAt": "2026-09-24T18:46:01.210Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2746,7 +2746,7 @@
           "filename": "2553-separate-the-digits-in-an-array.c",
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.c",
           "sha": "fd08231ac38781c866056f58d80c9d281bc80f56",
-          "lastSyncedAt": "2026-09-24T17:44:45.933Z"
+          "lastSyncedAt": "2026-09-24T18:46:01.210Z"
         }
       ]
     },
