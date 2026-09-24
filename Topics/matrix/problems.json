@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:14:42.389Z",
+  "updatedAt": "2026-09-24T12:14:54.208Z",
   "problems": [
     {
       "frontendId": "48",
@@ -163,6 +163,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
           "sha": "224101c278b7c6a6e7f8edf01ed55b74475f9155",
           "lastSyncedAt": "2026-09-24T11:56:07.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1727",
+      "title": "Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "problemName": "1727-largest-submatrix-with-rearrangements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
+      "folderPath": "1727-largest-submatrix-with-rearrangements/",
+      "readmePath": "1727-largest-submatrix-with-rearrangements/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1727-largest-submatrix-with-rearrangements.c",
+          "path": "1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.c",
+          "sha": "1355ad090d4391686e7ad18d8f01905a8aac0c98",
+          "lastSyncedAt": "2026-09-24T12:14:54.208Z"
         }
       ]
     },
