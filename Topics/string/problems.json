@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:18:06.581Z",
+  "updatedAt": "2026-09-24T18:18:12.592Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "0006-zigzag-conversion.c",
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.c",
           "sha": "f6d5adaba6b8777c92e42c83ef4a1db053e7acc9",
-          "lastSyncedAt": "2026-09-24T12:49:54.925Z"
+          "lastSyncedAt": "2026-09-24T18:18:12.592Z"
         }
       ]
     },
