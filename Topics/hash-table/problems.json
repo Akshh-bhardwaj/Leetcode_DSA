@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:13:17.607Z",
+  "updatedAt": "2026-09-24T18:13:55.019Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +122,7 @@
           "filename": "0166-fraction-to-recurring-decimal.c",
           "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.c",
           "sha": "a204501c021f5bfdd3ce5014fa860483ce1ff92e",
-          "lastSyncedAt": "2026-09-24T12:43:37.812Z"
+          "lastSyncedAt": "2026-09-24T18:13:55.019Z"
         }
       ]
     },
