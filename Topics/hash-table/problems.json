@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:39:56.042Z",
+  "updatedAt": "2026-09-24T18:40:19.578Z",
   "problems": [
     {
       "frontendId": "1",
@@ -570,7 +570,7 @@
           "filename": "1189-maximum-number-of-balloons.java",
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.java",
           "sha": "5cefbdd50b8e165af27167936587238bb4d71b4e",
-          "lastSyncedAt": "2026-09-24T17:38:56.998Z"
+          "lastSyncedAt": "2026-09-24T18:40:19.578Z"
         }
       ]
     },
