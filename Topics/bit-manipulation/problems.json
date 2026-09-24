@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:18:54.333Z",
+  "updatedAt": "2026-09-24T12:19:14.377Z",
   "problems": [
     {
       "frontendId": "287",
@@ -23,6 +23,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "cde0867424913928eeaefd5a4c1cf69f93b37c8a",
           "lastSyncedAt": "2026-09-24T11:53:14.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "868",
+      "title": "Binary Gap",
+      "slug": "binary-gap",
+      "problemName": "0868-binary-gap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-gap/",
+      "folderPath": "0868-binary-gap/",
+      "readmePath": "0868-binary-gap/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0868-binary-gap.c",
+          "path": "0868-binary-gap/0868-binary-gap.c",
+          "sha": "ecff925884b4e80085265af6e10de3e7ee485f4f",
+          "lastSyncedAt": "2026-09-24T12:19:14.377Z"
         }
       ]
     },
