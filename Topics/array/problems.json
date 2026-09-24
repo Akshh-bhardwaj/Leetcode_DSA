@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:23:15.185Z",
+  "updatedAt": "2026-09-24T12:23:34.260Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1675,6 +1675,26 @@
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "sha": "52af87a9605c8414c4429ee146c39f0f2b8c10a7",
           "lastSyncedAt": "2026-09-24T11:57:07.868Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2976-minimum-cost-to-convert-string-i.c",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.c",
+          "sha": "66aef85dc519193bbd4eb838ca21bad61729da8f",
+          "lastSyncedAt": "2026-09-24T12:23:34.260Z"
         }
       ]
     },
