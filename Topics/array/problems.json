@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:02:48.825Z",
+  "updatedAt": "2026-09-24T12:02:54.778Z",
   "problems": [
     {
       "frontendId": "1",
@@ -954,7 +954,7 @@
           "filename": "3043-find-the-length-of-the-longest-common-prefix.c",
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.c",
           "sha": "705ccadedb98db55f96f43a8679c054721fd92f2",
-          "lastSyncedAt": "2026-09-24T08:48:44.283Z"
+          "lastSyncedAt": "2026-09-24T12:02:54.778Z"
         }
       ]
     },
