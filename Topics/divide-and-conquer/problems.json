@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-24T12:20:54.190Z",
+  "updatedAt": "2026-09-24T12:21:10.008Z",
   "problems": [
     {
       "frontendId": "53",
@@ -123,6 +123,26 @@
           "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
           "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
           "lastSyncedAt": "2026-09-24T12:10:05.378Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3719-longest-balanced-subarray-i.c",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.c",
+          "sha": "774c7813ecbbf727faf5331d190f87791189bd41",
+          "lastSyncedAt": "2026-09-24T12:21:10.008Z"
         }
       ]
     },
