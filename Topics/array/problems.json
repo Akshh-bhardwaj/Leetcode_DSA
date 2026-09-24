@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:09:54.546Z",
+  "updatedAt": "2026-09-24T18:10:06.071Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1730,7 +1730,7 @@
           "filename": "1590-make-sum-divisible-by-p.c",
           "path": "1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.c",
           "sha": "87500f84cf22f01e8cc7872a7eb93e006e60e767",
-          "lastSyncedAt": "2026-09-24T12:38:39.048Z"
+          "lastSyncedAt": "2026-09-24T18:10:06.071Z"
         }
       ]
     },
