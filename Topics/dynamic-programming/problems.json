@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:06:04.243Z",
+  "updatedAt": "2026-09-24T12:06:12.283Z",
   "problems": [
     {
       "frontendId": "53",
@@ -63,6 +63,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "a072364dd65391443682472d1d7e8d71e8ebb7c3",
           "lastSyncedAt": "2026-09-24T11:55:43.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "0396-rotate-function/",
+      "readmePath": "0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0396-rotate-function.c",
+          "path": "0396-rotate-function/0396-rotate-function.c",
+          "sha": "93d2eee5bd95b35343989e5b31220d79f141c869",
+          "lastSyncedAt": "2026-09-24T12:06:12.283Z"
         }
       ]
     },
