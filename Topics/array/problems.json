@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:22:01.791Z",
+  "updatedAt": "2026-09-24T12:22:15.170Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1851,6 +1851,26 @@
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.c",
           "sha": "4386b021390db00e65c7d5db66ba51e6f8d41848",
           "lastSyncedAt": "2026-09-24T08:46:02.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3379",
+      "title": "Transformed Array",
+      "slug": "transformed-array",
+      "problemName": "3379-transformed-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+      "folderPath": "3379-transformed-array/",
+      "readmePath": "3379-transformed-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3379-transformed-array.c",
+          "path": "3379-transformed-array/3379-transformed-array.c",
+          "sha": "93549fde31110b49442e8cfeac808983a9dd45bd",
+          "lastSyncedAt": "2026-09-24T12:22:15.170Z"
         }
       ]
     },
