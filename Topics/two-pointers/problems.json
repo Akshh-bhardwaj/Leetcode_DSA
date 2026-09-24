@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:19:42.068Z",
+  "updatedAt": "2026-09-24T12:24:29.697Z",
   "problems": [
     {
       "frontendId": "26",
@@ -343,6 +343,26 @@
           "path": "1861-rotating-the-box/1861-rotating-the-box.c",
           "sha": "34ab7cff05a246f399f05cd3415a045188839a23",
           "lastSyncedAt": "2026-09-24T12:05:28.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "problemName": "1877-minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "folderPath": "1877-minimize-maximum-pair-sum-in-array/",
+      "readmePath": "1877-minimize-maximum-pair-sum-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1877-minimize-maximum-pair-sum-in-array.c",
+          "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.c",
+          "sha": "7582ec61131201165ed8979d7526aa815cf704f6",
+          "lastSyncedAt": "2026-09-24T12:24:29.697Z"
         }
       ]
     },
