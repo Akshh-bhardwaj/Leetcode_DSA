@@ -34,13 +34,13 @@
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 230 | 64% |
+| Array | 229 | 64% |
 | String | 95 | 26% |
 | Hash Table | 84 | 23% |
 | Math | 73 | 20% |
 | Dynamic Programming | 61 | 17% |
 | Sorting | 59 | 16% |
-| Matrix | 41 | 11% |
+| Matrix | 40 | 11% |
 | Greedy | 39 | 11% |
 | Prefix Sum | 35 | 10% |
 | Two Pointers | 34 | 9% |
