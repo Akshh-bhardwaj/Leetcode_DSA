@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:18:54.333Z",
+  "updatedAt": "2026-09-24T12:19:30.709Z",
   "problems": [
     {
       "frontendId": "3",
@@ -491,6 +491,26 @@
           "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.c",
           "sha": "ee7c1f99bc54af743048251489787c6a6ee5d8cb",
           "lastSyncedAt": "2026-09-24T12:10:52.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "0761-special-binary-string/",
+      "readmePath": "0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0761-special-binary-string.c",
+          "path": "0761-special-binary-string/0761-special-binary-string.c",
+          "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
+          "lastSyncedAt": "2026-09-24T12:19:30.709Z"
         }
       ]
     },
