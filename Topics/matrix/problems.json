@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:07:11.173Z",
+  "updatedAt": "2026-09-24T12:11:23.717Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.c",
           "sha": "0110c000a0036654f74df32d8156145eed0e7853",
           "lastSyncedAt": "2026-09-24T12:06:32.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3418",
+      "title": "Maximum Amount of Money Robot Can Earn",
+      "slug": "maximum-amount-of-money-robot-can-earn",
+      "problemName": "3418-maximum-amount-of-money-robot-can-earn",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/",
+      "folderPath": "3418-maximum-amount-of-money-robot-can-earn/",
+      "readmePath": "3418-maximum-amount-of-money-robot-can-earn/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3418-maximum-amount-of-money-robot-can-earn.c",
+          "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.c",
+          "sha": "b15ecbeed9da3f19d4db7a731f8da2a64478b217",
+          "lastSyncedAt": "2026-09-24T12:11:23.717Z"
         }
       ]
     },
