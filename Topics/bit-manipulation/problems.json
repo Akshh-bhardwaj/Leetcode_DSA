@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T18:16:59.986Z",
+  "updatedAt": "2026-09-24T18:17:41.729Z",
   "problems": [
     {
       "frontendId": "67",
@@ -382,7 +382,7 @@
           "filename": "2419-longest-subarray-with-maximum-bitwise-and.c",
           "path": "2419-longest-subarray-with-maximum-bitwise-and/2419-longest-subarray-with-maximum-bitwise-and.c",
           "sha": "23bda180e01df250e3bb89525ecf178c05ae099b",
-          "lastSyncedAt": "2026-09-24T12:49:06.702Z"
+          "lastSyncedAt": "2026-09-24T18:17:41.729Z"
         }
       ]
     },
