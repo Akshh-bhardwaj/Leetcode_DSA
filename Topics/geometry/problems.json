@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-24T12:38:05.996Z",
+  "updatedAt": "2026-09-24T17:29:02.524Z",
   "problems": [
     {
       "frontendId": "836",
@@ -62,7 +62,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.java",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java",
           "sha": "f72042b16087624837c1417783b94ef2ae71257c",
-          "lastSyncedAt": "2026-09-24T11:51:18.355Z"
+          "lastSyncedAt": "2026-09-24T17:29:02.524Z"
         }
       ]
     },
