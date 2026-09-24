@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-09-24T08:36:25.084Z",
+  "updatedAt": "2026-09-24T08:42:32.503Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -43,6 +43,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.java",
           "sha": "8d79b5b153e36652ae4abd53fb9f30a61c4a06bd",
           "lastSyncedAt": "2026-09-24T08:28:17.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3691-maximum-total-subarray-value-ii.c",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
+          "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
+          "lastSyncedAt": "2026-09-24T08:42:32.503Z"
         }
       ]
     }
