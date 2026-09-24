@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:17:40.421Z",
+  "updatedAt": "2026-09-24T12:17:49.849Z",
   "problems": [
     {
       "frontendId": "502",
@@ -83,6 +83,26 @@
           "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.c",
           "sha": "8e2f05d77983d95f848ee99f97cd789105ab92e4",
           "lastSyncedAt": "2026-09-24T12:04:25.019Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1689",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "problemName": "1689-partitioning-into-minimum-number-of-deci-binary-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "folderPath": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "readmePath": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1689-partitioning-into-minimum-number-of-deci-binary-numbers.c",
+          "path": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.c",
+          "sha": "6f8b5c1009046d41778dca36d46e1a264a8ba74c",
+          "lastSyncedAt": "2026-09-24T12:17:49.849Z"
         }
       ]
     },
