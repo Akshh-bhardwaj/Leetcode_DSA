@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:05:46.096Z",
+  "updatedAt": "2026-09-24T12:06:21.827Z",
   "problems": [
     {
       "frontendId": "48",
@@ -163,6 +163,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
           "lastSyncedAt": "2026-09-24T11:54:47.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3742",
+      "title": "Maximum Path Score in a Grid",
+      "slug": "maximum-path-score-in-a-grid",
+      "problemName": "3742-maximum-path-score-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
+      "folderPath": "3742-maximum-path-score-in-a-grid/",
+      "readmePath": "3742-maximum-path-score-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3742-maximum-path-score-in-a-grid.c",
+          "path": "3742-maximum-path-score-in-a-grid/3742-maximum-path-score-in-a-grid.c",
+          "sha": "9849e357eefe1614d2ec7df5aec47b9801e74c1d",
+          "lastSyncedAt": "2026-09-24T12:06:21.827Z"
         }
       ]
     }
