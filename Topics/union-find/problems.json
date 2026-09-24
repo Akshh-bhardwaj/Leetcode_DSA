@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T18:03:11.529Z",
+  "updatedAt": "2026-09-24T18:05:27.276Z",
   "problems": [
     {
       "frontendId": "547",
@@ -122,7 +122,7 @@
           "filename": "2092-find-all-people-with-secret.c",
           "path": "2092-find-all-people-with-secret/2092-find-all-people-with-secret.c",
           "sha": "06e8cf29992600691e78bb1ea2670db4ab8608e7",
-          "lastSyncedAt": "2026-09-24T12:32:28.444Z"
+          "lastSyncedAt": "2026-09-24T18:05:27.276Z"
         }
       ]
     },
