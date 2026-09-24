@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:42:50.370Z",
+  "updatedAt": "2026-09-24T12:46:15.889Z",
   "problems": [
     {
       "frontendId": "215",
@@ -103,6 +103,26 @@
           "path": "1488-avoid-flood-in-the-city/1488-avoid-flood-in-the-city.c",
           "sha": "d2382226adfc258eff761ac50c1d498fb703c8b9",
           "lastSyncedAt": "2026-09-24T12:42:50.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1792",
+      "title": "Maximum Average Pass Ratio",
+      "slug": "maximum-average-pass-ratio",
+      "problemName": "1792-maximum-average-pass-ratio",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+      "folderPath": "1792-maximum-average-pass-ratio/",
+      "readmePath": "1792-maximum-average-pass-ratio/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1792-maximum-average-pass-ratio.c",
+          "path": "1792-maximum-average-pass-ratio/1792-maximum-average-pass-ratio.c",
+          "sha": "7de5ee3e3a5e381eeefaa64b4a1bc971e5281739",
+          "lastSyncedAt": "2026-09-24T12:46:15.889Z"
         }
       ]
     },
