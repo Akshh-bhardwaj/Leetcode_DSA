@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:39:19.262Z",
+  "updatedAt": "2026-09-24T08:42:48.265Z",
   "problems": [
     {
       "frontendId": "1",
@@ -191,7 +191,7 @@
       "title": "Longest Repeating Character Replacement",
       "slug": "longest-repeating-character-replacement",
       "problemName": "0424-longest-repeating-character-replacement",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
       "folderPath": "0424-longest-repeating-character-replacement/",
       "readmePath": "0424-longest-repeating-character-replacement/README.md",
@@ -202,7 +202,7 @@
           "filename": "0424-longest-repeating-character-replacement.java",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "fc38028bebc68a73ffc3f82bc57467f94d84e4c6",
-          "lastSyncedAt": "2026-09-24T08:30:52.020Z"
+          "lastSyncedAt": "2026-09-24T08:42:48.265Z"
         }
       ]
     },
