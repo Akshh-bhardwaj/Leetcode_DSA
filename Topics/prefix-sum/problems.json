@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:13:09.843Z",
+  "updatedAt": "2026-09-24T12:13:24.563Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -199,6 +199,26 @@
           "path": "2615-sum-of-distances/2615-sum-of-distances.c",
           "sha": "2827d4ee15d9a837dfd52fbf18a950d5746d5c60",
           "lastSyncedAt": "2026-09-24T12:07:57.114Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "problemName": "2906-construct-product-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+      "folderPath": "2906-construct-product-matrix/",
+      "readmePath": "2906-construct-product-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2906-construct-product-matrix.c",
+          "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
+          "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
+          "lastSyncedAt": "2026-09-24T12:13:24.563Z"
         }
       ]
     },
