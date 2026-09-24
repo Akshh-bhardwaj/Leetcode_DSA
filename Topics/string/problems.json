@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:44:31.539Z",
+  "updatedAt": "2026-09-24T08:44:45.364Z",
   "problems": [
     {
       "frontendId": "3",
@@ -236,6 +236,14 @@
       "folderPath": "0290-word-pattern/",
       "readmePath": "0290-word-pattern/README.md",
       "solutions": [
+        {
+          "language": "C",
+          "extension": ".java",
+          "filename": "0290-word-pattern.java",
+          "path": "0290-word-pattern/0290-word-pattern.java",
+          "sha": "f16154c674c89fadfd56f5922a30cb4dcd7b6c5d",
+          "lastSyncedAt": "2026-09-24T08:44:45.364Z"
+        },
         {
           "language": "Java",
           "extension": ".java",
