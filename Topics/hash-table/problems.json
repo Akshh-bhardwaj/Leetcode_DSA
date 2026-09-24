@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:31:08.144Z",
+  "updatedAt": "2026-09-24T08:33:27.223Z",
   "problems": [
     {
       "frontendId": "1",
@@ -442,7 +442,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
-          "lastSyncedAt": "2026-09-24T08:20:18.556Z"
+          "lastSyncedAt": "2026-09-24T08:33:27.223Z"
         }
       ]
     },
