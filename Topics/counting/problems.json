@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-24T12:43:50.497Z",
+  "updatedAt": "2026-09-24T12:44:42.979Z",
   "problems": [
     {
       "frontendId": "383",
@@ -143,6 +143,26 @@
           "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.c",
           "sha": "9565c3e4bfa42bbbd810e681c730b34de88aca76",
           "lastSyncedAt": "2026-09-24T12:43:50.497Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "problemName": "3541-find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "folderPath": "3541-find-most-frequent-vowel-and-consonant/",
+      "readmePath": "3541-find-most-frequent-vowel-and-consonant/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3541-find-most-frequent-vowel-and-consonant.c",
+          "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.c",
+          "sha": "580a6d734fe8a8d6beb0d67982b32fd69f00cb42",
+          "lastSyncedAt": "2026-09-24T12:44:42.979Z"
         }
       ]
     },
