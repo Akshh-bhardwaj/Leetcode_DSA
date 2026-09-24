@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:30:31.013Z",
+  "updatedAt": "2026-09-24T12:31:44.322Z",
   "problems": [
     {
       "frontendId": "1",
@@ -371,6 +371,26 @@
           "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.c",
           "sha": "d1ccf43d5a675b6433a2c95a39526f5247e85192",
           "lastSyncedAt": "2026-09-24T12:29:23.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "slug": "smallest-integer-divisible-by-k",
+      "problemName": "1015-smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+      "folderPath": "1015-smallest-integer-divisible-by-k/",
+      "readmePath": "1015-smallest-integer-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1015-smallest-integer-divisible-by-k.c",
+          "path": "1015-smallest-integer-divisible-by-k/1015-smallest-integer-divisible-by-k.c",
+          "sha": "7623dc87d9f2a8b504c2744b7362941bad8e9604",
+          "lastSyncedAt": "2026-09-24T12:31:44.322Z"
         }
       ]
     },
