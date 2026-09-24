@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:30:31.013Z",
+  "updatedAt": "2026-09-24T12:34:12.505Z",
   "problems": [
     {
       "frontendId": "67",
@@ -103,6 +103,26 @@
           "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "sha": "b2f85d8c7faf93b35f4ad113f3355e7f93052f17",
           "lastSyncedAt": "2026-09-24T12:18:20.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "problemName": "1441-build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+      "folderPath": "1441-build-an-array-with-stack-operations/",
+      "readmePath": "1441-build-an-array-with-stack-operations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1441-build-an-array-with-stack-operations.c",
+          "path": "1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.c",
+          "sha": "5c093ba87bcd6dfe2c9321b30b68eeaab4d0ff6e",
+          "lastSyncedAt": "2026-09-24T12:34:12.505Z"
         }
       ]
     },
