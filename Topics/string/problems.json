@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:10:52.184Z",
+  "updatedAt": "2026-09-24T12:11:00.554Z",
   "problems": [
     {
       "frontendId": "3",
@@ -619,6 +619,26 @@
           "path": "1871-jump-game-vii/1871-jump-game-vii.c",
           "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
           "lastSyncedAt": "2026-09-24T08:47:32.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2075",
+      "title": "Decode the Slanted Ciphertext",
+      "slug": "decode-the-slanted-ciphertext",
+      "problemName": "2075-decode-the-slanted-ciphertext",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
+      "folderPath": "2075-decode-the-slanted-ciphertext/",
+      "readmePath": "2075-decode-the-slanted-ciphertext/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2075-decode-the-slanted-ciphertext.c",
+          "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.c",
+          "sha": "d79b883082ce2bbaaa260b7f9260a8a54dc795f8",
+          "lastSyncedAt": "2026-09-24T12:11:00.554Z"
         }
       ]
     },
