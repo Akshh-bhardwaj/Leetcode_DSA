@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:43:00.887Z",
+  "updatedAt": "2026-09-24T08:43:35.933Z",
   "problems": [
     {
       "frontendId": "3",
@@ -462,7 +462,7 @@
           "filename": "0647-palindromic-substrings.java",
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.java",
           "sha": "9e35de965ab69da88617076374e6da9402067825",
-          "lastSyncedAt": "2026-09-24T08:25:06.472Z"
+          "lastSyncedAt": "2026-09-24T08:43:35.933Z"
         }
       ]
     },
