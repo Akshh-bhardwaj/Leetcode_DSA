@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:42:58.141Z",
+  "updatedAt": "2026-09-24T08:43:10.739Z",
   "problems": [
     {
       "frontendId": "1",
@@ -623,6 +623,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T08:35:26.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2161-partition-array-according-to-given-pivot.c",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
+          "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
+          "lastSyncedAt": "2026-09-24T08:43:10.739Z"
         }
       ]
     },
