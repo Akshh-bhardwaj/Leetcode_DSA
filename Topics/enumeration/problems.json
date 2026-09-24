@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-24T12:26:23.010Z",
+  "updatedAt": "2026-09-24T12:36:50.488Z",
   "problems": [
+    {
+      "frontendId": "1925",
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "problemName": "1925-count-square-sum-triples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-sum-triples/",
+      "folderPath": "1925-count-square-sum-triples/",
+      "readmePath": "1925-count-square-sum-triples/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1925-count-square-sum-triples.c",
+          "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.c",
+          "sha": "543c057b5ab6077d341480490843b1c0f248f5fe",
+          "lastSyncedAt": "2026-09-24T12:36:50.488Z"
+        }
+      ]
+    },
     {
       "frontendId": "2975",
       "title": "Maximum Square Area by Removing Fences From a Field",
