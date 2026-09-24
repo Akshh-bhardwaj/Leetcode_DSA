@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T11:57:42.318Z",
+  "updatedAt": "2026-09-24T11:58:25.637Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1242,7 +1242,7 @@
           "filename": "3731-find-missing-elements.java",
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "1384a7cb1e700136c4c430dd4413b060c433786a",
-          "lastSyncedAt": "2026-09-24T08:38:51.180Z"
+          "lastSyncedAt": "2026-09-24T11:58:25.637Z"
         }
       ]
     },
