@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-24T11:57:42.318Z",
+  "updatedAt": "2026-09-24T11:58:33.532Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -42,7 +42,7 @@
           "filename": "1406-stone-game-iii.java",
           "path": "1406-stone-game-iii/1406-stone-game-iii.java",
           "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
-          "lastSyncedAt": "2026-09-24T08:39:00.741Z"
+          "lastSyncedAt": "2026-09-24T11:58:33.532Z"
         }
       ]
     },
