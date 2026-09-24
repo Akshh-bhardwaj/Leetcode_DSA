@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T11:59:30.994Z",
+  "updatedAt": "2026-09-24T11:59:35.730Z",
   "problems": [
     {
       "frontendId": "2",
@@ -102,7 +102,7 @@
           "filename": "2130-maximum-twin-sum-of-a-linked-list.c",
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.c",
           "sha": "774bd966f13ccf940405bc94bca4582f389b72d2",
-          "lastSyncedAt": "2026-09-24T08:41:04.331Z"
+          "lastSyncedAt": "2026-09-24T11:59:35.730Z"
         }
       ]
     }
