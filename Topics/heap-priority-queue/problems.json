@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:31:16.758Z",
+  "updatedAt": "2026-09-24T12:42:50.370Z",
   "problems": [
     {
       "frontendId": "215",
@@ -83,6 +83,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
           "lastSyncedAt": "2026-09-24T11:52:08.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1488",
+      "title": "Avoid Flood in The City",
+      "slug": "avoid-flood-in-the-city",
+      "problemName": "1488-avoid-flood-in-the-city",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+      "folderPath": "1488-avoid-flood-in-the-city/",
+      "readmePath": "1488-avoid-flood-in-the-city/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1488-avoid-flood-in-the-city.c",
+          "path": "1488-avoid-flood-in-the-city/1488-avoid-flood-in-the-city.c",
+          "sha": "d2382226adfc258eff761ac50c1d498fb703c8b9",
+          "lastSyncedAt": "2026-09-24T12:42:50.370Z"
         }
       ]
     },
