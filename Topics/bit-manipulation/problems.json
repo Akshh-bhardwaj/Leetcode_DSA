@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T17:54:33.429Z",
+  "updatedAt": "2026-09-24T17:54:53.314Z",
   "problems": [
     {
       "frontendId": "67",
@@ -302,7 +302,7 @@
           "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "sha": "b2f85d8c7faf93b35f4ad113f3355e7f93052f17",
-          "lastSyncedAt": "2026-09-24T12:18:20.159Z"
+          "lastSyncedAt": "2026-09-24T17:54:53.314Z"
         }
       ]
     },
