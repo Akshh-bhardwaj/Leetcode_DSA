@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:05:27.276Z",
+  "updatedAt": "2026-09-24T18:06:51.083Z",
   "problems": [
     {
       "frontendId": "15",
@@ -422,7 +422,7 @@
           "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.c",
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.c",
           "sha": "9e3ca9a1ec869b04e1a3f2c5649eeb3600c9dcf5",
-          "lastSyncedAt": "2026-09-24T12:34:31.742Z"
+          "lastSyncedAt": "2026-09-24T18:06:51.083Z"
         }
       ]
     },
