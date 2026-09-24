@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:24:29.697Z",
+  "updatedAt": "2026-09-24T12:35:21.663Z",
   "problems": [
     {
       "frontendId": "26",
@@ -383,6 +383,26 @@
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.c",
           "sha": "9effcc48583d8fb3f101c61c8848a5c5a2dcae4c",
           "lastSyncedAt": "2026-09-24T11:59:30.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
+          "lastSyncedAt": "2026-09-24T12:35:21.663Z"
         }
       ]
     },
