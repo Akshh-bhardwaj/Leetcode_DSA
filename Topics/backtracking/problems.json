@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T12:30:05.180Z",
+  "updatedAt": "2026-09-24T12:46:40.515Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0022-generate-parentheses.c",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.c",
+          "sha": "02024060bac0e8e5d887a40785798517c56c00ae",
+          "lastSyncedAt": "2026-09-24T12:46:40.515Z"
+        }
+      ]
+    },
     {
       "frontendId": "401",
       "title": "Binary Watch",
