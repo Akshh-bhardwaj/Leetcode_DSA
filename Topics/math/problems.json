@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T08:20:00.371Z",
+  "updatedAt": "2026-09-24T08:20:06.958Z",
   "problems": [
     {
       "frontendId": "2",
@@ -62,7 +62,7 @@
           "filename": "0050-powx-n.java",
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "c400ff4691ce4e8c6369b01b89029a9d207b53bb",
-          "lastSyncedAt": "2026-09-24T07:51:42.708Z"
+          "lastSyncedAt": "2026-09-24T08:20:06.958Z"
         }
       ]
     },
