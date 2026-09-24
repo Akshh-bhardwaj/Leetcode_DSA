@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:12:32.036Z",
+  "updatedAt": "2026-09-24T12:17:30.817Z",
   "problems": [
     {
       "frontendId": "412",
@@ -63,6 +63,26 @@
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.c",
           "sha": "03bee6590d8071dcbc2b8a7c51121db51627b910",
           "lastSyncedAt": "2026-09-24T12:10:38.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "problemName": "1545-find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "folderPath": "1545-find-kth-bit-in-nth-binary-string/",
+      "readmePath": "1545-find-kth-bit-in-nth-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1545-find-kth-bit-in-nth-binary-string.c",
+          "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.c",
+          "sha": "ae9128d9ceb0669a32fa614adb532a3b6bbacbfc",
+          "lastSyncedAt": "2026-09-24T12:17:30.817Z"
         }
       ]
     },
