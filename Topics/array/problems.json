@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:17:40.421Z",
+  "updatedAt": "2026-09-24T12:18:29.823Z",
   "problems": [
     {
       "frontendId": "1",
@@ -571,6 +571,26 @@
           "path": "1345-jump-game-iv/1345-jump-game-iv.c",
           "sha": "306fd5f5462554ad1dfe484f212ede2596b157c2",
           "lastSyncedAt": "2026-09-24T12:03:22.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "problemName": "1356-sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+      "folderPath": "1356-sort-integers-by-the-number-of-1-bits/",
+      "readmePath": "1356-sort-integers-by-the-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1356-sort-integers-by-the-number-of-1-bits.c",
+          "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.c",
+          "sha": "4846c151c4653e13eff9c4b3e3948a27ef4c12b6",
+          "lastSyncedAt": "2026-09-24T12:18:29.823Z"
         }
       ]
     },
