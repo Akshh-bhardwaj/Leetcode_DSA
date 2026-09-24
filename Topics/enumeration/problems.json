@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-24T17:56:32.892Z",
+  "updatedAt": "2026-09-24T17:58:24.430Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -62,7 +62,7 @@
           "filename": "3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
           "path": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
           "sha": "e52f4f31c2f71c33f601e86911cf6f2fd949a18b",
-          "lastSyncedAt": "2026-09-24T12:22:52.698Z"
+          "lastSyncedAt": "2026-09-24T17:58:24.430Z"
         }
       ]
     },
