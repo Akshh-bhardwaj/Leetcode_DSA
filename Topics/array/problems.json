@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:42:01.241Z",
+  "updatedAt": "2026-09-24T18:42:06.733Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2506,7 +2506,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.c",
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
           "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
-          "lastSyncedAt": "2026-09-24T17:40:45.520Z"
+          "lastSyncedAt": "2026-09-24T18:42:06.733Z"
         }
       ]
     },
