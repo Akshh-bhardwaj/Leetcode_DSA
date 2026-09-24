@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:22:25.065Z",
+  "updatedAt": "2026-09-24T12:23:15.185Z",
   "problems": [
     {
       "frontendId": "53",
@@ -471,6 +471,26 @@
           "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.c",
           "sha": "b6fa7a7b64b54449acfd9e03d189d0d95c80ce23",
           "lastSyncedAt": "2026-09-24T12:04:45.726Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2977",
+      "title": "Minimum Cost to Convert String II",
+      "slug": "minimum-cost-to-convert-string-ii",
+      "problemName": "2977-minimum-cost-to-convert-string-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/",
+      "folderPath": "2977-minimum-cost-to-convert-string-ii/",
+      "readmePath": "2977-minimum-cost-to-convert-string-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2977-minimum-cost-to-convert-string-ii.c",
+          "path": "2977-minimum-cost-to-convert-string-ii/2977-minimum-cost-to-convert-string-ii.c",
+          "sha": "c8d0442312a6e9e2c4c1e5a27044e350ec1582aa",
+          "lastSyncedAt": "2026-09-24T12:23:15.185Z"
         }
       ]
     },
