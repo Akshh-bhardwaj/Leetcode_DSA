@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:51:23.521Z",
+  "updatedAt": "2026-09-24T17:53:22.759Z",
   "problems": [
     {
       "frontendId": "5",
@@ -910,7 +910,7 @@
           "filename": "3130-find-all-possible-stable-binary-arrays-ii.c",
           "path": "3130-find-all-possible-stable-binary-arrays-ii/3130-find-all-possible-stable-binary-arrays-ii.c",
           "sha": "502fe959a22429c32dba8fa6914b43c00e5a650d",
-          "lastSyncedAt": "2026-09-24T12:16:27.628Z"
+          "lastSyncedAt": "2026-09-24T17:53:22.759Z"
         }
       ]
     },
