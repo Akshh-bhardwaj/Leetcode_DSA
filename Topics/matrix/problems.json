@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:13:09.843Z",
+  "updatedAt": "2026-09-24T12:13:24.563Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
           "lastSyncedAt": "2026-09-24T12:12:12.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "problemName": "2906-construct-product-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+      "folderPath": "2906-construct-product-matrix/",
+      "readmePath": "2906-construct-product-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2906-construct-product-matrix.c",
+          "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
+          "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
+          "lastSyncedAt": "2026-09-24T12:13:24.563Z"
         }
       ]
     },
