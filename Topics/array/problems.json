@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:39:24.048Z",
+  "updatedAt": "2026-09-24T12:39:33.496Z",
   "problems": [
     {
       "frontendId": "1",
@@ -831,6 +831,26 @@
           "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.c",
           "sha": "e55c2691e2bfffe938a7602631c0cd9a6f91648d",
           "lastSyncedAt": "2026-09-24T12:24:09.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1262",
+      "title": "Greatest Sum Divisible by Three",
+      "slug": "greatest-sum-divisible-by-three",
+      "problemName": "1262-greatest-sum-divisible-by-three",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+      "folderPath": "1262-greatest-sum-divisible-by-three/",
+      "readmePath": "1262-greatest-sum-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1262-greatest-sum-divisible-by-three.c",
+          "path": "1262-greatest-sum-divisible-by-three/1262-greatest-sum-divisible-by-three.c",
+          "sha": "9c31148f923b70e32d848076c0ecd9781bc86de1",
+          "lastSyncedAt": "2026-09-24T12:39:33.496Z"
         }
       ]
     },
