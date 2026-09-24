@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:26:34.287Z",
+  "updatedAt": "2026-09-24T12:26:44.122Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2211,6 +2211,26 @@
           "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.c",
           "sha": "b15ecbeed9da3f19d4db7a731f8da2a64478b217",
           "lastSyncedAt": "2026-09-24T12:11:23.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3454",
+      "title": "Separate Squares II",
+      "slug": "separate-squares-ii",
+      "problemName": "3454-separate-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-squares-ii/",
+      "folderPath": "3454-separate-squares-ii/",
+      "readmePath": "3454-separate-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3454-separate-squares-ii.c",
+          "path": "3454-separate-squares-ii/3454-separate-squares-ii.c",
+          "sha": "ab2ca666fe20df95fa1c97c768953a164546abaa",
+          "lastSyncedAt": "2026-09-24T12:26:44.122Z"
         }
       ]
     },
