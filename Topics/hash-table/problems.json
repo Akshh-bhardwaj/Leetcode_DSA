@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T17:28:15.415Z",
+  "updatedAt": "2026-09-24T17:29:09.614Z",
   "problems": [
     {
       "frontendId": "1",
@@ -690,7 +690,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.java",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
-          "lastSyncedAt": "2026-09-24T11:51:23.505Z"
+          "lastSyncedAt": "2026-09-24T17:29:09.614Z"
         }
       ]
     },
