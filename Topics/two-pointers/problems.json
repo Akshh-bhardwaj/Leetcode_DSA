@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T18:17:50.711Z",
+  "updatedAt": "2026-09-24T18:17:57.683Z",
   "problems": [
     {
       "frontendId": "5",
@@ -42,7 +42,7 @@
           "filename": "0011-container-with-most-water.c",
           "path": "0011-container-with-most-water/0011-container-with-most-water.c",
           "sha": "c94f03f1afc589d736783512ea06870d565921f0",
-          "lastSyncedAt": "2026-09-24T12:49:29.157Z"
+          "lastSyncedAt": "2026-09-24T18:17:57.683Z"
         }
       ]
     },
