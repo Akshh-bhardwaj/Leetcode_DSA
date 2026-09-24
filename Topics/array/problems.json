@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:30:19.796Z",
+  "updatedAt": "2026-09-24T12:30:31.013Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1627,6 +1627,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
           "lastSyncedAt": "2026-09-24T11:56:55.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2402",
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "problemName": "2402-meeting-rooms-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+      "folderPath": "2402-meeting-rooms-iii/",
+      "readmePath": "2402-meeting-rooms-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2402-meeting-rooms-iii.c",
+          "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.c",
+          "sha": "96f81662c7954e028f9bc1c65e080438754cf93d",
+          "lastSyncedAt": "2026-09-24T12:30:31.013Z"
         }
       ]
     },
