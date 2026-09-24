@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T11:51:56.711Z",
+  "updatedAt": "2026-09-24T11:52:08.943Z",
   "problems": [
     {
       "frontendId": "49",
@@ -162,7 +162,7 @@
           "filename": "0502-ipo.java",
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
-          "lastSyncedAt": "2026-09-24T08:49:31.032Z"
+          "lastSyncedAt": "2026-09-24T11:52:08.943Z"
         }
       ]
     },
