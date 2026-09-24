@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0412-fizz-buzz) |
@@ -228,6 +229,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 ## Combinatorics
 |  |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
