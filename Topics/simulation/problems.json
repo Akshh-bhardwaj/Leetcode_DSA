@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:34:12.505Z",
+  "updatedAt": "2026-09-24T12:36:00.310Z",
   "problems": [
     {
       "frontendId": "67",
@@ -383,6 +383,26 @@
           "path": "3379-transformed-array/3379-transformed-array.c",
           "sha": "93549fde31110b49442e8cfeac808983a9dd45bd",
           "lastSyncedAt": "2026-09-24T12:22:15.170Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3433",
+      "title": "Count Mentions Per User",
+      "slug": "count-mentions-per-user",
+      "problemName": "3433-count-mentions-per-user",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-mentions-per-user/",
+      "folderPath": "3433-count-mentions-per-user/",
+      "readmePath": "3433-count-mentions-per-user/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3433-count-mentions-per-user.c",
+          "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.c",
+          "sha": "7dd7490f207f61510dfd249a4520365b6a871a04",
+          "lastSyncedAt": "2026-09-24T12:36:00.310Z"
         }
       ]
     },
