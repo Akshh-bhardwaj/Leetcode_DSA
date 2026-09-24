@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:46:02.090Z",
+  "updatedAt": "2026-09-24T08:46:31.648Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,6 +803,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
           "lastSyncedAt": "2026-09-24T08:37:14.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "problemName": "3093-longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folderPath": "3093-longest-common-suffix-queries/",
+      "readmePath": "3093-longest-common-suffix-queries/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3093-longest-common-suffix-queries.c",
+          "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
+          "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
+          "lastSyncedAt": "2026-09-24T08:46:31.648Z"
         }
       ]
     },
