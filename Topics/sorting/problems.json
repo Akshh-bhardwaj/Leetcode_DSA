@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T17:52:19.129Z",
+  "updatedAt": "2026-09-24T17:55:00.230Z",
   "problems": [
     {
       "frontendId": "15",
@@ -402,7 +402,7 @@
           "filename": "1356-sort-integers-by-the-number-of-1-bits.c",
           "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.c",
           "sha": "4846c151c4653e13eff9c4b3e3948a27ef4c12b6",
-          "lastSyncedAt": "2026-09-24T12:18:29.823Z"
+          "lastSyncedAt": "2026-09-24T17:55:00.230Z"
         }
       ]
     },
