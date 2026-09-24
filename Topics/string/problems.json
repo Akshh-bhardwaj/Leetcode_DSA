@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:43:46.207Z",
+  "updatedAt": "2026-09-24T18:43:51.967Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1638,7 +1638,7 @@
           "filename": "3120-count-the-number-of-special-characters-i.c",
           "path": "3120-count-the-number-of-special-characters-i/3120-count-the-number-of-special-characters-i.c",
           "sha": "1fb99dc6362c27a97fd6edaa48bcd517de581e20",
-          "lastSyncedAt": "2026-09-24T17:42:45.643Z"
+          "lastSyncedAt": "2026-09-24T18:43:51.967Z"
         }
       ]
     },
