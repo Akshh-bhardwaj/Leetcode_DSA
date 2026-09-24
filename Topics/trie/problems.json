@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-09-24T08:46:00.319Z",
+  "updatedAt": "2026-09-24T08:46:31.648Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "108fe7ac7d663a2f86ffb60a94066e11d4265cc8",
           "lastSyncedAt": "2026-09-24T08:46:00.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "problemName": "3093-longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folderPath": "3093-longest-common-suffix-queries/",
+      "readmePath": "3093-longest-common-suffix-queries/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3093-longest-common-suffix-queries.c",
+          "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
+          "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
+          "lastSyncedAt": "2026-09-24T08:46:31.648Z"
         }
       ]
     }
