@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:58:37.234Z",
+  "updatedAt": "2026-09-24T17:58:51.665Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3074,7 +3074,7 @@
           "filename": "2976-minimum-cost-to-convert-string-i.c",
           "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.c",
           "sha": "66aef85dc519193bbd4eb838ca21bad61729da8f",
-          "lastSyncedAt": "2026-09-24T12:23:34.260Z"
+          "lastSyncedAt": "2026-09-24T17:58:51.665Z"
         }
       ]
     },
