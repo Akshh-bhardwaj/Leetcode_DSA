@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:12:45.595Z",
+  "updatedAt": "2026-09-24T18:13:17.607Z",
   "problems": [
     {
       "frontendId": "1",
@@ -670,7 +670,7 @@
           "filename": "1488-avoid-flood-in-the-city.c",
           "path": "1488-avoid-flood-in-the-city/1488-avoid-flood-in-the-city.c",
           "sha": "d2382226adfc258eff761ac50c1d498fb703c8b9",
-          "lastSyncedAt": "2026-09-24T12:42:50.370Z"
+          "lastSyncedAt": "2026-09-24T18:13:17.607Z"
         }
       ]
     },
