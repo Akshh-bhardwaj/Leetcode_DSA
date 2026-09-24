@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T18:01:36.837Z",
+  "updatedAt": "2026-09-24T18:01:49.639Z",
   "problems": [
     {
       "frontendId": "5",
@@ -242,7 +242,7 @@
           "filename": "0712-minimum-ascii-delete-sum-for-two-strings.c",
           "path": "0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.c",
           "sha": "1faadbdc198ff6115bba204546b4c18ad85eabc5",
-          "lastSyncedAt": "2026-09-24T12:27:36.046Z"
+          "lastSyncedAt": "2026-09-24T18:01:49.639Z"
         }
       ]
     },
