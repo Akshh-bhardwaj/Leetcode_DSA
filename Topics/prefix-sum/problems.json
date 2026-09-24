@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T08:35:04.920Z",
+  "updatedAt": "2026-09-24T08:37:49.250Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -22,7 +22,7 @@
           "filename": "1140-stone-game-ii.java",
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
-          "lastSyncedAt": "2026-09-24T08:24:31.958Z"
+          "lastSyncedAt": "2026-09-24T08:37:49.250Z"
         }
       ]
     },
