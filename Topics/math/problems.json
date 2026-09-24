@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:06:43.261Z",
+  "updatedAt": "2026-09-24T12:07:32.848Z",
   "problems": [
     {
       "frontendId": "2",
@@ -471,6 +471,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
           "lastSyncedAt": "2026-09-24T11:58:03.675Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3464",
+      "title": "Maximize the Distance Between Points on a Square",
+      "slug": "maximize-the-distance-between-points-on-a-square",
+      "problemName": "3464-maximize-the-distance-between-points-on-a-square",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
+      "folderPath": "3464-maximize-the-distance-between-points-on-a-square/",
+      "readmePath": "3464-maximize-the-distance-between-points-on-a-square/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3464-maximize-the-distance-between-points-on-a-square.c",
+          "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.c",
+          "sha": "e89e2b5fcabd77b19ccc9c1db8453ed85c34d0d7",
+          "lastSyncedAt": "2026-09-24T12:07:32.848Z"
         }
       ]
     },
