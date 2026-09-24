@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T08:45:11.184Z",
+  "updatedAt": "2026-09-24T08:45:29.286Z",
   "problems": [
     {
       "frontendId": "502",
@@ -63,6 +63,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
           "sha": "13a0a7e380dc2f6160e4fea3f7ff1c6ba897ba16",
           "lastSyncedAt": "2026-09-24T08:39:29.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "2126-destroying-asteroids/",
+      "readmePath": "2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "2126-destroying-asteroids.c",
+          "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
+          "sha": "8036fee0a837906f256fc34992c155d13913602a",
+          "lastSyncedAt": "2026-09-24T08:45:29.286Z"
         }
       ]
     },
