@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T12:34:02.666Z",
+  "updatedAt": "2026-09-24T12:34:12.505Z",
   "problems": [
     {
       "frontendId": "20",
@@ -123,6 +123,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.c",
           "sha": "5538e1a2e99f60cb688b5d8c77b9e4a1f75583c0",
           "lastSyncedAt": "2026-09-24T12:33:28.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "problemName": "1441-build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+      "folderPath": "1441-build-an-array-with-stack-operations/",
+      "readmePath": "1441-build-an-array-with-stack-operations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1441-build-an-array-with-stack-operations.c",
+          "path": "1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.c",
+          "sha": "5c093ba87bcd6dfe2c9321b30b68eeaab4d0ff6e",
+          "lastSyncedAt": "2026-09-24T12:34:12.505Z"
         }
       ]
     },
