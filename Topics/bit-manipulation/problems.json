@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:25:35.530Z",
+  "updatedAt": "2026-09-24T12:30:05.180Z",
   "problems": [
     {
       "frontendId": "67",
@@ -103,6 +103,26 @@
           "path": "0693-binary-number-with-alternating-bits/0693-binary-number-with-alternating-bits.c",
           "sha": "235054645390b842a3c8904bfd5c3f140b02b474",
           "lastSyncedAt": "2026-09-24T12:19:50.117Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "756",
+      "title": "Pyramid Transition Matrix",
+      "slug": "pyramid-transition-matrix",
+      "problemName": "0756-pyramid-transition-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+      "folderPath": "0756-pyramid-transition-matrix/",
+      "readmePath": "0756-pyramid-transition-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0756-pyramid-transition-matrix.c",
+          "path": "0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.c",
+          "sha": "a3ab8c127570931294e1e163a2ab0ce18346e7ca",
+          "lastSyncedAt": "2026-09-24T12:30:05.180Z"
         }
       ]
     },
