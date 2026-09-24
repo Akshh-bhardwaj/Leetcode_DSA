@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:32:45.552Z",
+  "updatedAt": "2026-09-24T12:35:21.663Z",
   "problems": [
     {
       "frontendId": "3",
@@ -191,6 +191,26 @@
           "path": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
           "sha": "4b6bd9b8996fa985e7c033efcb5191c7d2802dda",
           "lastSyncedAt": "2026-09-24T12:24:18.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
+          "lastSyncedAt": "2026-09-24T12:35:21.663Z"
         }
       ]
     },
