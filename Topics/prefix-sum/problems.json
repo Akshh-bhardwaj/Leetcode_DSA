@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T07:51:23.170Z",
+  "updatedAt": "2026-09-24T07:53:34.556Z",
   "problems": [
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "cf858651ec7c99a086a844d05aa69435705bdb49",
+          "lastSyncedAt": "2026-09-24T07:53:34.556Z"
+        }
+      ]
+    },
     {
       "frontendId": "1621",
       "title": "Number of Sets of K Non-Overlapping Line Segments",
