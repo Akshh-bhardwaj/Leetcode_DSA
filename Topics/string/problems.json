@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T17:54:00.061Z",
+  "updatedAt": "2026-09-24T17:54:03.025Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1110,7 +1110,7 @@
           "filename": "1758-minimum-changes-to-make-alternating-binary-string.c",
           "path": "1758-minimum-changes-to-make-alternating-binary-string/1758-minimum-changes-to-make-alternating-binary-string.c",
           "sha": "f1175158d4a77a8d6dfbc852c5eece8b8d27e16a",
-          "lastSyncedAt": "2026-09-24T12:17:16.270Z"
+          "lastSyncedAt": "2026-09-24T17:54:03.025Z"
         }
       ]
     },
