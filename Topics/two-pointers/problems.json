@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T08:12:12.984Z",
+  "updatedAt": "2026-09-24T08:12:21.703Z",
   "problems": [
     {
       "frontendId": "26",
@@ -122,7 +122,7 @@
           "filename": "0151-reverse-words-in-a-string.java",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "94b66aca67b22c971e691c39c932a3759fe27e24",
-          "lastSyncedAt": "2026-09-24T07:56:31.208Z"
+          "lastSyncedAt": "2026-09-24T08:12:21.703Z"
         }
       ]
     },
