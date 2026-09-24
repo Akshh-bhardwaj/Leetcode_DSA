@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:57:43.910Z",
+  "updatedAt": "2026-09-24T17:57:55.575Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3510,7 +3510,7 @@
           "filename": "3379-transformed-array.c",
           "path": "3379-transformed-array/3379-transformed-array.c",
           "sha": "93549fde31110b49442e8cfeac808983a9dd45bd",
-          "lastSyncedAt": "2026-09-24T12:22:15.170Z"
+          "lastSyncedAt": "2026-09-24T17:57:55.575Z"
         }
       ]
     },
