@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T17:58:13.719Z",
+  "updatedAt": "2026-09-24T17:59:22.548Z",
   "problems": [
     {
       "frontendId": "3",
@@ -210,7 +210,7 @@
           "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
           "path": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
           "sha": "4b6bd9b8996fa985e7c033efcb5191c7d2802dda",
-          "lastSyncedAt": "2026-09-24T12:24:18.275Z"
+          "lastSyncedAt": "2026-09-24T17:59:22.548Z"
         }
       ]
     },
