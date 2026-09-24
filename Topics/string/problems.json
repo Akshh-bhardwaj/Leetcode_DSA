@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:17:33.248Z",
+  "updatedAt": "2026-09-24T18:18:06.581Z",
   "problems": [
     {
       "frontendId": "3",
@@ -82,7 +82,7 @@
           "filename": "0008-string-to-integer-atoi.c",
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.c",
           "sha": "21d552c5d096094a27e87f7d4d738c70a39041bb",
-          "lastSyncedAt": "2026-09-24T12:49:41.193Z"
+          "lastSyncedAt": "2026-09-24T18:18:06.581Z"
         }
       ]
     },
