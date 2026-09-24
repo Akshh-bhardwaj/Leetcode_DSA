@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-24T17:31:25.077Z",
+  "updatedAt": "2026-09-24T17:40:54.543Z",
   "problems": [
     {
       "frontendId": "110",
@@ -142,7 +142,7 @@
           "filename": "2196-create-binary-tree-from-descriptions.c",
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.c",
           "sha": "8423b687b7ab0f7d142b4ccafd700689486de580",
-          "lastSyncedAt": "2026-09-24T12:00:40.021Z"
+          "lastSyncedAt": "2026-09-24T17:40:54.543Z"
         }
       ]
     },
