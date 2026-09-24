@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:49:06.702Z",
+  "updatedAt": "2026-09-24T12:49:16.641Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "108fe7ac7d663a2f86ffb60a94066e11d4265cc8",
           "lastSyncedAt": "2026-09-24T11:50:33.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0015-3sum.c",
+          "path": "0015-3sum/0015-3sum.c",
+          "sha": "ae3f1774b88f61509fbab260f33f312e5e92bdc8",
+          "lastSyncedAt": "2026-09-24T12:49:16.641Z"
         }
       ]
     },
