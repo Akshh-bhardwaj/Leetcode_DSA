@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:34:31.742Z",
+  "updatedAt": "2026-09-24T12:34:45.523Z",
   "problems": [
     {
       "frontendId": "1",
@@ -531,6 +531,26 @@
           "path": "0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.c",
           "sha": "c3e0af2620626f2f0aa2ca8619fe2d4b05878b37",
           "lastSyncedAt": "2026-09-24T12:33:54.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0645-set-mismatch.c",
+          "path": "0645-set-mismatch/0645-set-mismatch.c",
+          "sha": "8781085d6a76e0938d452625556ce50f30f9fa31",
+          "lastSyncedAt": "2026-09-24T12:34:45.523Z"
         }
       ]
     },
