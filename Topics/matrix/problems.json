@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:23:49.922Z",
+  "updatedAt": "2026-09-24T12:25:44.020Z",
   "problems": [
     {
       "frontendId": "48",
@@ -83,6 +83,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
           "lastSyncedAt": "2026-09-24T11:52:37.356Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1292",
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "problemName": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "folderPath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "readmePath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
+          "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
+          "sha": "c5796cfda792d9eede6841b486247c0ca0a0b34d",
+          "lastSyncedAt": "2026-09-24T12:25:44.020Z"
         }
       ]
     },
