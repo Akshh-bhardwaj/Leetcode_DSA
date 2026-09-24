@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:42:22.261Z",
+  "updatedAt": "2026-09-24T07:42:36.688Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,6 +63,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
           "lastSyncedAt": "2026-09-24T07:42:01.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "0da10b926b91738e501fe8760ea42b82844e00a9",
+          "lastSyncedAt": "2026-09-24T07:42:36.688Z"
         }
       ]
     },
