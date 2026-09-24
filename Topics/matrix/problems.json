@@ -4,6 +4,27 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T07:39:09.329Z",
-  "problems": []
+  "updatedAt": "2026-09-24T07:49:17.395Z",
+  "problems": [
+    {
+      "frontendId": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "problemName": "0835-image-overlap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+      "folderPath": "0835-image-overlap/",
+      "readmePath": "0835-image-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0835-image-overlap.java",
+          "path": "0835-image-overlap/0835-image-overlap.java",
+          "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
+          "lastSyncedAt": "2026-09-24T07:49:17.395Z"
+        }
+      ]
+    }
+  ]
 }
