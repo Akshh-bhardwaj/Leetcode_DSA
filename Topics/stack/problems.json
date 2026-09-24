@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T18:12:54.107Z",
+  "updatedAt": "2026-09-24T18:14:11.622Z",
   "problems": [
     {
       "frontendId": "20",
@@ -242,7 +242,7 @@
           "filename": "2197-replace-non-coprime-numbers-in-array.c",
           "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
           "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
-          "lastSyncedAt": "2026-09-24T12:44:06.377Z"
+          "lastSyncedAt": "2026-09-24T18:14:11.622Z"
         }
       ]
     },
