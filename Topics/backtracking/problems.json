@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T18:39:36.083Z",
+  "updatedAt": "2026-09-24T18:53:42.181Z",
   "problems": [
     {
       "frontendId": "22",
@@ -82,7 +82,7 @@
           "filename": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
           "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
           "sha": "1b690312d256f12c2d208cb86a918c9a1af41733",
-          "lastSyncedAt": "2026-09-24T17:52:45.020Z"
+          "lastSyncedAt": "2026-09-24T18:53:42.181Z"
         }
       ]
     },
