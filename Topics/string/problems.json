@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:37:38.860Z",
+  "updatedAt": "2026-09-24T12:39:46.799Z",
   "problems": [
     {
       "frontendId": "3",
@@ -959,6 +959,26 @@
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "sha": "c2eddafba3a6c61652d59323338eb695b629e89b",
           "lastSyncedAt": "2026-09-24T12:17:01.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "problemName": "1930-unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+      "folderPath": "1930-unique-length-3-palindromic-subsequences/",
+      "readmePath": "1930-unique-length-3-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1930-unique-length-3-palindromic-subsequences.c",
+          "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.c",
+          "sha": "d68e5649b458cd4e661f125d43d3a9744c8e09e2",
+          "lastSyncedAt": "2026-09-24T12:39:46.799Z"
         }
       ]
     },
