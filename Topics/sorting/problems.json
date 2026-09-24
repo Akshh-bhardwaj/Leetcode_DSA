@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:38:47.998Z",
+  "updatedAt": "2026-09-24T18:39:56.042Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1190,7 +1190,7 @@
           "filename": "3731-find-missing-elements.java",
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "1384a7cb1e700136c4c430dd4413b060c433786a",
-          "lastSyncedAt": "2026-09-24T17:38:33.571Z"
+          "lastSyncedAt": "2026-09-24T18:39:56.042Z"
         }
       ]
     }
