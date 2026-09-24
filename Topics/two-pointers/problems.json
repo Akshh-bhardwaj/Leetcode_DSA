@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:48:22.705Z",
+  "updatedAt": "2026-09-24T12:48:34.510Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0016-3sum-closest.c",
+          "path": "0016-3sum-closest/0016-3sum-closest.c",
+          "sha": "35f52139490461901cc055dc91ba8dca1e323a08",
+          "lastSyncedAt": "2026-09-24T12:48:34.510Z"
+        }
+      ]
+    },
     {
       "frontendId": "18",
       "title": "4Sum",
