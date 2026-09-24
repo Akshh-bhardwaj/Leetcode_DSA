@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T17:52:51.278Z",
+  "updatedAt": "2026-09-24T17:53:07.341Z",
   "problems": [
     {
       "frontendId": "4",
@@ -578,7 +578,7 @@
           "filename": "3600-maximize-spanning-tree-stability-with-upgrades.c",
           "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.c",
           "sha": "017d65e5f890b8de404bd6fae2c146037c70cd27",
-          "lastSyncedAt": "2026-09-24T12:16:06.371Z"
+          "lastSyncedAt": "2026-09-24T17:53:07.341Z"
         }
       ]
     },
