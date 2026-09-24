@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T18:34:45.427Z",
+  "updatedAt": "2026-09-24T18:41:51.074Z",
   "problems": [
     {
       "frontendId": "215",
@@ -322,7 +322,7 @@
           "filename": "3691-maximum-total-subarray-value-ii.c",
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
           "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
-          "lastSyncedAt": "2026-09-24T17:40:25.439Z"
+          "lastSyncedAt": "2026-09-24T18:41:51.074Z"
         }
       ]
     }
