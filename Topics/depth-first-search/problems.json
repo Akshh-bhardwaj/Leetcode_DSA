@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T18:02:25.623Z",
+  "updatedAt": "2026-09-24T18:02:31.728Z",
   "problems": [
     {
       "frontendId": "110",
@@ -102,7 +102,7 @@
           "filename": "1161-maximum-level-sum-of-a-binary-tree.c",
           "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.c",
           "sha": "3605298bd3e3a3c4116f8ab007395ba757c34644",
-          "lastSyncedAt": "2026-09-24T12:28:34.530Z"
+          "lastSyncedAt": "2026-09-24T18:02:31.728Z"
         }
       ]
     },
