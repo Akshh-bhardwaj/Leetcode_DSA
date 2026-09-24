@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:08:16.874Z",
+  "updatedAt": "2026-09-24T18:08:41.011Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1450,7 +1450,7 @@
           "filename": "3583-count-special-triplets.c",
           "path": "3583-count-special-triplets/3583-count-special-triplets.c",
           "sha": "6160df5eba1259b917d8d4706b538dd21957e9b8",
-          "lastSyncedAt": "2026-09-24T12:36:40.202Z"
+          "lastSyncedAt": "2026-09-24T18:08:41.011Z"
         }
       ]
     },
