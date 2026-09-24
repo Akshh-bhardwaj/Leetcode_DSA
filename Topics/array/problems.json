@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:11:24.922Z",
+  "updatedAt": "2026-09-24T18:11:34.405Z",
   "problems": [
     {
       "frontendId": "1",
@@ -790,7 +790,7 @@
           "filename": "0717-1-bit-and-2-bit-characters.c",
           "path": "0717-1-bit-and-2-bit-characters/0717-1-bit-and-2-bit-characters.c",
           "sha": "c286c32a27759d568d7a5e12e9fe75691ff732fc",
-          "lastSyncedAt": "2026-09-24T12:40:26.056Z"
+          "lastSyncedAt": "2026-09-24T18:11:34.405Z"
         }
       ]
     },
