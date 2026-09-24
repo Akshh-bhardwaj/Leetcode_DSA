@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:41:31.398Z",
+  "updatedAt": "2026-09-24T12:42:22.548Z",
   "problems": [
     {
       "frontendId": "53",
@@ -423,6 +423,26 @@
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
           "lastSyncedAt": "2026-09-24T11:57:28.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1526",
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "problemName": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "folderPath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "readmePath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.c",
+          "path": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.c",
+          "sha": "006b82554aad5d6eb25e4f220bc83c342f642108",
+          "lastSyncedAt": "2026-09-24T12:42:22.548Z"
         }
       ]
     },
