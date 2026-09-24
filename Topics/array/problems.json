@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:34:22.362Z",
+  "updatedAt": "2026-09-24T12:34:31.742Z",
   "problems": [
     {
       "frontendId": "1",
@@ -931,6 +931,26 @@
           "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.c",
           "sha": "4846c151c4653e13eff9c4b3e3948a27ef4c12b6",
           "lastSyncedAt": "2026-09-24T12:18:29.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.c",
+          "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.c",
+          "sha": "9e3ca9a1ec869b04e1a3f2c5649eeb3600c9dcf5",
+          "lastSyncedAt": "2026-09-24T12:34:31.742Z"
         }
       ]
     },
