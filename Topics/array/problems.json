@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:05:46.096Z",
+  "updatedAt": "2026-09-24T12:06:12.283Z",
   "problems": [
     {
       "frontendId": "1",
@@ -391,6 +391,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "0333ab3616cbb0ebf6ca95dfc3b965da6615bc59",
           "lastSyncedAt": "2026-09-24T11:53:03.381Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "0396-rotate-function/",
+      "readmePath": "0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0396-rotate-function.c",
+          "path": "0396-rotate-function/0396-rotate-function.c",
+          "sha": "93d2eee5bd95b35343989e5b31220d79f141c869",
+          "lastSyncedAt": "2026-09-24T12:06:12.283Z"
         }
       ]
     },
