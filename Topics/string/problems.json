@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:05:55.866Z",
+  "updatedAt": "2026-09-24T12:07:47.789Z",
   "problems": [
     {
       "frontendId": "3",
@@ -619,6 +619,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
           "lastSyncedAt": "2026-09-24T11:51:49.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2833",
+      "title": "Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "problemName": "2833-furthest-point-from-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "folderPath": "2833-furthest-point-from-origin/",
+      "readmePath": "2833-furthest-point-from-origin/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2833-furthest-point-from-origin.c",
+          "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.c",
+          "sha": "4f7b70d810ebdee95e65b88f8755ea96f9339f14",
+          "lastSyncedAt": "2026-09-24T12:07:47.789Z"
         }
       ]
     },
