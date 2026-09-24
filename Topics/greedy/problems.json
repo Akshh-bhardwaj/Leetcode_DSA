@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:32:15.607Z",
+  "updatedAt": "2026-09-24T12:38:22.745Z",
   "problems": [
     {
       "frontendId": "502",
@@ -271,6 +271,26 @@
           "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
           "sha": "8036fee0a837906f256fc34992c155d13913602a",
           "lastSyncedAt": "2026-09-24T08:45:29.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2141",
+      "title": "Maximum Running Time of N Computers",
+      "slug": "maximum-running-time-of-n-computers",
+      "problemName": "2141-maximum-running-time-of-n-computers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-running-time-of-n-computers/",
+      "folderPath": "2141-maximum-running-time-of-n-computers/",
+      "readmePath": "2141-maximum-running-time-of-n-computers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2141-maximum-running-time-of-n-computers.c",
+          "path": "2141-maximum-running-time-of-n-computers/2141-maximum-running-time-of-n-computers.c",
+          "sha": "f9e9245e37e72c7b6d0abf611f5d9e60eb367d80",
+          "lastSyncedAt": "2026-09-24T12:38:22.745Z"
         }
       ]
     },
