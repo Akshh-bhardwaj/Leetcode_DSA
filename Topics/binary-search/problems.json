@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T18:03:11.529Z",
+  "updatedAt": "2026-09-24T18:03:50.553Z",
   "problems": [
     {
       "frontendId": "4",
@@ -230,7 +230,7 @@
           "filename": "1351-count-negative-numbers-in-a-sorted-matrix.c",
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.c",
           "sha": "802568158d0825be86ab58b6d8f353d76022af3f",
-          "lastSyncedAt": "2026-09-24T12:30:19.796Z"
+          "lastSyncedAt": "2026-09-24T18:03:50.553Z"
         }
       ]
     },
