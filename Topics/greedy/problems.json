@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:30:55.518Z",
+  "updatedAt": "2026-09-24T12:31:06.526Z",
   "problems": [
     {
       "frontendId": "502",
@@ -339,6 +339,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T11:51:56.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3074",
+      "title": "Apple Redistribution into Boxes",
+      "slug": "apple-redistribution-into-boxes",
+      "problemName": "3074-apple-redistribution-into-boxes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+      "folderPath": "3074-apple-redistribution-into-boxes/",
+      "readmePath": "3074-apple-redistribution-into-boxes/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3074-apple-redistribution-into-boxes.c",
+          "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.c",
+          "sha": "88f68e491dc090cccf00a8f6604dbfb67625c469",
+          "lastSyncedAt": "2026-09-24T12:31:06.526Z"
         }
       ]
     },
