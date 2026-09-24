@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:11:35.571Z",
+  "updatedAt": "2026-09-24T12:11:56.967Z",
   "problems": [
     {
       "frontendId": "49",
@@ -411,6 +411,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T11:51:56.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2840",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "problemName": "2840-check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+      "folderPath": "2840-check-if-strings-can-be-made-equal-with-operations-ii/",
+      "readmePath": "2840-check-if-strings-can-be-made-equal-with-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.c",
+          "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.c",
+          "sha": "f641f055c5362743a41fd6f2e8767eba49fbba3f",
+          "lastSyncedAt": "2026-09-24T12:11:56.967Z"
         }
       ]
     },
