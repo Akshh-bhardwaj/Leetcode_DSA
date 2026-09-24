@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:49:41.193Z",
+  "updatedAt": "2026-09-24T12:49:54.925Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
           "lastSyncedAt": "2026-09-24T11:56:20.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "0006-zigzag-conversion/",
+      "readmePath": "0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0006-zigzag-conversion.c",
+          "path": "0006-zigzag-conversion/0006-zigzag-conversion.c",
+          "sha": "f6d5adaba6b8777c92e42c83ef4a1db053e7acc9",
+          "lastSyncedAt": "2026-09-24T12:49:54.925Z"
         }
       ]
     },
