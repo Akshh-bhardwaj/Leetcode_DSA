@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:13:09.843Z",
+  "updatedAt": "2026-09-24T12:13:24.563Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1435,6 +1435,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T11:51:56.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "problemName": "2906-construct-product-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+      "folderPath": "2906-construct-product-matrix/",
+      "readmePath": "2906-construct-product-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2906-construct-product-matrix.c",
+          "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
+          "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
+          "lastSyncedAt": "2026-09-24T12:13:24.563Z"
         }
       ]
     },
