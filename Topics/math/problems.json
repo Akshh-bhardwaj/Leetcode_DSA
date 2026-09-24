@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T11:52:23.985Z",
+  "updatedAt": "2026-09-24T11:52:51.576Z",
   "problems": [
     {
       "frontendId": "2",
@@ -562,7 +562,7 @@
           "filename": "3870-count-commas-in-range.java",
           "path": "3870-count-commas-in-range/3870-count-commas-in-range.java",
           "sha": "93e5668cfedd425cb27c176aeb4cc93a044fef99",
-          "lastSyncedAt": "2026-09-24T08:50:18.987Z"
+          "lastSyncedAt": "2026-09-24T11:52:51.576Z"
         }
       ]
     },
