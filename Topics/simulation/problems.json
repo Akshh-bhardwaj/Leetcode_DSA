@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:10:17.165Z",
+  "updatedAt": "2026-09-24T12:10:29.148Z",
   "problems": [
     {
       "frontendId": "412",
@@ -83,6 +83,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T11:56:15.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2069",
+      "title": "Walking Robot Simulation II",
+      "slug": "walking-robot-simulation-ii",
+      "problemName": "2069-walking-robot-simulation-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation-ii/",
+      "folderPath": "2069-walking-robot-simulation-ii/",
+      "readmePath": "2069-walking-robot-simulation-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2069-walking-robot-simulation-ii.c",
+          "path": "2069-walking-robot-simulation-ii/2069-walking-robot-simulation-ii.c",
+          "sha": "9d750ee49d9e36f788025f06f514f8ebcac29f23",
+          "lastSyncedAt": "2026-09-24T12:10:29.148Z"
         }
       ]
     },
