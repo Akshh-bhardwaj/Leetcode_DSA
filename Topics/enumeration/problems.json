@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-24T11:58:14.545Z",
+  "updatedAt": "2026-09-24T12:01:05.536Z",
   "problems": [
     {
       "frontendId": "3345",
@@ -62,7 +62,7 @@
           "filename": "3751-total-waviness-of-numbers-in-range-i.c",
           "path": "3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.c",
           "sha": "935ccfa48e12c471112a23de81a89bad8ac66d3b",
-          "lastSyncedAt": "2026-09-24T08:44:14.943Z"
+          "lastSyncedAt": "2026-09-24T12:01:05.536Z"
         }
       ]
     }
