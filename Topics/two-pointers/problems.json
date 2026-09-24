@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T18:29:09.318Z",
+  "updatedAt": "2026-09-24T18:29:15.012Z",
   "problems": [
     {
       "frontendId": "5",
@@ -362,7 +362,7 @@
           "filename": "0443-string-compression.java",
           "path": "0443-string-compression/0443-string-compression.java",
           "sha": "8947ac3db98d11c1a10fd9528476b401c7aef761",
-          "lastSyncedAt": "2026-09-24T17:25:57.814Z"
+          "lastSyncedAt": "2026-09-24T18:29:15.012Z"
         }
       ]
     },
