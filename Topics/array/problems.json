@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:26:59.903Z",
+  "updatedAt": "2026-09-24T12:27:08.956Z",
   "problems": [
     {
       "frontendId": "1",
@@ -531,6 +531,26 @@
           "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.c",
           "sha": "e55c2691e2bfffe938a7602631c0cd9a6f91648d",
           "lastSyncedAt": "2026-09-24T12:24:09.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "problemName": "1266-minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+      "folderPath": "1266-minimum-time-visiting-all-points/",
+      "readmePath": "1266-minimum-time-visiting-all-points/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1266-minimum-time-visiting-all-points.c",
+          "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.c",
+          "sha": "fab4cb8480f331dd894c7bd6b973ef0803d89199",
+          "lastSyncedAt": "2026-09-24T12:27:08.956Z"
         }
       ]
     },
