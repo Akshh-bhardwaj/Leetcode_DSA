@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:10:17.165Z",
+  "updatedAt": "2026-09-24T12:10:38.129Z",
   "problems": [
     {
       "frontendId": "1",
@@ -451,6 +451,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
           "lastSyncedAt": "2026-09-24T11:52:37.356Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "874",
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "problemName": "0874-walking-robot-simulation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
+      "folderPath": "0874-walking-robot-simulation/",
+      "readmePath": "0874-walking-robot-simulation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0874-walking-robot-simulation.c",
+          "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.c",
+          "sha": "03bee6590d8071dcbc2b8a7c51121db51627b910",
+          "lastSyncedAt": "2026-09-24T12:10:38.129Z"
         }
       ]
     },
