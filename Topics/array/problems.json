@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:13:50.586Z",
+  "updatedAt": "2026-09-24T12:13:59.055Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1999,6 +1999,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.c",
           "sha": "885f1aea3b6a73723d87dc1695c1fb580d99f5b8",
           "lastSyncedAt": "2026-09-24T08:44:28.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3643",
+      "title": "Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "problemName": "3643-flip-square-submatrix-vertically",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+      "folderPath": "3643-flip-square-submatrix-vertically/",
+      "readmePath": "3643-flip-square-submatrix-vertically/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3643-flip-square-submatrix-vertically.c",
+          "path": "3643-flip-square-submatrix-vertically/3643-flip-square-submatrix-vertically.c",
+          "sha": "1023d0ccd48668a8ff2d061b57ce58e6a7abb1a5",
+          "lastSyncedAt": "2026-09-24T12:13:59.055Z"
         }
       ]
     },
