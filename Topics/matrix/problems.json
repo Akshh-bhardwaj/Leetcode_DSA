@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:42:36.249Z",
+  "updatedAt": "2026-09-24T12:46:27.439Z",
   "problems": [
     {
       "frontendId": "48",
@@ -83,6 +83,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "0333ab3616cbb0ebf6ca95dfc3b965da6615bc59",
           "lastSyncedAt": "2026-09-24T11:53:03.381Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "0498-diagonal-traverse/",
+      "readmePath": "0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0498-diagonal-traverse.c",
+          "path": "0498-diagonal-traverse/0498-diagonal-traverse.c",
+          "sha": "212cb93850fcae7f4469ce8def8dab7869d768cd",
+          "lastSyncedAt": "2026-09-24T12:46:27.439Z"
         }
       ]
     },
