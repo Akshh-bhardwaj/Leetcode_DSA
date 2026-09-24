@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:23:15.185Z",
+  "updatedAt": "2026-09-24T12:23:34.260Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1059,6 +1059,26 @@
           "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.c",
           "sha": "f641f055c5362743a41fd6f2e8767eba49fbba3f",
           "lastSyncedAt": "2026-09-24T12:11:56.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2976-minimum-cost-to-convert-string-i.c",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.c",
+          "sha": "66aef85dc519193bbd4eb838ca21bad61729da8f",
+          "lastSyncedAt": "2026-09-24T12:23:34.260Z"
         }
       ]
     },
