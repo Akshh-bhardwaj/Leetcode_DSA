@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:39:00.494Z",
+  "updatedAt": "2026-09-24T12:39:46.799Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -231,6 +231,26 @@
           "path": "1895-largest-magic-square/1895-largest-magic-square.c",
           "sha": "6bfe5c17d1d9058fa5593a69b9567744ddd0517f",
           "lastSyncedAt": "2026-09-24T12:26:01.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "problemName": "1930-unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+      "folderPath": "1930-unique-length-3-palindromic-subsequences/",
+      "readmePath": "1930-unique-length-3-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1930-unique-length-3-palindromic-subsequences.c",
+          "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.c",
+          "sha": "d68e5649b458cd4e661f125d43d3a9744c8e09e2",
+          "lastSyncedAt": "2026-09-24T12:39:46.799Z"
         }
       ]
     },
