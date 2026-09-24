@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T07:48:22.463Z",
+  "updatedAt": "2026-09-24T07:48:49.683Z",
   "problems": [
     {
       "frontendId": "49",
@@ -203,6 +203,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T07:48:22.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3741",
+      "title": "Minimum Distance Between Three Equal Elements II",
+      "slug": "minimum-distance-between-three-equal-elements-ii",
+      "problemName": "3741-minimum-distance-between-three-equal-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/",
+      "folderPath": "3741-minimum-distance-between-three-equal-elements-ii/",
+      "readmePath": "3741-minimum-distance-between-three-equal-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3741-minimum-distance-between-three-equal-elements-ii.java",
+          "path": "3741-minimum-distance-between-three-equal-elements-ii/3741-minimum-distance-between-three-equal-elements-ii.java",
+          "sha": "bb124a3552364e186edad98d3c923ddb72c52dde",
+          "lastSyncedAt": "2026-09-24T07:48:49.683Z"
         }
       ]
     }
