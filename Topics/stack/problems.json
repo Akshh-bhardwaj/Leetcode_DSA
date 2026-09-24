@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T12:42:22.548Z",
+  "updatedAt": "2026-09-24T12:44:06.377Z",
   "problems": [
     {
       "frontendId": "20",
@@ -223,6 +223,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.c",
           "sha": "774bd966f13ccf940405bc94bca4582f389b72d2",
           "lastSyncedAt": "2026-09-24T11:59:35.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2197",
+      "title": "Replace Non-Coprime Numbers in Array",
+      "slug": "replace-non-coprime-numbers-in-array",
+      "problemName": "2197-replace-non-coprime-numbers-in-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/",
+      "folderPath": "2197-replace-non-coprime-numbers-in-array/",
+      "readmePath": "2197-replace-non-coprime-numbers-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2197-replace-non-coprime-numbers-in-array.c",
+          "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
+          "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
+          "lastSyncedAt": "2026-09-24T12:44:06.377Z"
         }
       ]
     },
