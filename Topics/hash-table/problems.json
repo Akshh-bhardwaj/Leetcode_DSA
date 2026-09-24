@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:42:08.660Z",
+  "updatedAt": "2026-09-24T12:42:50.370Z",
   "problems": [
     {
       "frontendId": "1",
@@ -531,6 +531,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "f3a6bda93bbc5228f65b50958e0a102658e111dc",
           "lastSyncedAt": "2026-09-24T11:51:31.670Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1488",
+      "title": "Avoid Flood in The City",
+      "slug": "avoid-flood-in-the-city",
+      "problemName": "1488-avoid-flood-in-the-city",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+      "folderPath": "1488-avoid-flood-in-the-city/",
+      "readmePath": "1488-avoid-flood-in-the-city/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1488-avoid-flood-in-the-city.c",
+          "path": "1488-avoid-flood-in-the-city/1488-avoid-flood-in-the-city.c",
+          "sha": "d2382226adfc258eff761ac50c1d498fb703c8b9",
+          "lastSyncedAt": "2026-09-24T12:42:50.370Z"
         }
       ]
     },
