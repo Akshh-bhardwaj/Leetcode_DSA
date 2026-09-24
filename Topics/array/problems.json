@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:15:50.774Z",
+  "updatedAt": "2026-09-24T12:16:45.914Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1091,6 +1091,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T11:56:15.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1980-find-unique-binary-string.c",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
+          "sha": "48c72429044eef67081377787de57496d6e1fe5c",
+          "lastSyncedAt": "2026-09-24T12:16:45.914Z"
         }
       ]
     },
