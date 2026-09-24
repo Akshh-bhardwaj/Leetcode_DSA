@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-24T07:51:42.708Z",
+  "updatedAt": "2026-09-24T07:55:47.970Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0002-add-two-numbers.java",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.java",
+          "sha": "0a56b27701d409abf5db14508e32aba58a816cbd",
+          "lastSyncedAt": "2026-09-24T07:55:47.970Z"
+        }
+      ]
+    },
     {
       "frontendId": "25",
       "title": "Reverse Nodes in k-Group",
