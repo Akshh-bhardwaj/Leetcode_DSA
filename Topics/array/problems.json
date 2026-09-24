@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:41:40.068Z",
+  "updatedAt": "2026-09-24T17:41:51.803Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2458,7 +2458,7 @@
           "filename": "2144-minimum-cost-of-buying-candies-with-discount.c",
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.c",
           "sha": "9957dc7867dc809efc149acc2e68379da1f9e750",
-          "lastSyncedAt": "2026-09-24T12:01:34.161Z"
+          "lastSyncedAt": "2026-09-24T17:41:51.803Z"
         },
         {
           "language": "Java",
