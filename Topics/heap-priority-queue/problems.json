@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T07:45:13.177Z",
+  "updatedAt": "2026-09-24T07:48:22.463Z",
   "problems": [
     {
       "frontendId": "451",
@@ -23,6 +23,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "c679486637e2452697183e3792e24178ace5eba5",
           "lastSyncedAt": "2026-09-24T07:45:13.177Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2813",
+      "title": "Maximum Elegance of a K-Length Subsequence",
+      "slug": "maximum-elegance-of-a-k-length-subsequence",
+      "problemName": "2813-maximum-elegance-of-a-k-length-subsequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/",
+      "folderPath": "2813-maximum-elegance-of-a-k-length-subsequence/",
+      "readmePath": "2813-maximum-elegance-of-a-k-length-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2813-maximum-elegance-of-a-k-length-subsequence.java",
+          "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
+          "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
+          "lastSyncedAt": "2026-09-24T07:48:22.463Z"
         }
       ]
     }
