@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "primality-test",
+    "name": "Primality Test"
+  },
+  "updatedAt": "2026-09-24T12:19:19.607Z",
+  "problems": [
+    {
+      "frontendId": "762",
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "slug": "prime-number-of-set-bits-in-binary-representation",
+      "problemName": "0762-prime-number-of-set-bits-in-binary-representation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+      "folderPath": "0762-prime-number-of-set-bits-in-binary-representation/",
+      "readmePath": "0762-prime-number-of-set-bits-in-binary-representation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0762-prime-number-of-set-bits-in-binary-representation.c",
+          "path": "0762-prime-number-of-set-bits-in-binary-representation/0762-prime-number-of-set-bits-in-binary-representation.c",
+          "sha": "278f32fadeccf20c335e8de7ed88ea200f758a91",
+          "lastSyncedAt": "2026-09-24T12:19:19.607Z"
+        }
+      ]
+    }
+  ]
+}
