@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:47:45.081Z",
+  "updatedAt": "2026-09-24T18:48:18.446Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1030,7 +1030,7 @@
           "filename": "3464-maximize-the-distance-between-points-on-a-square.c",
           "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.c",
           "sha": "e89e2b5fcabd77b19ccc9c1db8453ed85c34d0d7",
-          "lastSyncedAt": "2026-09-24T17:46:54.429Z"
+          "lastSyncedAt": "2026-09-24T18:48:18.446Z"
         }
       ]
     },
