@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T17:37:03.076Z",
+  "updatedAt": "2026-09-24T17:39:32.175Z",
   "problems": [
     {
       "frontendId": "67",
@@ -582,7 +582,7 @@
           "filename": "3614-process-string-with-special-operations-ii.java",
           "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.java",
           "sha": "897140186400c02ca34a30cc13cc759c6e982bcd",
-          "lastSyncedAt": "2026-09-24T11:59:21.746Z"
+          "lastSyncedAt": "2026-09-24T17:39:32.175Z"
         }
       ]
     },
