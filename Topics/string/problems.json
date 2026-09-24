@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:50:30.569Z",
+  "updatedAt": "2026-09-24T18:50:35.783Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1258,7 +1258,7 @@
           "filename": "2075-decode-the-slanted-ciphertext.c",
           "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.c",
           "sha": "d79b883082ce2bbaaa260b7f9260a8a54dc795f8",
-          "lastSyncedAt": "2026-09-24T17:49:27.940Z"
+          "lastSyncedAt": "2026-09-24T18:50:35.783Z"
         }
       ]
     },
