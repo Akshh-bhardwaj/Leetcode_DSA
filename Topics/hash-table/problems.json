@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:37:50.711Z",
+  "updatedAt": "2026-09-24T12:38:05.996Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1111,6 +1111,26 @@
           "path": "3606-coupon-code-validator/3606-coupon-code-validator.c",
           "sha": "9cf8e8e813f685abb0af9dea124c583b80656f7e",
           "lastSyncedAt": "2026-09-24T12:35:46.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3623",
+      "title": "Count Number of Trapezoids I",
+      "slug": "count-number-of-trapezoids-i",
+      "problemName": "3623-count-number-of-trapezoids-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-trapezoids-i/",
+      "folderPath": "3623-count-number-of-trapezoids-i/",
+      "readmePath": "3623-count-number-of-trapezoids-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3623-count-number-of-trapezoids-i.c",
+          "path": "3623-count-number-of-trapezoids-i/3623-count-number-of-trapezoids-i.c",
+          "sha": "a09e646e7d6d0b7f71e9505eb43324624e13248d",
+          "lastSyncedAt": "2026-09-24T12:38:05.996Z"
         }
       ]
     },
