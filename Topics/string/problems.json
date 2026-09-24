@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T11:58:46.743Z",
+  "updatedAt": "2026-09-24T11:59:21.746Z",
   "problems": [
     {
       "frontendId": "3",
@@ -790,7 +790,7 @@
           "filename": "3614-process-string-with-special-operations-ii.java",
           "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.java",
           "sha": "897140186400c02ca34a30cc13cc759c6e982bcd",
-          "lastSyncedAt": "2026-09-24T08:40:25.687Z"
+          "lastSyncedAt": "2026-09-24T11:59:21.746Z"
         }
       ]
     },
