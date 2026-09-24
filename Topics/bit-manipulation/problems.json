@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T17:40:02.477Z",
+  "updatedAt": "2026-09-24T17:43:34.231Z",
   "problems": [
     {
       "frontendId": "67",
@@ -402,7 +402,7 @@
           "filename": "2657-find-the-prefix-common-array-of-two-arrays.c",
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
-          "lastSyncedAt": "2026-09-24T12:03:04.520Z"
+          "lastSyncedAt": "2026-09-24T17:43:34.231Z"
         }
       ]
     },
