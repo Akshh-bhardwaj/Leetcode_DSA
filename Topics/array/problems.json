@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:04:33.630Z",
+  "updatedAt": "2026-09-24T18:04:46.501Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1030,7 +1030,7 @@
           "filename": "0960-delete-columns-to-make-sorted-iii.c",
           "path": "0960-delete-columns-to-make-sorted-iii/0960-delete-columns-to-make-sorted-iii.c",
           "sha": "8410e8a4805204417e5db5d6f1e434e3ac20dcd8",
-          "lastSyncedAt": "2026-09-24T12:31:32.054Z"
+          "lastSyncedAt": "2026-09-24T18:04:46.501Z"
         }
       ]
     },
