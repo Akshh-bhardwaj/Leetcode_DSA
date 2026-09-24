@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T07:52:54.474Z",
+  "updatedAt": "2026-09-24T07:52:56.333Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "39d29b96c69a71a3cc678af332fee1df67575939",
+          "lastSyncedAt": "2026-09-24T07:52:56.333Z"
+        }
+      ]
+    },
     {
       "frontendId": "27",
       "title": "Remove Element",
