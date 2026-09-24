@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:43:37.812Z",
+  "updatedAt": "2026-09-24T12:44:06.377Z",
   "problems": [
     {
       "frontendId": "2",
@@ -763,6 +763,26 @@
           "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.c",
           "sha": "310fb5cc605397541df02d13c053f7ea43812ae7",
           "lastSyncedAt": "2026-09-24T12:35:35.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2197",
+      "title": "Replace Non-Coprime Numbers in Array",
+      "slug": "replace-non-coprime-numbers-in-array",
+      "problemName": "2197-replace-non-coprime-numbers-in-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/",
+      "folderPath": "2197-replace-non-coprime-numbers-in-array/",
+      "readmePath": "2197-replace-non-coprime-numbers-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2197-replace-non-coprime-numbers-in-array.c",
+          "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
+          "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
+          "lastSyncedAt": "2026-09-24T12:44:06.377Z"
         }
       ]
     },
