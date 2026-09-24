@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:09:56.491Z",
+  "updatedAt": "2026-09-24T12:10:05.378Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1799,6 +1799,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.c",
           "sha": "885f1aea3b6a73723d87dc1695c1fb580d99f5b8",
           "lastSyncedAt": "2026-09-24T08:44:28.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3655",
+      "title": "XOR After Range Multiplication Queries II",
+      "slug": "xor-after-range-multiplication-queries-ii",
+      "problemName": "3655-xor-after-range-multiplication-queries-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+      "folderPath": "3655-xor-after-range-multiplication-queries-ii/",
+      "readmePath": "3655-xor-after-range-multiplication-queries-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3655-xor-after-range-multiplication-queries-ii.c",
+          "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
+          "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
+          "lastSyncedAt": "2026-09-24T12:10:05.378Z"
         }
       ]
     },
