@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T18:50:50.826Z",
+  "updatedAt": "2026-09-24T18:51:26.836Z",
   "problems": [
     {
       "frontendId": "48",
@@ -562,7 +562,7 @@
           "filename": "2573-find-the-string-with-lcp.c",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
-          "lastSyncedAt": "2026-09-24T17:50:23.037Z"
+          "lastSyncedAt": "2026-09-24T18:51:26.836Z"
         }
       ]
     },
