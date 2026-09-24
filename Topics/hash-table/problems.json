@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:42:48.265Z",
+  "updatedAt": "2026-09-24T08:43:00.887Z",
   "problems": [
     {
       "frontendId": "1",
@@ -222,7 +222,7 @@
           "filename": "0438-find-all-anagrams-in-a-string.java",
           "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
           "sha": "40afd124472034b41f8ed0fca7ce6372627d30fa",
-          "lastSyncedAt": "2026-09-24T08:24:46.920Z"
+          "lastSyncedAt": "2026-09-24T08:43:00.887Z"
         }
       ]
     },
