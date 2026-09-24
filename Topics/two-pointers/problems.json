@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:47:14.809Z",
+  "updatedAt": "2026-09-24T12:48:22.705Z",
   "problems": [
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "0018-4sum/",
+      "readmePath": "0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0018-4sum.c",
+          "path": "0018-4sum/0018-4sum.c",
+          "sha": "e6c167f6f14e4c9ebf0ef607c72f475f0cba4a58",
+          "lastSyncedAt": "2026-09-24T12:48:22.705Z"
+        }
+      ]
+    },
     {
       "frontendId": "19",
       "title": "Remove Nth Node From End of List",
