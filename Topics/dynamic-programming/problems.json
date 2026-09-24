@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T08:15:02.912Z",
+  "updatedAt": "2026-09-24T08:15:55.396Z",
   "problems": [
     {
       "frontendId": "53",
@@ -122,7 +122,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "f3a6bda93bbc5228f65b50958e0a102658e111dc",
-          "lastSyncedAt": "2026-09-24T07:47:45.129Z"
+          "lastSyncedAt": "2026-09-24T08:15:55.396Z"
         }
       ]
     },
