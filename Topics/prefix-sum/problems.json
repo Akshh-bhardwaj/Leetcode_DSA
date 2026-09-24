@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:37:05.135Z",
+  "updatedAt": "2026-09-24T12:37:24.815Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -399,6 +399,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.c",
           "sha": "0110c000a0036654f74df32d8156145eed0e7853",
           "lastSyncedAt": "2026-09-24T12:06:32.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3432",
+      "title": "Count Partitions with Even Sum Difference",
+      "slug": "count-partitions-with-even-sum-difference",
+      "problemName": "3432-count-partitions-with-even-sum-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+      "folderPath": "3432-count-partitions-with-even-sum-difference/",
+      "readmePath": "3432-count-partitions-with-even-sum-difference/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3432-count-partitions-with-even-sum-difference.c",
+          "path": "3432-count-partitions-with-even-sum-difference/3432-count-partitions-with-even-sum-difference.c",
+          "sha": "a3b43b88feffd92608729bbcece0d038757a58b4",
+          "lastSyncedAt": "2026-09-24T12:37:24.815Z"
         }
       ]
     },
