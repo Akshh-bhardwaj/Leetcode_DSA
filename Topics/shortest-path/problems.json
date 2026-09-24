@@ -4,7 +4,7 @@
     "slug": "shortest-path",
     "name": "Shortest Path"
   },
-  "updatedAt": "2026-09-24T12:23:59.391Z",
+  "updatedAt": "2026-09-24T17:58:37.234Z",
   "problems": [
     {
       "frontendId": "2976",
@@ -42,7 +42,7 @@
           "filename": "2977-minimum-cost-to-convert-string-ii.c",
           "path": "2977-minimum-cost-to-convert-string-ii/2977-minimum-cost-to-convert-string-ii.c",
           "sha": "c8d0442312a6e9e2c4c1e5a27044e350ec1582aa",
-          "lastSyncedAt": "2026-09-24T12:23:15.185Z"
+          "lastSyncedAt": "2026-09-24T17:58:37.234Z"
         }
       ]
     },
