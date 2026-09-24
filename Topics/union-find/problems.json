@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find"
+  },
+  "updatedAt": "2026-09-24T12:06:55.134Z",
+  "problems": [
+    {
+      "frontendId": "1391",
+      "title": "Check if There is a Valid Path in a Grid",
+      "slug": "check-if-there-is-a-valid-path-in-a-grid",
+      "problemName": "1391-check-if-there-is-a-valid-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
+      "folderPath": "1391-check-if-there-is-a-valid-path-in-a-grid/",
+      "readmePath": "1391-check-if-there-is-a-valid-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1391-check-if-there-is-a-valid-path-in-a-grid.c",
+          "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
+          "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
+          "lastSyncedAt": "2026-09-24T12:06:55.134Z"
+        }
+      ]
+    }
+  ]
+}
