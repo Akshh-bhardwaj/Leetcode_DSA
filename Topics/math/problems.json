@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:36:00.310Z",
+  "updatedAt": "2026-09-24T12:36:23.626Z",
   "problems": [
     {
       "frontendId": "2",
@@ -931,6 +931,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
           "lastSyncedAt": "2026-09-24T11:59:50.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3577",
+      "title": "Count the Number of Computer Unlocking Permutations",
+      "slug": "count-the-number-of-computer-unlocking-permutations",
+      "problemName": "3577-count-the-number-of-computer-unlocking-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+      "folderPath": "3577-count-the-number-of-computer-unlocking-permutations/",
+      "readmePath": "3577-count-the-number-of-computer-unlocking-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3577-count-the-number-of-computer-unlocking-permutations.c",
+          "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.c",
+          "sha": "8010e7ec185239987ec262ef86943f6c76025283",
+          "lastSyncedAt": "2026-09-24T12:36:23.626Z"
         }
       ]
     },
