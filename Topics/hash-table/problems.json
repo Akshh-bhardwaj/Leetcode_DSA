@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:46:03.780Z",
+  "updatedAt": "2026-09-24T12:47:24.547Z",
   "problems": [
     {
       "frontendId": "1",
@@ -411,6 +411,26 @@
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.c",
           "sha": "03bee6590d8071dcbc2b8a7c51121db51627b910",
           "lastSyncedAt": "2026-09-24T12:10:38.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0904-fruit-into-baskets.c",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.c",
+          "sha": "897e5f7cc8c0574c73db24fdf963bede9d70360e",
+          "lastSyncedAt": "2026-09-24T12:47:24.547Z"
         }
       ]
     },
