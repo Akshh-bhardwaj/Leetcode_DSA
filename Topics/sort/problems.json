@@ -4,7 +4,7 @@
     "slug": "sort",
     "name": "Sort"
   },
-  "updatedAt": "2026-09-24T12:47:50.139Z",
+  "updatedAt": "2026-09-24T18:16:39.956Z",
   "problems": [
     {
       "frontendId": "2561",
@@ -22,7 +22,7 @@
           "filename": "2561-rearranging-fruits.c",
           "path": "2561-rearranging-fruits/2561-rearranging-fruits.c",
           "sha": "81300fcd0e81ac5f4c3c167e9205f0fa37053905",
-          "lastSyncedAt": "2026-09-24T12:47:50.139Z"
+          "lastSyncedAt": "2026-09-24T18:16:39.956Z"
         }
       ]
     }
