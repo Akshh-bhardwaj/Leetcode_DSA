@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:23:59.391Z",
+  "updatedAt": "2026-09-24T12:24:46.538Z",
   "problems": [
     {
       "frontendId": "215",
@@ -163,6 +163,26 @@
           "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.c",
           "sha": "96579b3c9f1f3ba8814224a7f41e8880b14b8259",
           "lastSyncedAt": "2026-09-24T12:15:50.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3510",
+      "title": "Minimum Pair Removal to Sort Array II",
+      "slug": "minimum-pair-removal-to-sort-array-ii",
+      "problemName": "3510-minimum-pair-removal-to-sort-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/",
+      "folderPath": "3510-minimum-pair-removal-to-sort-array-ii/",
+      "readmePath": "3510-minimum-pair-removal-to-sort-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3510-minimum-pair-removal-to-sort-array-ii.c",
+          "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.c",
+          "sha": "291f01b92d04a674ede7487c1cbe170ce51988d2",
+          "lastSyncedAt": "2026-09-24T12:24:46.538Z"
         }
       ]
     },
