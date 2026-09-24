@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:29:15.012Z",
+  "updatedAt": "2026-09-24T18:29:22.659Z",
   "problems": [
     {
       "frontendId": "3",
@@ -450,7 +450,7 @@
           "filename": "0345-reverse-vowels-of-a-string.java",
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
           "sha": "2744c45ab2b1d34c5e00204df6c5a4aa3611032a",
-          "lastSyncedAt": "2026-09-24T17:26:03.236Z"
+          "lastSyncedAt": "2026-09-24T18:29:22.659Z"
         }
       ]
     },
