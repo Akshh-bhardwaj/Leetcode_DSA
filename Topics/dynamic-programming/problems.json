@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:06:32.467Z",
+  "updatedAt": "2026-09-24T12:09:24.943Z",
   "problems": [
     {
       "frontendId": "53",
@@ -291,6 +291,26 @@
           "path": "1871-jump-game-vii/1871-jump-game-vii.c",
           "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
           "lastSyncedAt": "2026-09-24T08:47:32.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2463",
+      "title": "Minimum Total Distance Traveled",
+      "slug": "minimum-total-distance-traveled",
+      "problemName": "2463-minimum-total-distance-traveled",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+      "folderPath": "2463-minimum-total-distance-traveled/",
+      "readmePath": "2463-minimum-total-distance-traveled/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2463-minimum-total-distance-traveled.c",
+          "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.c",
+          "sha": "5a46a5ec6438256dadacca5b38f66acc480427a2",
+          "lastSyncedAt": "2026-09-24T12:09:24.943Z"
         }
       ]
     },
