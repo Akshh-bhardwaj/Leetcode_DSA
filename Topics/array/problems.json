@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:01:48.960Z",
+  "updatedAt": "2026-09-24T12:02:02.086Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1008,6 +1008,14 @@
       "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
       "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
       "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.c",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.c",
+          "sha": "4386b021390db00e65c7d5db66ba51e6f8d41848",
+          "lastSyncedAt": "2026-09-24T12:02:02.086Z"
+        },
         {
           "language": "Java",
           "extension": ".c",
