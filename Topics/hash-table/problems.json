@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T17:43:51.793Z",
+  "updatedAt": "2026-09-24T17:44:20.968Z",
   "problems": [
     {
       "frontendId": "1",
@@ -990,7 +990,7 @@
           "filename": "2784-check-if-array-is-good.c",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
           "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
-          "lastSyncedAt": "2026-09-24T12:04:01.037Z"
+          "lastSyncedAt": "2026-09-24T17:44:20.968Z"
         }
       ]
     },
