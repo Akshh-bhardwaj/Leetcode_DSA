@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T18:41:30.742Z",
+  "updatedAt": "2026-09-24T18:41:45.714Z",
   "problems": [
     {
       "frontendId": "110",
@@ -342,7 +342,7 @@
           "filename": "3558-number-of-ways-to-assign-edge-weights-i.c",
           "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.c",
           "sha": "7b5cd323456138984fc55af6d473e71a7de551b4",
-          "lastSyncedAt": "2026-09-24T17:40:19.284Z"
+          "lastSyncedAt": "2026-09-24T18:41:45.714Z"
         }
       ]
     },
