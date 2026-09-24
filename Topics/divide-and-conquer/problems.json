@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-24T12:10:17.165Z",
+  "updatedAt": "2026-09-24T12:19:30.709Z",
   "problems": [
     {
       "frontendId": "53",
@@ -43,6 +43,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
           "lastSyncedAt": "2026-09-24T11:53:27.787Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "0761-special-binary-string/",
+      "readmePath": "0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0761-special-binary-string.c",
+          "path": "0761-special-binary-string/0761-special-binary-string.c",
+          "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
+          "lastSyncedAt": "2026-09-24T12:19:30.709Z"
         }
       ]
     },
