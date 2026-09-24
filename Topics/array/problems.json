@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:41:26.797Z",
+  "updatedAt": "2026-09-24T17:41:40.068Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4150,7 +4150,7 @@
           "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.c",
           "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.c",
           "sha": "8406e358370c4c6fff83bc7be9fddbfa1f785c54",
-          "lastSyncedAt": "2026-09-24T12:01:24.509Z"
+          "lastSyncedAt": "2026-09-24T17:41:40.068Z"
         }
       ]
     },
