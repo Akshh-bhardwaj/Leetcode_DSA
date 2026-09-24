@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:02:46.012Z",
+  "updatedAt": "2026-09-24T18:03:27.345Z",
   "problems": [
     {
       "frontendId": "2",
@@ -362,7 +362,7 @@
           "filename": "0840-magic-squares-in-grid.c",
           "path": "0840-magic-squares-in-grid/0840-magic-squares-in-grid.c",
           "sha": "d6d98ead7b6493a8219d050278770b46eb77d4fe",
-          "lastSyncedAt": "2026-09-24T12:29:51.403Z"
+          "lastSyncedAt": "2026-09-24T18:03:27.345Z"
         }
       ]
     },
