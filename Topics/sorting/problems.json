@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:04:17.979Z",
+  "updatedAt": "2026-09-24T18:04:25.466Z",
   "problems": [
     {
       "frontendId": "15",
@@ -950,7 +950,7 @@
           "filename": "3074-apple-redistribution-into-boxes.c",
           "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.c",
           "sha": "88f68e491dc090cccf00a8f6604dbfb67625c469",
-          "lastSyncedAt": "2026-09-24T12:31:06.526Z"
+          "lastSyncedAt": "2026-09-24T18:04:25.466Z"
         }
       ]
     },
