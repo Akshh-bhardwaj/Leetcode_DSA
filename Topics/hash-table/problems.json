@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T07:45:27.354Z",
+  "updatedAt": "2026-09-24T07:45:34.259Z",
   "problems": [
     {
       "frontendId": "49",
@@ -62,7 +62,7 @@
           "filename": "0290-word-pattern.java",
           "path": "0290-word-pattern/0290-word-pattern.java",
           "sha": "f16154c674c89fadfd56f5922a30cb4dcd7b6c5d",
-          "lastSyncedAt": "2026-09-24T07:40:03.400Z"
+          "lastSyncedAt": "2026-09-24T07:45:34.259Z"
         }
       ]
     },
