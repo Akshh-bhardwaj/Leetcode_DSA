@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design"
+  },
+  "updatedAt": "2026-09-24T12:10:29.148Z",
+  "problems": [
+    {
+      "frontendId": "2069",
+      "title": "Walking Robot Simulation II",
+      "slug": "walking-robot-simulation-ii",
+      "problemName": "2069-walking-robot-simulation-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation-ii/",
+      "folderPath": "2069-walking-robot-simulation-ii/",
+      "readmePath": "2069-walking-robot-simulation-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2069-walking-robot-simulation-ii.c",
+          "path": "2069-walking-robot-simulation-ii/2069-walking-robot-simulation-ii.c",
+          "sha": "9d750ee49d9e36f788025f06f514f8ebcac29f23",
+          "lastSyncedAt": "2026-09-24T12:10:29.148Z"
+        }
+      ]
+    }
+  ]
+}
