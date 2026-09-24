@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:22:15.170Z",
+  "updatedAt": "2026-09-24T12:24:46.538Z",
   "problems": [
     {
       "frontendId": "67",
@@ -363,6 +363,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-09-24T11:51:13.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3510",
+      "title": "Minimum Pair Removal to Sort Array II",
+      "slug": "minimum-pair-removal-to-sort-array-ii",
+      "problemName": "3510-minimum-pair-removal-to-sort-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/",
+      "folderPath": "3510-minimum-pair-removal-to-sort-array-ii/",
+      "readmePath": "3510-minimum-pair-removal-to-sort-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3510-minimum-pair-removal-to-sort-array-ii.c",
+          "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.c",
+          "sha": "291f01b92d04a674ede7487c1cbe170ce51988d2",
+          "lastSyncedAt": "2026-09-24T12:24:46.538Z"
         }
       ]
     },
