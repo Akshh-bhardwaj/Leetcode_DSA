@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:59:22.548Z",
+  "updatedAt": "2026-09-24T17:59:30.338Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2070,7 +2070,7 @@
           "filename": "1877-minimize-maximum-pair-sum-in-array.c",
           "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.c",
           "sha": "7582ec61131201165ed8979d7526aa815cf704f6",
-          "lastSyncedAt": "2026-09-24T12:24:29.697Z"
+          "lastSyncedAt": "2026-09-24T17:59:30.338Z"
         }
       ]
     },
