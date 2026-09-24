@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:27:20.240Z",
+  "updatedAt": "2026-09-24T12:27:36.046Z",
   "problems": [
     {
       "frontendId": "53",
@@ -123,6 +123,26 @@
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.java",
           "sha": "9e35de965ab69da88617076374e6da9402067825",
           "lastSyncedAt": "2026-09-24T11:48:47.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "712",
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "slug": "minimum-ascii-delete-sum-for-two-strings",
+      "problemName": "0712-minimum-ascii-delete-sum-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+      "folderPath": "0712-minimum-ascii-delete-sum-for-two-strings/",
+      "readmePath": "0712-minimum-ascii-delete-sum-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0712-minimum-ascii-delete-sum-for-two-strings.c",
+          "path": "0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.c",
+          "sha": "1faadbdc198ff6115bba204546b4c18ad85eabc5",
+          "lastSyncedAt": "2026-09-24T12:27:36.046Z"
         }
       ]
     },
