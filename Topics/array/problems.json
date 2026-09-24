@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:55:00.230Z",
+  "updatedAt": "2026-09-24T17:56:43.841Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4458,7 +4458,7 @@
           "filename": "3721-longest-balanced-subarray-ii.c",
           "path": "3721-longest-balanced-subarray-ii/3721-longest-balanced-subarray-ii.c",
           "sha": "f3770c8a223983c0fe25e1c011a5c540db71a471",
-          "lastSyncedAt": "2026-09-24T12:20:54.190Z"
+          "lastSyncedAt": "2026-09-24T17:56:43.841Z"
         }
       ]
     },
