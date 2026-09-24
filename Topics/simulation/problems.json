@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T18:46:14.190Z",
+  "updatedAt": "2026-09-24T18:50:08.494Z",
   "problems": [
     {
       "frontendId": "67",
@@ -602,7 +602,7 @@
           "filename": "3653-xor-after-range-multiplication-queries-i.c",
           "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.c",
           "sha": "30c570f130d305bf396f375091da89b0cc9b2476",
-          "lastSyncedAt": "2026-09-24T17:49:01.333Z"
+          "lastSyncedAt": "2026-09-24T18:50:08.494Z"
         }
       ]
     },
