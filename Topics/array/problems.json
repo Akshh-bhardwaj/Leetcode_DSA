@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:45:29.286Z",
+  "updatedAt": "2026-09-24T08:45:43.111Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,6 +803,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
           "lastSyncedAt": "2026-09-24T08:37:14.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "3161-block-placement-queries.c",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.c",
+          "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
+          "lastSyncedAt": "2026-09-24T08:45:43.111Z"
         }
       ]
     },
