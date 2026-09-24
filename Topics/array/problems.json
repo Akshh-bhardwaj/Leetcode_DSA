@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:51:15.354Z",
+  "updatedAt": "2026-09-24T17:51:23.521Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1750,7 +1750,7 @@
           "filename": "1594-maximum-non-negative-product-in-a-matrix.c",
           "path": "1594-maximum-non-negative-product-in-a-matrix/1594-maximum-non-negative-product-in-a-matrix.c",
           "sha": "e2d075c2786f6326f5421828b83a9d76884662a7",
-          "lastSyncedAt": "2026-09-24T12:13:37.979Z"
+          "lastSyncedAt": "2026-09-24T17:51:23.521Z"
         }
       ]
     },
