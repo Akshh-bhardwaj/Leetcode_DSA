@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:34:22.362Z",
+  "updatedAt": "2026-09-24T12:34:31.742Z",
   "problems": [
     {
       "frontendId": "1",
@@ -451,6 +451,26 @@
           "path": "1345-jump-game-iv/1345-jump-game-iv.c",
           "sha": "306fd5f5462554ad1dfe484f212ede2596b157c2",
           "lastSyncedAt": "2026-09-24T12:03:22.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.c",
+          "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.c",
+          "sha": "9e3ca9a1ec869b04e1a3f2c5649eeb3600c9dcf5",
+          "lastSyncedAt": "2026-09-24T12:34:31.742Z"
         }
       ]
     },
