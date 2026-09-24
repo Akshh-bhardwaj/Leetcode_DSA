@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T07:46:49.520Z",
+  "updatedAt": "2026-09-24T07:47:58.832Z",
   "problems": [
+    {
+      "frontendId": "1621",
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "problemName": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+      "folderPath": "1621-number-of-sets-of-k-non-overlapping-line-segments/",
+      "readmePath": "1621-number-of-sets-of-k-non-overlapping-line-segments/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.java",
+          "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
+          "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
+          "lastSyncedAt": "2026-09-24T07:47:58.832Z"
+        }
+      ]
+    },
     {
       "frontendId": "1658",
       "title": "Minimum Operations to Reduce X to Zero",
