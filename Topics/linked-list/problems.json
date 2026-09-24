@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T11:59:35.730Z",
+  "updatedAt": "2026-09-24T12:05:38.957Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,6 +43,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "26dc327e132e497514f981a535bd331c959db088",
           "lastSyncedAt": "2026-09-24T11:50:17.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0061-rotate-list.c",
+          "path": "0061-rotate-list/0061-rotate-list.c",
+          "sha": "b3904676d4cea97fa9e8855296bcf1cbd634babb",
+          "lastSyncedAt": "2026-09-24T12:05:38.957Z"
         }
       ]
     },
