@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T17:46:37.402Z",
+  "updatedAt": "2026-09-24T17:54:41.021Z",
   "problems": [
     {
       "frontendId": "547",
@@ -262,7 +262,7 @@
           "filename": "3666-minimum-operations-to-equalize-binary-string.c",
           "path": "3666-minimum-operations-to-equalize-binary-string/3666-minimum-operations-to-equalize-binary-string.c",
           "sha": "0f37b4f232ed3ab513425ccdef85ac022e8f6461",
-          "lastSyncedAt": "2026-09-24T12:18:06.886Z"
+          "lastSyncedAt": "2026-09-24T17:54:41.021Z"
         }
       ]
     }
