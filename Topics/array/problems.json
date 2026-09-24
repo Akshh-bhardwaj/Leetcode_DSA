@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:11:14.714Z",
+  "updatedAt": "2026-09-24T18:11:24.922Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2486,7 +2486,7 @@
           "filename": "2154-keep-multiplying-found-values-by-two.c",
           "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.c",
           "sha": "802f80c296932ef83bba28ea4d3a5644c123a508",
-          "lastSyncedAt": "2026-09-24T12:40:11.759Z"
+          "lastSyncedAt": "2026-09-24T18:11:24.922Z"
         }
       ]
     },
