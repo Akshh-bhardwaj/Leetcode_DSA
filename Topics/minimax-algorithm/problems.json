@@ -4,8 +4,28 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-09-24T08:23:56.466Z",
+  "updatedAt": "2026-09-24T08:24:31.958Z",
   "problems": [
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1140-stone-game-ii.java",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.java",
+          "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
+          "lastSyncedAt": "2026-09-24T08:24:31.958Z"
+        }
+      ]
+    },
     {
       "frontendId": "1510",
       "title": "Stone Game IV",
