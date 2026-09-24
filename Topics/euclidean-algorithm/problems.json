@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "euclidean-algorithm",
+    "name": "Euclidean Algorithm"
+  },
+  "updatedAt": "2026-09-24T12:40:49.322Z",
+  "problems": [
+    {
+      "frontendId": "2654",
+      "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+      "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "problemName": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+      "folderPath": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+      "readmePath": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
+          "path": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
+          "sha": "efdbc57b9f7394b394c8b05d0f43670ce7825c28",
+          "lastSyncedAt": "2026-09-24T12:40:49.322Z"
+        }
+      ]
+    }
+  ]
+}
