@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:13:50.586Z",
+  "updatedAt": "2026-09-24T12:13:59.055Z",
   "problems": [
     {
       "frontendId": "48",
@@ -403,6 +403,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
           "lastSyncedAt": "2026-09-24T11:54:47.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3643",
+      "title": "Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "problemName": "3643-flip-square-submatrix-vertically",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+      "folderPath": "3643-flip-square-submatrix-vertically/",
+      "readmePath": "3643-flip-square-submatrix-vertically/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3643-flip-square-submatrix-vertically.c",
+          "path": "3643-flip-square-submatrix-vertically/3643-flip-square-submatrix-vertically.c",
+          "sha": "1023d0ccd48668a8ff2d061b57ce58e6a7abb1a5",
+          "lastSyncedAt": "2026-09-24T12:13:59.055Z"
         }
       ]
     },
