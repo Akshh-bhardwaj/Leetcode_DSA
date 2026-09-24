@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:25:06.472Z",
+  "updatedAt": "2026-09-24T08:25:09.064Z",
   "problems": [
     {
       "frontendId": "3",
@@ -563,6 +563,26 @@
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
           "sha": "203be90f3da02c9a9969b684b270a550c8775481",
           "lastSyncedAt": "2026-09-24T08:24:53.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3348-smallest-divisible-digit-product-ii.java",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
+          "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
+          "lastSyncedAt": "2026-09-24T08:25:09.064Z"
         }
       ]
     },
