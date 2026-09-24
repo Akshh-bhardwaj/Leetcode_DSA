@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-24T12:36:40.202Z",
+  "updatedAt": "2026-09-24T12:43:50.497Z",
   "problems": [
     {
       "frontendId": "383",
@@ -123,6 +123,26 @@
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.c",
           "sha": "4f7b70d810ebdee95e65b88f8755ea96f9339f14",
           "lastSyncedAt": "2026-09-24T12:07:47.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3005-count-elements-with-maximum-frequency.c",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.c",
+          "sha": "9565c3e4bfa42bbbd810e681c730b34de88aca76",
+          "lastSyncedAt": "2026-09-24T12:43:50.497Z"
         }
       ]
     },
