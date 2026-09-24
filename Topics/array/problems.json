@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:10:25.808Z",
+  "updatedAt": "2026-09-24T18:10:36.651Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2646,7 +2646,7 @@
           "filename": "2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
           "path": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
           "sha": "5d991fc59095a1f5e4c52ac534564499755a4d60",
-          "lastSyncedAt": "2026-09-24T12:39:11.747Z"
+          "lastSyncedAt": "2026-09-24T18:10:36.651Z"
         }
       ]
     },
