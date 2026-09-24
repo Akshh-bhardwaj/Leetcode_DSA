@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:38:39.048Z",
+  "updatedAt": "2026-09-24T12:39:00.494Z",
   "problems": [
     {
       "frontendId": "1",
@@ -951,6 +951,26 @@
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.c",
           "sha": "b39cfdaa893825d9a9e1960b94db6304e4e7cde9",
           "lastSyncedAt": "2026-09-24T12:02:15.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3381",
+      "title": "Maximum Subarray Sum With Length Divisible by K",
+      "slug": "maximum-subarray-sum-with-length-divisible-by-k",
+      "problemName": "3381-maximum-subarray-sum-with-length-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+      "folderPath": "3381-maximum-subarray-sum-with-length-divisible-by-k/",
+      "readmePath": "3381-maximum-subarray-sum-with-length-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3381-maximum-subarray-sum-with-length-divisible-by-k.c",
+          "path": "3381-maximum-subarray-sum-with-length-divisible-by-k/3381-maximum-subarray-sum-with-length-divisible-by-k.c",
+          "sha": "ed08e24aca87f512b097ec6214bb9e0d5e2cd0e9",
+          "lastSyncedAt": "2026-09-24T12:39:00.494Z"
         }
       ]
     },
