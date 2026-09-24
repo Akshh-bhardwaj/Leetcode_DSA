@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T17:55:18.199Z",
+  "updatedAt": "2026-09-24T17:55:42.683Z",
   "problems": [
     {
       "frontendId": "3",
@@ -750,7 +750,7 @@
           "filename": "0761-special-binary-string.c",
           "path": "0761-special-binary-string/0761-special-binary-string.c",
           "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
-          "lastSyncedAt": "2026-09-24T12:19:30.709Z"
+          "lastSyncedAt": "2026-09-24T17:55:42.683Z"
         }
       ]
     },
