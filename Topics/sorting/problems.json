@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:34:31.742Z",
+  "updatedAt": "2026-09-24T12:34:45.523Z",
   "problems": [
     {
       "frontendId": "49",
@@ -163,6 +163,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
           "lastSyncedAt": "2026-09-24T11:52:08.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0645-set-mismatch.c",
+          "path": "0645-set-mismatch/0645-set-mismatch.c",
+          "sha": "8781085d6a76e0938d452625556ce50f30f9fa31",
+          "lastSyncedAt": "2026-09-24T12:34:45.523Z"
         }
       ]
     },
