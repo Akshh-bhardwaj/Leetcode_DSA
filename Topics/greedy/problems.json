@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:43:06.744Z",
+  "updatedAt": "2026-09-24T12:46:03.780Z",
   "problems": [
     {
       "frontendId": "502",
@@ -283,6 +283,26 @@
           "path": "1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.c",
           "sha": "1355ad090d4391686e7ad18d8f01905a8aac0c98",
           "lastSyncedAt": "2026-09-24T12:14:54.208Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1733",
+      "title": "Minimum Number of People to Teach",
+      "slug": "minimum-number-of-people-to-teach",
+      "problemName": "1733-minimum-number-of-people-to-teach",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-people-to-teach/",
+      "folderPath": "1733-minimum-number-of-people-to-teach/",
+      "readmePath": "1733-minimum-number-of-people-to-teach/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1733-minimum-number-of-people-to-teach.c",
+          "path": "1733-minimum-number-of-people-to-teach/1733-minimum-number-of-people-to-teach.c",
+          "sha": "ae0c9a8d7eed15a4cb112e79b9d741f122018166",
+          "lastSyncedAt": "2026-09-24T12:46:03.780Z"
         }
       ]
     },
