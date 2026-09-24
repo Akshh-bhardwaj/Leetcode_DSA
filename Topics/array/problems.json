@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:40:26.056Z",
+  "updatedAt": "2026-09-24T12:40:33.033Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1151,6 +1151,26 @@
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
           "sha": "f19ac2e2d33ff124bc8efda7d0f65c96be263ac1",
           "lastSyncedAt": "2026-09-24T11:55:48.479Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1437",
+      "title": "Check If All 1's Are at Least Length K Places Away",
+      "slug": "check-if-all-1s-are-at-least-length-k-places-away",
+      "problemName": "1437-check-if-all-1s-are-at-least-length-k-places-away",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+      "folderPath": "1437-check-if-all-1s-are-at-least-length-k-places-away/",
+      "readmePath": "1437-check-if-all-1s-are-at-least-length-k-places-away/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1437-check-if-all-1s-are-at-least-length-k-places-away.c",
+          "path": "1437-check-if-all-1s-are-at-least-length-k-places-away/1437-check-if-all-1s-are-at-least-length-k-places-away.c",
+          "sha": "1fecf7b702b28b71957799994d10edba07a30b8a",
+          "lastSyncedAt": "2026-09-24T12:40:33.033Z"
         }
       ]
     },
