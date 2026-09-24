@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T18:05:16.833Z",
+  "updatedAt": "2026-09-24T18:09:54.546Z",
   "problems": [
     {
       "frontendId": "11",
@@ -470,7 +470,7 @@
           "filename": "2141-maximum-running-time-of-n-computers.c",
           "path": "2141-maximum-running-time-of-n-computers/2141-maximum-running-time-of-n-computers.c",
           "sha": "f9e9245e37e72c7b6d0abf611f5d9e60eb367d80",
-          "lastSyncedAt": "2026-09-24T12:38:22.745Z"
+          "lastSyncedAt": "2026-09-24T18:09:54.546Z"
         }
       ]
     },
