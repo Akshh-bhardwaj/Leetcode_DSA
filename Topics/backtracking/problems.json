@@ -4,6 +4,27 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T07:39:09.329Z",
-  "problems": []
+  "updatedAt": "2026-09-24T08:25:09.064Z",
+  "problems": [
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3348-smallest-divisible-digit-product-ii.java",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
+          "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
+          "lastSyncedAt": "2026-09-24T08:25:09.064Z"
+        }
+      ]
+    }
+  ]
 }
