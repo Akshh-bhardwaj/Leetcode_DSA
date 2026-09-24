@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:24:18.275Z",
+  "updatedAt": "2026-09-24T12:32:45.552Z",
   "problems": [
     {
       "frontendId": "3",
@@ -271,6 +271,26 @@
           "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.c",
           "sha": "22cbbf166a806689d47c86d01e199b9b07c236e2",
           "lastSyncedAt": "2026-09-24T12:22:01.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3652",
+      "title": "Best Time to Buy and Sell Stock using Strategy",
+      "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+      "problemName": "3652-best-time-to-buy-and-sell-stock-using-strategy",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/",
+      "folderPath": "3652-best-time-to-buy-and-sell-stock-using-strategy/",
+      "readmePath": "3652-best-time-to-buy-and-sell-stock-using-strategy/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3652-best-time-to-buy-and-sell-stock-using-strategy.c",
+          "path": "3652-best-time-to-buy-and-sell-stock-using-strategy/3652-best-time-to-buy-and-sell-stock-using-strategy.c",
+          "sha": "15f7e860b49e0e37a0845ff77c11bcefb83d771c",
+          "lastSyncedAt": "2026-09-24T12:32:45.552Z"
         }
       ]
     }
