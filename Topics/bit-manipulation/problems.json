@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:16:21.802Z",
+  "updatedAt": "2026-09-24T12:17:57.337Z",
   "problems": [
     {
       "frontendId": "287",
@@ -63,6 +63,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "sha": "3487746c2000eedee187e6b09f865206bc0204d2",
           "lastSyncedAt": "2026-09-24T11:57:02.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1680",
+      "title": "Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "problemName": "1680-concatenation-of-consecutive-binary-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+      "folderPath": "1680-concatenation-of-consecutive-binary-numbers/",
+      "readmePath": "1680-concatenation-of-consecutive-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1680-concatenation-of-consecutive-binary-numbers.c",
+          "path": "1680-concatenation-of-consecutive-binary-numbers/1680-concatenation-of-consecutive-binary-numbers.c",
+          "sha": "86a4d4972f9a22e8c90a6c24b857d7400ba4f87f",
+          "lastSyncedAt": "2026-09-24T12:17:57.337Z"
         }
       ]
     },
