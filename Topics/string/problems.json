@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:46:22.173Z",
+  "updatedAt": "2026-09-24T08:46:31.648Z",
   "problems": [
     {
       "frontendId": "3",
@@ -591,6 +591,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "1a2a63ec9a703358a13e1d81e988d048c9635293",
           "lastSyncedAt": "2026-09-24T08:36:16.178Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "problemName": "3093-longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folderPath": "3093-longest-common-suffix-queries/",
+      "readmePath": "3093-longest-common-suffix-queries/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3093-longest-common-suffix-queries.c",
+          "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
+          "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
+          "lastSyncedAt": "2026-09-24T08:46:31.648Z"
         }
       ]
     },
