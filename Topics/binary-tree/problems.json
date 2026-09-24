@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-24T18:02:31.728Z",
+  "updatedAt": "2026-09-24T18:34:12.528Z",
   "problems": [
     {
       "frontendId": "110",
@@ -162,7 +162,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.java",
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.java",
           "sha": "ee6753686a5a9abc8f79141c2235fbacff79a2f5",
-          "lastSyncedAt": "2026-09-24T17:31:25.077Z"
+          "lastSyncedAt": "2026-09-24T18:34:12.528Z"
         }
       ]
     }
