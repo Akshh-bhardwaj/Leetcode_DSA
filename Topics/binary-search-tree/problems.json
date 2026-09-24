@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search-tree",
+    "name": "Binary Search Tree"
+  },
+  "updatedAt": "2026-09-24T12:21:24.698Z",
+  "problems": [
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1382-balance-a-binary-search-tree.c",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.c",
+          "sha": "673140aa177b01acb071a6509ea1217e628b6126",
+          "lastSyncedAt": "2026-09-24T12:21:24.698Z"
+        }
+      ]
+    }
+  ]
+}
