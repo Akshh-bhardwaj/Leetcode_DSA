@@ -4,8 +4,28 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-24T07:47:25.772Z",
+  "updatedAt": "2026-09-24T07:48:57.382Z",
   "problems": [
+    {
+      "frontendId": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "problemName": "0836-rectangle-overlap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+      "folderPath": "0836-rectangle-overlap/",
+      "readmePath": "0836-rectangle-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0836-rectangle-overlap.java",
+          "path": "0836-rectangle-overlap/0836-rectangle-overlap.java",
+          "sha": "eb5b6710584094be3aa372df06d982e9ff9fa3c3",
+          "lastSyncedAt": "2026-09-24T07:48:57.382Z"
+        }
+      ]
+    },
     {
       "frontendId": "1401",
       "title": "Circle and Rectangle Overlapping",
