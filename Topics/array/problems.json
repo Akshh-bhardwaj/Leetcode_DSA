@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:48:52.322Z",
+  "updatedAt": "2026-09-24T17:49:01.333Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4318,7 +4318,7 @@
           "filename": "3653-xor-after-range-multiplication-queries-i.c",
           "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.c",
           "sha": "30c570f130d305bf396f375091da89b0cc9b2476",
-          "lastSyncedAt": "2026-09-24T12:10:17.165Z"
+          "lastSyncedAt": "2026-09-24T17:49:01.333Z"
         }
       ]
     },
