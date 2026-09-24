@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:27:08.956Z",
+  "updatedAt": "2026-09-24T12:28:57.271Z",
   "problems": [
     {
       "frontendId": "2",
@@ -343,6 +343,26 @@
           "path": "1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.java",
           "sha": "a1b9184410ac3b27d07e1ad73c8c1cc1079ae682",
           "lastSyncedAt": "2026-09-24T11:59:18.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1390",
+      "title": "Four Divisors",
+      "slug": "four-divisors",
+      "problemName": "1390-four-divisors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+      "folderPath": "1390-four-divisors/",
+      "readmePath": "1390-four-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1390-four-divisors.c",
+          "path": "1390-four-divisors/1390-four-divisors.c",
+          "sha": "745e38619026a9ab4d0e43ddbbdb80bc23c8e30a",
+          "lastSyncedAt": "2026-09-24T12:28:57.271Z"
         }
       ]
     },
