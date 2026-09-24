@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:44:09.589Z",
+  "updatedAt": "2026-09-24T18:45:28.747Z",
   "problems": [
     {
       "frontendId": "15",
@@ -810,7 +810,7 @@
           "filename": "2784-check-if-array-is-good.c",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
           "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
-          "lastSyncedAt": "2026-09-24T17:44:20.968Z"
+          "lastSyncedAt": "2026-09-24T18:45:28.747Z"
         }
       ]
     },
