@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:39:19.262Z",
+  "updatedAt": "2026-09-24T08:40:25.687Z",
   "problems": [
     {
       "frontendId": "3",
@@ -643,6 +643,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-09-24T08:28:39.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3614",
+      "title": "Process String with Special Operations II",
+      "slug": "process-string-with-special-operations-ii",
+      "problemName": "3614-process-string-with-special-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+      "folderPath": "3614-process-string-with-special-operations-ii/",
+      "readmePath": "3614-process-string-with-special-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3614-process-string-with-special-operations-ii.java",
+          "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.java",
+          "sha": "897140186400c02ca34a30cc13cc759c6e982bcd",
+          "lastSyncedAt": "2026-09-24T08:40:25.687Z"
         }
       ]
     }
