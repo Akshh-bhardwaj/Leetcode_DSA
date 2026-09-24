@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:39:59.720Z",
+  "updatedAt": "2026-09-24T12:41:31.398Z",
   "problems": [
     {
       "frontendId": "502",
@@ -143,6 +143,26 @@
           "path": "1536-minimum-swaps-to-arrange-a-binary-grid/1536-minimum-swaps-to-arrange-a-binary-grid.c",
           "sha": "dc379b4a83365e87195a9c85ea2bbf9183ec58b4",
           "lastSyncedAt": "2026-09-24T12:17:40.421Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "problemName": "1578-minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+      "folderPath": "1578-minimum-time-to-make-rope-colorful/",
+      "readmePath": "1578-minimum-time-to-make-rope-colorful/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1578-minimum-time-to-make-rope-colorful.c",
+          "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.c",
+          "sha": "00ea4c1f72705295c089555dda1f079eee7e4d1e",
+          "lastSyncedAt": "2026-09-24T12:41:31.398Z"
         }
       ]
     },
