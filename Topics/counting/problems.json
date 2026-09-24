@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-24T12:07:47.789Z",
+  "updatedAt": "2026-09-24T12:18:29.823Z",
   "problems": [
     {
       "frontendId": "383",
@@ -83,6 +83,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.java",
           "sha": "5cefbdd50b8e165af27167936587238bb4d71b4e",
           "lastSyncedAt": "2026-09-24T11:58:46.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "problemName": "1356-sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+      "folderPath": "1356-sort-integers-by-the-number-of-1-bits/",
+      "readmePath": "1356-sort-integers-by-the-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1356-sort-integers-by-the-number-of-1-bits.c",
+          "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.c",
+          "sha": "4846c151c4653e13eff9c4b3e3948a27ef4c12b6",
+          "lastSyncedAt": "2026-09-24T12:18:29.823Z"
         }
       ]
     },
