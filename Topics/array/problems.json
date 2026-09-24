@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:05:48.486Z",
+  "updatedAt": "2026-09-24T18:05:54.425Z",
   "problems": [
     {
       "frontendId": "1",
@@ -970,7 +970,7 @@
           "filename": "0941-valid-mountain-array.c",
           "path": "0941-valid-mountain-array/0941-valid-mountain-array.c",
           "sha": "854ea39e3def314e68ef3000c9f3869727781d47",
-          "lastSyncedAt": "2026-09-24T12:33:07.063Z"
+          "lastSyncedAt": "2026-09-24T18:05:54.425Z"
         }
       ]
     },
