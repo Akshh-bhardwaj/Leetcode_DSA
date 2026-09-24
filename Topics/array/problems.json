@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:14:12.135Z",
+  "updatedAt": "2026-09-24T12:14:25.645Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1623,6 +1623,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.c",
           "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
           "lastSyncedAt": "2026-09-24T08:45:43.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3212",
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "problemName": "3212-count-submatrices-with-equal-frequency-of-x-and-y",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+      "folderPath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/",
+      "readmePath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
+          "path": "3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
+          "sha": "570c062bf9360c63af28700ae6d7b360cc8e3abb",
+          "lastSyncedAt": "2026-09-24T12:14:25.645Z"
         }
       ]
     },
