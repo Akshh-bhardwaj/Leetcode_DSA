@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T12:33:54.411Z",
+  "updatedAt": "2026-09-24T12:34:02.666Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
           "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
           "lastSyncedAt": "2026-09-24T12:27:20.240Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0150-evaluate-reverse-polish-notation.c",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c",
+          "sha": "96cc999b437ee7a65da6b9266b8bfdcbdc37ce0c",
+          "lastSyncedAt": "2026-09-24T12:34:02.666Z"
         }
       ]
     },
