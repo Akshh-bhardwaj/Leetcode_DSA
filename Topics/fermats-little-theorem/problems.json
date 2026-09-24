@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "fermats-little-theorem",
+    "name": "Fermat's Little Theorem"
+  },
+  "updatedAt": "2026-09-24T12:15:26.107Z",
+  "problems": [
+    {
+      "frontendId": "1622",
+      "title": "Fancy Sequence",
+      "slug": "fancy-sequence",
+      "problemName": "1622-fancy-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/fancy-sequence/",
+      "folderPath": "1622-fancy-sequence/",
+      "readmePath": "1622-fancy-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1622-fancy-sequence.c",
+          "path": "1622-fancy-sequence/1622-fancy-sequence.c",
+          "sha": "e696cf1635a261b19d9cb6dc67665400f8d87dc9",
+          "lastSyncedAt": "2026-09-24T12:15:26.107Z"
+        }
+      ]
+    }
+  ]
+}
