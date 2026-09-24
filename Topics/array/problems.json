@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:38:43.092Z",
+  "updatedAt": "2026-09-24T17:39:04.401Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1970,7 +1970,7 @@
           "filename": "1833-maximum-ice-cream-bars.java",
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
           "sha": "13a0a7e380dc2f6160e4fea3f7ff1c6ba897ba16",
-          "lastSyncedAt": "2026-09-24T11:58:53.941Z"
+          "lastSyncedAt": "2026-09-24T17:39:04.401Z"
         }
       ]
     },
