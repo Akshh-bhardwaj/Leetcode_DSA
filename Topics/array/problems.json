@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:41:51.803Z",
+  "updatedAt": "2026-09-24T17:42:01.125Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2410,7 +2410,7 @@
           "filename": "2126-destroying-asteroids.c",
           "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
           "sha": "8036fee0a837906f256fc34992c155d13913602a",
-          "lastSyncedAt": "2026-09-24T12:01:40.495Z"
+          "lastSyncedAt": "2026-09-24T17:42:01.125Z"
         },
         {
           "language": "Java",
