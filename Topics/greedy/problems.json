@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:42:22.548Z",
+  "updatedAt": "2026-09-24T12:42:50.370Z",
   "problems": [
     {
       "frontendId": "502",
@@ -103,6 +103,26 @@
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.c",
           "sha": "673140aa177b01acb071a6509ea1217e628b6126",
           "lastSyncedAt": "2026-09-24T12:21:24.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1488",
+      "title": "Avoid Flood in The City",
+      "slug": "avoid-flood-in-the-city",
+      "problemName": "1488-avoid-flood-in-the-city",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+      "folderPath": "1488-avoid-flood-in-the-city/",
+      "readmePath": "1488-avoid-flood-in-the-city/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1488-avoid-flood-in-the-city.c",
+          "path": "1488-avoid-flood-in-the-city/1488-avoid-flood-in-the-city.c",
+          "sha": "d2382226adfc258eff761ac50c1d498fb703c8b9",
+          "lastSyncedAt": "2026-09-24T12:42:50.370Z"
         }
       ]
     },
