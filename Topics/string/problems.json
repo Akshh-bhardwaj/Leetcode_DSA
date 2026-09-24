@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:54:46.612Z",
+  "updatedAt": "2026-09-24T18:54:56.126Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1030,7 +1030,7 @@
           "filename": "1545-find-kth-bit-in-nth-binary-string.c",
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.c",
           "sha": "ae9128d9ceb0669a32fa614adb532a3b6bbacbfc",
-          "lastSyncedAt": "2026-09-24T17:54:12.347Z"
+          "lastSyncedAt": "2026-09-24T18:54:56.126Z"
         }
       ]
     },
