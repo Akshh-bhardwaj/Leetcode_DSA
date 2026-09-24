@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T07:47:31.519Z",
+  "updatedAt": "2026-09-24T07:48:22.463Z",
   "problems": [
     {
       "frontendId": "49",
@@ -63,6 +63,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
           "lastSyncedAt": "2026-09-24T07:47:31.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2813",
+      "title": "Maximum Elegance of a K-Length Subsequence",
+      "slug": "maximum-elegance-of-a-k-length-subsequence",
+      "problemName": "2813-maximum-elegance-of-a-k-length-subsequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/",
+      "folderPath": "2813-maximum-elegance-of-a-k-length-subsequence/",
+      "readmePath": "2813-maximum-elegance-of-a-k-length-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2813-maximum-elegance-of-a-k-length-subsequence.java",
+          "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
+          "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
+          "lastSyncedAt": "2026-09-24T07:48:22.463Z"
         }
       ]
     }
