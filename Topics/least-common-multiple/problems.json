@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "least-common-multiple",
+    "name": "Least Common Multiple"
+  },
+  "updatedAt": "2026-09-24T12:44:06.377Z",
+  "problems": [
+    {
+      "frontendId": "2197",
+      "title": "Replace Non-Coprime Numbers in Array",
+      "slug": "replace-non-coprime-numbers-in-array",
+      "problemName": "2197-replace-non-coprime-numbers-in-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/",
+      "folderPath": "2197-replace-non-coprime-numbers-in-array/",
+      "readmePath": "2197-replace-non-coprime-numbers-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2197-replace-non-coprime-numbers-in-array.c",
+          "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
+          "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
+          "lastSyncedAt": "2026-09-24T12:44:06.377Z"
+        }
+      ]
+    }
+  ]
+}
