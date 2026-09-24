@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-09-24T07:41:03.077Z",
+  "problems": [
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0025-reverse-nodes-in-k-group.java",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
+          "sha": "26dc327e132e497514f981a535bd331c959db088",
+          "lastSyncedAt": "2026-09-24T07:41:03.077Z"
+        }
+      ]
+    }
+  ]
+}
