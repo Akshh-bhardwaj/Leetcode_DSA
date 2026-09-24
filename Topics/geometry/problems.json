@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-24T18:01:30.265Z",
+  "updatedAt": "2026-09-24T18:09:33.816Z",
   "problems": [
     {
       "frontendId": "836",
@@ -142,7 +142,7 @@
           "filename": "3625-count-number-of-trapezoids-ii.c",
           "path": "3625-count-number-of-trapezoids-ii/3625-count-number-of-trapezoids-ii.c",
           "sha": "73264f1586e8d40d893176330020eca355aa60f4",
-          "lastSyncedAt": "2026-09-24T12:37:50.711Z"
+          "lastSyncedAt": "2026-09-24T18:09:33.816Z"
         }
       ]
     }
