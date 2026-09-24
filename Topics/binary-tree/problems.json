@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-24T12:21:24.698Z",
+  "updatedAt": "2026-09-24T12:21:40.581Z",
   "problems": [
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0110-balanced-binary-tree.c",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.c",
+          "sha": "588abcc49b32493ce024dc226ad2250c01f666c7",
+          "lastSyncedAt": "2026-09-24T12:21:40.581Z"
+        }
+      ]
+    },
     {
       "frontendId": "1022",
       "title": "Sum of Root To Leaf Binary Numbers",
