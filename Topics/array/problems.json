@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:51:36.807Z",
+  "updatedAt": "2026-09-24T07:51:49.095Z",
   "problems": [
     {
       "frontendId": "14",
@@ -283,6 +283,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "335cde772b0f676f4ae3470451ef20b555406378",
           "lastSyncedAt": "2026-09-24T07:49:24.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3512",
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+      "problemName": "3512-minimum-operations-to-make-array-sum-divisible-by-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+      "folderPath": "3512-minimum-operations-to-make-array-sum-divisible-by-k/",
+      "readmePath": "3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3512-minimum-operations-to-make-array-sum-divisible-by-k.java",
+          "path": "3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.java",
+          "sha": "01b1d10a17fc1a1fd203e553a7e6a2588aa4b7ce",
+          "lastSyncedAt": "2026-09-24T07:51:49.095Z"
         }
       ]
     },
