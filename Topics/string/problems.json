@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:27:36.046Z",
+  "updatedAt": "2026-09-24T12:30:05.180Z",
   "problems": [
     {
       "frontendId": "3",
@@ -551,6 +551,26 @@
           "path": "0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.c",
           "sha": "1faadbdc198ff6115bba204546b4c18ad85eabc5",
           "lastSyncedAt": "2026-09-24T12:27:36.046Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "756",
+      "title": "Pyramid Transition Matrix",
+      "slug": "pyramid-transition-matrix",
+      "problemName": "0756-pyramid-transition-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+      "folderPath": "0756-pyramid-transition-matrix/",
+      "readmePath": "0756-pyramid-transition-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0756-pyramid-transition-matrix.c",
+          "path": "0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.c",
+          "sha": "a3ab8c127570931294e1e163a2ab0ce18346e7ca",
+          "lastSyncedAt": "2026-09-24T12:30:05.180Z"
         }
       ]
     },
