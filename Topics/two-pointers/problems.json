@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:03:11.941Z",
+  "updatedAt": "2026-09-24T12:05:28.480Z",
   "problems": [
     {
       "frontendId": "26",
@@ -263,6 +263,26 @@
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.java",
           "sha": "9e35de965ab69da88617076374e6da9402067825",
           "lastSyncedAt": "2026-09-24T11:48:47.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "1861-rotating-the-box/",
+      "readmePath": "1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1861-rotating-the-box.c",
+          "path": "1861-rotating-the-box/1861-rotating-the-box.c",
+          "sha": "34ab7cff05a246f399f05cd3415a045188839a23",
+          "lastSyncedAt": "2026-09-24T12:05:28.480Z"
         }
       ]
     },
