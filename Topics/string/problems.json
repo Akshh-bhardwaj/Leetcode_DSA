@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:44:24.596Z",
+  "updatedAt": "2026-09-24T12:44:32.216Z",
   "problems": [
     {
       "frontendId": "3",
@@ -731,6 +731,26 @@
           "path": "0960-delete-columns-to-make-sorted-iii/0960-delete-columns-to-make-sorted-iii.c",
           "sha": "8410e8a4805204417e5db5d6f1e434e3ac20dcd8",
           "lastSyncedAt": "2026-09-24T12:31:32.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "966",
+      "title": "Vowel Spellchecker",
+      "slug": "vowel-spellchecker",
+      "problemName": "0966-vowel-spellchecker",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/vowel-spellchecker/",
+      "folderPath": "0966-vowel-spellchecker/",
+      "readmePath": "0966-vowel-spellchecker/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0966-vowel-spellchecker.c",
+          "path": "0966-vowel-spellchecker/0966-vowel-spellchecker.c",
+          "sha": "f293f06f300ac2c809010a2acf9a06e4e7d4028f",
+          "lastSyncedAt": "2026-09-24T12:44:32.216Z"
         }
       ]
     },
