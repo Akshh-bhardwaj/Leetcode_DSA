@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:21:24.698Z",
+  "updatedAt": "2026-09-24T12:24:29.697Z",
   "problems": [
     {
       "frontendId": "502",
@@ -163,6 +163,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
           "sha": "13a0a7e380dc2f6160e4fea3f7ff1c6ba897ba16",
           "lastSyncedAt": "2026-09-24T11:58:53.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "problemName": "1877-minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "folderPath": "1877-minimize-maximum-pair-sum-in-array/",
+      "readmePath": "1877-minimize-maximum-pair-sum-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1877-minimize-maximum-pair-sum-in-array.c",
+          "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.c",
+          "sha": "7582ec61131201165ed8979d7526aa815cf704f6",
+          "lastSyncedAt": "2026-09-24T12:24:29.697Z"
         }
       ]
     },
