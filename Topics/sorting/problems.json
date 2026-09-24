@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T08:37:14.850Z",
+  "updatedAt": "2026-09-24T08:38:51.180Z",
   "problems": [
     {
       "frontendId": "49",
@@ -291,7 +291,7 @@
       "title": "Find Missing Elements",
       "slug": "find-missing-elements",
       "problemName": "3731-find-missing-elements",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
       "folderPath": "3731-find-missing-elements/",
       "readmePath": "3731-find-missing-elements/README.md",
@@ -302,7 +302,7 @@
           "filename": "3731-find-missing-elements.java",
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "1384a7cb1e700136c4c430dd4413b060c433786a",
-          "lastSyncedAt": "2026-09-24T08:26:00.146Z"
+          "lastSyncedAt": "2026-09-24T08:38:51.180Z"
         }
       ]
     }
