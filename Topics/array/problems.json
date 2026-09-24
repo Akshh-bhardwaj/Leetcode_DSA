@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:30:55.518Z",
+  "updatedAt": "2026-09-24T12:31:06.526Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2175,6 +2175,26 @@
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
           "lastSyncedAt": "2026-09-24T12:14:42.389Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3074",
+      "title": "Apple Redistribution into Boxes",
+      "slug": "apple-redistribution-into-boxes",
+      "problemName": "3074-apple-redistribution-into-boxes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+      "folderPath": "3074-apple-redistribution-into-boxes/",
+      "readmePath": "3074-apple-redistribution-into-boxes/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3074-apple-redistribution-into-boxes.c",
+          "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.c",
+          "sha": "88f68e491dc090cccf00a8f6604dbfb67625c469",
+          "lastSyncedAt": "2026-09-24T12:31:06.526Z"
         }
       ]
     },
