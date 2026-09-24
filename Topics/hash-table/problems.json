@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:29:51.403Z",
+  "updatedAt": "2026-09-24T12:30:05.180Z",
   "problems": [
     {
       "frontendId": "1",
@@ -271,6 +271,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
           "lastSyncedAt": "2026-09-24T11:48:38.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "756",
+      "title": "Pyramid Transition Matrix",
+      "slug": "pyramid-transition-matrix",
+      "problemName": "0756-pyramid-transition-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+      "folderPath": "0756-pyramid-transition-matrix/",
+      "readmePath": "0756-pyramid-transition-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0756-pyramid-transition-matrix.c",
+          "path": "0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.c",
+          "sha": "a3ab8c127570931294e1e163a2ab0ce18346e7ca",
+          "lastSyncedAt": "2026-09-24T12:30:05.180Z"
         }
       ]
     },
