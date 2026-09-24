@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T12:41:56.275Z",
+  "updatedAt": "2026-09-24T12:46:27.439Z",
   "problems": [
     {
       "frontendId": "67",
@@ -43,6 +43,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "f861e2cfc6198d509d1cbc74ecb3ce6d613a396f",
           "lastSyncedAt": "2026-09-24T11:57:13.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "0498-diagonal-traverse/",
+      "readmePath": "0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0498-diagonal-traverse.c",
+          "path": "0498-diagonal-traverse/0498-diagonal-traverse.c",
+          "sha": "212cb93850fcae7f4469ce8def8dab7869d768cd",
+          "lastSyncedAt": "2026-09-24T12:46:27.439Z"
         }
       ]
     },
