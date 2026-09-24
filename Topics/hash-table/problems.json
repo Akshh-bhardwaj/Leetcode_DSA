@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T18:49:23.742Z",
+  "updatedAt": "2026-09-24T18:49:53.141Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1650,7 +1650,7 @@
           "filename": "3740-minimum-distance-between-three-equal-elements-i.c",
           "path": "3740-minimum-distance-between-three-equal-elements-i/3740-minimum-distance-between-three-equal-elements-i.c",
           "sha": "5f19dc0b53675ea98d8f7c375e1f6e07c0f3b4f4",
-          "lastSyncedAt": "2026-09-24T17:48:42.468Z"
+          "lastSyncedAt": "2026-09-24T18:49:53.141Z"
         }
       ]
     },
