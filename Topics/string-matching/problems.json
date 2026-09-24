@@ -4,7 +4,7 @@
     "slug": "string-matching",
     "name": "String Matching"
   },
-  "updatedAt": "2026-09-24T18:30:55.022Z",
+  "updatedAt": "2026-09-24T18:47:03.763Z",
   "problems": [
     {
       "frontendId": "28",
@@ -42,7 +42,7 @@
           "filename": "0796-rotate-string.c",
           "path": "0796-rotate-string/0796-rotate-string.c",
           "sha": "1525456d4b34ab23d3adf36191fa72c889cd5624",
-          "lastSyncedAt": "2026-09-24T17:45:48.946Z"
+          "lastSyncedAt": "2026-09-24T18:47:03.763Z"
         }
       ]
     },
