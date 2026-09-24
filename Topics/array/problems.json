@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:14:11.622Z",
+  "updatedAt": "2026-09-24T18:14:30.697Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1070,7 +1070,7 @@
           "filename": "0966-vowel-spellchecker.c",
           "path": "0966-vowel-spellchecker/0966-vowel-spellchecker.c",
           "sha": "f293f06f300ac2c809010a2acf9a06e4e7d4028f",
-          "lastSyncedAt": "2026-09-24T12:44:32.216Z"
+          "lastSyncedAt": "2026-09-24T18:14:30.697Z"
         }
       ]
     },
