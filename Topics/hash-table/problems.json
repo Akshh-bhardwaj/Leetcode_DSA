@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:12:51.968Z",
+  "updatedAt": "2026-09-24T12:16:45.914Z",
   "problems": [
     {
       "frontendId": "1",
@@ -411,6 +411,26 @@
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.c",
           "sha": "0d1fcf7f64b43105a6ee35634bd50c67fc52a9c5",
           "lastSyncedAt": "2026-09-24T12:04:13.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1980-find-unique-binary-string.c",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
+          "sha": "48c72429044eef67081377787de57496d6e1fe5c",
+          "lastSyncedAt": "2026-09-24T12:16:45.914Z"
         }
       ]
     },
