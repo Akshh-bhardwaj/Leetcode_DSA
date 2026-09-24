@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T18:06:08.781Z",
+  "updatedAt": "2026-09-24T18:06:15.551Z",
   "problems": [
     {
       "frontendId": "20",
@@ -162,7 +162,7 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.c",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.c",
           "sha": "06fb34e6f67d4818e772d1eacecab79282536413",
-          "lastSyncedAt": "2026-09-24T12:33:42.371Z"
+          "lastSyncedAt": "2026-09-24T18:06:15.551Z"
         }
       ]
     },
