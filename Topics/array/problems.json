@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:40:49.322Z",
+  "updatedAt": "2026-09-24T12:41:08.369Z",
   "problems": [
     {
       "frontendId": "1",
@@ -491,6 +491,26 @@
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.c",
           "sha": "106f1e6268a01bdee9db65f295c7059e9c18f1d8",
           "lastSyncedAt": "2026-09-24T12:34:22.362Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "problemName": "0474-ones-and-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+      "folderPath": "0474-ones-and-zeroes/",
+      "readmePath": "0474-ones-and-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0474-ones-and-zeroes.c",
+          "path": "0474-ones-and-zeroes/0474-ones-and-zeroes.c",
+          "sha": "e59396e87064bcd9d0fd3417ea389b6340a1f2db",
+          "lastSyncedAt": "2026-09-24T12:41:08.369Z"
         }
       ]
     },
