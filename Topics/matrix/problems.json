@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:28:45.015Z",
+  "updatedAt": "2026-09-24T12:29:35.238Z",
   "problems": [
     {
       "frontendId": "48",
@@ -363,6 +363,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.c",
           "sha": "7cdf1ddb428871c87fc847c4c3d8a60ee6f10b6f",
           "lastSyncedAt": "2026-09-24T12:04:54.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1970",
+      "title": "Last Day Where You Can Still Cross",
+      "slug": "last-day-where-you-can-still-cross",
+      "problemName": "1970-last-day-where-you-can-still-cross",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+      "folderPath": "1970-last-day-where-you-can-still-cross/",
+      "readmePath": "1970-last-day-where-you-can-still-cross/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1970-last-day-where-you-can-still-cross.c",
+          "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.c",
+          "sha": "63815ea9d4b1aaa7aa64bf52e488140ad91fe87f",
+          "lastSyncedAt": "2026-09-24T12:29:35.238Z"
         }
       ]
     },
