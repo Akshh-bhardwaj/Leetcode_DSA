@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-09-24T12:15:26.107Z",
+  "updatedAt": "2026-09-24T12:20:54.190Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -111,6 +111,26 @@
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
           "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
           "lastSyncedAt": "2026-09-24T12:00:15.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3721",
+      "title": "Longest Balanced Subarray II",
+      "slug": "longest-balanced-subarray-ii",
+      "problemName": "3721-longest-balanced-subarray-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-ii/",
+      "folderPath": "3721-longest-balanced-subarray-ii/",
+      "readmePath": "3721-longest-balanced-subarray-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3721-longest-balanced-subarray-ii.c",
+          "path": "3721-longest-balanced-subarray-ii/3721-longest-balanced-subarray-ii.c",
+          "sha": "f3770c8a223983c0fe25e1c011a5c540db71a471",
+          "lastSyncedAt": "2026-09-24T12:20:54.190Z"
         }
       ]
     }
