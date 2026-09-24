@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T12:07:11.173Z",
+  "updatedAt": "2026-09-24T12:08:18.210Z",
   "problems": [
     {
       "frontendId": "1391",
@@ -43,6 +43,26 @@
           "path": "1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.c",
           "sha": "32efdba0e5c4d9bb5e9969642a7b4ac5a5d1d208",
           "lastSyncedAt": "2026-09-24T12:07:11.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1722",
+      "title": "Minimize Hamming Distance After Swap Operations",
+      "slug": "minimize-hamming-distance-after-swap-operations",
+      "problemName": "1722-minimize-hamming-distance-after-swap-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/",
+      "folderPath": "1722-minimize-hamming-distance-after-swap-operations/",
+      "readmePath": "1722-minimize-hamming-distance-after-swap-operations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1722-minimize-hamming-distance-after-swap-operations.c",
+          "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.c",
+          "sha": "c3455776d414c49a0eb371a3e9bbd2dd8ea3f2f8",
+          "lastSyncedAt": "2026-09-24T12:08:18.210Z"
         }
       ]
     }
