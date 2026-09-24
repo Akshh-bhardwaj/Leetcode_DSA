@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:31:06.526Z",
+  "updatedAt": "2026-09-24T12:31:16.758Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1491,6 +1491,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.c",
           "sha": "f3661bc855266193c41077609b03a97dd587c617",
           "lastSyncedAt": "2026-09-24T12:06:43.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2054",
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "problemName": "2054-two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+      "folderPath": "2054-two-best-non-overlapping-events/",
+      "readmePath": "2054-two-best-non-overlapping-events/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2054-two-best-non-overlapping-events.c",
+          "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.c",
+          "sha": "483542d8c1229e8ff60fa94bfe1c98965285bd28",
+          "lastSyncedAt": "2026-09-24T12:31:16.758Z"
         }
       ]
     },
