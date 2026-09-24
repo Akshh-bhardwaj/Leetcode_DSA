@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:14:45.325Z",
+  "updatedAt": "2026-09-24T18:14:55.204Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1458,7 +1458,7 @@
           "filename": "2785-sort-vowels-in-a-string.c",
           "path": "2785-sort-vowels-in-a-string/2785-sort-vowels-in-a-string.c",
           "sha": "6b86c224faa36b93dfcbcee15fecf378a43551cb",
-          "lastSyncedAt": "2026-09-24T12:45:06.766Z"
+          "lastSyncedAt": "2026-09-24T18:14:55.204Z"
         }
       ]
     },
