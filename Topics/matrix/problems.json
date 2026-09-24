@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T07:50:50.523Z",
+  "updatedAt": "2026-09-24T07:51:55.194Z",
   "problems": [
     {
       "frontendId": "74",
@@ -63,6 +63,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
           "lastSyncedAt": "2026-09-24T07:49:17.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "problemName": "3568-minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+      "folderPath": "3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "3568-minimum-moves-to-clean-the-classroom/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3568-minimum-moves-to-clean-the-classroom.java",
+          "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
+          "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
+          "lastSyncedAt": "2026-09-24T07:51:55.194Z"
         }
       ]
     }
