@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T17:50:39.060Z",
+  "updatedAt": "2026-09-24T17:54:12.347Z",
   "problems": [
     {
       "frontendId": "67",
@@ -162,7 +162,7 @@
           "filename": "1545-find-kth-bit-in-nth-binary-string.c",
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.c",
           "sha": "ae9128d9ceb0669a32fa614adb532a3b6bbacbfc",
-          "lastSyncedAt": "2026-09-24T12:17:30.817Z"
+          "lastSyncedAt": "2026-09-24T17:54:12.347Z"
         }
       ]
     },
