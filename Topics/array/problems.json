@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:26:23.010Z",
+  "updatedAt": "2026-09-24T12:26:34.287Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1735,6 +1735,26 @@
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
           "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
           "lastSyncedAt": "2026-09-24T12:13:24.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2943",
+      "title": "Maximize Area of Square Hole in Grid",
+      "slug": "maximize-area-of-square-hole-in-grid",
+      "problemName": "2943-maximize-area-of-square-hole-in-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/",
+      "folderPath": "2943-maximize-area-of-square-hole-in-grid/",
+      "readmePath": "2943-maximize-area-of-square-hole-in-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2943-maximize-area-of-square-hole-in-grid.c",
+          "path": "2943-maximize-area-of-square-hole-in-grid/2943-maximize-area-of-square-hole-in-grid.c",
+          "sha": "b82ceb40ea0608a5674e788030cf581e34ae74c5",
+          "lastSyncedAt": "2026-09-24T12:26:34.287Z"
         }
       ]
     },
