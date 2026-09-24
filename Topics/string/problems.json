@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T17:50:02.897Z",
+  "updatedAt": "2026-09-24T17:50:11.139Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1518,7 +1518,7 @@
           "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.c",
           "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.c",
           "sha": "f641f055c5362743a41fd6f2e8767eba49fbba3f",
-          "lastSyncedAt": "2026-09-24T12:11:56.967Z"
+          "lastSyncedAt": "2026-09-24T17:50:11.139Z"
         }
       ]
     },
