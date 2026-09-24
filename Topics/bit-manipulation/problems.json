@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:30:05.180Z",
+  "updatedAt": "2026-09-24T12:34:45.523Z",
   "problems": [
     {
       "frontendId": "67",
@@ -83,6 +83,26 @@
           "path": "0401-binary-watch/0401-binary-watch.c",
           "sha": "287e809550314757e3a5a9906074d2d10457dccf",
           "lastSyncedAt": "2026-09-24T12:19:56.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0645-set-mismatch.c",
+          "path": "0645-set-mismatch/0645-set-mismatch.c",
+          "sha": "8781085d6a76e0938d452625556ce50f30f9fa31",
+          "lastSyncedAt": "2026-09-24T12:34:45.523Z"
         }
       ]
     },
