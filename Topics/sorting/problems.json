@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:22:01.791Z",
+  "updatedAt": "2026-09-24T12:22:52.698Z",
   "problems": [
     {
       "frontendId": "49",
@@ -531,6 +531,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
           "lastSyncedAt": "2026-09-24T11:57:21.715Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3010",
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "problemName": "3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/",
+      "folderPath": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/",
+      "readmePath": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
+          "path": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
+          "sha": "e52f4f31c2f71c33f601e86911cf6f2fd949a18b",
+          "lastSyncedAt": "2026-09-24T12:22:52.698Z"
         }
       ]
     },
