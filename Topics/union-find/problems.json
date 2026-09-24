@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T18:51:26.836Z",
+  "updatedAt": "2026-09-24T18:53:59.233Z",
   "problems": [
     {
       "frontendId": "547",
@@ -162,7 +162,7 @@
           "filename": "3600-maximize-spanning-tree-stability-with-upgrades.c",
           "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.c",
           "sha": "017d65e5f890b8de404bd6fae2c146037c70cd27",
-          "lastSyncedAt": "2026-09-24T17:53:07.341Z"
+          "lastSyncedAt": "2026-09-24T18:53:59.233Z"
         }
       ]
     },
