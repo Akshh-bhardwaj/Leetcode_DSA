@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:35:46.311Z",
+  "updatedAt": "2026-09-24T12:36:12.957Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1011,6 +1011,26 @@
           "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.c",
           "sha": "291f01b92d04a674ede7487c1cbe170ce51988d2",
           "lastSyncedAt": "2026-09-24T12:24:46.538Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3531",
+      "title": "Count Covered Buildings",
+      "slug": "count-covered-buildings",
+      "problemName": "3531-count-covered-buildings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-covered-buildings/",
+      "folderPath": "3531-count-covered-buildings/",
+      "readmePath": "3531-count-covered-buildings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3531-count-covered-buildings.c",
+          "path": "3531-count-covered-buildings/3531-count-covered-buildings.c",
+          "sha": "ccb7fd0c4bfef11c1c222de1a02a1896f87cc032",
+          "lastSyncedAt": "2026-09-24T12:36:12.957Z"
         }
       ]
     },
