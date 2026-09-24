@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:36:12.957Z",
+  "updatedAt": "2026-09-24T12:36:40.202Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1071,6 +1071,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
           "lastSyncedAt": "2026-09-24T11:54:47.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3583",
+      "title": "Count Special Triplets",
+      "slug": "count-special-triplets",
+      "problemName": "3583-count-special-triplets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-special-triplets/",
+      "folderPath": "3583-count-special-triplets/",
+      "readmePath": "3583-count-special-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3583-count-special-triplets.c",
+          "path": "3583-count-special-triplets/3583-count-special-triplets.c",
+          "sha": "6160df5eba1259b917d8d4706b538dd21957e9b8",
+          "lastSyncedAt": "2026-09-24T12:36:40.202Z"
         }
       ]
     },
