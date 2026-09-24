@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T11:48:31.367Z",
+  "updatedAt": "2026-09-24T11:48:38.685Z",
   "problems": [
     {
       "frontendId": "3",
@@ -450,7 +450,7 @@
           "filename": "0567-permutation-in-string.java",
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
-          "lastSyncedAt": "2026-09-24T08:24:56.033Z"
+          "lastSyncedAt": "2026-09-24T11:48:38.685Z"
         }
       ]
     },
