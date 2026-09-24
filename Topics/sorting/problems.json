@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T07:48:22.463Z",
+  "updatedAt": "2026-09-24T07:48:39.814Z",
   "problems": [
     {
       "frontendId": "49",
@@ -43,6 +43,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "c679486637e2452697183e3792e24178ace5eba5",
           "lastSyncedAt": "2026-09-24T07:45:13.177Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "problemName": "0502-ipo",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+      "folderPath": "0502-ipo/",
+      "readmePath": "0502-ipo/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0502-ipo.java",
+          "path": "0502-ipo/0502-ipo.java",
+          "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
+          "lastSyncedAt": "2026-09-24T07:48:39.814Z"
         }
       ]
     },
