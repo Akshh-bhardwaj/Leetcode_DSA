@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T12:33:42.371Z",
+  "updatedAt": "2026-09-24T12:33:54.411Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
           "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
           "lastSyncedAt": "2026-09-24T12:27:20.240Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "636",
+      "title": "Exclusive Time of Functions",
+      "slug": "exclusive-time-of-functions",
+      "problemName": "0636-exclusive-time-of-functions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+      "folderPath": "0636-exclusive-time-of-functions/",
+      "readmePath": "0636-exclusive-time-of-functions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0636-exclusive-time-of-functions.c",
+          "path": "0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.c",
+          "sha": "c3e0af2620626f2f0aa2ca8619fe2d4b05878b37",
+          "lastSyncedAt": "2026-09-24T12:33:54.411Z"
         }
       ]
     },
