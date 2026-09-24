@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:26:01.108Z",
+  "updatedAt": "2026-09-24T12:30:46.803Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -211,6 +211,26 @@
           "path": "1895-largest-magic-square/1895-largest-magic-square.c",
           "sha": "6bfe5c17d1d9058fa5593a69b9567744ddd0517f",
           "lastSyncedAt": "2026-09-24T12:26:01.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2483",
+      "title": "Minimum Penalty for a Shop",
+      "slug": "minimum-penalty-for-a-shop",
+      "problemName": "2483-minimum-penalty-for-a-shop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+      "folderPath": "2483-minimum-penalty-for-a-shop/",
+      "readmePath": "2483-minimum-penalty-for-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2483-minimum-penalty-for-a-shop.c",
+          "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.c",
+          "sha": "59f656d9c06bd0a4c6f29059f2f7a47f6b33359a",
+          "lastSyncedAt": "2026-09-24T12:30:46.803Z"
         }
       ]
     },
