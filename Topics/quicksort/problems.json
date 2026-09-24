@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quicksort",
+    "name": "Quicksort"
+  },
+  "updatedAt": "2026-09-24T12:43:06.744Z",
+  "problems": [
+    {
+      "frontendId": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "problemName": "0976-largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "folderPath": "0976-largest-perimeter-triangle/",
+      "readmePath": "0976-largest-perimeter-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0976-largest-perimeter-triangle.c",
+          "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.c",
+          "sha": "ab6208f9e15a5212d18f225c776c1652202d931f",
+          "lastSyncedAt": "2026-09-24T12:43:06.744Z"
+        }
+      ]
+    }
+  ]
+}
