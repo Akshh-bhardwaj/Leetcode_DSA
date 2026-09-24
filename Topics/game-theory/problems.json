@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-24T11:58:33.532Z",
+  "updatedAt": "2026-09-24T12:44:52.992Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -63,6 +63,26 @@
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
           "lastSyncedAt": "2026-09-24T11:57:28.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3227",
+      "title": "Vowels Game in a String",
+      "slug": "vowels-game-in-a-string",
+      "problemName": "3227-vowels-game-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/vowels-game-in-a-string/",
+      "folderPath": "3227-vowels-game-in-a-string/",
+      "readmePath": "3227-vowels-game-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3227-vowels-game-in-a-string.c",
+          "path": "3227-vowels-game-in-a-string/3227-vowels-game-in-a-string.c",
+          "sha": "595bedbc0bfb1737b44df3cd5ae4cea338006ab2",
+          "lastSyncedAt": "2026-09-24T12:44:52.992Z"
         }
       ]
     }
