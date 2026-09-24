@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:23:34.260Z",
+  "updatedAt": "2026-09-24T12:23:49.922Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2399,6 +2399,26 @@
           "path": "3643-flip-square-submatrix-vertically/3643-flip-square-submatrix-vertically.c",
           "sha": "1023d0ccd48668a8ff2d061b57ce58e6a7abb1a5",
           "lastSyncedAt": "2026-09-24T12:13:59.055Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3651",
+      "title": "Minimum Cost Path with Teleportations",
+      "slug": "minimum-cost-path-with-teleportations",
+      "problemName": "3651-minimum-cost-path-with-teleportations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-teleportations/",
+      "folderPath": "3651-minimum-cost-path-with-teleportations/",
+      "readmePath": "3651-minimum-cost-path-with-teleportations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3651-minimum-cost-path-with-teleportations.c",
+          "path": "3651-minimum-cost-path-with-teleportations/3651-minimum-cost-path-with-teleportations.c",
+          "sha": "541c2cf41f995dbd75857cf2322dd8c6e049bdb8",
+          "lastSyncedAt": "2026-09-24T12:23:49.922Z"
         }
       ]
     },
