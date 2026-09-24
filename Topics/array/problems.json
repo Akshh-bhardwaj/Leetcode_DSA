@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:36:23.626Z",
+  "updatedAt": "2026-09-24T12:36:40.202Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3191,6 +3191,26 @@
           "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.c",
           "sha": "8010e7ec185239987ec262ef86943f6c76025283",
           "lastSyncedAt": "2026-09-24T12:36:23.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3583",
+      "title": "Count Special Triplets",
+      "slug": "count-special-triplets",
+      "problemName": "3583-count-special-triplets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-special-triplets/",
+      "folderPath": "3583-count-special-triplets/",
+      "readmePath": "3583-count-special-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3583-count-special-triplets.c",
+          "path": "3583-count-special-triplets/3583-count-special-triplets.c",
+          "sha": "6160df5eba1259b917d8d4706b538dd21957e9b8",
+          "lastSyncedAt": "2026-09-24T12:36:40.202Z"
         }
       ]
     },
