@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:24:09.519Z",
+  "updatedAt": "2026-09-24T12:24:18.275Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1211,6 +1211,26 @@
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
           "sha": "48c72429044eef67081377787de57496d6e1fe5c",
           "lastSyncedAt": "2026-09-24T12:16:45.914Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "problemName": "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "folderPath": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "readmePath": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
+          "path": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
+          "sha": "4b6bd9b8996fa985e7c033efcb5191c7d2802dda",
+          "lastSyncedAt": "2026-09-24T12:24:18.275Z"
         }
       ]
     },
