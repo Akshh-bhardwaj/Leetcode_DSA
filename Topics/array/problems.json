@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:49:23.742Z",
+  "updatedAt": "2026-09-24T18:49:30.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2706,7 +2706,7 @@
           "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.c",
           "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.c",
           "sha": "22d5c7135d5d25805de3d7b22933258315d7a5f6",
-          "lastSyncedAt": "2026-09-24T17:48:13.704Z"
+          "lastSyncedAt": "2026-09-24T18:49:30.304Z"
         }
       ]
     },
