@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:07:47.789Z",
+  "updatedAt": "2026-09-24T12:08:07.246Z",
   "problems": [
     {
       "frontendId": "3",
@@ -599,6 +599,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
           "lastSyncedAt": "2026-09-24T11:56:55.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2452",
+      "title": "Words Within Two Edits of Dictionary",
+      "slug": "words-within-two-edits-of-dictionary",
+      "problemName": "2452-words-within-two-edits-of-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+      "folderPath": "2452-words-within-two-edits-of-dictionary/",
+      "readmePath": "2452-words-within-two-edits-of-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2452-words-within-two-edits-of-dictionary.c",
+          "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.c",
+          "sha": "eeb78cf19a31479a062f252e676f93fbc360708c",
+          "lastSyncedAt": "2026-09-24T12:08:07.246Z"
         }
       ]
     },
