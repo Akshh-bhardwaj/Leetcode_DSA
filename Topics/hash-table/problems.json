@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:29:23.739Z",
+  "updatedAt": "2026-09-24T12:29:51.403Z",
   "problems": [
     {
       "frontendId": "1",
@@ -271,6 +271,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
           "lastSyncedAt": "2026-09-24T11:48:38.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "840",
+      "title": "Magic Squares In Grid",
+      "slug": "magic-squares-in-grid",
+      "problemName": "0840-magic-squares-in-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/magic-squares-in-grid/",
+      "folderPath": "0840-magic-squares-in-grid/",
+      "readmePath": "0840-magic-squares-in-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0840-magic-squares-in-grid.c",
+          "path": "0840-magic-squares-in-grid/0840-magic-squares-in-grid.c",
+          "sha": "d6d98ead7b6493a8219d050278770b46eb77d4fe",
+          "lastSyncedAt": "2026-09-24T12:29:51.403Z"
         }
       ]
     },
