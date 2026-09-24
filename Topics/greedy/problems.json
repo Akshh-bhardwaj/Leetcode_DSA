@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:46:03.780Z",
+  "updatedAt": "2026-09-24T12:46:15.889Z",
   "problems": [
     {
       "frontendId": "502",
@@ -303,6 +303,26 @@
           "path": "1733-minimum-number-of-people-to-teach/1733-minimum-number-of-people-to-teach.c",
           "sha": "ae0c9a8d7eed15a4cb112e79b9d741f122018166",
           "lastSyncedAt": "2026-09-24T12:46:03.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1792",
+      "title": "Maximum Average Pass Ratio",
+      "slug": "maximum-average-pass-ratio",
+      "problemName": "1792-maximum-average-pass-ratio",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+      "folderPath": "1792-maximum-average-pass-ratio/",
+      "readmePath": "1792-maximum-average-pass-ratio/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1792-maximum-average-pass-ratio.c",
+          "path": "1792-maximum-average-pass-ratio/1792-maximum-average-pass-ratio.c",
+          "sha": "7de5ee3e3a5e381eeefaa64b4a1bc971e5281739",
+          "lastSyncedAt": "2026-09-24T12:46:15.889Z"
         }
       ]
     },
