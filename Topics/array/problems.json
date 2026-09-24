@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:42:25.269Z",
+  "updatedAt": "2026-09-24T17:42:31.270Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3294,7 +3294,7 @@
           "filename": "3093-longest-common-suffix-queries.c",
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
           "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
-          "lastSyncedAt": "2026-09-24T12:02:08.358Z"
+          "lastSyncedAt": "2026-09-24T17:42:31.270Z"
         }
       ]
     },
