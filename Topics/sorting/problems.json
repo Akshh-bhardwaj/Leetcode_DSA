@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:33:17.586Z",
+  "updatedAt": "2026-09-24T18:33:38.302Z",
   "problems": [
     {
       "frontendId": "15",
@@ -990,7 +990,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.java",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
-          "lastSyncedAt": "2026-09-24T17:30:40.276Z"
+          "lastSyncedAt": "2026-09-24T18:33:38.302Z"
         }
       ]
     },
