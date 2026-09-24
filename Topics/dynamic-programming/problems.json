@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:57:34.700Z",
+  "updatedAt": "2026-09-24T17:58:01.903Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1110,7 +1110,7 @@
           "filename": "3640-trionic-array-ii.c",
           "path": "3640-trionic-array-ii/3640-trionic-array-ii.c",
           "sha": "7a01e95bf009fa532da9f610d3367c19d45bed35",
-          "lastSyncedAt": "2026-09-24T12:22:25.065Z"
+          "lastSyncedAt": "2026-09-24T17:58:01.903Z"
         }
       ]
     },
