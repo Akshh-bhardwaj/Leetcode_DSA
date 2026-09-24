@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:17:22.056Z",
+  "updatedAt": "2026-09-24T12:17:40.421Z",
   "problems": [
     {
       "frontendId": "48",
@@ -103,6 +103,26 @@
           "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
           "lastSyncedAt": "2026-09-24T12:06:55.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1536",
+      "title": "Minimum Swaps to Arrange a Binary Grid",
+      "slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "problemName": "1536-minimum-swaps-to-arrange-a-binary-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/",
+      "folderPath": "1536-minimum-swaps-to-arrange-a-binary-grid/",
+      "readmePath": "1536-minimum-swaps-to-arrange-a-binary-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1536-minimum-swaps-to-arrange-a-binary-grid.c",
+          "path": "1536-minimum-swaps-to-arrange-a-binary-grid/1536-minimum-swaps-to-arrange-a-binary-grid.c",
+          "sha": "dc379b4a83365e87195a9c85ea2bbf9183ec58b4",
+          "lastSyncedAt": "2026-09-24T12:17:40.421Z"
         }
       ]
     },
