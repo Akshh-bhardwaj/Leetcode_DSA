@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T08:47:16.410Z",
+  "updatedAt": "2026-09-24T08:47:32.493Z",
   "problems": [
     {
       "frontendId": "53",
@@ -203,6 +203,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
           "lastSyncedAt": "2026-09-24T08:29:17.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "problemName": "1871-jump-game-vii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "folderPath": "1871-jump-game-vii/",
+      "readmePath": "1871-jump-game-vii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "1871-jump-game-vii.c",
+          "path": "1871-jump-game-vii/1871-jump-game-vii.c",
+          "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
+          "lastSyncedAt": "2026-09-24T08:47:32.493Z"
         }
       ]
     },
