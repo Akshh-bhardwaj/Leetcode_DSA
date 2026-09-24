@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:39:59.720Z",
+  "updatedAt": "2026-09-24T12:40:11.759Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1987,6 +1987,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.c",
           "sha": "9957dc7867dc809efc149acc2e68379da1f9e750",
           "lastSyncedAt": "2026-09-24T08:45:11.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2154-keep-multiplying-found-values-by-two.c",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.c",
+          "sha": "802f80c296932ef83bba28ea4d3a5644c123a508",
+          "lastSyncedAt": "2026-09-24T12:40:11.759Z"
         }
       ]
     },
