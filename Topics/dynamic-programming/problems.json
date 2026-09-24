@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:43:27.473Z",
+  "updatedAt": "2026-09-24T12:45:37.794Z",
   "problems": [
     {
       "frontendId": "53",
@@ -283,6 +283,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
           "lastSyncedAt": "2026-09-24T11:57:42.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1155",
+      "title": "Number of Dice Rolls With Target Sum",
+      "slug": "number-of-dice-rolls-with-target-sum",
+      "problemName": "1155-number-of-dice-rolls-with-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/",
+      "folderPath": "1155-number-of-dice-rolls-with-target-sum/",
+      "readmePath": "1155-number-of-dice-rolls-with-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1155-number-of-dice-rolls-with-target-sum.c",
+          "path": "1155-number-of-dice-rolls-with-target-sum/1155-number-of-dice-rolls-with-target-sum.c",
+          "sha": "64f86883a9cd1ec6f9a0acdec10c4ed279b3b178",
+          "lastSyncedAt": "2026-09-24T12:45:37.794Z"
         }
       ]
     },
