@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-increasing-subsequence",
+    "name": "Longest Increasing Subsequence"
+  },
+  "updatedAt": "2026-09-24T12:31:56.540Z",
+  "problems": [
+    {
+      "frontendId": "944",
+      "title": "Delete Columns to Make Sorted",
+      "slug": "delete-columns-to-make-sorted",
+      "problemName": "0944-delete-columns-to-make-sorted",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+      "folderPath": "0944-delete-columns-to-make-sorted/",
+      "readmePath": "0944-delete-columns-to-make-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0944-delete-columns-to-make-sorted.c",
+          "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.c",
+          "sha": "7489b22ce83aee5d503ba9036777856afdf03759",
+          "lastSyncedAt": "2026-09-24T12:31:56.540Z"
+        }
+      ]
+    }
+  ]
+}
