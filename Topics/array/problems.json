@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:54:50.095Z",
+  "updatedAt": "2026-09-24T18:55:03.577Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1650,7 +1650,7 @@
           "filename": "1536-minimum-swaps-to-arrange-a-binary-grid.c",
           "path": "1536-minimum-swaps-to-arrange-a-binary-grid/1536-minimum-swaps-to-arrange-a-binary-grid.c",
           "sha": "dc379b4a83365e87195a9c85ea2bbf9183ec58b4",
-          "lastSyncedAt": "2026-09-24T17:54:19.684Z"
+          "lastSyncedAt": "2026-09-24T18:55:03.577Z"
         }
       ]
     },
