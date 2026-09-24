@@ -34,6 +34,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3525-find-x-value-of-array-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshh-bhardwaj/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
