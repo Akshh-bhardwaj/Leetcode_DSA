@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:59:01.477Z",
+  "updatedAt": "2026-09-24T17:59:15.697Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1170,7 +1170,7 @@
           "filename": "1200-minimum-absolute-difference.c",
           "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.c",
           "sha": "e55c2691e2bfffe938a7602631c0cd9a6f91648d",
-          "lastSyncedAt": "2026-09-24T12:24:09.519Z"
+          "lastSyncedAt": "2026-09-24T17:59:15.697Z"
         }
       ]
     },
