@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:30:55.518Z",
+  "updatedAt": "2026-09-24T12:31:06.526Z",
   "problems": [
     {
       "frontendId": "49",
@@ -651,6 +651,26 @@
           "path": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
           "sha": "e52f4f31c2f71c33f601e86911cf6f2fd949a18b",
           "lastSyncedAt": "2026-09-24T12:22:52.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3074",
+      "title": "Apple Redistribution into Boxes",
+      "slug": "apple-redistribution-into-boxes",
+      "problemName": "3074-apple-redistribution-into-boxes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+      "folderPath": "3074-apple-redistribution-into-boxes/",
+      "readmePath": "3074-apple-redistribution-into-boxes/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3074-apple-redistribution-into-boxes.c",
+          "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.c",
+          "sha": "88f68e491dc090cccf00a8f6604dbfb67625c469",
+          "lastSyncedAt": "2026-09-24T12:31:06.526Z"
         }
       ]
     },
