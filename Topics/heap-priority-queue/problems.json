@@ -4,8 +4,28 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T07:48:39.814Z",
+  "updatedAt": "2026-09-24T07:50:02.162Z",
   "problems": [
+    {
+      "frontendId": "378",
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "slug": "kth-smallest-element-in-a-sorted-matrix",
+      "problemName": "0378-kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+      "folderPath": "0378-kth-smallest-element-in-a-sorted-matrix/",
+      "readmePath": "0378-kth-smallest-element-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0378-kth-smallest-element-in-a-sorted-matrix.java",
+          "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
+          "sha": "0333ab3616cbb0ebf6ca95dfc3b965da6615bc59",
+          "lastSyncedAt": "2026-09-24T07:50:02.162Z"
+        }
+      ]
+    },
     {
       "frontendId": "451",
       "title": "Sort Characters By Frequency",
