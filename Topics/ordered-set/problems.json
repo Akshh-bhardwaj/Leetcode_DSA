@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-09-24T18:55:25.519Z",
+  "updatedAt": "2026-09-24T19:00:11.116Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -90,7 +90,7 @@
           "filename": "3510-minimum-pair-removal-to-sort-array-ii.c",
           "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.c",
           "sha": "291f01b92d04a674ede7487c1cbe170ce51988d2",
-          "lastSyncedAt": "2026-09-24T17:59:42.306Z"
+          "lastSyncedAt": "2026-09-24T19:00:11.116Z"
         }
       ]
     },
