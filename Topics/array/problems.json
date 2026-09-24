@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:36:00.310Z",
+  "updatedAt": "2026-09-24T12:36:12.957Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2991,6 +2991,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.java",
           "sha": "8d79b5b153e36652ae4abd53fb9f30a61c4a06bd",
           "lastSyncedAt": "2026-09-24T11:50:58.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3531",
+      "title": "Count Covered Buildings",
+      "slug": "count-covered-buildings",
+      "problemName": "3531-count-covered-buildings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-covered-buildings/",
+      "folderPath": "3531-count-covered-buildings/",
+      "readmePath": "3531-count-covered-buildings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3531-count-covered-buildings.c",
+          "path": "3531-count-covered-buildings/3531-count-covered-buildings.c",
+          "sha": "ccb7fd0c4bfef11c1c222de1a02a1896f87cc032",
+          "lastSyncedAt": "2026-09-24T12:36:12.957Z"
         }
       ]
     },
