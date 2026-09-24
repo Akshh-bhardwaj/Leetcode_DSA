@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T17:36:00.809Z",
+  "updatedAt": "2026-09-24T17:36:49.701Z",
   "problems": [
     {
       "frontendId": "2",
@@ -482,7 +482,7 @@
           "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "sha": "3487746c2000eedee187e6b09f865206bc0204d2",
-          "lastSyncedAt": "2026-09-24T11:57:02.962Z"
+          "lastSyncedAt": "2026-09-24T17:36:49.701Z"
         }
       ]
     },
