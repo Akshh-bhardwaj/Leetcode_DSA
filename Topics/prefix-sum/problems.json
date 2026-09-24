@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T18:39:10.270Z",
+  "updatedAt": "2026-09-24T18:40:50.536Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -162,7 +162,7 @@
           "filename": "1732-find-the-highest-altitude.java",
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
           "sha": "bbe0baee5be86aa096bb2cc86a725636811f717e",
-          "lastSyncedAt": "2026-09-24T17:39:20.967Z"
+          "lastSyncedAt": "2026-09-24T18:40:50.536Z"
         }
       ]
     },
