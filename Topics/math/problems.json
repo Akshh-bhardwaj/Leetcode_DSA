@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T08:25:55.322Z",
+  "updatedAt": "2026-09-24T08:26:19.735Z",
   "problems": [
     {
       "frontendId": "2",
@@ -223,6 +223,26 @@
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java",
           "sha": "f72042b16087624837c1417783b94ef2ae71257c",
           "lastSyncedAt": "2026-09-24T08:15:20.475Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1406-stone-game-iii.java",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.java",
+          "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
+          "lastSyncedAt": "2026-09-24T08:26:19.735Z"
         }
       ]
     },
