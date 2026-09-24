@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:04:36.446Z",
+  "updatedAt": "2026-09-24T12:04:45.726Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1015,6 +1015,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
           "lastSyncedAt": "2026-09-24T12:03:04.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2770",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "problemName": "2770-maximum-number-of-jumps-to-reach-the-last-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "folderPath": "2770-maximum-number-of-jumps-to-reach-the-last-index/",
+      "readmePath": "2770-maximum-number-of-jumps-to-reach-the-last-index/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.c",
+          "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.c",
+          "sha": "b6fa7a7b64b54449acfd9e03d189d0d95c80ce23",
+          "lastSyncedAt": "2026-09-24T12:04:45.726Z"
         }
       ]
     },
