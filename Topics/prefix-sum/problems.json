@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:16:37.916Z",
+  "updatedAt": "2026-09-24T12:20:29.797Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -419,6 +419,26 @@
           "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
           "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
           "lastSyncedAt": "2026-09-24T12:10:05.378Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3714",
+      "title": "Longest Balanced Substring II",
+      "slug": "longest-balanced-substring-ii",
+      "problemName": "3714-longest-balanced-substring-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+      "folderPath": "3714-longest-balanced-substring-ii/",
+      "readmePath": "3714-longest-balanced-substring-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3714-longest-balanced-substring-ii.c",
+          "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.c",
+          "sha": "c40f21d9dabb9bd7f686299db2f6f83882324c56",
+          "lastSyncedAt": "2026-09-24T12:20:29.797Z"
         }
       ]
     },
