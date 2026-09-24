@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:31:44.322Z",
+  "updatedAt": "2026-09-24T12:34:02.666Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +123,26 @@
           "path": "0067-add-binary/0067-add-binary.c",
           "sha": "5d6912cbf9e1af90db388391b47dfcbc21d55cc1",
           "lastSyncedAt": "2026-09-24T12:20:11.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0150-evaluate-reverse-polish-notation.c",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c",
+          "sha": "96cc999b437ee7a65da6b9266b8bfdcbdc37ce0c",
+          "lastSyncedAt": "2026-09-24T12:34:02.666Z"
         }
       ]
     },
