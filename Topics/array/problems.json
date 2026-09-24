@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:32:57.127Z",
+  "updatedAt": "2026-09-24T12:33:07.063Z",
   "problems": [
     {
       "frontendId": "1",
@@ -531,6 +531,26 @@
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.c",
           "sha": "03bee6590d8071dcbc2b8a7c51121db51627b910",
           "lastSyncedAt": "2026-09-24T12:10:38.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "problemName": "0941-valid-mountain-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+      "folderPath": "0941-valid-mountain-array/",
+      "readmePath": "0941-valid-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0941-valid-mountain-array.c",
+          "path": "0941-valid-mountain-array/0941-valid-mountain-array.c",
+          "sha": "854ea39e3def314e68ef3000c9f3869727781d47",
+          "lastSyncedAt": "2026-09-24T12:33:07.063Z"
         }
       ]
     },
