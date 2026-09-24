@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:12:51.968Z",
+  "updatedAt": "2026-09-24T12:13:09.843Z",
   "problems": [
     {
       "frontendId": "48",
@@ -283,6 +283,26 @@
           "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.c",
           "sha": "b15ecbeed9da3f19d4db7a731f8da2a64478b217",
           "lastSyncedAt": "2026-09-24T12:11:23.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "problemName": "3546-equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "folderPath": "3546-equal-sum-grid-partition-i/",
+      "readmePath": "3546-equal-sum-grid-partition-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3546-equal-sum-grid-partition-i.c",
+          "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.c",
+          "sha": "36cefbb388c010d95b21be002a9a54d7a7a6a785",
+          "lastSyncedAt": "2026-09-24T12:13:09.843Z"
         }
       ]
     },
