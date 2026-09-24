@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T17:25:35.226Z",
+  "updatedAt": "2026-09-24T17:26:09.557Z",
   "problems": [
     {
       "frontendId": "1",
@@ -330,7 +330,7 @@
           "filename": "0451-sort-characters-by-frequency.java",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "c679486637e2452697183e3792e24178ace5eba5",
-          "lastSyncedAt": "2026-09-24T11:49:09.226Z"
+          "lastSyncedAt": "2026-09-24T17:26:09.557Z"
         }
       ]
     },
