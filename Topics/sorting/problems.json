@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:03:58.435Z",
+  "updatedAt": "2026-09-24T18:04:17.979Z",
   "problems": [
     {
       "frontendId": "15",
@@ -970,7 +970,7 @@
           "filename": "3075-maximize-happiness-of-selected-children.c",
           "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.c",
           "sha": "015adde3b72b67c9d1111e25208526cda98f1270",
-          "lastSyncedAt": "2026-09-24T12:30:55.518Z"
+          "lastSyncedAt": "2026-09-24T18:04:17.979Z"
         }
       ]
     },
