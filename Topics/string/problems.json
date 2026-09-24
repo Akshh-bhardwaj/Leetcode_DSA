@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:31:56.540Z",
+  "updatedAt": "2026-09-24T12:32:15.607Z",
   "problems": [
     {
       "frontendId": "3",
@@ -651,6 +651,26 @@
           "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.c",
           "sha": "7489b22ce83aee5d503ba9036777856afdf03759",
           "lastSyncedAt": "2026-09-24T12:31:56.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "955",
+      "title": "Delete Columns to Make Sorted II",
+      "slug": "delete-columns-to-make-sorted-ii",
+      "problemName": "0955-delete-columns-to-make-sorted-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+      "folderPath": "0955-delete-columns-to-make-sorted-ii/",
+      "readmePath": "0955-delete-columns-to-make-sorted-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0955-delete-columns-to-make-sorted-ii.c",
+          "path": "0955-delete-columns-to-make-sorted-ii/0955-delete-columns-to-make-sorted-ii.c",
+          "sha": "670472c20f2e68ee653692dcd5afb36835aa5ff6",
+          "lastSyncedAt": "2026-09-24T12:32:15.607Z"
         }
       ]
     },
