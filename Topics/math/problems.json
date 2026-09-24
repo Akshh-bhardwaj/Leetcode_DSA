@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:14:45.325Z",
+  "updatedAt": "2026-09-24T18:17:24.453Z",
   "problems": [
     {
       "frontendId": "2",
@@ -102,7 +102,7 @@
           "filename": "0013-roman-to-integer.c",
           "path": "0013-roman-to-integer/0013-roman-to-integer.c",
           "sha": "ea02c13922d9889f495df9f6dc0f1b854d23362d",
-          "lastSyncedAt": "2026-09-24T12:48:45.367Z"
+          "lastSyncedAt": "2026-09-24T18:17:24.453Z"
         }
       ]
     },
