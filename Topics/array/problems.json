@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:23:49.922Z",
+  "updatedAt": "2026-09-24T12:24:09.519Z",
   "problems": [
     {
       "frontendId": "1",
@@ -511,6 +511,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
           "lastSyncedAt": "2026-09-24T11:57:42.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "problemName": "1200-minimum-absolute-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference/",
+      "folderPath": "1200-minimum-absolute-difference/",
+      "readmePath": "1200-minimum-absolute-difference/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1200-minimum-absolute-difference.c",
+          "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.c",
+          "sha": "e55c2691e2bfffe938a7602631c0cd9a6f91648d",
+          "lastSyncedAt": "2026-09-24T12:24:09.519Z"
         }
       ]
     },
