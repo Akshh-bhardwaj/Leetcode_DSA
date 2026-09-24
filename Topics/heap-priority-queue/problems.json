@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:30:31.013Z",
+  "updatedAt": "2026-09-24T12:31:16.758Z",
   "problems": [
     {
       "frontendId": "215",
@@ -103,6 +103,26 @@
           "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.c",
           "sha": "01daefeed9a9d3b073a7ae0483ef973243bb0969",
           "lastSyncedAt": "2026-09-24T12:15:08.223Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2054",
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "problemName": "2054-two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+      "folderPath": "2054-two-best-non-overlapping-events/",
+      "readmePath": "2054-two-best-non-overlapping-events/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2054-two-best-non-overlapping-events.c",
+          "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.c",
+          "sha": "483542d8c1229e8ff60fa94bfe1c98965285bd28",
+          "lastSyncedAt": "2026-09-24T12:31:16.758Z"
         }
       ]
     },
