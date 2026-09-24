@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:35:46.311Z",
+  "updatedAt": "2026-09-24T12:37:38.860Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1019,6 +1019,26 @@
           "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.c",
           "sha": "310fb5cc605397541df02d13c053f7ea43812ae7",
           "lastSyncedAt": "2026-09-24T12:35:35.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2211",
+      "title": "Count Collisions on a Road",
+      "slug": "count-collisions-on-a-road",
+      "problemName": "2211-count-collisions-on-a-road",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-collisions-on-a-road/",
+      "folderPath": "2211-count-collisions-on-a-road/",
+      "readmePath": "2211-count-collisions-on-a-road/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2211-count-collisions-on-a-road.c",
+          "path": "2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.c",
+          "sha": "d65a68fdadfdfd0d5c8ffcf2f948f3e17ba914f8",
+          "lastSyncedAt": "2026-09-24T12:37:38.860Z"
         }
       ]
     },
