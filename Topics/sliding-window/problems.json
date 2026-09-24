@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T07:47:45.129Z",
+  "updatedAt": "2026-09-24T08:14:34.864Z",
   "problems": [
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0567-permutation-in-string.java",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.java",
+          "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
+          "lastSyncedAt": "2026-09-24T08:14:34.864Z"
+        }
+      ]
+    },
     {
       "frontendId": "1477",
       "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
