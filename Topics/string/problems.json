@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:04:46.501Z",
+  "updatedAt": "2026-09-24T18:05:06.993Z",
   "problems": [
     {
       "frontendId": "3",
@@ -810,7 +810,7 @@
           "filename": "0944-delete-columns-to-make-sorted.c",
           "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.c",
           "sha": "7489b22ce83aee5d503ba9036777856afdf03759",
-          "lastSyncedAt": "2026-09-24T12:31:56.540Z"
+          "lastSyncedAt": "2026-09-24T18:05:06.993Z"
         }
       ]
     },
