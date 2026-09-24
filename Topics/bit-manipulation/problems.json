@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:20:11.647Z",
+  "updatedAt": "2026-09-24T12:25:26.746Z",
   "problems": [
     {
       "frontendId": "67",
@@ -283,6 +283,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
           "lastSyncedAt": "2026-09-24T12:03:04.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3315",
+      "title": "Construct the Minimum Bitwise Array II",
+      "slug": "construct-the-minimum-bitwise-array-ii",
+      "problemName": "3315-construct-the-minimum-bitwise-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+      "folderPath": "3315-construct-the-minimum-bitwise-array-ii/",
+      "readmePath": "3315-construct-the-minimum-bitwise-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3315-construct-the-minimum-bitwise-array-ii.c",
+          "path": "3315-construct-the-minimum-bitwise-array-ii/3315-construct-the-minimum-bitwise-array-ii.c",
+          "sha": "e04ec8938c26ac04731262e0a59c2f9c01b6e23b",
+          "lastSyncedAt": "2026-09-24T12:25:26.746Z"
         }
       ]
     },
