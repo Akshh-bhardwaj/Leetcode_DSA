@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting-sort",
+    "name": "Counting Sort"
+  },
+  "updatedAt": "2026-09-24T08:26:56.448Z",
+  "problems": [
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1833-maximum-ice-cream-bars.java",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
+          "sha": "13a0a7e380dc2f6160e4fea3f7ff1c6ba897ba16",
+          "lastSyncedAt": "2026-09-24T08:26:56.448Z"
+        }
+      ]
+    }
+  ]
+}
