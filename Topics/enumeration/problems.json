@@ -4,14 +4,14 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-24T08:31:08.144Z",
+  "updatedAt": "2026-09-24T08:38:38.098Z",
   "problems": [
     {
       "frontendId": "3345",
       "title": "Smallest Divisible Digit Product I",
       "slug": "smallest-divisible-digit-product-i",
       "problemName": "3345-smallest-divisible-digit-product-i",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
       "folderPath": "3345-smallest-divisible-digit-product-i/",
       "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
@@ -22,7 +22,7 @@
           "filename": "3345-smallest-divisible-digit-product-i.java",
           "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
           "sha": "622c1ffb9d6e09f7ec15c3a0ff2e7f4ac31b0605",
-          "lastSyncedAt": "2026-09-24T08:25:33.401Z"
+          "lastSyncedAt": "2026-09-24T08:38:38.098Z"
         }
       ]
     },
