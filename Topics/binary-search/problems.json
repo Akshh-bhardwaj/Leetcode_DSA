@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T12:23:05.462Z",
+  "updatedAt": "2026-09-24T12:25:44.020Z",
   "problems": [
     {
       "frontendId": "33",
@@ -151,6 +151,26 @@
           "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.c",
           "sha": "bf84c1512821d6eb1adc7ec0eb0ec9ae2c56274a",
           "lastSyncedAt": "2026-09-24T12:23:05.462Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1292",
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "problemName": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "folderPath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "readmePath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
+          "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
+          "sha": "c5796cfda792d9eede6841b486247c0ca0a0b34d",
+          "lastSyncedAt": "2026-09-24T12:25:44.020Z"
         }
       ]
     },
