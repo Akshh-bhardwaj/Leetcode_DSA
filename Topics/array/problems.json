@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:26:01.108Z",
+  "updatedAt": "2026-09-24T12:26:11.487Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1895,6 +1895,26 @@
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.c",
           "sha": "705ccadedb98db55f96f43a8679c054721fd92f2",
           "lastSyncedAt": "2026-09-24T12:02:54.778Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3047",
+      "title": "Find the Largest Area of Square Inside Two Rectangles",
+      "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+      "problemName": "3047-find-the-largest-area-of-square-inside-two-rectangles",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+      "folderPath": "3047-find-the-largest-area-of-square-inside-two-rectangles/",
+      "readmePath": "3047-find-the-largest-area-of-square-inside-two-rectangles/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3047-find-the-largest-area-of-square-inside-two-rectangles.c",
+          "path": "3047-find-the-largest-area-of-square-inside-two-rectangles/3047-find-the-largest-area-of-square-inside-two-rectangles.c",
+          "sha": "6e5b18028fe6ecbd65d89f75c9e587215a1209b2",
+          "lastSyncedAt": "2026-09-24T12:26:11.487Z"
         }
       ]
     },
