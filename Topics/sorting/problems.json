@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:39:33.496Z",
+  "updatedAt": "2026-09-24T12:39:59.720Z",
   "problems": [
     {
       "frontendId": "49",
@@ -183,6 +183,26 @@
           "path": "0645-set-mismatch/0645-set-mismatch.c",
           "sha": "8781085d6a76e0938d452625556ce50f30f9fa31",
           "lastSyncedAt": "2026-09-24T12:34:45.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "757",
+      "title": "Set Intersection Size At Least Two",
+      "slug": "set-intersection-size-at-least-two",
+      "problemName": "0757-set-intersection-size-at-least-two",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+      "folderPath": "0757-set-intersection-size-at-least-two/",
+      "readmePath": "0757-set-intersection-size-at-least-two/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0757-set-intersection-size-at-least-two.c",
+          "path": "0757-set-intersection-size-at-least-two/0757-set-intersection-size-at-least-two.c",
+          "sha": "2868d3cfccb63fd90d4679136ed03c56fffacc0b",
+          "lastSyncedAt": "2026-09-24T12:39:59.720Z"
         }
       ]
     },
