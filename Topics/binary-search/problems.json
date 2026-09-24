@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T08:44:50.887Z",
+  "updatedAt": "2026-09-24T08:45:43.111Z",
   "problems": [
     {
       "frontendId": "74",
@@ -103,6 +103,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
           "lastSyncedAt": "2026-09-24T08:27:58.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "3161-block-placement-queries.c",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.c",
+          "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
+          "lastSyncedAt": "2026-09-24T08:45:43.111Z"
         }
       ]
     },
