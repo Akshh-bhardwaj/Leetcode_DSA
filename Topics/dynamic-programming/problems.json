@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:02:28.266Z",
+  "updatedAt": "2026-09-24T12:02:37.794Z",
   "problems": [
     {
       "frontendId": "53",
@@ -142,7 +142,7 @@
           "filename": "1340-jump-game-v.c",
           "path": "1340-jump-game-v/1340-jump-game-v.c",
           "sha": "3012fb885c7447592893758d4d52b923901416e9",
-          "lastSyncedAt": "2026-09-24T08:47:55.209Z"
+          "lastSyncedAt": "2026-09-24T12:02:37.794Z"
         }
       ]
     },
