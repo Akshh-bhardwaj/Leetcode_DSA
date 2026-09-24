@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T11:59:50.638Z",
+  "updatedAt": "2026-09-24T12:01:00.306Z",
   "problems": [
     {
       "frontendId": "53",
@@ -371,11 +371,19 @@
       "title": "Total Waviness of Numbers in Range II",
       "slug": "total-waviness-of-numbers-in-range-ii",
       "problemName": "3753-total-waviness-of-numbers-in-range-ii",
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
       "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
       "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
       "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.c",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
+          "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
+          "lastSyncedAt": "2026-09-24T12:01:00.306Z"
+        },
         {
           "language": "Java",
           "extension": ".c",
