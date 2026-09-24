@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T11:56:42.808Z",
+  "updatedAt": "2026-09-24T11:56:49.261Z",
   "problems": [
     {
       "frontendId": "3",
@@ -630,7 +630,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.java",
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "1a2a63ec9a703358a13e1d81e988d048c9635293",
-          "lastSyncedAt": "2026-09-24T08:36:16.178Z"
+          "lastSyncedAt": "2026-09-24T11:56:49.261Z"
         }
       ]
     },
