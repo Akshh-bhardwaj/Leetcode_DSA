@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T08:38:43.933Z",
+  "updatedAt": "2026-09-24T11:54:47.324Z",
   "problems": [
     {
       "frontendId": "3310",
@@ -42,7 +42,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
-          "lastSyncedAt": "2026-09-24T08:33:27.223Z"
+          "lastSyncedAt": "2026-09-24T11:54:47.324Z"
         }
       ]
     }
