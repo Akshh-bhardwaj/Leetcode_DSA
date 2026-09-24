@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T18:00:28.891Z",
+  "updatedAt": "2026-09-24T18:00:40.134Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -230,7 +230,7 @@
           "filename": "1895-largest-magic-square.c",
           "path": "1895-largest-magic-square/1895-largest-magic-square.c",
           "sha": "6bfe5c17d1d9058fa5593a69b9567744ddd0517f",
-          "lastSyncedAt": "2026-09-24T12:26:01.108Z"
+          "lastSyncedAt": "2026-09-24T18:00:40.134Z"
         }
       ]
     },
