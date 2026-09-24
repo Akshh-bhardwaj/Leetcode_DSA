@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:09:34.773Z",
+  "updatedAt": "2026-09-24T12:09:56.491Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1879,6 +1879,26 @@
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "1384a7cb1e700136c4c430dd4413b060c433786a",
           "lastSyncedAt": "2026-09-24T11:58:25.637Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3740",
+      "title": "Minimum Distance Between Three Equal Elements I",
+      "slug": "minimum-distance-between-three-equal-elements-i",
+      "problemName": "3740-minimum-distance-between-three-equal-elements-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
+      "folderPath": "3740-minimum-distance-between-three-equal-elements-i/",
+      "readmePath": "3740-minimum-distance-between-three-equal-elements-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3740-minimum-distance-between-three-equal-elements-i.c",
+          "path": "3740-minimum-distance-between-three-equal-elements-i/3740-minimum-distance-between-three-equal-elements-i.c",
+          "sha": "5f19dc0b53675ea98d8f7c375e1f6e07c0f3b4f4",
+          "lastSyncedAt": "2026-09-24T12:09:56.491Z"
         }
       ]
     },
