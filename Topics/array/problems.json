@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:26:00.146Z",
+  "updatedAt": "2026-09-24T08:26:19.735Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,6 +383,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "b9711d73ecadbd5f9f8bfd97199eca84c3bb75f8",
           "lastSyncedAt": "2026-09-24T08:21:41.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1406-stone-game-iii.java",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.java",
+          "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
+          "lastSyncedAt": "2026-09-24T08:26:19.735Z"
         }
       ]
     },
