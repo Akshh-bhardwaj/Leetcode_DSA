@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:03:22.636Z",
+  "updatedAt": "2026-09-24T12:04:01.037Z",
   "problems": [
     {
       "frontendId": "1",
@@ -431,6 +431,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
           "lastSyncedAt": "2026-09-24T12:03:04.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "2784-check-if-array-is-good/",
+      "readmePath": "2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2784-check-if-array-is-good.c",
+          "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
+          "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
+          "lastSyncedAt": "2026-09-24T12:04:01.037Z"
         }
       ]
     },
