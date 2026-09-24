@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T07:47:19.322Z",
+  "updatedAt": "2026-09-24T07:53:16.679Z",
   "problems": [
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "6cb27e352dbd34a6905ddb34c724957636900e71",
+          "lastSyncedAt": "2026-09-24T07:53:16.679Z"
+        }
+      ]
+    },
     {
       "frontendId": "3498",
       "title": "Reverse Degree of a String",
