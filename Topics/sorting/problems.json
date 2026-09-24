@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:11:09.196Z",
+  "updatedAt": "2026-09-24T12:11:35.571Z",
   "problems": [
     {
       "frontendId": "49",
@@ -351,6 +351,26 @@
           "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.c",
           "sha": "5a46a5ec6438256dadacca5b38f66acc480427a2",
           "lastSyncedAt": "2026-09-24T12:09:24.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "problemName": "2751-robot-collisions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+      "folderPath": "2751-robot-collisions/",
+      "readmePath": "2751-robot-collisions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2751-robot-collisions.c",
+          "path": "2751-robot-collisions/2751-robot-collisions.c",
+          "sha": "297389755392144fc6e78aca055530e73ee24b3e",
+          "lastSyncedAt": "2026-09-24T12:11:35.571Z"
         }
       ]
     },
