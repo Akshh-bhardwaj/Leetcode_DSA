@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-24T17:52:32.769Z",
+  "updatedAt": "2026-09-24T18:11:48.569Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -62,7 +62,7 @@
           "filename": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
           "path": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
           "sha": "efdbc57b9f7394b394c8b05d0f43670ce7825c28",
-          "lastSyncedAt": "2026-09-24T12:40:49.322Z"
+          "lastSyncedAt": "2026-09-24T18:11:48.569Z"
         }
       ]
     },
