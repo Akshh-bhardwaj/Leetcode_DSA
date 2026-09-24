@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:24:29.697Z",
+  "updatedAt": "2026-09-24T12:28:45.015Z",
   "problems": [
     {
       "frontendId": "502",
@@ -183,6 +183,26 @@
           "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.c",
           "sha": "7582ec61131201165ed8979d7526aa815cf704f6",
           "lastSyncedAt": "2026-09-24T12:24:29.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "problemName": "1975-maximum-matrix-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum/",
+      "folderPath": "1975-maximum-matrix-sum/",
+      "readmePath": "1975-maximum-matrix-sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1975-maximum-matrix-sum.c",
+          "path": "1975-maximum-matrix-sum/1975-maximum-matrix-sum.c",
+          "sha": "e4272918081de8b57c448c6786b000aabf5da0d7",
+          "lastSyncedAt": "2026-09-24T12:28:45.015Z"
         }
       ]
     },
