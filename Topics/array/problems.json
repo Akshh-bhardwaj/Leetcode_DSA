@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:12:12.770Z",
+  "updatedAt": "2026-09-24T12:12:32.036Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1435,6 +1435,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T11:51:56.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.c",
+          "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.c",
+          "sha": "94ff444e63ddfe2cd392f15dde34b4caf60bb267",
+          "lastSyncedAt": "2026-09-24T12:12:32.036Z"
         }
       ]
     },
