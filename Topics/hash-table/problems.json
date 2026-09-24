@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:24:46.920Z",
+  "updatedAt": "2026-09-24T08:24:56.033Z",
   "problems": [
     {
       "frontendId": "1",
@@ -242,7 +242,7 @@
           "filename": "0567-permutation-in-string.java",
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
-          "lastSyncedAt": "2026-09-24T08:14:34.864Z"
+          "lastSyncedAt": "2026-09-24T08:24:56.033Z"
         }
       ]
     },
