@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:07:57.114Z",
+  "updatedAt": "2026-09-24T12:08:55.039Z",
   "problems": [
     {
       "frontendId": "1",
@@ -731,6 +731,26 @@
           "path": "3741-minimum-distance-between-three-equal-elements-ii/3741-minimum-distance-between-three-equal-elements-ii.java",
           "sha": "bb124a3552364e186edad98d3c923ddb72c52dde",
           "lastSyncedAt": "2026-09-24T11:52:18.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3761",
+      "title": "Minimum Absolute Distance Between Mirror Pairs",
+      "slug": "minimum-absolute-distance-between-mirror-pairs",
+      "problemName": "3761-minimum-absolute-distance-between-mirror-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
+      "folderPath": "3761-minimum-absolute-distance-between-mirror-pairs/",
+      "readmePath": "3761-minimum-absolute-distance-between-mirror-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3761-minimum-absolute-distance-between-mirror-pairs.c",
+          "path": "3761-minimum-absolute-distance-between-mirror-pairs/3761-minimum-absolute-distance-between-mirror-pairs.c",
+          "sha": "a1f655f3a3bc94a4e08b8fc219cd7977086097ed",
+          "lastSyncedAt": "2026-09-24T12:08:55.039Z"
         }
       ]
     }
