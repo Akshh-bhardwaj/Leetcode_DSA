@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:48:44.283Z",
+  "updatedAt": "2026-09-24T08:49:03.558Z",
   "problems": [
     {
       "frontendId": "1",
@@ -371,6 +371,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.c",
           "sha": "8423b687b7ab0f7d142b4ccafd700689486de580",
           "lastSyncedAt": "2026-09-24T08:43:30.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.c",
+          "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
+          "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
+          "lastSyncedAt": "2026-09-24T08:49:03.558Z"
         }
       ]
     },
