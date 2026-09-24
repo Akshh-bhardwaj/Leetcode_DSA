@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:07:32.848Z",
+  "updatedAt": "2026-09-24T12:07:57.114Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1135,6 +1135,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.c",
           "sha": "dc5fb239cfd00435c396a93746f1327876989ca8",
           "lastSyncedAt": "2026-09-24T08:43:50.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2615",
+      "title": "Sum of Distances",
+      "slug": "sum-of-distances",
+      "problemName": "2615-sum-of-distances",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances/",
+      "folderPath": "2615-sum-of-distances/",
+      "readmePath": "2615-sum-of-distances/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2615-sum-of-distances.c",
+          "path": "2615-sum-of-distances/2615-sum-of-distances.c",
+          "sha": "2827d4ee15d9a837dfd52fbf18a950d5746d5c60",
+          "lastSyncedAt": "2026-09-24T12:07:57.114Z"
         }
       ]
     },
