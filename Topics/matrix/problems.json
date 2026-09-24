@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:13:24.563Z",
+  "updatedAt": "2026-09-24T12:13:37.979Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.c",
           "sha": "32efdba0e5c4d9bb5e9969642a7b4ac5a5d1d208",
           "lastSyncedAt": "2026-09-24T12:07:11.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1594",
+      "title": "Maximum Non Negative Product in a Matrix",
+      "slug": "maximum-non-negative-product-in-a-matrix",
+      "problemName": "1594-maximum-non-negative-product-in-a-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+      "folderPath": "1594-maximum-non-negative-product-in-a-matrix/",
+      "readmePath": "1594-maximum-non-negative-product-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1594-maximum-non-negative-product-in-a-matrix.c",
+          "path": "1594-maximum-non-negative-product-in-a-matrix/1594-maximum-non-negative-product-in-a-matrix.c",
+          "sha": "e2d075c2786f6326f5421828b83a9d76884662a7",
+          "lastSyncedAt": "2026-09-24T12:13:37.979Z"
         }
       ]
     },
