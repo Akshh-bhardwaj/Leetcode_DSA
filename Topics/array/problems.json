@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:09:24.943Z",
+  "updatedAt": "2026-09-24T12:09:34.773Z",
   "problems": [
     {
       "frontendId": "1",
@@ -871,6 +871,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.java",
           "sha": "1a34af3dacc6f65523216ee63b05f127b262844b",
           "lastSyncedAt": "2026-09-24T11:59:02.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1848",
+      "title": "Minimum Distance to the Target Element",
+      "slug": "minimum-distance-to-the-target-element",
+      "problemName": "1848-minimum-distance-to-the-target-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+      "folderPath": "1848-minimum-distance-to-the-target-element/",
+      "readmePath": "1848-minimum-distance-to-the-target-element/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1848-minimum-distance-to-the-target-element.c",
+          "path": "1848-minimum-distance-to-the-target-element/1848-minimum-distance-to-the-target-element.c",
+          "sha": "e3b0a60c19f4d43ca682ccbe283949eb9c86dd56",
+          "lastSyncedAt": "2026-09-24T12:09:34.773Z"
         }
       ]
     },
