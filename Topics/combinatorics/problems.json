@@ -4,7 +4,7 @@
     "slug": "combinatorics",
     "name": "Combinatorics"
   },
-  "updatedAt": "2026-09-24T17:29:35.028Z",
+  "updatedAt": "2026-09-24T18:08:26.060Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -42,7 +42,7 @@
           "filename": "3577-count-the-number-of-computer-unlocking-permutations.c",
           "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.c",
           "sha": "8010e7ec185239987ec262ef86943f6c76025283",
-          "lastSyncedAt": "2026-09-24T12:36:23.626Z"
+          "lastSyncedAt": "2026-09-24T18:08:26.060Z"
         }
       ]
     }
