@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:39:11.747Z",
+  "updatedAt": "2026-09-24T12:39:33.496Z",
   "problems": [
     {
       "frontendId": "53",
@@ -243,6 +243,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
           "lastSyncedAt": "2026-09-24T11:57:42.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1262",
+      "title": "Greatest Sum Divisible by Three",
+      "slug": "greatest-sum-divisible-by-three",
+      "problemName": "1262-greatest-sum-divisible-by-three",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+      "folderPath": "1262-greatest-sum-divisible-by-three/",
+      "readmePath": "1262-greatest-sum-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1262-greatest-sum-divisible-by-three.c",
+          "path": "1262-greatest-sum-divisible-by-three/1262-greatest-sum-divisible-by-three.c",
+          "sha": "9c31148f923b70e32d848076c0ecd9781bc86de1",
+          "lastSyncedAt": "2026-09-24T12:39:33.496Z"
         }
       ]
     },
