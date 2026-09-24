@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T08:32:02.119Z",
+  "updatedAt": "2026-09-24T08:42:32.503Z",
   "problems": [
     {
       "frontendId": "215",
@@ -103,6 +103,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T08:29:47.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3691-maximum-total-subarray-value-ii.c",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
+          "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
+          "lastSyncedAt": "2026-09-24T08:42:32.503Z"
         }
       ]
     }
