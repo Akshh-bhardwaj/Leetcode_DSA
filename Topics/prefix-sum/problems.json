@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T18:32:43.679Z",
+  "updatedAt": "2026-09-24T18:35:21.383Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -718,7 +718,7 @@
           "filename": "3904-smallest-stable-index-ii.java",
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
-          "lastSyncedAt": "2026-09-24T17:32:51.510Z"
+          "lastSyncedAt": "2026-09-24T18:35:21.383Z"
         }
       ]
     }
