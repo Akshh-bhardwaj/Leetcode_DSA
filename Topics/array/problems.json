@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:05:58.587Z",
+  "updatedAt": "2026-09-24T18:06:08.781Z",
   "problems": [
     {
       "frontendId": "1",
@@ -810,7 +810,7 @@
           "filename": "0739-daily-temperatures.c",
           "path": "0739-daily-temperatures/0739-daily-temperatures.c",
           "sha": "5538e1a2e99f60cb688b5d8c77b9e4a1f75583c0",
-          "lastSyncedAt": "2026-09-24T12:33:28.978Z"
+          "lastSyncedAt": "2026-09-24T18:06:08.781Z"
         }
       ]
     },
