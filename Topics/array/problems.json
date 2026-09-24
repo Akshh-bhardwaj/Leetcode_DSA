@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:27:55.681Z",
+  "updatedAt": "2026-09-24T17:28:15.415Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1770,7 +1770,7 @@
           "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
-          "lastSyncedAt": "2026-09-24T11:50:47.622Z"
+          "lastSyncedAt": "2026-09-24T17:28:15.415Z"
         }
       ]
     },
