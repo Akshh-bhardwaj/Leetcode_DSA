@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:28:13.701Z",
+  "updatedAt": "2026-09-24T12:29:13.210Z",
   "problems": [
     {
       "frontendId": "53",
@@ -283,6 +283,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.java",
           "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
           "lastSyncedAt": "2026-09-24T11:58:33.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1411",
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "slug": "number-of-ways-to-paint-n-3-grid",
+      "problemName": "1411-number-of-ways-to-paint-n-3-grid",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/",
+      "folderPath": "1411-number-of-ways-to-paint-n-3-grid/",
+      "readmePath": "1411-number-of-ways-to-paint-n-3-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1411-number-of-ways-to-paint-n-3-grid.c",
+          "path": "1411-number-of-ways-to-paint-n-3-grid/1411-number-of-ways-to-paint-n-3-grid.c",
+          "sha": "c0a2290e4eb2152a22cb5103d76a4286ed7d1668",
+          "lastSyncedAt": "2026-09-24T12:29:13.210Z"
         }
       ]
     },
