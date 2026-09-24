@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:16:27.628Z",
+  "updatedAt": "2026-09-24T12:16:37.916Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -259,6 +259,26 @@
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
           "lastSyncedAt": "2026-09-24T12:14:42.389Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3129",
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "problemName": "3129-find-all-possible-stable-binary-arrays-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+      "folderPath": "3129-find-all-possible-stable-binary-arrays-i/",
+      "readmePath": "3129-find-all-possible-stable-binary-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3129-find-all-possible-stable-binary-arrays-i.c",
+          "path": "3129-find-all-possible-stable-binary-arrays-i/3129-find-all-possible-stable-binary-arrays-i.c",
+          "sha": "06ed44252ebb7e65975f0f9e6e72e97200e57d8a",
+          "lastSyncedAt": "2026-09-24T12:16:37.916Z"
         }
       ]
     },
