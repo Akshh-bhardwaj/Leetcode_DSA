@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:07:40.502Z",
+  "updatedAt": "2026-09-24T18:08:04.653Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1070,7 +1070,7 @@
           "filename": "3433-count-mentions-per-user.c",
           "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.c",
           "sha": "7dd7490f207f61510dfd249a4520365b6a871a04",
-          "lastSyncedAt": "2026-09-24T12:36:00.310Z"
+          "lastSyncedAt": "2026-09-24T18:08:04.653Z"
         }
       ]
     },
