@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-24T12:21:49.958Z",
+  "updatedAt": "2026-09-24T12:27:20.240Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "8021fb625a52cbec48b7330af44e47455f2aa530",
           "lastSyncedAt": "2026-09-24T11:50:40.489Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0085-maximal-rectangle.c",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
+          "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
+          "lastSyncedAt": "2026-09-24T12:27:20.240Z"
         }
       ]
     },
