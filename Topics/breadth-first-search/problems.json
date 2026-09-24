@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T12:32:28.444Z",
+  "updatedAt": "2026-09-24T12:45:15.868Z",
   "problems": [
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0547-number-of-provinces.c",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.c",
+          "sha": "2853f816c8bb61144e8e170e9e12b04d5b2a9c88",
+          "lastSyncedAt": "2026-09-24T12:45:15.868Z"
+        }
+      ]
+    },
     {
       "frontendId": "865",
       "title": "Smallest Subtree with all the Deepest Nodes",
