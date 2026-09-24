@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:35:35.746Z",
+  "updatedAt": "2026-09-24T12:35:46.311Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1419,6 +1419,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-09-24T11:51:13.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3606",
+      "title": "Coupon Code Validator",
+      "slug": "coupon-code-validator",
+      "problemName": "3606-coupon-code-validator",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/coupon-code-validator/",
+      "folderPath": "3606-coupon-code-validator/",
+      "readmePath": "3606-coupon-code-validator/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3606-coupon-code-validator.c",
+          "path": "3606-coupon-code-validator/3606-coupon-code-validator.c",
+          "sha": "9cf8e8e813f685abb0af9dea124c583b80656f7e",
+          "lastSyncedAt": "2026-09-24T12:35:46.311Z"
         }
       ]
     },
