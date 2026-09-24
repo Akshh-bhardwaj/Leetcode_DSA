@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:31:32.054Z",
+  "updatedAt": "2026-09-24T12:32:57.127Z",
   "problems": [
     {
       "frontendId": "53",
@@ -771,6 +771,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
           "lastSyncedAt": "2026-09-24T11:59:50.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3573",
+      "title": "Best Time to Buy and Sell Stock V",
+      "slug": "best-time-to-buy-and-sell-stock-v",
+      "problemName": "3573-best-time-to-buy-and-sell-stock-v",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/",
+      "folderPath": "3573-best-time-to-buy-and-sell-stock-v/",
+      "readmePath": "3573-best-time-to-buy-and-sell-stock-v/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3573-best-time-to-buy-and-sell-stock-v.c",
+          "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.c",
+          "sha": "ad0c4f1e4bf532615cfbc7b7744d63d171acc181",
+          "lastSyncedAt": "2026-09-24T12:32:57.127Z"
         }
       ]
     },
