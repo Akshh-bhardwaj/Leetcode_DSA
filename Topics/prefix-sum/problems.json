@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:32:45.552Z",
+  "updatedAt": "2026-09-24T12:37:05.135Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -439,6 +439,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.c",
           "sha": "dd7b2892ea7ac84fb325751fc5571af27bd6e587",
           "lastSyncedAt": "2026-09-24T12:12:51.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3578",
+      "title": "Count Partitions With Max-Min Difference at Most K",
+      "slug": "count-partitions-with-max-min-difference-at-most-k",
+      "problemName": "3578-count-partitions-with-max-min-difference-at-most-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+      "folderPath": "3578-count-partitions-with-max-min-difference-at-most-k/",
+      "readmePath": "3578-count-partitions-with-max-min-difference-at-most-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3578-count-partitions-with-max-min-difference-at-most-k.c",
+          "path": "3578-count-partitions-with-max-min-difference-at-most-k/3578-count-partitions-with-max-min-difference-at-most-k.c",
+          "sha": "fa199e9fc25b3659136afdfa0c17ad46eb91fe9d",
+          "lastSyncedAt": "2026-09-24T12:37:05.135Z"
         }
       ]
     },
