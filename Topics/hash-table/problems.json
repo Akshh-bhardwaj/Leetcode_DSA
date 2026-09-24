@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:11:56.967Z",
+  "updatedAt": "2026-09-24T12:12:51.968Z",
   "problems": [
     {
       "frontendId": "1",
@@ -711,6 +711,26 @@
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
           "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
           "lastSyncedAt": "2026-09-24T12:09:05.942Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "3548-equal-sum-grid-partition-ii/",
+      "readmePath": "3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3548-equal-sum-grid-partition-ii.c",
+          "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.c",
+          "sha": "dd7b2892ea7ac84fb325751fc5571af27bd6e587",
+          "lastSyncedAt": "2026-09-24T12:12:51.968Z"
         }
       ]
     },
