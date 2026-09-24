@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:02:02.086Z",
+  "updatedAt": "2026-09-24T12:05:05.249Z",
   "problems": [
     {
       "frontendId": "2",
@@ -511,6 +511,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
           "lastSyncedAt": "2026-09-24T11:59:50.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3629",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "problemName": "3629-minimum-jumps-to-reach-end-via-prime-teleportation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "folderPath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "readmePath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
+          "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
+          "sha": "abba2d27db533ad7ed4d5925926f6ae2bd009a4b",
+          "lastSyncedAt": "2026-09-24T12:05:05.249Z"
         }
       ]
     },
