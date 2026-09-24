@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:17:01.238Z",
+  "updatedAt": "2026-09-24T12:17:10.591Z",
   "problems": [
     {
       "frontendId": "3",
@@ -611,6 +611,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
           "lastSyncedAt": "2026-09-24T11:51:23.505Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1784",
+      "title": "Check if Binary String Has at Most One Segment of Ones",
+      "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+      "problemName": "1784-check-if-binary-string-has-at-most-one-segment-of-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "folderPath": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "readmePath": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1784-check-if-binary-string-has-at-most-one-segment-of-ones.c",
+          "path": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.c",
+          "sha": "f24f551ec8f042c095f117b83e640a1988d73f16",
+          "lastSyncedAt": "2026-09-24T12:17:10.591Z"
         }
       ]
     },
