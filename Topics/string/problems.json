@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:18:06.886Z",
+  "updatedAt": "2026-09-24T12:18:20.159Z",
   "problems": [
     {
       "frontendId": "3",
@@ -571,6 +571,26 @@
           "path": "1320-minimum-distance-to-type-a-word-using-two-fingers/1320-minimum-distance-to-type-a-word-using-two-fingers.c",
           "sha": "30fd0d1b8f664483bd615d76b5d40f720efb5988",
           "lastSyncedAt": "2026-09-24T12:09:46.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1404",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "problemName": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "folderPath": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "readmePath": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
+          "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
+          "sha": "b2f85d8c7faf93b35f4ad113f3355e7f93052f17",
+          "lastSyncedAt": "2026-09-24T12:18:20.159Z"
         }
       ]
     },
