@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-24T18:50:17.930Z",
+  "updatedAt": "2026-09-24T18:53:31.245Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -22,7 +22,7 @@
           "filename": "1622-fancy-sequence.c",
           "path": "1622-fancy-sequence/1622-fancy-sequence.c",
           "sha": "e696cf1635a261b19d9cb6dc67665400f8d87dc9",
-          "lastSyncedAt": "2026-09-24T17:52:32.769Z"
+          "lastSyncedAt": "2026-09-24T18:53:31.245Z"
         }
       ]
     },
