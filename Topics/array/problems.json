@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:39:41.687Z",
+  "updatedAt": "2026-09-24T08:40:00.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,6 +523,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
           "sha": "224101c278b7c6a6e7f8edf01ed55b74475f9155",
           "lastSyncedAt": "2026-09-24T08:35:14.120Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1732-find-the-highest-altitude.java",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
+          "sha": "bbe0baee5be86aa096bb2cc86a725636811f717e",
+          "lastSyncedAt": "2026-09-24T08:40:00.737Z"
         }
       ]
     },
