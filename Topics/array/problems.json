@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:53:34.556Z",
+  "updatedAt": "2026-09-24T07:53:45.541Z",
   "problems": [
     {
       "frontendId": "14",
@@ -423,6 +423,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
           "lastSyncedAt": "2026-09-24T07:46:49.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1672-richest-customer-wealth.java",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
+          "sha": "224101c278b7c6a6e7f8edf01ed55b74475f9155",
+          "lastSyncedAt": "2026-09-24T07:53:45.541Z"
         }
       ]
     },
