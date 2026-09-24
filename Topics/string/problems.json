@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:47:51.219Z",
+  "updatedAt": "2026-09-24T08:48:44.283Z",
   "problems": [
     {
       "frontendId": "3",
@@ -591,6 +591,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
           "lastSyncedAt": "2026-09-24T08:29:34.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.c",
+          "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.c",
+          "sha": "705ccadedb98db55f96f43a8679c054721fd92f2",
+          "lastSyncedAt": "2026-09-24T08:48:44.283Z"
         }
       ]
     },
