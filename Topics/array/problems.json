@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:34:45.523Z",
+  "updatedAt": "2026-09-24T12:35:01.726Z",
   "problems": [
     {
       "frontendId": "1",
@@ -491,6 +491,26 @@
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.c",
           "sha": "106f1e6268a01bdee9db65f295c7059e9c18f1d8",
           "lastSyncedAt": "2026-09-24T12:34:22.362Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0485-max-consecutive-ones.c",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.c",
+          "sha": "9333c04e319e474bfeecc8091ffeda546082554d",
+          "lastSyncedAt": "2026-09-24T12:35:01.726Z"
         }
       ]
     },
