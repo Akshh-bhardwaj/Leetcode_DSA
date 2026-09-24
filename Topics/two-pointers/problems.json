@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T08:12:27.438Z",
+  "updatedAt": "2026-09-24T08:12:33.830Z",
   "problems": [
     {
       "frontendId": "26",
@@ -202,7 +202,7 @@
           "filename": "0345-reverse-vowels-of-a-string.java",
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
           "sha": "2744c45ab2b1d34c5e00204df6c5a4aa3611032a",
-          "lastSyncedAt": "2026-09-24T07:56:47.644Z"
+          "lastSyncedAt": "2026-09-24T08:12:33.830Z"
         }
       ]
     },
