@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:07:32.848Z",
+  "updatedAt": "2026-09-24T12:08:48.765Z",
   "problems": [
     {
       "frontendId": "2",
@@ -679,6 +679,26 @@
           "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
           "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
           "lastSyncedAt": "2026-09-24T08:44:02.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3783",
+      "title": "Mirror Distance of an Integer",
+      "slug": "mirror-distance-of-an-integer",
+      "problemName": "3783-mirror-distance-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+      "folderPath": "3783-mirror-distance-of-an-integer/",
+      "readmePath": "3783-mirror-distance-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3783-mirror-distance-of-an-integer.c",
+          "path": "3783-mirror-distance-of-an-integer/3783-mirror-distance-of-an-integer.c",
+          "sha": "18e7bd0786301a20572e3ef7764f5c2ccf5333c0",
+          "lastSyncedAt": "2026-09-24T12:08:48.765Z"
         }
       ]
     },
