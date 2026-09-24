@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T08:36:16.178Z",
+  "updatedAt": "2026-09-24T08:36:48.027Z",
   "problems": [
     {
       "frontendId": "3",
@@ -142,7 +142,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "sha": "52af87a9605c8414c4429ee146c39f0f2b8c10a7",
-          "lastSyncedAt": "2026-09-24T08:23:22.772Z"
+          "lastSyncedAt": "2026-09-24T08:36:48.027Z"
         }
       ]
     },
