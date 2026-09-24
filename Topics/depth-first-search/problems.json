@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T17:47:31.415Z",
+  "updatedAt": "2026-09-24T17:55:11.224Z",
   "problems": [
     {
       "frontendId": "110",
@@ -82,7 +82,7 @@
           "filename": "1022-sum-of-root-to-leaf-binary-numbers.c",
           "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.c",
           "sha": "ae093b5a3475d22bc00f6c86add0145e6d9b3e97",
-          "lastSyncedAt": "2026-09-24T12:18:43.899Z"
+          "lastSyncedAt": "2026-09-24T17:55:11.224Z"
         }
       ]
     },
