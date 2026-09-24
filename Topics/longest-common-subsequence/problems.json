@@ -4,7 +4,7 @@
     "slug": "longest-common-subsequence",
     "name": "Longest Common Subsequence"
   },
-  "updatedAt": "2026-09-24T12:27:36.046Z",
+  "updatedAt": "2026-09-24T12:28:13.701Z",
   "problems": [
     {
       "frontendId": "712",
@@ -23,6 +23,26 @@
           "path": "0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.c",
           "sha": "1faadbdc198ff6115bba204546b4c18ad85eabc5",
           "lastSyncedAt": "2026-09-24T12:27:36.046Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1458",
+      "title": "Max Dot Product of Two Subsequences",
+      "slug": "max-dot-product-of-two-subsequences",
+      "problemName": "1458-max-dot-product-of-two-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/",
+      "folderPath": "1458-max-dot-product-of-two-subsequences/",
+      "readmePath": "1458-max-dot-product-of-two-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1458-max-dot-product-of-two-subsequences.c",
+          "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.c",
+          "sha": "a5c3677242ff4c9e1bf7d853a3082733b555f880",
+          "lastSyncedAt": "2026-09-24T12:28:13.701Z"
         }
       ]
     }
