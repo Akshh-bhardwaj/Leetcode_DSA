@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:16:59.986Z",
+  "updatedAt": "2026-09-24T18:17:08.236Z",
   "problems": [
     {
       "frontendId": "1",
@@ -142,7 +142,7 @@
           "filename": "0018-4sum.c",
           "path": "0018-4sum/0018-4sum.c",
           "sha": "e6c167f6f14e4c9ebf0ef607c72f475f0cba4a58",
-          "lastSyncedAt": "2026-09-24T12:48:22.705Z"
+          "lastSyncedAt": "2026-09-24T18:17:08.236Z"
         }
       ]
     },
