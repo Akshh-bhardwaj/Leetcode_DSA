@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:42:22.548Z",
+  "updatedAt": "2026-09-24T12:42:36.249Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2011,6 +2011,26 @@
           "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
           "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
           "lastSyncedAt": "2026-09-24T12:35:21.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2125",
+      "title": "Number of Laser Beams in a Bank",
+      "slug": "number-of-laser-beams-in-a-bank",
+      "problemName": "2125-number-of-laser-beams-in-a-bank",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/",
+      "folderPath": "2125-number-of-laser-beams-in-a-bank/",
+      "readmePath": "2125-number-of-laser-beams-in-a-bank/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2125-number-of-laser-beams-in-a-bank.c",
+          "path": "2125-number-of-laser-beams-in-a-bank/2125-number-of-laser-beams-in-a-bank.c",
+          "sha": "ebe3605893a4831004e7d042ddc2e489ac0637d5",
+          "lastSyncedAt": "2026-09-24T12:42:36.249Z"
         }
       ]
     },
