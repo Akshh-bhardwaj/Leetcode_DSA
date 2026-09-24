@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T07:56:04.156Z",
+  "updatedAt": "2026-09-24T07:56:31.208Z",
   "problems": [
     {
       "frontendId": "3",
@@ -151,7 +151,7 @@
       "title": "Reverse Words in a String",
       "slug": "reverse-words-in-a-string",
       "problemName": "0151-reverse-words-in-a-string",
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
       "folderPath": "0151-reverse-words-in-a-string/",
       "readmePath": "0151-reverse-words-in-a-string/README.md",
@@ -162,7 +162,7 @@
           "filename": "0151-reverse-words-in-a-string.java",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "94b66aca67b22c971e691c39c932a3759fe27e24",
-          "lastSyncedAt": "2026-09-24T07:51:24.682Z"
+          "lastSyncedAt": "2026-09-24T07:56:31.208Z"
         }
       ]
     },
