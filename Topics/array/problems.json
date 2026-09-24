@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:49:16.892Z",
+  "updatedAt": "2026-09-24T18:49:23.742Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3710,7 +3710,7 @@
           "filename": "3488-closest-equal-element-queries.c",
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
           "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
-          "lastSyncedAt": "2026-09-24T17:48:05.541Z"
+          "lastSyncedAt": "2026-09-24T18:49:23.742Z"
         }
       ]
     },
