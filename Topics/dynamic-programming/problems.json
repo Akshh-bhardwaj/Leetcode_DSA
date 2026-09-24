@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:59:01.477Z",
+  "updatedAt": "2026-09-24T18:01:36.837Z",
   "problems": [
     {
       "frontendId": "5",
@@ -82,7 +82,7 @@
           "filename": "0085-maximal-rectangle.c",
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
           "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
-          "lastSyncedAt": "2026-09-24T12:27:20.240Z"
+          "lastSyncedAt": "2026-09-24T18:01:36.837Z"
         }
       ]
     },
