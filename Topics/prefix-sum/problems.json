@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T08:40:00.737Z",
+  "updatedAt": "2026-09-24T08:43:50.983Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -103,6 +103,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
           "sha": "bbe0baee5be86aa096bb2cc86a725636811f717e",
           "lastSyncedAt": "2026-09-24T08:40:00.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "2574-left-and-right-sum-differences.c",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.c",
+          "sha": "dc5fb239cfd00435c396a93746f1327876989ca8",
+          "lastSyncedAt": "2026-09-24T08:43:50.983Z"
         }
       ]
     },
