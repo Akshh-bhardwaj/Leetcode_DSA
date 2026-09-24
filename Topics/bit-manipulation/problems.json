@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:39:46.799Z",
+  "updatedAt": "2026-09-24T12:48:13.220Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,6 +183,26 @@
           "path": "0868-binary-gap/0868-binary-gap.c",
           "sha": "ecff925884b4e80085265af6e10de3e7ee485f4f",
           "lastSyncedAt": "2026-09-24T12:19:14.377Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "898",
+      "title": "Bitwise ORs of Subarrays",
+      "slug": "bitwise-ors-of-subarrays",
+      "problemName": "0898-bitwise-ors-of-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
+      "folderPath": "0898-bitwise-ors-of-subarrays/",
+      "readmePath": "0898-bitwise-ors-of-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0898-bitwise-ors-of-subarrays.c",
+          "path": "0898-bitwise-ors-of-subarrays/0898-bitwise-ors-of-subarrays.c",
+          "sha": "7db292033e95c5d27412d689463ef2aee103eba0",
+          "lastSyncedAt": "2026-09-24T12:48:13.220Z"
         }
       ]
     },
