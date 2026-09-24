@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T08:26:58.864Z",
+  "updatedAt": "2026-09-24T08:27:16.727Z",
   "problems": [
     {
       "frontendId": "2",
@@ -283,6 +283,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
           "lastSyncedAt": "2026-09-24T08:16:24.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1840",
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "problemName": "1840-maximum-building-height",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-building-height/",
+      "folderPath": "1840-maximum-building-height/",
+      "readmePath": "1840-maximum-building-height/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1840-maximum-building-height.java",
+          "path": "1840-maximum-building-height/1840-maximum-building-height.java",
+          "sha": "1a34af3dacc6f65523216ee63b05f127b262844b",
+          "lastSyncedAt": "2026-09-24T08:27:16.727Z"
         }
       ]
     },
