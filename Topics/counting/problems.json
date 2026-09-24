@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-24T18:40:19.578Z",
+  "updatedAt": "2026-09-24T18:48:30.888Z",
   "problems": [
     {
       "frontendId": "383",
@@ -122,7 +122,7 @@
           "filename": "2833-furthest-point-from-origin.c",
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.c",
           "sha": "4f7b70d810ebdee95e65b88f8755ea96f9339f14",
-          "lastSyncedAt": "2026-09-24T17:47:06.742Z"
+          "lastSyncedAt": "2026-09-24T18:48:30.888Z"
         }
       ]
     },
