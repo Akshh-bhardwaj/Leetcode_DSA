@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:28:37.024Z",
+  "updatedAt": "2026-09-24T18:28:44.341Z",
   "problems": [
     {
       "frontendId": "3",
@@ -550,7 +550,7 @@
           "filename": "0438-find-all-anagrams-in-a-string.java",
           "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
           "sha": "40afd124472034b41f8ed0fca7ce6372627d30fa",
-          "lastSyncedAt": "2026-09-24T17:25:27.117Z"
+          "lastSyncedAt": "2026-09-24T18:28:44.341Z"
         }
       ]
     },
