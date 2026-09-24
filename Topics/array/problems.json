@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:41:44.917Z",
+  "updatedAt": "2026-09-24T12:41:56.275Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2147,6 +2147,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
           "lastSyncedAt": "2026-09-24T11:56:55.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2257",
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "problemName": "2257-count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+      "folderPath": "2257-count-unguarded-cells-in-the-grid/",
+      "readmePath": "2257-count-unguarded-cells-in-the-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2257-count-unguarded-cells-in-the-grid.c",
+          "path": "2257-count-unguarded-cells-in-the-grid/2257-count-unguarded-cells-in-the-grid.c",
+          "sha": "b3a6ea25156d2991c50070527443b9a434892c7d",
+          "lastSyncedAt": "2026-09-24T12:41:56.275Z"
         }
       ]
     },
