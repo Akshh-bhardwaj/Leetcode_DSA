@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:11:34.405Z",
+  "updatedAt": "2026-09-24T18:11:37.903Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1470,7 +1470,7 @@
           "filename": "1437-check-if-all-1s-are-at-least-length-k-places-away.c",
           "path": "1437-check-if-all-1s-are-at-least-length-k-places-away/1437-check-if-all-1s-are-at-least-length-k-places-away.c",
           "sha": "1fecf7b702b28b71957799994d10edba07a30b8a",
-          "lastSyncedAt": "2026-09-24T12:40:33.033Z"
+          "lastSyncedAt": "2026-09-24T18:11:37.903Z"
         }
       ]
     },
