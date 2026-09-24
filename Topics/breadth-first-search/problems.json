@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T12:03:22.636Z",
+  "updatedAt": "2026-09-24T12:03:33.321Z",
   "problems": [
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1306-jump-game-iii.c",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.c",
+          "sha": "38ccb599cc512ae7367b924f12bf8c05c093d1ca",
+          "lastSyncedAt": "2026-09-24T12:03:33.321Z"
+        }
+      ]
+    },
     {
       "frontendId": "1345",
       "title": "Jump Game IV",
