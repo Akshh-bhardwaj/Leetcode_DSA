@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:12:28.783Z",
+  "updatedAt": "2026-09-24T18:12:37.399Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2586,7 +2586,7 @@
           "filename": "2257-count-unguarded-cells-in-the-grid.c",
           "path": "2257-count-unguarded-cells-in-the-grid/2257-count-unguarded-cells-in-the-grid.c",
           "sha": "b3a6ea25156d2991c50070527443b9a434892c7d",
-          "lastSyncedAt": "2026-09-24T12:41:56.275Z"
+          "lastSyncedAt": "2026-09-24T18:12:37.399Z"
         }
       ]
     },
