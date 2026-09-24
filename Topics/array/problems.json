@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:29:23.739Z",
+  "updatedAt": "2026-09-24T12:29:35.238Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1351,6 +1351,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
           "lastSyncedAt": "2026-09-24T11:56:15.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1970",
+      "title": "Last Day Where You Can Still Cross",
+      "slug": "last-day-where-you-can-still-cross",
+      "problemName": "1970-last-day-where-you-can-still-cross",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+      "folderPath": "1970-last-day-where-you-can-still-cross/",
+      "readmePath": "1970-last-day-where-you-can-still-cross/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1970-last-day-where-you-can-still-cross.c",
+          "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.c",
+          "sha": "63815ea9d4b1aaa7aa64bf52e488140ad91fe87f",
+          "lastSyncedAt": "2026-09-24T12:29:35.238Z"
         }
       ]
     },
