@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:26:39.976Z",
+  "updatedAt": "2026-09-24T08:26:40.990Z",
   "problems": [
     {
       "frontendId": "3",
@@ -463,6 +463,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "fb74d634db3c82db7115f03c630db27c638028ce",
           "lastSyncedAt": "2026-09-24T08:19:14.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "1189-maximum-number-of-balloons/",
+      "readmePath": "1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1189-maximum-number-of-balloons.java",
+          "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.java",
+          "sha": "5cefbdd50b8e165af27167936587238bb4d71b4e",
+          "lastSyncedAt": "2026-09-24T08:26:40.990Z"
         }
       ]
     },
