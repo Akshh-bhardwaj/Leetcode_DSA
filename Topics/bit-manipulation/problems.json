@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:39:24.048Z",
+  "updatedAt": "2026-09-24T12:39:46.799Z",
   "problems": [
     {
       "frontendId": "67",
@@ -323,6 +323,26 @@
           "path": "1680-concatenation-of-consecutive-binary-numbers/1680-concatenation-of-consecutive-binary-numbers.c",
           "sha": "86a4d4972f9a22e8c90a6c24b857d7400ba4f87f",
           "lastSyncedAt": "2026-09-24T12:17:57.337Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "problemName": "1930-unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+      "folderPath": "1930-unique-length-3-palindromic-subsequences/",
+      "readmePath": "1930-unique-length-3-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1930-unique-length-3-palindromic-subsequences.c",
+          "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.c",
+          "sha": "d68e5649b458cd4e661f125d43d3a9744c8e09e2",
+          "lastSyncedAt": "2026-09-24T12:39:46.799Z"
         }
       ]
     },
