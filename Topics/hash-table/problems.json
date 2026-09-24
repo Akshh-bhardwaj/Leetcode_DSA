@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:47:24.547Z",
+  "updatedAt": "2026-09-24T12:47:50.139Z",
   "problems": [
     {
       "frontendId": "1",
@@ -871,6 +871,26 @@
           "path": "2540-minimum-common-value/2540-minimum-common-value.c",
           "sha": "14209bdac7788ef3728a31ce42b1166f10623464",
           "lastSyncedAt": "2026-09-24T12:03:11.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2561",
+      "title": "Rearranging Fruits",
+      "slug": "rearranging-fruits",
+      "problemName": "2561-rearranging-fruits",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/rearranging-fruits/",
+      "folderPath": "2561-rearranging-fruits/",
+      "readmePath": "2561-rearranging-fruits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2561-rearranging-fruits.c",
+          "path": "2561-rearranging-fruits/2561-rearranging-fruits.c",
+          "sha": "81300fcd0e81ac5f4c3c167e9205f0fa37053905",
+          "lastSyncedAt": "2026-09-24T12:47:50.139Z"
         }
       ]
     },
