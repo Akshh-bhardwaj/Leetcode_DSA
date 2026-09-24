@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prime-factorization",
+    "name": "Prime Factorization"
+  },
+  "updatedAt": "2026-09-24T12:28:57.271Z",
+  "problems": [
+    {
+      "frontendId": "1390",
+      "title": "Four Divisors",
+      "slug": "four-divisors",
+      "problemName": "1390-four-divisors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+      "folderPath": "1390-four-divisors/",
+      "readmePath": "1390-four-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1390-four-divisors.c",
+          "path": "1390-four-divisors/1390-four-divisors.c",
+          "sha": "745e38619026a9ab4d0e43ddbbdb80bc23c8e30a",
+          "lastSyncedAt": "2026-09-24T12:28:57.271Z"
+        }
+      ]
+    }
+  ]
+}
