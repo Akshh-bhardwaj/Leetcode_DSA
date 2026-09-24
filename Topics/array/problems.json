@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:12:17.311Z",
+  "updatedAt": "2026-09-24T18:12:28.783Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3362,7 +3362,7 @@
           "filename": "3217-delete-nodes-from-linked-list-present-in-array.c",
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.c",
           "sha": "bb1261d3c5508dac171a28d86601c4b57d041a72",
-          "lastSyncedAt": "2026-09-24T12:41:44.917Z"
+          "lastSyncedAt": "2026-09-24T18:12:28.783Z"
         }
       ]
     },
