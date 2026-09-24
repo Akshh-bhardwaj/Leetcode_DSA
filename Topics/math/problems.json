@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:34:02.666Z",
+  "updatedAt": "2026-09-24T12:35:21.663Z",
   "problems": [
     {
       "frontendId": "2",
@@ -603,6 +603,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.c",
           "sha": "f3661bc855266193c41077609b03a97dd587c617",
           "lastSyncedAt": "2026-09-24T12:06:43.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
+          "lastSyncedAt": "2026-09-24T12:35:21.663Z"
         }
       ]
     },
