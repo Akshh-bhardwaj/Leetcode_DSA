@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:46:35.960Z",
+  "updatedAt": "2026-09-24T08:46:53.768Z",
   "problems": [
     {
       "frontendId": "1",
@@ -451,6 +451,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "1a2a63ec9a703358a13e1d81e988d048c9635293",
           "lastSyncedAt": "2026-09-24T08:36:16.178Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3121",
+      "title": "Count the Number of Special Characters II",
+      "slug": "count-the-number-of-special-characters-ii",
+      "problemName": "3121-count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+      "folderPath": "3121-count-the-number-of-special-characters-ii/",
+      "readmePath": "3121-count-the-number-of-special-characters-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3121-count-the-number-of-special-characters-ii.c",
+          "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.c",
+          "sha": "b39cfdaa893825d9a9e1960b94db6304e4e7cde9",
+          "lastSyncedAt": "2026-09-24T08:46:53.768Z"
         }
       ]
     },
