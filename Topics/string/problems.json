@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:57:02.394Z",
+  "updatedAt": "2026-09-24T18:57:12.621Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1878,7 +1878,7 @@
           "filename": "3713-longest-balanced-substring-i.c",
           "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.c",
           "sha": "8e2ab9106dc7f1da0cb80952a9f729c2c8e6ce34",
-          "lastSyncedAt": "2026-09-24T17:56:32.892Z"
+          "lastSyncedAt": "2026-09-24T18:57:12.621Z"
         }
       ]
     },
