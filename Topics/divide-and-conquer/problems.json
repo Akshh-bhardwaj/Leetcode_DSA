@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-24T12:19:30.709Z",
+  "updatedAt": "2026-09-24T12:20:04.383Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,6 +23,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "0f99a7ac8ddc940c24ecae2a648c89315e35968b",
           "lastSyncedAt": "2026-09-24T11:55:24.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0190-reverse-bits.c",
+          "path": "0190-reverse-bits/0190-reverse-bits.c",
+          "sha": "98c236b5e6fb5209e1291964204a810494e633e7",
+          "lastSyncedAt": "2026-09-24T12:20:04.383Z"
         }
       ]
     },
