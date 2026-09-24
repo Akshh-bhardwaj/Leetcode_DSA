@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T12:16:45.914Z",
+  "updatedAt": "2026-09-24T12:19:56.228Z",
   "problems": [
+    {
+      "frontendId": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "problemName": "0401-binary-watch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+      "folderPath": "0401-binary-watch/",
+      "readmePath": "0401-binary-watch/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0401-binary-watch.c",
+          "path": "0401-binary-watch/0401-binary-watch.c",
+          "sha": "287e809550314757e3a5a9906074d2d10457dccf",
+          "lastSyncedAt": "2026-09-24T12:19:56.228Z"
+        }
+      ]
+    },
     {
       "frontendId": "1415",
       "title": "The k-th Lexicographical String of All Happy Strings of Length n",
