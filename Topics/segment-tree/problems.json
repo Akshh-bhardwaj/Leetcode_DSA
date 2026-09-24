@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-09-24T12:21:10.008Z",
+  "updatedAt": "2026-09-24T12:26:44.122Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -71,6 +71,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.c",
           "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
           "lastSyncedAt": "2026-09-24T08:45:43.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3454",
+      "title": "Separate Squares II",
+      "slug": "separate-squares-ii",
+      "problemName": "3454-separate-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-squares-ii/",
+      "folderPath": "3454-separate-squares-ii/",
+      "readmePath": "3454-separate-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3454-separate-squares-ii.c",
+          "path": "3454-separate-squares-ii/3454-separate-squares-ii.c",
+          "sha": "ab2ca666fe20df95fa1c97c768953a164546abaa",
+          "lastSyncedAt": "2026-09-24T12:26:44.122Z"
         }
       ]
     },
