@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:19:42.068Z",
+  "updatedAt": "2026-09-24T12:20:11.647Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +103,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
           "lastSyncedAt": "2026-09-24T11:49:26.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0067-add-binary.c",
+          "path": "0067-add-binary/0067-add-binary.c",
+          "sha": "5d6912cbf9e1af90db388391b47dfcbc21d55cc1",
+          "lastSyncedAt": "2026-09-24T12:20:11.647Z"
         }
       ]
     },
