@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:30:19.796Z",
+  "updatedAt": "2026-09-24T12:39:11.747Z",
   "problems": [
     {
       "frontendId": "48",
@@ -463,6 +463,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.c",
           "sha": "f3661bc855266193c41077609b03a97dd587c617",
           "lastSyncedAt": "2026-09-24T12:06:43.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2435",
+      "title": "Paths in Matrix Whose Sum Is Divisible by K",
+      "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+      "problemName": "2435-paths-in-matrix-whose-sum-is-divisible-by-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+      "folderPath": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/",
+      "readmePath": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
+          "path": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
+          "sha": "5d991fc59095a1f5e4c52ac534564499755a4d60",
+          "lastSyncedAt": "2026-09-24T12:39:11.747Z"
         }
       ]
     },
