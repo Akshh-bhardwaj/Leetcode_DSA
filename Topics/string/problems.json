@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:20:29.797Z",
+  "updatedAt": "2026-09-24T12:20:41.751Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1279,6 +1279,26 @@
           "path": "3666-minimum-operations-to-equalize-binary-string/3666-minimum-operations-to-equalize-binary-string.c",
           "sha": "0f37b4f232ed3ab513425ccdef85ac022e8f6461",
           "lastSyncedAt": "2026-09-24T12:18:06.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3713",
+      "title": "Longest Balanced Substring I",
+      "slug": "longest-balanced-substring-i",
+      "problemName": "3713-longest-balanced-substring-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-i/",
+      "folderPath": "3713-longest-balanced-substring-i/",
+      "readmePath": "3713-longest-balanced-substring-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3713-longest-balanced-substring-i.c",
+          "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.c",
+          "sha": "8e2ab9106dc7f1da0cb80952a9f729c2c8e6ce34",
+          "lastSyncedAt": "2026-09-24T12:20:41.751Z"
         }
       ]
     },
