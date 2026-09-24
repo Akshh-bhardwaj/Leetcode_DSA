@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T08:43:35.933Z",
+  "updatedAt": "2026-09-24T08:44:02.685Z",
   "problems": [
     {
       "frontendId": "53",
@@ -303,6 +303,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
           "lastSyncedAt": "2026-09-24T08:41:32.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "problemName": "3753-total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
+      "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.c",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
+          "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
+          "lastSyncedAt": "2026-09-24T08:44:02.685Z"
         }
       ]
     }
