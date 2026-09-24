@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T18:29:28.455Z",
+  "updatedAt": "2026-09-24T18:33:02.881Z",
   "problems": [
     {
       "frontendId": "215",
@@ -202,7 +202,7 @@
           "filename": "2813-maximum-elegance-of-a-k-length-subsequence.java",
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
-          "lastSyncedAt": "2026-09-24T17:29:57.847Z"
+          "lastSyncedAt": "2026-09-24T18:33:02.881Z"
         }
       ]
     },
