@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:11:48.569Z",
+  "updatedAt": "2026-09-24T18:12:45.595Z",
   "problems": [
     {
       "frontendId": "2",
@@ -942,7 +942,7 @@
           "filename": "3289-the-two-sneaky-numbers-of-digitville.c",
           "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.c",
           "sha": "408a9ade2ed9b6dc377aa63f10dd32fdf00288b3",
-          "lastSyncedAt": "2026-09-24T12:42:08.660Z"
+          "lastSyncedAt": "2026-09-24T18:12:45.595Z"
         }
       ]
     },
