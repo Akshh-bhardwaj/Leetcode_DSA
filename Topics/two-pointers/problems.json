@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T12:01:24.509Z",
+  "updatedAt": "2026-09-24T12:03:11.941Z",
   "problems": [
     {
       "frontendId": "26",
@@ -362,7 +362,7 @@
           "filename": "2540-minimum-common-value.c",
           "path": "2540-minimum-common-value/2540-minimum-common-value.c",
           "sha": "14209bdac7788ef3728a31ce42b1166f10623464",
-          "lastSyncedAt": "2026-09-24T08:49:21.845Z"
+          "lastSyncedAt": "2026-09-24T12:03:11.941Z"
         }
       ]
     },
