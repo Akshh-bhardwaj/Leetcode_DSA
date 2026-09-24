@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:03:22.636Z",
+  "updatedAt": "2026-09-24T12:03:33.321Z",
   "problems": [
     {
       "frontendId": "1",
@@ -411,6 +411,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "b9711d73ecadbd5f9f8bfd97199eca84c3bb75f8",
           "lastSyncedAt": "2026-09-24T11:55:56.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1306-jump-game-iii.c",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.c",
+          "sha": "38ccb599cc512ae7367b924f12bf8c05c093d1ca",
+          "lastSyncedAt": "2026-09-24T12:03:33.321Z"
         }
       ]
     },
