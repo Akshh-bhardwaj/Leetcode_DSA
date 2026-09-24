@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:24:31.958Z",
+  "updatedAt": "2026-09-24T08:25:59.147Z",
   "problems": [
     {
       "frontendId": "1",
@@ -102,7 +102,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
-          "lastSyncedAt": "2026-09-24T08:12:58.098Z"
+          "lastSyncedAt": "2026-09-24T08:25:59.147Z"
         }
       ]
     },
