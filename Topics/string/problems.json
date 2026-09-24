@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:44:52.992Z",
+  "updatedAt": "2026-09-24T12:45:06.766Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1319,6 +1319,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
           "lastSyncedAt": "2026-09-24T12:12:12.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "problemName": "2785-sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-vowels-in-a-string/",
+      "folderPath": "2785-sort-vowels-in-a-string/",
+      "readmePath": "2785-sort-vowels-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2785-sort-vowels-in-a-string.c",
+          "path": "2785-sort-vowels-in-a-string/2785-sort-vowels-in-a-string.c",
+          "sha": "6b86c224faa36b93dfcbcee15fecf378a43551cb",
+          "lastSyncedAt": "2026-09-24T12:45:06.766Z"
         }
       ]
     },
