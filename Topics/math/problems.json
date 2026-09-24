@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T18:13:04.566Z",
+  "updatedAt": "2026-09-24T18:13:31.356Z",
   "problems": [
     {
       "frontendId": "2",
@@ -382,7 +382,7 @@
           "filename": "0976-largest-perimeter-triangle.c",
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.c",
           "sha": "ab6208f9e15a5212d18f225c776c1652202d931f",
-          "lastSyncedAt": "2026-09-24T12:43:06.744Z"
+          "lastSyncedAt": "2026-09-24T18:13:31.356Z"
         }
       ]
     },
