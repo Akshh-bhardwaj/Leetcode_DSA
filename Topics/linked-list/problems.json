@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T18:12:28.783Z",
+  "updatedAt": "2026-09-24T18:16:11.830Z",
   "problems": [
     {
       "frontendId": "2",
@@ -62,7 +62,7 @@
           "filename": "0021-merge-two-sorted-lists.c",
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.c",
           "sha": "13e0ca650411d19d717917e1db399824701c7704",
-          "lastSyncedAt": "2026-09-24T12:47:07.173Z"
+          "lastSyncedAt": "2026-09-24T18:16:11.830Z"
         }
       ]
     },
