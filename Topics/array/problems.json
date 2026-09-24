@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:35:14.120Z",
+  "updatedAt": "2026-09-24T08:35:26.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -602,7 +602,7 @@
           "filename": "1929-concatenation-of-array.java",
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "f8b8f533f63e18b1bbdac966de821d424d8bbddd",
-          "lastSyncedAt": "2026-09-24T08:22:07.378Z"
+          "lastSyncedAt": "2026-09-24T08:35:26.411Z"
         }
       ]
     },
