@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T18:48:07.332Z",
+  "updatedAt": "2026-09-24T18:48:52.713Z",
   "problems": [
     {
       "frontendId": "547",
@@ -82,7 +82,7 @@
           "filename": "1722-minimize-hamming-distance-after-swap-operations.c",
           "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.c",
           "sha": "c3455776d414c49a0eb371a3e9bbd2dd8ea3f2f8",
-          "lastSyncedAt": "2026-09-24T17:47:31.415Z"
+          "lastSyncedAt": "2026-09-24T18:48:52.713Z"
         }
       ]
     },
