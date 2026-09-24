@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T17:58:31.473Z",
+  "updatedAt": "2026-09-24T18:00:28.891Z",
   "problems": [
     {
       "frontendId": "4",
@@ -210,7 +210,7 @@
           "filename": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
           "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
           "sha": "c5796cfda792d9eede6841b486247c0ca0a0b34d",
-          "lastSyncedAt": "2026-09-24T12:25:44.020Z"
+          "lastSyncedAt": "2026-09-24T18:00:28.891Z"
         }
       ]
     },
