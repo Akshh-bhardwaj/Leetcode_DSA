@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:58:01.903Z",
+  "updatedAt": "2026-09-24T17:58:09.567Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4218,7 +4218,7 @@
           "filename": "3637-trionic-array-i.c",
           "path": "3637-trionic-array-i/3637-trionic-array-i.c",
           "sha": "3781637229cfcf201e3a48f6b402bc2a243c324f",
-          "lastSyncedAt": "2026-09-24T12:22:32.936Z"
+          "lastSyncedAt": "2026-09-24T17:58:09.567Z"
         }
       ]
     },
