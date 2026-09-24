@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:40:00.737Z",
+  "updatedAt": "2026-09-24T08:41:19.688Z",
   "problems": [
     {
       "frontendId": "1",
@@ -883,6 +883,26 @@
           "path": "3741-minimum-distance-between-three-equal-elements-ii/3741-minimum-distance-between-three-equal-elements-ii.java",
           "sha": "bb124a3552364e186edad98d3c923ddb72c52dde",
           "lastSyncedAt": "2026-09-24T08:30:27.760Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "3838-weighted-word-mapping/",
+      "readmePath": "3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3838-weighted-word-mapping.c",
+          "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.c",
+          "sha": "10b363500af1ce0fd7985ad4c004221df79db2ea",
+          "lastSyncedAt": "2026-09-24T08:41:19.688Z"
         }
       ]
     },
