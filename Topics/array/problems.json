@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:58:09.567Z",
+  "updatedAt": "2026-09-24T17:58:13.719Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3174,7 +3174,7 @@
           "filename": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.c",
           "path": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.c",
           "sha": "bd23e48b121a6617318ab3071ed67cb0f9daca89",
-          "lastSyncedAt": "2026-09-24T12:22:39.324Z"
+          "lastSyncedAt": "2026-09-24T17:58:13.719Z"
         }
       ]
     },
