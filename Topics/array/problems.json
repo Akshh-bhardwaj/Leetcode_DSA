@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:49:09.907Z",
+  "updatedAt": "2026-09-24T08:49:21.845Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,6 +783,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
           "lastSyncedAt": "2026-09-24T08:36:25.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2540-minimum-common-value.c",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.c",
+          "sha": "14209bdac7788ef3728a31ce42b1166f10623464",
+          "lastSyncedAt": "2026-09-24T08:49:21.845Z"
         }
       ]
     },
