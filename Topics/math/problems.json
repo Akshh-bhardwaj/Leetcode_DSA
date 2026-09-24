@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T11:50:08.303Z",
+  "updatedAt": "2026-09-24T11:50:58.921Z",
   "problems": [
     {
       "frontendId": "2",
@@ -442,7 +442,7 @@
           "filename": "3525-find-x-value-of-array-ii.java",
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.java",
           "sha": "8d79b5b153e36652ae4abd53fb9f30a61c4a06bd",
-          "lastSyncedAt": "2026-09-24T08:46:57.152Z"
+          "lastSyncedAt": "2026-09-24T11:50:58.921Z"
         }
       ]
     },
