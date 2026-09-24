@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:37:38.236Z",
+  "updatedAt": "2026-09-24T17:37:54.893Z",
   "problems": [
     {
       "frontendId": "5",
@@ -950,7 +950,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.java",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
           "sha": "203be90f3da02c9a9969b684b270a550c8775481",
-          "lastSyncedAt": "2026-09-24T11:57:54.603Z"
+          "lastSyncedAt": "2026-09-24T17:37:54.893Z"
         }
       ]
     },
