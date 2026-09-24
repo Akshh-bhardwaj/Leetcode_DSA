@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-24T12:33:28.978Z",
+  "updatedAt": "2026-09-24T12:33:42.371Z",
   "problems": [
     {
       "frontendId": "84",
@@ -63,6 +63,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.c",
           "sha": "5538e1a2e99f60cb688b5d8c77b9e4a1f75583c0",
           "lastSyncedAt": "2026-09-24T12:33:28.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problemName": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+      "folderPath": "1475-final-prices-with-a-special-discount-in-a-shop/",
+      "readmePath": "1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1475-final-prices-with-a-special-discount-in-a-shop.c",
+          "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.c",
+          "sha": "06fb34e6f67d4818e772d1eacecab79282536413",
+          "lastSyncedAt": "2026-09-24T12:33:42.371Z"
         }
       ]
     }
