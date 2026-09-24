@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-24T12:21:24.698Z",
+  "updatedAt": "2026-09-24T17:57:12.610Z",
   "problems": [
     {
       "frontendId": "1382",
@@ -22,7 +22,7 @@
           "filename": "1382-balance-a-binary-search-tree.c",
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.c",
           "sha": "673140aa177b01acb071a6509ea1217e628b6126",
-          "lastSyncedAt": "2026-09-24T12:21:24.698Z"
+          "lastSyncedAt": "2026-09-24T17:57:12.610Z"
         }
       ]
     }
