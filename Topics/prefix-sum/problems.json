@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T08:46:35.960Z",
+  "updatedAt": "2026-09-24T08:47:32.493Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -103,6 +103,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
           "sha": "bbe0baee5be86aa096bb2cc86a725636811f717e",
           "lastSyncedAt": "2026-09-24T08:40:00.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "problemName": "1871-jump-game-vii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "folderPath": "1871-jump-game-vii/",
+      "readmePath": "1871-jump-game-vii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "1871-jump-game-vii.c",
+          "path": "1871-jump-game-vii/1871-jump-game-vii.c",
+          "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
+          "lastSyncedAt": "2026-09-24T08:47:32.493Z"
         }
       ]
     },
