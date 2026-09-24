@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T18:13:31.356Z",
+  "updatedAt": "2026-09-24T18:15:32.508Z",
   "problems": [
     {
       "frontendId": "11",
@@ -322,7 +322,7 @@
           "filename": "1733-minimum-number-of-people-to-teach.c",
           "path": "1733-minimum-number-of-people-to-teach/1733-minimum-number-of-people-to-teach.c",
           "sha": "ae0c9a8d7eed15a4cb112e79b9d741f122018166",
-          "lastSyncedAt": "2026-09-24T12:46:03.780Z"
+          "lastSyncedAt": "2026-09-24T18:15:32.508Z"
         }
       ]
     },
