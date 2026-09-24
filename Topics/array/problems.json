@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:02:16.649Z",
+  "updatedAt": "2026-09-24T18:02:38.514Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2230,7 +2230,7 @@
           "filename": "1975-maximum-matrix-sum.c",
           "path": "1975-maximum-matrix-sum/1975-maximum-matrix-sum.c",
           "sha": "e4272918081de8b57c448c6786b000aabf5da0d7",
-          "lastSyncedAt": "2026-09-24T12:28:45.015Z"
+          "lastSyncedAt": "2026-09-24T18:02:38.514Z"
         }
       ]
     },
