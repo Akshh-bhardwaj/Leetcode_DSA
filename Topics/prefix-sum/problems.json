@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T17:42:51.285Z",
+  "updatedAt": "2026-09-24T17:44:29.948Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -142,7 +142,7 @@
           "filename": "1674-minimum-moves-to-make-array-complementary.c",
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.c",
           "sha": "0d1fcf7f64b43105a6ee35634bd50c67fc52a9c5",
-          "lastSyncedAt": "2026-09-24T12:04:13.735Z"
+          "lastSyncedAt": "2026-09-24T17:44:29.948Z"
         }
       ]
     },
