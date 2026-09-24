@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T18:09:01.175Z",
+  "updatedAt": "2026-09-24T18:16:20.621Z",
   "problems": [
     {
       "frontendId": "3",
@@ -102,7 +102,7 @@
           "filename": "0904-fruit-into-baskets.c",
           "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.c",
           "sha": "897e5f7cc8c0574c73db24fdf963bede9d70360e",
-          "lastSyncedAt": "2026-09-24T12:47:24.547Z"
+          "lastSyncedAt": "2026-09-24T18:16:20.621Z"
         }
       ]
     },
