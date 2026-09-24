@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:09:17.800Z",
+  "updatedAt": "2026-09-24T12:09:46.399Z",
   "problems": [
     {
       "frontendId": "3",
@@ -531,6 +531,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.java",
           "sha": "5cefbdd50b8e165af27167936587238bb4d71b4e",
           "lastSyncedAt": "2026-09-24T11:58:46.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1320",
+      "title": "Minimum Distance to Type a Word Using Two Fingers",
+      "slug": "minimum-distance-to-type-a-word-using-two-fingers",
+      "problemName": "1320-minimum-distance-to-type-a-word-using-two-fingers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+      "folderPath": "1320-minimum-distance-to-type-a-word-using-two-fingers/",
+      "readmePath": "1320-minimum-distance-to-type-a-word-using-two-fingers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1320-minimum-distance-to-type-a-word-using-two-fingers.c",
+          "path": "1320-minimum-distance-to-type-a-word-using-two-fingers/1320-minimum-distance-to-type-a-word-using-two-fingers.c",
+          "sha": "30fd0d1b8f664483bd615d76b5d40f720efb5988",
+          "lastSyncedAt": "2026-09-24T12:09:46.399Z"
         }
       ]
     },
