@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T17:47:13.592Z",
+  "updatedAt": "2026-09-24T17:48:52.322Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -618,7 +618,7 @@
           "filename": "3655-xor-after-range-multiplication-queries-ii.c",
           "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
           "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
-          "lastSyncedAt": "2026-09-24T12:10:05.378Z"
+          "lastSyncedAt": "2026-09-24T17:48:52.322Z"
         }
       ]
     },
