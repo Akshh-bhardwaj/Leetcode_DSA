@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T12:09:46.399Z",
+  "updatedAt": "2026-09-24T12:11:09.196Z",
   "problems": [
     {
       "frontendId": "53",
@@ -491,6 +491,26 @@
           "path": "3660-jump-game-ix/3660-jump-game-ix.c",
           "sha": "b5400a04151a1003686fe6fd2d00ed3b0de30db7",
           "lastSyncedAt": "2026-09-24T12:05:20.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3661",
+      "title": "Maximum Walls Destroyed by Robots",
+      "slug": "maximum-walls-destroyed-by-robots",
+      "problemName": "3661-maximum-walls-destroyed-by-robots",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
+      "folderPath": "3661-maximum-walls-destroyed-by-robots/",
+      "readmePath": "3661-maximum-walls-destroyed-by-robots/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3661-maximum-walls-destroyed-by-robots.c",
+          "path": "3661-maximum-walls-destroyed-by-robots/3661-maximum-walls-destroyed-by-robots.c",
+          "sha": "d16c19375155d0c30db3cb4592f8401a701a19ca",
+          "lastSyncedAt": "2026-09-24T12:11:09.196Z"
         }
       ]
     },
