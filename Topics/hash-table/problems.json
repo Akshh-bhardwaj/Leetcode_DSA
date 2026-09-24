@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T12:44:42.979Z",
+  "updatedAt": "2026-09-24T12:45:44.710Z",
   "problems": [
     {
       "frontendId": "1",
@@ -471,6 +471,26 @@
           "path": "1015-smallest-integer-divisible-by-k/1015-smallest-integer-divisible-by-k.c",
           "sha": "7623dc87d9f2a8b504c2744b7362941bad8e9604",
           "lastSyncedAt": "2026-09-24T12:31:44.322Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1122",
+      "title": "Relative Sort Array",
+      "slug": "relative-sort-array",
+      "problemName": "1122-relative-sort-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-sort-array/",
+      "folderPath": "1122-relative-sort-array/",
+      "readmePath": "1122-relative-sort-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1122-relative-sort-array.c",
+          "path": "1122-relative-sort-array/1122-relative-sort-array.c",
+          "sha": "0d394312bc613c713260b5b187301209876e2c62",
+          "lastSyncedAt": "2026-09-24T12:45:44.710Z"
         }
       ]
     },
