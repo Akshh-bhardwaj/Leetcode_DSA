@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T17:57:43.910Z",
+  "updatedAt": "2026-09-24T17:58:31.473Z",
   "problems": [
     {
       "frontendId": "4",
@@ -190,7 +190,7 @@
           "filename": "0744-find-smallest-letter-greater-than-target.c",
           "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.c",
           "sha": "bf84c1512821d6eb1adc7ec0eb0ec9ae2c56274a",
-          "lastSyncedAt": "2026-09-24T12:23:05.462Z"
+          "lastSyncedAt": "2026-09-24T17:58:31.473Z"
         }
       ]
     },
