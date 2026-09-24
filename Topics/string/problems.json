@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:43:37.812Z",
+  "updatedAt": "2026-09-24T12:44:24.596Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1059,6 +1059,26 @@
           "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.c",
           "sha": "d68e5649b458cd4e661f125d43d3a9744c8e09e2",
           "lastSyncedAt": "2026-09-24T12:39:46.799Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1935",
+      "title": "Maximum Number of Words You Can Type",
+      "slug": "maximum-number-of-words-you-can-type",
+      "problemName": "1935-maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-you-can-type/",
+      "folderPath": "1935-maximum-number-of-words-you-can-type/",
+      "readmePath": "1935-maximum-number-of-words-you-can-type/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1935-maximum-number-of-words-you-can-type.c",
+          "path": "1935-maximum-number-of-words-you-can-type/1935-maximum-number-of-words-you-can-type.c",
+          "sha": "d33a8040546e7c66730e44496555a4909da7ddf4",
+          "lastSyncedAt": "2026-09-24T12:44:24.596Z"
         }
       ]
     },
