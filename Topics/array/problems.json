@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:02:54.778Z",
+  "updatedAt": "2026-09-24T12:03:04.520Z",
   "problems": [
     {
       "frontendId": "1",
@@ -874,7 +874,7 @@
           "filename": "2657-find-the-prefix-common-array-of-two-arrays.c",
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.c",
           "sha": "f1f1cbda55c70df3f015d320b7136767543148ac",
-          "lastSyncedAt": "2026-09-24T08:49:03.558Z"
+          "lastSyncedAt": "2026-09-24T12:03:04.520Z"
         }
       ]
     },
