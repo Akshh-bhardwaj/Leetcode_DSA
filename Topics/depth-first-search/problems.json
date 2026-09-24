@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T12:32:28.444Z",
+  "updatedAt": "2026-09-24T12:35:08.546Z",
   "problems": [
     {
       "frontendId": "110",
@@ -323,6 +323,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
           "lastSyncedAt": "2026-09-24T11:59:50.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3562",
+      "title": "Maximum Profit from Trading Stocks with Discounts",
+      "slug": "maximum-profit-from-trading-stocks-with-discounts",
+      "problemName": "3562-maximum-profit-from-trading-stocks-with-discounts",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/",
+      "folderPath": "3562-maximum-profit-from-trading-stocks-with-discounts/",
+      "readmePath": "3562-maximum-profit-from-trading-stocks-with-discounts/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3562-maximum-profit-from-trading-stocks-with-discounts.c",
+          "path": "3562-maximum-profit-from-trading-stocks-with-discounts/3562-maximum-profit-from-trading-stocks-with-discounts.c",
+          "sha": "7aced789c89780085531d26fa2ad70ea9f00eaff",
+          "lastSyncedAt": "2026-09-24T12:35:08.546Z"
         }
       ]
     }
