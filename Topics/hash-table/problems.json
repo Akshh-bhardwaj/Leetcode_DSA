@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:33:49.029Z",
+  "updatedAt": "2026-09-24T08:35:32.553Z",
   "problems": [
     {
       "frontendId": "1",
@@ -42,7 +42,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.java",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
-          "lastSyncedAt": "2026-09-24T08:22:13.812Z"
+          "lastSyncedAt": "2026-09-24T08:35:32.553Z"
         }
       ]
     },
