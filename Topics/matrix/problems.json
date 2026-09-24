@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T12:26:01.108Z",
+  "updatedAt": "2026-09-24T12:27:20.240Z",
   "problems": [
     {
       "frontendId": "48",
@@ -43,6 +43,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "8862e297d5c844dc1263725fbc3deca6fd313ec5",
           "lastSyncedAt": "2026-09-24T11:53:41.667Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0085-maximal-rectangle.c",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
+          "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
+          "lastSyncedAt": "2026-09-24T12:27:20.240Z"
         }
       ]
     },
