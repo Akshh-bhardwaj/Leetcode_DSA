@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:41:35.771Z",
+  "updatedAt": "2026-09-24T07:42:01.823Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,6 +43,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
           "lastSyncedAt": "2026-09-24T07:39:47.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
+          "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
+          "lastSyncedAt": "2026-09-24T07:42:01.823Z"
         }
       ]
     },
