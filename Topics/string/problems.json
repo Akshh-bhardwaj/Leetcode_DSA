@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:29:28.455Z",
+  "updatedAt": "2026-09-24T18:29:45.908Z",
   "problems": [
     {
       "frontendId": "3",
@@ -222,7 +222,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
-          "lastSyncedAt": "2026-09-24T17:26:29.398Z"
+          "lastSyncedAt": "2026-09-24T18:29:45.908Z"
         }
       ]
     },
