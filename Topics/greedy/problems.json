@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T12:46:15.889Z",
+  "updatedAt": "2026-09-24T12:47:50.139Z",
   "problems": [
     {
       "frontendId": "502",
@@ -499,6 +499,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
           "lastSyncedAt": "2026-09-24T11:51:49.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2561",
+      "title": "Rearranging Fruits",
+      "slug": "rearranging-fruits",
+      "problemName": "2561-rearranging-fruits",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/rearranging-fruits/",
+      "folderPath": "2561-rearranging-fruits/",
+      "readmePath": "2561-rearranging-fruits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2561-rearranging-fruits.c",
+          "path": "2561-rearranging-fruits/2561-rearranging-fruits.c",
+          "sha": "81300fcd0e81ac5f4c3c167e9205f0fa37053905",
+          "lastSyncedAt": "2026-09-24T12:47:50.139Z"
         }
       ]
     },
