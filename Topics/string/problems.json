@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:08:07.246Z",
+  "updatedAt": "2026-09-24T12:09:17.800Z",
   "problems": [
     {
       "frontendId": "3",
@@ -639,6 +639,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
           "lastSyncedAt": "2026-09-24T11:51:49.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2515",
+      "title": "Shortest Distance to Target String in a Circular Array",
+      "slug": "shortest-distance-to-target-string-in-a-circular-array",
+      "problemName": "2515-shortest-distance-to-target-string-in-a-circular-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+      "folderPath": "2515-shortest-distance-to-target-string-in-a-circular-array/",
+      "readmePath": "2515-shortest-distance-to-target-string-in-a-circular-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.c",
+          "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.c",
+          "sha": "22d5c7135d5d25805de3d7b22933258315d7a5f6",
+          "lastSyncedAt": "2026-09-24T12:09:17.800Z"
         }
       ]
     },
