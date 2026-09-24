@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T07:48:22.463Z",
+  "updatedAt": "2026-09-24T07:48:39.814Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,6 +43,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
           "lastSyncedAt": "2026-09-24T07:45:27.354Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "problemName": "0502-ipo",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+      "folderPath": "0502-ipo/",
+      "readmePath": "0502-ipo/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0502-ipo.java",
+          "path": "0502-ipo/0502-ipo.java",
+          "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
+          "lastSyncedAt": "2026-09-24T07:48:39.814Z"
         }
       ]
     },
