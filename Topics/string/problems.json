@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T17:39:37.937Z",
+  "updatedAt": "2026-09-24T17:39:55.097Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1918,7 +1918,7 @@
           "filename": "3838-weighted-word-mapping.c",
           "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.c",
           "sha": "10b363500af1ce0fd7985ad4c004221df79db2ea",
-          "lastSyncedAt": "2026-09-24T11:59:42.046Z"
+          "lastSyncedAt": "2026-09-24T17:39:55.097Z"
         }
       ]
     }
