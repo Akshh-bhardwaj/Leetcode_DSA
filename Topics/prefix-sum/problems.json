@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:07:57.114Z",
+  "updatedAt": "2026-09-24T12:10:05.378Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -219,6 +219,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.c",
           "sha": "0110c000a0036654f74df32d8156145eed0e7853",
           "lastSyncedAt": "2026-09-24T12:06:32.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3655",
+      "title": "XOR After Range Multiplication Queries II",
+      "slug": "xor-after-range-multiplication-queries-ii",
+      "problemName": "3655-xor-after-range-multiplication-queries-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+      "folderPath": "3655-xor-after-range-multiplication-queries-ii/",
+      "readmePath": "3655-xor-after-range-multiplication-queries-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3655-xor-after-range-multiplication-queries-ii.c",
+          "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
+          "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
+          "lastSyncedAt": "2026-09-24T12:10:05.378Z"
         }
       ]
     },
