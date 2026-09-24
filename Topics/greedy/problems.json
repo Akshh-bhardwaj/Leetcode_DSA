@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T18:11:14.714Z",
+  "updatedAt": "2026-09-24T18:12:17.311Z",
   "problems": [
     {
       "frontendId": "11",
@@ -242,7 +242,7 @@
           "filename": "1578-minimum-time-to-make-rope-colorful.c",
           "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.c",
           "sha": "00ea4c1f72705295c089555dda1f079eee7e4d1e",
-          "lastSyncedAt": "2026-09-24T12:41:31.398Z"
+          "lastSyncedAt": "2026-09-24T18:12:17.311Z"
         }
       ]
     },
