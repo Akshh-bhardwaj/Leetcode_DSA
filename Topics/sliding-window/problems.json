@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:37:05.135Z",
+  "updatedAt": "2026-09-24T12:47:24.547Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +83,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
           "lastSyncedAt": "2026-09-24T11:48:38.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0904-fruit-into-baskets.c",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.c",
+          "sha": "897e5f7cc8c0574c73db24fdf963bede9d70360e",
+          "lastSyncedAt": "2026-09-24T12:47:24.547Z"
         }
       ]
     },
