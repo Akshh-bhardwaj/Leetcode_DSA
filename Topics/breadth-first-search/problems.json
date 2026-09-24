@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T12:28:34.530Z",
+  "updatedAt": "2026-09-24T12:29:35.238Z",
   "problems": [
     {
       "frontendId": "865",
@@ -123,6 +123,26 @@
           "path": "1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.c",
           "sha": "32efdba0e5c4d9bb5e9969642a7b4ac5a5d1d208",
           "lastSyncedAt": "2026-09-24T12:07:11.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1970",
+      "title": "Last Day Where You Can Still Cross",
+      "slug": "last-day-where-you-can-still-cross",
+      "problemName": "1970-last-day-where-you-can-still-cross",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+      "folderPath": "1970-last-day-where-you-can-still-cross/",
+      "readmePath": "1970-last-day-where-you-can-still-cross/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1970-last-day-where-you-can-still-cross.c",
+          "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.c",
+          "sha": "63815ea9d4b1aaa7aa64bf52e488140ad91fe87f",
+          "lastSyncedAt": "2026-09-24T12:29:35.238Z"
         }
       ]
     },
