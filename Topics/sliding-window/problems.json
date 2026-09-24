@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:35:21.663Z",
+  "updatedAt": "2026-09-24T12:37:05.135Z",
   "problems": [
     {
       "frontendId": "3",
@@ -271,6 +271,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "1a2a63ec9a703358a13e1d81e988d048c9635293",
           "lastSyncedAt": "2026-09-24T11:56:49.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3578",
+      "title": "Count Partitions With Max-Min Difference at Most K",
+      "slug": "count-partitions-with-max-min-difference-at-most-k",
+      "problemName": "3578-count-partitions-with-max-min-difference-at-most-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+      "folderPath": "3578-count-partitions-with-max-min-difference-at-most-k/",
+      "readmePath": "3578-count-partitions-with-max-min-difference-at-most-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3578-count-partitions-with-max-min-difference-at-most-k.c",
+          "path": "3578-count-partitions-with-max-min-difference-at-most-k/3578-count-partitions-with-max-min-difference-at-most-k.c",
+          "sha": "fa199e9fc25b3659136afdfa0c17ad46eb91fe9d",
+          "lastSyncedAt": "2026-09-24T12:37:05.135Z"
         }
       ]
     },
