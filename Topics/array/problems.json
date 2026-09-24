@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:42:50.370Z",
+  "updatedAt": "2026-09-24T12:43:06.744Z",
   "problems": [
     {
       "frontendId": "1",
@@ -831,6 +831,26 @@
           "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.c",
           "sha": "d1ccf43d5a675b6433a2c95a39526f5247e85192",
           "lastSyncedAt": "2026-09-24T12:29:23.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "problemName": "0976-largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "folderPath": "0976-largest-perimeter-triangle/",
+      "readmePath": "0976-largest-perimeter-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0976-largest-perimeter-triangle.c",
+          "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.c",
+          "sha": "ab6208f9e15a5212d18f225c776c1652202d931f",
+          "lastSyncedAt": "2026-09-24T12:43:06.744Z"
         }
       ]
     },
