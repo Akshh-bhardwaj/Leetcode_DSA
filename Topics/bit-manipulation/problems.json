@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T19:00:45.408Z",
+  "updatedAt": "2026-09-24T19:00:50.859Z",
   "problems": [
     {
       "frontendId": "67",
@@ -422,7 +422,7 @@
           "filename": "3314-construct-the-minimum-bitwise-array-i.c",
           "path": "3314-construct-the-minimum-bitwise-array-i/3314-construct-the-minimum-bitwise-array-i.c",
           "sha": "d78ad788f97c0574f36ac2b21d24ec606b82b8d3",
-          "lastSyncedAt": "2026-09-24T18:00:23.136Z"
+          "lastSyncedAt": "2026-09-24T19:00:50.859Z"
         }
       ]
     },
