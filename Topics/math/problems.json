@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:35:21.663Z",
+  "updatedAt": "2026-09-24T12:35:35.746Z",
   "problems": [
     {
       "frontendId": "2",
@@ -623,6 +623,26 @@
           "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
           "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
           "lastSyncedAt": "2026-09-24T12:35:21.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2147",
+      "title": "Number of Ways to Divide a Long Corridor",
+      "slug": "number-of-ways-to-divide-a-long-corridor",
+      "problemName": "2147-number-of-ways-to-divide-a-long-corridor",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/",
+      "folderPath": "2147-number-of-ways-to-divide-a-long-corridor/",
+      "readmePath": "2147-number-of-ways-to-divide-a-long-corridor/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2147-number-of-ways-to-divide-a-long-corridor.c",
+          "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.c",
+          "sha": "310fb5cc605397541df02d13c053f7ea43812ae7",
+          "lastSyncedAt": "2026-09-24T12:35:35.746Z"
         }
       ]
     },
