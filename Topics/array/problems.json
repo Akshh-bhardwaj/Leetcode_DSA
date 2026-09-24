@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:33:54.411Z",
+  "updatedAt": "2026-09-24T12:34:02.666Z",
   "problems": [
     {
       "frontendId": "1",
@@ -291,6 +291,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "a072364dd65391443682472d1d7e8d71e8ebb7c3",
           "lastSyncedAt": "2026-09-24T11:55:43.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0150-evaluate-reverse-polish-notation.c",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c",
+          "sha": "96cc999b437ee7a65da6b9266b8bfdcbdc37ce0c",
+          "lastSyncedAt": "2026-09-24T12:34:02.666Z"
         }
       ]
     },
