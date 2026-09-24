@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T12:25:44.020Z",
+  "updatedAt": "2026-09-24T12:26:44.122Z",
   "problems": [
     {
       "frontendId": "33",
@@ -319,6 +319,26 @@
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
           "lastSyncedAt": "2026-09-24T11:52:28.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3454",
+      "title": "Separate Squares II",
+      "slug": "separate-squares-ii",
+      "problemName": "3454-separate-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-squares-ii/",
+      "folderPath": "3454-separate-squares-ii/",
+      "readmePath": "3454-separate-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3454-separate-squares-ii.c",
+          "path": "3454-separate-squares-ii/3454-separate-squares-ii.c",
+          "sha": "ab2ca666fe20df95fa1c97c768953a164546abaa",
+          "lastSyncedAt": "2026-09-24T12:26:44.122Z"
         }
       ]
     },
