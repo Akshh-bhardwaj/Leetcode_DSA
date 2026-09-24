@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T08:41:04.331Z",
+  "updatedAt": "2026-09-24T08:43:10.739Z",
   "problems": [
     {
       "frontendId": "26",
@@ -303,6 +303,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.c",
           "sha": "774bd966f13ccf940405bc94bca4582f389b72d2",
           "lastSyncedAt": "2026-09-24T08:41:04.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2161-partition-array-according-to-given-pivot.c",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
+          "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
+          "lastSyncedAt": "2026-09-24T08:43:10.739Z"
         }
       ]
     },
