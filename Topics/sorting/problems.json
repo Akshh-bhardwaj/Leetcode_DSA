@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T18:43:14.058Z",
+  "updatedAt": "2026-09-24T18:44:09.589Z",
   "problems": [
     {
       "frontendId": "15",
@@ -382,7 +382,7 @@
           "filename": "1340-jump-game-v.c",
           "path": "1340-jump-game-v/1340-jump-game-v.c",
           "sha": "3012fb885c7447592893758d4d52b923901416e9",
-          "lastSyncedAt": "2026-09-24T17:43:03.832Z"
+          "lastSyncedAt": "2026-09-24T18:44:09.589Z"
         }
       ]
     },
