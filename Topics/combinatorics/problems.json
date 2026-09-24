@@ -4,7 +4,7 @@
     "slug": "combinatorics",
     "name": "Combinatorics"
   },
-  "updatedAt": "2026-09-24T11:51:41.470Z",
+  "updatedAt": "2026-09-24T12:36:23.626Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -23,6 +23,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
           "lastSyncedAt": "2026-09-24T11:51:41.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3577",
+      "title": "Count the Number of Computer Unlocking Permutations",
+      "slug": "count-the-number-of-computer-unlocking-permutations",
+      "problemName": "3577-count-the-number-of-computer-unlocking-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+      "folderPath": "3577-count-the-number-of-computer-unlocking-permutations/",
+      "readmePath": "3577-count-the-number-of-computer-unlocking-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3577-count-the-number-of-computer-unlocking-permutations.c",
+          "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.c",
+          "sha": "8010e7ec185239987ec262ef86943f6c76025283",
+          "lastSyncedAt": "2026-09-24T12:36:23.626Z"
         }
       ]
     }
