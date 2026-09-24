@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T08:45:24.992Z",
+  "updatedAt": "2026-09-24T08:46:02.090Z",
   "problems": [
     {
       "frontendId": "2",
@@ -323,6 +323,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.java",
           "sha": "1a34af3dacc6f65523216ee63b05f127b262844b",
           "lastSyncedAt": "2026-09-24T08:39:41.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".c",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.c",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.c",
+          "sha": "4386b021390db00e65c7d5db66ba51e6f8d41848",
+          "lastSyncedAt": "2026-09-24T08:46:02.090Z"
         }
       ]
     },
