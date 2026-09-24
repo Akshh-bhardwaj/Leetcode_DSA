@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T12:14:25.645Z",
+  "updatedAt": "2026-09-24T12:14:42.389Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -219,6 +219,26 @@
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
           "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
           "lastSyncedAt": "2026-09-24T12:13:24.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3070",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "problemName": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "folderPath": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "readmePath": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
+          "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
+          "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
+          "lastSyncedAt": "2026-09-24T12:14:42.389Z"
         }
       ]
     },
