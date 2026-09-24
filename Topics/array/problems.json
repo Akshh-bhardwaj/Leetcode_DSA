@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:12:51.968Z",
+  "updatedAt": "2026-09-24T12:13:09.843Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1771,6 +1771,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.java",
           "sha": "8d79b5b153e36652ae4abd53fb9f30a61c4a06bd",
           "lastSyncedAt": "2026-09-24T11:50:58.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "problemName": "3546-equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "folderPath": "3546-equal-sum-grid-partition-i/",
+      "readmePath": "3546-equal-sum-grid-partition-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3546-equal-sum-grid-partition-i.c",
+          "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.c",
+          "sha": "36cefbb388c010d95b21be002a9a54d7a7a6a785",
+          "lastSyncedAt": "2026-09-24T12:13:09.843Z"
         }
       ]
     },
