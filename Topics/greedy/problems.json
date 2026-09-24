@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T08:42:32.503Z",
+  "updatedAt": "2026-09-24T08:42:58.141Z",
   "problems": [
     {
       "frontendId": "502",
@@ -143,6 +143,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
           "lastSyncedAt": "2026-09-24T08:38:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3689",
+      "title": "Maximum Total Subarray Value I",
+      "slug": "maximum-total-subarray-value-i",
+      "problemName": "3689-maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+      "folderPath": "3689-maximum-total-subarray-value-i/",
+      "readmePath": "3689-maximum-total-subarray-value-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3689-maximum-total-subarray-value-i.c",
+          "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.c",
+          "sha": "442bbb9ee3853b2d39533cc95490d4fababd4ec6",
+          "lastSyncedAt": "2026-09-24T08:42:58.141Z"
         }
       ]
     },
