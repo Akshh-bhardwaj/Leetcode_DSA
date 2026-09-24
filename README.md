@@ -5,39 +5,41 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 1 | 4 | 0 |
+| 9 | 4 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 2 |
+| 1 days | 1 days | 4 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-08-17 | 1 |
+| 2026-08-20 | 1 |
 | 2026-09-22 | 1 |
-| 2026-09-24 | 4 |
+| 2026-09-24 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 4 | 80% |
-| Two Pointers | 3 | 60% |
-| Dynamic Programming | 2 | 40% |
-| Array | 1 | 20% |
-| Bucket Sort | 1 | 20% |
-| Counting | 1 | 20% |
-| Hash Table | 1 | 20% |
-| Heap (Priority Queue) | 1 | 20% |
-| Math | 1 | 20% |
-| Sorting | 1 | 20% |
+| String | 7 | 78% |
+| Two Pointers | 5 | 56% |
+| Hash Table | 3 | 33% |
+| Array | 2 | 22% |
+| Dynamic Programming | 2 | 22% |
+| Sorting | 2 | 22% |
+| Bucket Sort | 1 | 11% |
+| Counting | 1 | 11% |
+| Heap (Priority Queue) | 1 | 11% |
+| Math | 1 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -57,27 +59,27 @@
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 15 |
-| [Matrix](Topics/matrix/) | 4 |
+| [Linked List](Topics/linked-list/) | 3 |
+| [Math](Topics/math/) | 17 |
+| [Matrix](Topics/matrix/) | 5 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Simulation](Topics/simulation/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 20 |
+| [String](Topics/string/) | 24 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
