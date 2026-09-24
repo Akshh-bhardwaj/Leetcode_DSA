@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:17:16.270Z",
+  "updatedAt": "2026-09-24T12:17:30.817Z",
   "problems": [
     {
       "frontendId": "3",
@@ -611,6 +611,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
           "lastSyncedAt": "2026-09-24T11:51:23.505Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "problemName": "1545-find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "folderPath": "1545-find-kth-bit-in-nth-binary-string/",
+      "readmePath": "1545-find-kth-bit-in-nth-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1545-find-kth-bit-in-nth-binary-string.c",
+          "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.c",
+          "sha": "ae9128d9ceb0669a32fa614adb532a3b6bbacbfc",
+          "lastSyncedAt": "2026-09-24T12:17:30.817Z"
         }
       ]
     },
