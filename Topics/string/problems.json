@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T08:12:58.098Z",
+  "updatedAt": "2026-09-24T08:13:08.850Z",
   "problems": [
     {
       "frontendId": "3",
@@ -242,7 +242,7 @@
           "filename": "0290-word-pattern.java",
           "path": "0290-word-pattern/0290-word-pattern.java",
           "sha": "f16154c674c89fadfd56f5922a30cb4dcd7b6c5d",
-          "lastSyncedAt": "2026-09-24T07:59:44.290Z"
+          "lastSyncedAt": "2026-09-24T08:13:08.850Z"
         }
       ]
     },
