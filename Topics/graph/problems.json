@@ -4,8 +4,28 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-24T12:23:59.391Z",
+  "updatedAt": "2026-09-24T12:32:28.444Z",
   "problems": [
+    {
+      "frontendId": "2092",
+      "title": "Find All People With Secret",
+      "slug": "find-all-people-with-secret",
+      "problemName": "2092-find-all-people-with-secret",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-people-with-secret/",
+      "folderPath": "2092-find-all-people-with-secret/",
+      "readmePath": "2092-find-all-people-with-secret/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2092-find-all-people-with-secret.c",
+          "path": "2092-find-all-people-with-secret/2092-find-all-people-with-secret.c",
+          "sha": "06e8cf29992600691e78bb1ea2670db4ab8608e7",
+          "lastSyncedAt": "2026-09-24T12:32:28.444Z"
+        }
+      ]
+    },
     {
       "frontendId": "2976",
       "title": "Minimum Cost to Convert String I",
