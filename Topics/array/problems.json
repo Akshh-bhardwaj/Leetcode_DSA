@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:05:16.833Z",
+  "updatedAt": "2026-09-24T18:05:39.706Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4298,7 +4298,7 @@
           "filename": "3652-best-time-to-buy-and-sell-stock-using-strategy.c",
           "path": "3652-best-time-to-buy-and-sell-stock-using-strategy/3652-best-time-to-buy-and-sell-stock-using-strategy.c",
           "sha": "15f7e860b49e0e37a0845ff77c11bcefb83d771c",
-          "lastSyncedAt": "2026-09-24T12:32:45.552Z"
+          "lastSyncedAt": "2026-09-24T18:05:39.706Z"
         }
       ]
     },
