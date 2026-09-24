@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:16:20.621Z",
+  "updatedAt": "2026-09-24T18:16:29.947Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2350,7 +2350,7 @@
           "filename": "2106-maximum-fruits-harvested-after-at-most-k-steps.c",
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.c",
           "sha": "8d46341fe90169992106640b76b7032e319d0d4b",
-          "lastSyncedAt": "2026-09-24T12:47:36.867Z"
+          "lastSyncedAt": "2026-09-24T18:16:29.947Z"
         }
       ]
     },
