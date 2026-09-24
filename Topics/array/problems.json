@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:53:38.393Z",
+  "updatedAt": "2026-09-24T17:54:05.884Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1710,7 +1710,7 @@
           "filename": "1582-special-positions-in-a-binary-matrix.c",
           "path": "1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.c",
           "sha": "47d00d210e821873ededbaa991d78783e427aa89",
-          "lastSyncedAt": "2026-09-24T12:17:22.056Z"
+          "lastSyncedAt": "2026-09-24T17:54:05.884Z"
         }
       ]
     },
