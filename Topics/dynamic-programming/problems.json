@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T18:44:09.589Z",
+  "updatedAt": "2026-09-24T18:46:08.439Z",
   "problems": [
     {
       "frontendId": "5",
@@ -850,7 +850,7 @@
           "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.c",
           "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.c",
           "sha": "b6fa7a7b64b54449acfd9e03d189d0d95c80ce23",
-          "lastSyncedAt": "2026-09-24T17:44:51.673Z"
+          "lastSyncedAt": "2026-09-24T18:46:08.439Z"
         }
       ]
     },
