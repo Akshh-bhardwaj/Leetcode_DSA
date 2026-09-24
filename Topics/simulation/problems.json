@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T17:28:53.606Z",
+  "updatedAt": "2026-09-24T17:35:05.817Z",
   "problems": [
     {
       "frontendId": "67",
@@ -222,7 +222,7 @@
           "filename": "1920-build-array-from-permutation.java",
           "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
           "sha": "6cb27e352dbd34a6905ddb34c724957636900e71",
-          "lastSyncedAt": "2026-09-24T11:55:51.842Z"
+          "lastSyncedAt": "2026-09-24T17:35:05.817Z"
         }
       ]
     },
