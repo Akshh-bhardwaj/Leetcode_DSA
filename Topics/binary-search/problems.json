@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-24T07:50:14.102Z",
+  "updatedAt": "2026-09-24T07:50:50.523Z",
   "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "8862e297d5c844dc1263725fbc3deca6fd313ec5",
+          "lastSyncedAt": "2026-09-24T07:50:50.523Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",
