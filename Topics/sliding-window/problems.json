@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-24T12:22:39.324Z",
+  "updatedAt": "2026-09-24T12:24:18.275Z",
   "problems": [
     {
       "frontendId": "3",
@@ -171,6 +171,26 @@
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "sha": "c2eddafba3a6c61652d59323338eb695b629e89b",
           "lastSyncedAt": "2026-09-24T12:17:01.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "problemName": "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "folderPath": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "readmePath": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
+          "path": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
+          "sha": "4b6bd9b8996fa985e7c033efcb5191c7d2802dda",
+          "lastSyncedAt": "2026-09-24T12:24:18.275Z"
         }
       ]
     },
