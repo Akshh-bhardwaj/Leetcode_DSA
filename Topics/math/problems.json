@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T12:36:23.626Z",
+  "updatedAt": "2026-09-24T12:36:50.488Z",
   "problems": [
     {
       "frontendId": "2",
@@ -583,6 +583,26 @@
           "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.c",
           "sha": "01daefeed9a9d3b073a7ae0483ef973243bb0969",
           "lastSyncedAt": "2026-09-24T12:15:08.223Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1925",
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "problemName": "1925-count-square-sum-triples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-sum-triples/",
+      "folderPath": "1925-count-square-sum-triples/",
+      "readmePath": "1925-count-square-sum-triples/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1925-count-square-sum-triples.c",
+          "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.c",
+          "sha": "543c057b5ab6077d341480490843b1c0f248f5fe",
+          "lastSyncedAt": "2026-09-24T12:36:50.488Z"
         }
       ]
     },
