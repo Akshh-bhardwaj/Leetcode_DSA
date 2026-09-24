@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:03:11.941Z",
+  "updatedAt": "2026-09-24T12:03:22.636Z",
   "problems": [
     {
       "frontendId": "1",
@@ -431,6 +431,26 @@
           "path": "1340-jump-game-v/1340-jump-game-v.c",
           "sha": "3012fb885c7447592893758d4d52b923901416e9",
           "lastSyncedAt": "2026-09-24T12:02:37.794Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "1345-jump-game-iv/",
+      "readmePath": "1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1345-jump-game-iv.c",
+          "path": "1345-jump-game-iv/1345-jump-game-iv.c",
+          "sha": "306fd5f5462554ad1dfe484f212ede2596b157c2",
+          "lastSyncedAt": "2026-09-24T12:03:22.636Z"
         }
       ]
     },
