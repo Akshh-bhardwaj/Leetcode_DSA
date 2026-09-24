@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:15:50.774Z",
+  "updatedAt": "2026-09-24T12:22:39.324Z",
   "problems": [
     {
       "frontendId": "215",
@@ -123,6 +123,26 @@
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
           "lastSyncedAt": "2026-09-24T11:51:56.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3013",
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "problemName": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+      "folderPath": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/",
+      "readmePath": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.c",
+          "path": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.c",
+          "sha": "bd23e48b121a6617318ab3071ed67cb0f9daca89",
+          "lastSyncedAt": "2026-09-24T12:22:39.324Z"
         }
       ]
     },
