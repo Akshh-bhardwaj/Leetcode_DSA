@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T07:46:13.583Z",
+  "updatedAt": "2026-09-24T07:53:53.125Z",
   "problems": [
     {
       "frontendId": "25",
@@ -23,6 +23,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "26dc327e132e497514f981a535bd331c959db088",
           "lastSyncedAt": "2026-09-24T07:46:13.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2058",
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "problemName": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+      "folderPath": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+      "readmePath": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
+          "path": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
+          "sha": "707c262f3718a41126da1805d2767340aa7a2270",
+          "lastSyncedAt": "2026-09-24T07:53:53.125Z"
         }
       ]
     }
