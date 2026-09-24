@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:16:52.336Z",
+  "updatedAt": "2026-09-24T18:16:59.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -930,7 +930,7 @@
           "filename": "0898-bitwise-ors-of-subarrays.c",
           "path": "0898-bitwise-ors-of-subarrays/0898-bitwise-ors-of-subarrays.c",
           "sha": "7db292033e95c5d27412d689463ef2aee103eba0",
-          "lastSyncedAt": "2026-09-24T12:48:13.220Z"
+          "lastSyncedAt": "2026-09-24T18:16:59.986Z"
         }
       ]
     },
