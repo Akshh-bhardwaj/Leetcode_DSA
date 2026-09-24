@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T12:03:04.520Z",
+  "updatedAt": "2026-09-24T12:16:21.802Z",
   "problems": [
     {
       "frontendId": "287",
@@ -23,6 +23,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "cde0867424913928eeaefd5a4c1cf69f93b37c8a",
           "lastSyncedAt": "2026-09-24T11:53:14.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "problemName": "1009-complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "folderPath": "1009-complement-of-base-10-integer/",
+      "readmePath": "1009-complement-of-base-10-integer/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1009-complement-of-base-10-integer.c",
+          "path": "1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.c",
+          "sha": "2f49ac134bdbf2a665bf4413c668431497c4bad6",
+          "lastSyncedAt": "2026-09-24T12:16:21.802Z"
         }
       ]
     },
