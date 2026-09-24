@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T12:19:30.709Z",
+  "updatedAt": "2026-09-24T12:19:42.068Z",
   "problems": [
     {
       "frontendId": "3",
@@ -491,6 +491,26 @@
           "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.c",
           "sha": "ee7c1f99bc54af743048251489787c6a6ee5d8cb",
           "lastSyncedAt": "2026-09-24T12:10:52.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "problemName": "0696-count-binary-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings/",
+      "folderPath": "0696-count-binary-substrings/",
+      "readmePath": "0696-count-binary-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0696-count-binary-substrings.c",
+          "path": "0696-count-binary-substrings/0696-count-binary-substrings.c",
+          "sha": "96645015f6864e7709a83f4529c323516478a0b3",
+          "lastSyncedAt": "2026-09-24T12:19:42.068Z"
         }
       ]
     },
