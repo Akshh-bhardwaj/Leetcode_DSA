@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T11:59:50.638Z",
+  "updatedAt": "2026-09-24T12:00:15.414Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1222,7 +1222,7 @@
           "filename": "3691-maximum-total-subarray-value-ii.c",
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
           "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
-          "lastSyncedAt": "2026-09-24T08:42:32.503Z"
+          "lastSyncedAt": "2026-09-24T12:00:15.414Z"
         }
       ]
     },
