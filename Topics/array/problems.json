@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:13:31.356Z",
+  "updatedAt": "2026-09-24T18:13:47.727Z",
   "problems": [
     {
       "frontendId": "1",
@@ -430,7 +430,7 @@
           "filename": "0120-triangle.c",
           "path": "0120-triangle/0120-triangle.c",
           "sha": "13f5645258c3dc49276dccd236958a993d09464f",
-          "lastSyncedAt": "2026-09-24T12:43:27.473Z"
+          "lastSyncedAt": "2026-09-24T18:13:47.727Z"
         }
       ]
     },
