@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T08:20:37.983Z",
+  "updatedAt": "2026-09-24T08:20:47.505Z",
   "problems": [
     {
       "frontendId": "49",
@@ -42,7 +42,7 @@
           "filename": "0088-merge-sorted-array.java",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "513ece39c424b8959e5afa5103f9d4b979f09703",
-          "lastSyncedAt": "2026-09-24T07:52:23.257Z"
+          "lastSyncedAt": "2026-09-24T08:20:47.505Z"
         }
       ]
     },
