@@ -4,7 +4,7 @@
     "slug": "pigeonhole-principle",
     "name": "Pigeonhole Principle"
   },
-  "updatedAt": "2026-09-24T11:53:14.894Z",
+  "updatedAt": "2026-09-24T12:29:23.739Z",
   "problems": [
     {
       "frontendId": "287",
@@ -23,6 +23,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "cde0867424913928eeaefd5a4c1cf69f93b37c8a",
           "lastSyncedAt": "2026-09-24T11:53:14.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "slug": "n-repeated-element-in-size-2n-array",
+      "problemName": "0961-n-repeated-element-in-size-2n-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+      "folderPath": "0961-n-repeated-element-in-size-2n-array/",
+      "readmePath": "0961-n-repeated-element-in-size-2n-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0961-n-repeated-element-in-size-2n-array.c",
+          "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.c",
+          "sha": "d1ccf43d5a675b6433a2c95a39526f5247e85192",
+          "lastSyncedAt": "2026-09-24T12:29:23.739Z"
         }
       ]
     }
