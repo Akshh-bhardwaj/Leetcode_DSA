@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T18:52:33.336Z",
+  "updatedAt": "2026-09-24T18:56:31.382Z",
   "problems": [
     {
       "frontendId": "5",
@@ -422,7 +422,7 @@
           "filename": "0696-count-binary-substrings.c",
           "path": "0696-count-binary-substrings/0696-count-binary-substrings.c",
           "sha": "96645015f6864e7709a83f4529c323516478a0b3",
-          "lastSyncedAt": "2026-09-24T17:55:50.490Z"
+          "lastSyncedAt": "2026-09-24T18:56:31.382Z"
         }
       ]
     },
