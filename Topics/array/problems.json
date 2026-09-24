@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:46:54.429Z",
+  "updatedAt": "2026-09-24T17:47:13.592Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2834,7 +2834,7 @@
           "filename": "2615-sum-of-distances.c",
           "path": "2615-sum-of-distances/2615-sum-of-distances.c",
           "sha": "2827d4ee15d9a837dfd52fbf18a950d5746d5c60",
-          "lastSyncedAt": "2026-09-24T12:07:57.114Z"
+          "lastSyncedAt": "2026-09-24T17:47:13.592Z"
         }
       ]
     },
