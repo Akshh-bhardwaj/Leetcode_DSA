@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-24T08:23:34.935Z",
+  "updatedAt": "2026-09-24T08:28:39.369Z",
   "problems": [
     {
       "frontendId": "412",
@@ -82,7 +82,7 @@
           "filename": "3498-reverse-degree-of-a-string.java",
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
-          "lastSyncedAt": "2026-09-24T08:15:10.049Z"
+          "lastSyncedAt": "2026-09-24T08:28:39.369Z"
         }
       ]
     }
