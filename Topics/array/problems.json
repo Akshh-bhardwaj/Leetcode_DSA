@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:43:22.174Z",
+  "updatedAt": "2026-09-24T18:43:32.006Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3442,7 +3442,7 @@
           "filename": "3300-minimum-element-after-replacement-with-digit-sum.c",
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.c",
           "sha": "4386b021390db00e65c7d5db66ba51e6f8d41848",
-          "lastSyncedAt": "2026-09-24T17:42:25.269Z"
+          "lastSyncedAt": "2026-09-24T18:43:32.006Z"
         },
         {
           "language": "Java",
