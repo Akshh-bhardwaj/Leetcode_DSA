@@ -4,7 +4,7 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-09-24T17:38:43.092Z",
+  "updatedAt": "2026-09-24T18:38:55.961Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -62,7 +62,7 @@
           "filename": "1510-stone-game-iv.java",
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
-          "lastSyncedAt": "2026-09-24T17:37:19.996Z"
+          "lastSyncedAt": "2026-09-24T18:38:55.961Z"
         }
       ]
     }
