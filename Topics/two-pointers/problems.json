@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T18:07:28.385Z",
+  "updatedAt": "2026-09-24T18:16:15.887Z",
   "problems": [
     {
       "frontendId": "5",
@@ -122,7 +122,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.c",
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
           "sha": "620361f12b409f6b86130d8433ff44503b79a81a",
-          "lastSyncedAt": "2026-09-24T12:47:14.809Z"
+          "lastSyncedAt": "2026-09-24T18:16:15.887Z"
         }
       ]
     },
