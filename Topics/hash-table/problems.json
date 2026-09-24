@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T08:43:15.614Z",
+  "updatedAt": "2026-09-24T08:43:30.415Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
           "lastSyncedAt": "2026-09-24T08:27:58.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2196-create-binary-tree-from-descriptions.c",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.c",
+          "sha": "8423b687b7ab0f7d142b4ccafd700689486de580",
+          "lastSyncedAt": "2026-09-24T08:43:30.415Z"
         }
       ]
     },
