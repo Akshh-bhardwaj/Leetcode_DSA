@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-24T11:58:03.675Z",
+  "updatedAt": "2026-09-24T12:15:41.820Z",
   "problems": [
+    {
+      "frontendId": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "problemName": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "folderPath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "readmePath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
+          "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.c",
+          "sha": "1b690312d256f12c2d208cb86a918c9a1af41733",
+          "lastSyncedAt": "2026-09-24T12:15:41.820Z"
+        }
+      ]
+    },
     {
       "frontendId": "3348",
       "title": "Smallest Divisible Digit Product II",
