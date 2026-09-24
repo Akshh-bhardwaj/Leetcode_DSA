@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T08:38:11.984Z",
+  "updatedAt": "2026-09-24T08:39:00.741Z",
   "problems": [
     {
       "frontendId": "53",
@@ -131,7 +131,7 @@
       "title": "Stone Game III",
       "slug": "stone-game-iii",
       "problemName": "1406-stone-game-iii",
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
       "folderPath": "1406-stone-game-iii/",
       "readmePath": "1406-stone-game-iii/README.md",
@@ -142,7 +142,7 @@
           "filename": "1406-stone-game-iii.java",
           "path": "1406-stone-game-iii/1406-stone-game-iii.java",
           "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
-          "lastSyncedAt": "2026-09-24T08:26:19.735Z"
+          "lastSyncedAt": "2026-09-24T08:39:00.741Z"
         }
       ]
     },
