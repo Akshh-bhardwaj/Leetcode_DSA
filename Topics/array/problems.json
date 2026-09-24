@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:35:08.546Z",
+  "updatedAt": "2026-09-24T12:35:21.663Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1811,6 +1811,26 @@
           "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.c",
           "sha": "d5b018767e4a90a42f9dea3a3b0f88862ce906d9",
           "lastSyncedAt": "2026-09-24T12:08:30.258Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
+          "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
+          "lastSyncedAt": "2026-09-24T12:35:21.663Z"
         }
       ]
     },
