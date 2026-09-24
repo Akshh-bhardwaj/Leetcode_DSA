@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T11:51:23.505Z",
+  "updatedAt": "2026-09-24T11:51:49.078Z",
   "problems": [
     {
       "frontendId": "3",
@@ -590,7 +590,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
-          "lastSyncedAt": "2026-09-24T08:48:49.986Z"
+          "lastSyncedAt": "2026-09-24T11:51:49.078Z"
         }
       ]
     },
