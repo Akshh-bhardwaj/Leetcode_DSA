@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T12:30:31.013Z",
+  "updatedAt": "2026-09-24T12:30:55.518Z",
   "problems": [
     {
       "frontendId": "49",
@@ -651,6 +651,26 @@
           "path": "3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.c",
           "sha": "e52f4f31c2f71c33f601e86911cf6f2fd949a18b",
           "lastSyncedAt": "2026-09-24T12:22:52.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3075",
+      "title": "Maximize Happiness of Selected Children",
+      "slug": "maximize-happiness-of-selected-children",
+      "problemName": "3075-maximize-happiness-of-selected-children",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-happiness-of-selected-children/",
+      "folderPath": "3075-maximize-happiness-of-selected-children/",
+      "readmePath": "3075-maximize-happiness-of-selected-children/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3075-maximize-happiness-of-selected-children.c",
+          "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.c",
+          "sha": "015adde3b72b67c9d1111e25208526cda98f1270",
+          "lastSyncedAt": "2026-09-24T12:30:55.518Z"
         }
       ]
     },
