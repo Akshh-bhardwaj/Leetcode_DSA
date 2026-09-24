@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T12:08:30.258Z",
+  "updatedAt": "2026-09-24T12:08:39.301Z",
   "problems": [
     {
       "frontendId": "1",
@@ -871,6 +871,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.java",
           "sha": "1a34af3dacc6f65523216ee63b05f127b262844b",
           "lastSyncedAt": "2026-09-24T11:59:02.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1855",
+      "title": "Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "problemName": "1855-maximum-distance-between-a-pair-of-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+      "folderPath": "1855-maximum-distance-between-a-pair-of-values/",
+      "readmePath": "1855-maximum-distance-between-a-pair-of-values/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1855-maximum-distance-between-a-pair-of-values.c",
+          "path": "1855-maximum-distance-between-a-pair-of-values/1855-maximum-distance-between-a-pair-of-values.c",
+          "sha": "a7dd3eb157e41cdfa74aa2e68393937cbd6e26a1",
+          "lastSyncedAt": "2026-09-24T12:08:39.301Z"
         }
       ]
     },
