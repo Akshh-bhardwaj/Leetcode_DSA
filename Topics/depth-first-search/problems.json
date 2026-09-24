@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T12:06:55.134Z",
+  "updatedAt": "2026-09-24T12:07:11.173Z",
   "problems": [
     {
       "frontendId": "1306",
@@ -43,6 +43,26 @@
           "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
           "lastSyncedAt": "2026-09-24T12:06:55.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1559",
+      "title": "Detect Cycles in 2D Grid",
+      "slug": "detect-cycles-in-2d-grid",
+      "problemName": "1559-detect-cycles-in-2d-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-cycles-in-2d-grid/",
+      "folderPath": "1559-detect-cycles-in-2d-grid/",
+      "readmePath": "1559-detect-cycles-in-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1559-detect-cycles-in-2d-grid.c",
+          "path": "1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.c",
+          "sha": "32efdba0e5c4d9bb5e9969642a7b4ac5a5d1d208",
+          "lastSyncedAt": "2026-09-24T12:07:11.173Z"
         }
       ]
     },
