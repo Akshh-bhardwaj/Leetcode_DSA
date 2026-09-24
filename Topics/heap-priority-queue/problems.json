@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T12:22:39.324Z",
+  "updatedAt": "2026-09-24T12:23:59.391Z",
   "problems": [
     {
       "frontendId": "215",
@@ -163,6 +163,26 @@
           "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.c",
           "sha": "96579b3c9f1f3ba8814224a7f41e8880b14b8259",
           "lastSyncedAt": "2026-09-24T12:15:50.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3650",
+      "title": "Minimum Cost Path with Edge Reversals",
+      "slug": "minimum-cost-path-with-edge-reversals",
+      "problemName": "3650-minimum-cost-path-with-edge-reversals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/",
+      "folderPath": "3650-minimum-cost-path-with-edge-reversals/",
+      "readmePath": "3650-minimum-cost-path-with-edge-reversals/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3650-minimum-cost-path-with-edge-reversals.c",
+          "path": "3650-minimum-cost-path-with-edge-reversals/3650-minimum-cost-path-with-edge-reversals.c",
+          "sha": "07b5bd3b1f9abd3306941f80cda661889df15923",
+          "lastSyncedAt": "2026-09-24T12:23:59.391Z"
         }
       ]
     },
