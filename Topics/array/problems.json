@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T08:35:53.444Z",
+  "updatedAt": "2026-09-24T08:36:01.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -442,7 +442,7 @@
           "filename": "1470-shuffle-the-array.java",
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
           "sha": "21fd560b23f8f739bea16298367838788485c2c9",
-          "lastSyncedAt": "2026-09-24T08:22:36.533Z"
+          "lastSyncedAt": "2026-09-24T08:36:01.737Z"
         }
       ]
     },
