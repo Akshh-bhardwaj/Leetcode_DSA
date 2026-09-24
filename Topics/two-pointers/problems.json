@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T17:59:30.338Z",
+  "updatedAt": "2026-09-24T18:07:28.385Z",
   "problems": [
     {
       "frontendId": "5",
@@ -522,7 +522,7 @@
           "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
           "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
           "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
-          "lastSyncedAt": "2026-09-24T12:35:21.663Z"
+          "lastSyncedAt": "2026-09-24T18:07:28.385Z"
         }
       ]
     },
