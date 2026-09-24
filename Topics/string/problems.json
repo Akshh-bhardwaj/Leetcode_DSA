@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T18:11:04.016Z",
+  "updatedAt": "2026-09-24T18:11:42.202Z",
   "problems": [
     {
       "frontendId": "3",
@@ -990,7 +990,7 @@
           "filename": "1513-number-of-substrings-with-only-1s.c",
           "path": "1513-number-of-substrings-with-only-1s/1513-number-of-substrings-with-only-1s.c",
           "sha": "a7e5de4e45aaddffad07e85305962124c9f7768e",
-          "lastSyncedAt": "2026-09-24T12:40:41.135Z"
+          "lastSyncedAt": "2026-09-24T18:11:42.202Z"
         }
       ]
     },
