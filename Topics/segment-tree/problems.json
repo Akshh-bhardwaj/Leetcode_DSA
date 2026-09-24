@@ -4,8 +4,28 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-09-24T08:14:55.165Z",
+  "updatedAt": "2026-09-24T08:23:00.514Z",
   "problems": [
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2213-longest-substring-of-one-repeating-character.java",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
+          "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
+          "lastSyncedAt": "2026-09-24T08:23:00.514Z"
+        }
+      ]
+    },
     {
       "frontendId": "3525",
       "title": "Find X Value of Array II",
