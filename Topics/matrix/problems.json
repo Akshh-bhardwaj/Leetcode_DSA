@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T11:56:07.048Z",
+  "updatedAt": "2026-09-24T12:04:54.638Z",
   "problems": [
     {
       "frontendId": "74",
@@ -83,6 +83,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
           "sha": "224101c278b7c6a6e7f8edf01ed55b74475f9155",
           "lastSyncedAt": "2026-09-24T11:56:07.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "problemName": "1914-cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+      "folderPath": "1914-cyclically-rotating-a-grid/",
+      "readmePath": "1914-cyclically-rotating-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1914-cyclically-rotating-a-grid.c",
+          "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.c",
+          "sha": "7cdf1ddb428871c87fc847c4c3d8a60ee6f10b6f",
+          "lastSyncedAt": "2026-09-24T12:04:54.638Z"
         }
       ]
     },
