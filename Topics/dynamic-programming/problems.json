@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T17:58:37.234Z",
+  "updatedAt": "2026-09-24T17:59:01.477Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1130,7 +1130,7 @@
           "filename": "3651-minimum-cost-path-with-teleportations.c",
           "path": "3651-minimum-cost-path-with-teleportations/3651-minimum-cost-path-with-teleportations.c",
           "sha": "541c2cf41f995dbd75857cf2322dd8c6e049bdb8",
-          "lastSyncedAt": "2026-09-24T12:23:49.922Z"
+          "lastSyncedAt": "2026-09-24T17:59:01.477Z"
         }
       ]
     },
