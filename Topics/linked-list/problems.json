@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T17:35:37.968Z",
+  "updatedAt": "2026-09-24T17:36:00.809Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.java",
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "0a56b27701d409abf5db14508e32aba58a816cbd",
-          "lastSyncedAt": "2026-09-24T11:56:28.251Z"
+          "lastSyncedAt": "2026-09-24T17:36:00.809Z"
         }
       ]
     },
