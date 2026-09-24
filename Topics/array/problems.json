@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T18:06:28.892Z",
+  "updatedAt": "2026-09-24T18:06:36.424Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1490,7 +1490,7 @@
           "filename": "1441-build-an-array-with-stack-operations.c",
           "path": "1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.c",
           "sha": "5c093ba87bcd6dfe2c9321b30b68eeaab4d0ff6e",
-          "lastSyncedAt": "2026-09-24T12:34:12.505Z"
+          "lastSyncedAt": "2026-09-24T18:06:36.424Z"
         }
       ]
     },
