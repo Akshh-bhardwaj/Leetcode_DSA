@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T17:44:20.968Z",
+  "updatedAt": "2026-09-24T17:44:38.347Z",
   "problems": [
     {
       "frontendId": "15",
@@ -462,7 +462,7 @@
           "filename": "1665-minimum-initial-energy-to-finish-tasks.c",
           "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.c",
           "sha": "8e2f05d77983d95f848ee99f97cd789105ab92e4",
-          "lastSyncedAt": "2026-09-24T12:04:25.019Z"
+          "lastSyncedAt": "2026-09-24T17:44:38.347Z"
         }
       ]
     },
