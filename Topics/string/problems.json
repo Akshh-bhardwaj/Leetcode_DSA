@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T09:56:02.599Z",
+  "updatedAt": "2026-09-25T09:56:11.130Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1358,7 +1358,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.java",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
-          "lastSyncedAt": "2026-09-24T18:38:20.346Z"
+          "lastSyncedAt": "2026-09-25T09:56:11.130Z"
         }
       ]
     },
