@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-25T09:54:32.737Z",
+  "updatedAt": "2026-09-25T10:45:51.636Z",
   "problems": [
     {
       "frontendId": "5",
@@ -382,7 +382,7 @@
           "filename": "0567-permutation-in-string.java",
           "path": "0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "80522140c143384a31e4fb9b3d083f6bbdb59fe0",
-          "lastSyncedAt": "2026-09-25T09:46:09.625Z"
+          "lastSyncedAt": "2026-09-25T10:45:51.636Z"
         }
       ]
     },
