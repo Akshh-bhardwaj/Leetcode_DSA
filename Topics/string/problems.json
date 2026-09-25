@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T09:49:20.132Z",
+  "updatedAt": "2026-09-25T09:49:31.371Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1030,7 +1030,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.java",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "26af8e1dafff748f5aa3ed6abf631836c37220c9",
-          "lastSyncedAt": "2026-09-24T18:32:13.071Z"
+          "lastSyncedAt": "2026-09-25T09:49:31.371Z"
         }
       ]
     },
