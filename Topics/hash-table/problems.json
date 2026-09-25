@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T19:01:23.954Z",
+  "updatedAt": "2026-09-25T04:38:42.583Z",
   "problems": [
     {
       "frontendId": "1",
@@ -531,6 +531,26 @@
           "path": "1015-smallest-integer-divisible-by-k/1015-smallest-integer-divisible-by-k.c",
           "sha": "7623dc87d9f2a8b504c2744b7362941bad8e9604",
           "lastSyncedAt": "2026-09-24T18:04:57.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1096-brace-expansion-ii.java",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
+          "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
+          "lastSyncedAt": "2026-09-25T04:38:42.583Z"
         }
       ]
     },
