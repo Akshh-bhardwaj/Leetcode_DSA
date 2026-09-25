@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T09:49:42.553Z",
+  "updatedAt": "2026-09-25T09:50:13.940Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1030,7 +1030,7 @@
           "filename": "2813-maximum-elegance-of-a-k-length-subsequence.java",
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
-          "lastSyncedAt": "2026-09-24T18:33:02.881Z"
+          "lastSyncedAt": "2026-09-25T09:50:13.940Z"
         }
       ]
     },
