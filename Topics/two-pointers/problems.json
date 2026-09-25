@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-25T09:48:08.325Z",
+  "updatedAt": "2026-09-25T09:50:04.649Z",
   "problems": [
     {
       "frontendId": "5",
@@ -582,7 +582,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
-          "lastSyncedAt": "2026-09-24T18:32:53.901Z"
+          "lastSyncedAt": "2026-09-25T09:50:04.649Z"
         }
       ]
     },
