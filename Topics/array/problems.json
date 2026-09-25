@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T09:50:49.487Z",
+  "updatedAt": "2026-09-25T09:51:00.438Z",
   "problems": [
     {
       "frontendId": "1",
@@ -870,7 +870,7 @@
           "filename": "0835-image-overlap.java",
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
-          "lastSyncedAt": "2026-09-24T18:33:49.996Z"
+          "lastSyncedAt": "2026-09-25T09:51:00.438Z"
         }
       ]
     },
