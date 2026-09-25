@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T09:54:32.737Z",
+  "updatedAt": "2026-09-25T09:54:39.070Z",
   "problems": [
     {
       "frontendId": "1",
@@ -450,7 +450,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.java",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "a072364dd65391443682472d1d7e8d71e8ebb7c3",
-          "lastSyncedAt": "2026-09-24T18:36:59.066Z"
+          "lastSyncedAt": "2026-09-25T09:54:39.070Z"
         }
       ]
     },
