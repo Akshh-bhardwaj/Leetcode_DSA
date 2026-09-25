@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-25T09:55:52.239Z",
+  "updatedAt": "2026-09-25T10:44:16.806Z",
   "problems": [
     {
       "frontendId": "15",
@@ -322,7 +322,7 @@
           "filename": "1096-brace-expansion-ii.java",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
-          "lastSyncedAt": "2026-09-25T09:45:26.770Z"
+          "lastSyncedAt": "2026-09-25T10:44:16.806Z"
         }
       ]
     },
