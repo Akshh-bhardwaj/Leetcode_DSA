@@ -4,7 +4,7 @@
     "slug": "boyer-moore-string-search-algorithm",
     "name": "Boyer–Moore String-Search Algorithm"
   },
-  "updatedAt": "2026-09-24T18:30:55.022Z",
+  "updatedAt": "2026-09-25T09:48:08.325Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "b6c3a07fab3356c5a66518eef8f85177d17767ad",
-          "lastSyncedAt": "2026-09-24T18:30:55.022Z"
+          "lastSyncedAt": "2026-09-25T09:48:08.325Z"
         }
       ]
     }
