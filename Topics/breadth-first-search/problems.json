@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T18:55:25.519Z",
+  "updatedAt": "2026-09-25T04:38:42.583Z",
   "problems": [
     {
       "frontendId": "547",
@@ -43,6 +43,26 @@
           "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "sha": "9cf2e83a3953a0b5dde754c3208b9a6e0b347fae",
           "lastSyncedAt": "2026-09-24T18:01:56.891Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1096-brace-expansion-ii.java",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
+          "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
+          "lastSyncedAt": "2026-09-25T04:38:42.583Z"
         }
       ]
     },
