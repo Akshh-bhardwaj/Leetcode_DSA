@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T04:38:42.583Z",
+  "updatedAt": "2026-09-25T09:45:26.770Z",
   "problems": [
     {
       "frontendId": "1",
@@ -550,7 +550,7 @@
           "filename": "1096-brace-expansion-ii.java",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
-          "lastSyncedAt": "2026-09-25T04:38:42.583Z"
+          "lastSyncedAt": "2026-09-25T09:45:26.770Z"
         }
       ]
     },
