@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T10:48:16.783Z",
+  "updatedAt": "2026-09-25T10:49:21.029Z",
   "problems": [
     {
       "frontendId": "1",
@@ -102,7 +102,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
-          "lastSyncedAt": "2026-09-25T09:47:02.756Z"
+          "lastSyncedAt": "2026-09-25T10:49:21.029Z"
         }
       ]
     },
