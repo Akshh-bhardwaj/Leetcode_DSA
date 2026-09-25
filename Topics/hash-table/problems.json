@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T10:44:16.806Z",
+  "updatedAt": "2026-09-25T10:44:59.378Z",
   "problems": [
     {
       "frontendId": "1",
@@ -270,7 +270,7 @@
           "filename": "0424-longest-repeating-character-replacement.java",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "fc38028bebc68a73ffc3f82bc57467f94d84e4c6",
-          "lastSyncedAt": "2026-09-25T09:45:53.929Z"
+          "lastSyncedAt": "2026-09-25T10:44:59.378Z"
         }
       ]
     },
