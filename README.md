@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 366 | 118 | 180 | 68 |
+| 367 | 119 | 180 | 68 |
 
 ## Activity
 
@@ -28,14 +28,14 @@
 | 2026-09-23 | 1 |
 | 2026-09-24 | 18 |
 | 2026-09-25 | 5 |
-| 2026-09-27 | 1 |
+| 2026-09-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 230 | 63% |
-| String | 97 | 27% |
+| String | 97 | 26% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 20% |
 | Dynamic Programming | 61 | 17% |
