@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 368 | 119 | 181 | 68 |
+| 369 | 119 | 182 | 68 |
 
 ## Activity
 
@@ -28,13 +28,13 @@
 | 2026-09-23 | 1 |
 | 2026-09-24 | 18 |
 | 2026-09-25 | 5 |
-| 2026-09-27 | 3 |
+| 2026-09-27 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 230 | 63% |
+| Array | 230 | 62% |
 | String | 97 | 26% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 20% |
@@ -42,7 +42,7 @@
 | Sorting | 60 | 16% |
 | Matrix | 40 | 11% |
 | Greedy | 39 | 11% |
-| Prefix Sum | 35 | 10% |
+| Prefix Sum | 35 | 9% |
 | Two Pointers | 34 | 9% |
 
 ## Topics
