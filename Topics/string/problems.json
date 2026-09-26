@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T10:49:21.029Z",
+  "updatedAt": "2026-09-26T18:52:59.357Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1151,6 +1151,26 @@
           "path": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.c",
           "sha": "f24f551ec8f042c095f117b83e640a1988d73f16",
           "lastSyncedAt": "2026-09-24T18:54:42.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "folderPath": "1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "sha": "c187af0862dd464237f0c4acc75655be76ba85d4",
+          "lastSyncedAt": "2026-09-26T18:52:59.357Z"
         }
       ]
     },
