@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 369 | 119 | 182 | 68 |
+| 371 | 119 | 183 | 69 |
 
 ## Activity
 
@@ -28,17 +28,17 @@
 | 2026-09-23 | 1 |
 | 2026-09-24 | 18 |
 | 2026-09-25 | 5 |
-| 2026-09-27 | 4 |
+| 2026-09-27 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 230 | 62% |
-| String | 97 | 26% |
+| String | 98 | 26% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 20% |
-| Dynamic Programming | 61 | 17% |
+| Dynamic Programming | 61 | 16% |
 | Sorting | 60 | 16% |
 | Matrix | 40 | 11% |
 | Greedy | 39 | 11% |
@@ -59,7 +59,7 @@
 | [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 24 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Brainteaser](Topics/brainteaser/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -125,8 +125,8 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 60 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 16 |
-| [String](Topics/string/) | 97 |
+| [Stack](Topics/stack/) | 17 |
+| [String](Topics/string/) | 98 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
