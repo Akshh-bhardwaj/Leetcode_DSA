@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-28T07:52:41.010Z",
+  "updatedAt": "2026-09-28T08:03:24.821Z",
   "problems": [
     {
       "frontendId": "547",
@@ -122,7 +122,7 @@
           "filename": "1345-jump-game-iv.c",
           "path": "1345-jump-game-iv/1345-jump-game-iv.c",
           "sha": "306fd5f5462554ad1dfe484f212ede2596b157c2",
-          "lastSyncedAt": "2026-09-24T18:44:57.212Z"
+          "lastSyncedAt": "2026-09-28T08:03:24.821Z"
         }
       ]
     },
