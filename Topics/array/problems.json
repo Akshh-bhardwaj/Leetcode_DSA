@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T08:11:41.191Z",
+  "updatedAt": "2026-09-28T08:11:50.666Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2706,7 +2706,7 @@
           "filename": "2463-minimum-total-distance-traveled.c",
           "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.c",
           "sha": "5a46a5ec6438256dadacca5b38f66acc480427a2",
-          "lastSyncedAt": "2026-09-24T18:49:36.504Z"
+          "lastSyncedAt": "2026-09-28T08:11:50.666Z"
         }
       ]
     },
