@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T07:49:11.174Z",
+  "updatedAt": "2026-09-28T07:49:37.498Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3134,7 +3134,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
-          "lastSyncedAt": "2026-09-24T18:38:47.998Z"
+          "lastSyncedAt": "2026-09-28T07:49:37.498Z"
         }
       ]
     },
