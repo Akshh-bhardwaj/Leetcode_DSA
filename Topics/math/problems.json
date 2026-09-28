@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-28T07:58:59.653Z",
+  "updatedAt": "2026-09-28T08:00:35.328Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1350,7 +1350,7 @@
           "filename": "3753-total-waviness-of-numbers-in-range-ii.c",
           "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
           "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
-          "lastSyncedAt": "2026-09-24T18:42:30.314Z"
+          "lastSyncedAt": "2026-09-28T08:00:35.328Z"
         },
         {
           "language": "Java",
