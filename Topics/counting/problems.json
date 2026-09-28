@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-28T07:22:36.038Z",
+  "updatedAt": "2026-09-28T07:25:25.834Z",
   "problems": [
     {
       "frontendId": "383",
@@ -22,7 +22,7 @@
           "filename": "0383-ransom-note.java",
           "path": "0383-ransom-note/0383-ransom-note.java",
           "sha": "8f0616cb84933af5dbbeb70c7e3455b8dbdf0232",
-          "lastSyncedAt": "2026-09-25T09:47:25.815Z"
+          "lastSyncedAt": "2026-09-28T07:25:25.834Z"
         }
       ]
     },
