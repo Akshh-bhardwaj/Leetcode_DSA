@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-28T08:05:51.749Z",
+  "updatedAt": "2026-09-28T08:08:56.736Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1558,7 +1558,7 @@
           "filename": "2833-furthest-point-from-origin.c",
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.c",
           "sha": "4f7b70d810ebdee95e65b88f8755ea96f9339f14",
-          "lastSyncedAt": "2026-09-24T18:48:30.888Z"
+          "lastSyncedAt": "2026-09-28T08:08:56.736Z"
         }
       ]
     },
