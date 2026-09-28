@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T07:44:55.792Z",
+  "updatedAt": "2026-09-28T07:45:03.580Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4658,7 +4658,7 @@
           "filename": "3903-smallest-stable-index-i.java",
           "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
           "sha": "d46fdcc011e117b7fd224ac468d6d3580e78e165",
-          "lastSyncedAt": "2026-09-25T09:52:53.248Z"
+          "lastSyncedAt": "2026-09-28T07:45:03.580Z"
         }
       ]
     },
