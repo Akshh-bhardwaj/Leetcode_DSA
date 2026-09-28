@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T08:18:40.821Z",
+  "updatedAt": "2026-09-28T08:18:55.859Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2994,7 +2994,7 @@
           "filename": "2906-construct-product-matrix.c",
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
           "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
-          "lastSyncedAt": "2026-09-24T18:52:13.306Z"
+          "lastSyncedAt": "2026-09-28T08:18:55.859Z"
         }
       ]
     },
