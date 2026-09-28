@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-28T07:23:09.322Z",
+  "updatedAt": "2026-09-28T07:27:44.461Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1170,7 +1170,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "583cde1ef0ff60f730e339bd2c33d5c1e00aa156",
-          "lastSyncedAt": "2026-09-25T09:47:50.871Z"
+          "lastSyncedAt": "2026-09-28T07:27:44.461Z"
         }
       ]
     },
