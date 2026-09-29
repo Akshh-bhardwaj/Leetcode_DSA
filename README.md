@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 372 | 120 | 183 | 69 |
+| 373 | 121 | 183 | 69 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 14 days | 231 |
+| 3 days | 14 days | 232 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-09 | 1 |
 | 2026-09-10 | 5 |
 | 2026-09-14 | 7 |
 | 2026-09-16 | 1 |
@@ -29,12 +28,13 @@
 | 2026-09-25 | 5 |
 | 2026-09-27 | 6 |
 | 2026-09-28 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 230 | 62% |
+| Array | 231 | 62% |
 | String | 99 | 27% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 20% |
@@ -42,7 +42,7 @@
 | Sorting | 60 | 16% |
 | Matrix | 40 | 11% |
 | Greedy | 39 | 10% |
-| Prefix Sum | 35 | 9% |
+| Prefix Sum | 36 | 10% |
 | Two Pointers | 34 | 9% |
 
 ## Topics
@@ -50,7 +50,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 231 |
+| [Array](Topics/array/) | 232 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -69,7 +69,7 @@
 | [Counting Sort](Topics/counting-sort/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 19 |
-| [Design](Topics/design/) | 2 |
+| [Design](Topics/design/) | 3 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 10 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 2 |
@@ -108,7 +108,7 @@
 | [Ordered Set](Topics/ordered-set/) | 5 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 3 |
 | [Polygons](Topics/polygons/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 35 |
+| [Prefix Sum](Topics/prefix-sum/) | 36 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 2 |
