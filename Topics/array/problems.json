@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T05:50:47.423Z",
+  "updatedAt": "2026-09-29T08:26:36.151Z",
   "problems": [
     {
       "frontendId": "1",
@@ -591,6 +591,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "cde0867424913928eeaefd5a4c1cf69f93b37c8a",
           "lastSyncedAt": "2026-09-28T07:43:29.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "28e160a785dc3351e1a975501953ae849fffe724",
+          "lastSyncedAt": "2026-09-29T08:26:36.151Z"
         }
       ]
     },
