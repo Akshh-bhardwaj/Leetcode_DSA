@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-28T08:20:34.956Z",
+  "updatedAt": "2026-09-29T08:26:36.151Z",
   "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "28e160a785dc3351e1a975501953ae849fffe724",
+          "lastSyncedAt": "2026-09-29T08:26:36.151Z"
+        }
+      ]
+    },
     {
       "frontendId": "1140",
       "title": "Stone Game II",
