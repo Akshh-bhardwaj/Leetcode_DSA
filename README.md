@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 373 | 121 | 183 | 69 |
+| 374 | 121 | 184 | 69 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 14 days | 232 |
+| 4 days | 14 days | 233 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 5 |
 | 2026-09-14 | 7 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
@@ -29,13 +28,14 @@
 | 2026-09-27 | 6 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 231 | 62% |
-| String | 99 | 27% |
+| String | 100 | 27% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 20% |
 | Dynamic Programming | 61 | 16% |
@@ -59,7 +59,7 @@
 | [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 24 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Brainteaser](Topics/brainteaser/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -125,8 +125,8 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 60 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 18 |
-| [String](Topics/string/) | 99 |
+| [Stack](Topics/stack/) | 19 |
+| [String](Topics/string/) | 100 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
