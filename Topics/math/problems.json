@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T18:07:07.486Z",
+  "updatedAt": "2026-10-02T18:08:00.856Z",
   "problems": [
     {
       "frontendId": "2",
@@ -342,7 +342,7 @@
           "filename": "0836-rectangle-overlap.java",
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.java",
           "sha": "eb5b6710584094be3aa372df06d982e9ff9fa3c3",
-          "lastSyncedAt": "2026-09-28T07:40:56.786Z"
+          "lastSyncedAt": "2026-10-02T18:08:00.856Z"
         }
       ]
     },
