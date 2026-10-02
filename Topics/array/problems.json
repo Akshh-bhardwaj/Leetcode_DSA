@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:02:27.927Z",
+  "updatedAt": "2026-10-02T18:02:35.362Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4719,6 +4719,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
           "lastSyncedAt": "2026-09-28T07:44:55.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4061",
+      "title": "Minimum Queen Moves to Reach Target",
+      "slug": "minimum-queen-moves-to-reach-target",
+      "problemName": "4061-minimum-queen-moves-to-reach-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-queen-moves-to-reach-target/",
+      "folderPath": "4061-minimum-queen-moves-to-reach-target/",
+      "readmePath": "4061-minimum-queen-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4061-minimum-queen-moves-to-reach-target.java",
+          "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.java",
+          "sha": "6e75cff3d8e0c5e5de1a8e12f0db8adf58b8625d",
+          "lastSyncedAt": "2026-10-02T18:02:35.362Z"
         }
       ]
     },
