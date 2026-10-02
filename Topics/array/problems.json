@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:11:42.018Z",
+  "updatedAt": "2026-10-02T18:11:48.281Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1470,7 +1470,7 @@
           "filename": "1431-kids-with-the-greatest-number-of-candies.java",
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
           "sha": "f19ac2e2d33ff124bc8efda7d0f65c96be263ac1",
-          "lastSyncedAt": "2026-09-28T07:47:25.044Z"
+          "lastSyncedAt": "2026-10-02T18:11:48.281Z"
         }
       ]
     },
