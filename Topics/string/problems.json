@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T18:04:22.691Z",
+  "updatedAt": "2026-10-02T18:04:27.916Z",
   "problems": [
     {
       "frontendId": "3",
@@ -578,7 +578,7 @@
           "filename": "0443-string-compression.java",
           "path": "0443-string-compression/0443-string-compression.java",
           "sha": "8947ac3db98d11c1a10fd9528476b401c7aef761",
-          "lastSyncedAt": "2026-09-28T07:21:36.693Z"
+          "lastSyncedAt": "2026-10-02T18:04:27.916Z"
         }
       ]
     },
