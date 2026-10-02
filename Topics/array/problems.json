@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:02:42.713Z",
+  "updatedAt": "2026-10-02T18:03:06.334Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4719,6 +4719,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
           "lastSyncedAt": "2026-09-28T07:44:55.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4059",
+      "title": "Lexicographically Largest Power Array",
+      "slug": "lexicographically-largest-power-array",
+      "problemName": "4059-lexicographically-largest-power-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-power-array/",
+      "folderPath": "4059-lexicographically-largest-power-array/",
+      "readmePath": "4059-lexicographically-largest-power-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4059-lexicographically-largest-power-array.java",
+          "path": "4059-lexicographically-largest-power-array/4059-lexicographically-largest-power-array.java",
+          "sha": "85f8f2bba35ce533a7060e3baad9034e7b5bdf56",
+          "lastSyncedAt": "2026-10-02T18:03:06.334Z"
         }
       ]
     },
