@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T18:02:52.043Z",
+  "updatedAt": "2026-10-02T18:03:25.146Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1211,6 +1211,26 @@
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "1384a7cb1e700136c4c430dd4413b060c433786a",
           "lastSyncedAt": "2026-09-28T07:53:05.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4057",
+      "title": "Number of Intersecting Interval Pairs II",
+      "slug": "number-of-intersecting-interval-pairs-ii",
+      "problemName": "4057-number-of-intersecting-interval-pairs-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/",
+      "folderPath": "4057-number-of-intersecting-interval-pairs-ii/",
+      "readmePath": "4057-number-of-intersecting-interval-pairs-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4057-number-of-intersecting-interval-pairs-ii.java",
+          "path": "4057-number-of-intersecting-interval-pairs-ii/4057-number-of-intersecting-interval-pairs-ii.java",
+          "sha": "518c06a5f0ad19a9e3e91a5de6abef1c519a990f",
+          "lastSyncedAt": "2026-10-02T18:03:25.146Z"
         }
       ]
     }
