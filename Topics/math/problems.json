@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T18:11:59.382Z",
+  "updatedAt": "2026-10-02T18:12:38.442Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.java",
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "0a56b27701d409abf5db14508e32aba58a816cbd",
-          "lastSyncedAt": "2026-09-28T07:48:19.530Z"
+          "lastSyncedAt": "2026-10-02T18:12:38.442Z"
         }
       ]
     },
