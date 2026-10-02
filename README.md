@@ -11,7 +11,7 @@
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 14 days | 233 |
+| 0 days | 14 days | 233 |
 
 | Date | Problems |
 | --- | ---: |
