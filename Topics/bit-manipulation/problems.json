@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-28T08:03:01.989Z",
+  "updatedAt": "2026-10-02T18:03:06.334Z",
   "problems": [
     {
       "frontendId": "67",
@@ -483,6 +483,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "63d8579e4269577ae8596626223e325fc2bc40ea",
           "lastSyncedAt": "2026-09-28T07:45:54.562Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4059",
+      "title": "Lexicographically Largest Power Array",
+      "slug": "lexicographically-largest-power-array",
+      "problemName": "4059-lexicographically-largest-power-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-power-array/",
+      "folderPath": "4059-lexicographically-largest-power-array/",
+      "readmePath": "4059-lexicographically-largest-power-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4059-lexicographically-largest-power-array.java",
+          "path": "4059-lexicographically-largest-power-array/4059-lexicographically-largest-power-array.java",
+          "sha": "85f8f2bba35ce533a7060e3baad9034e7b5bdf56",
+          "lastSyncedAt": "2026-10-02T18:03:06.334Z"
         }
       ]
     }
