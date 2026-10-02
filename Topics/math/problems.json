@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T18:10:23.546Z",
+  "updatedAt": "2026-10-02T18:10:28.782Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1110,7 +1110,7 @@
           "filename": "3512-minimum-operations-to-make-array-sum-divisible-by-k.java",
           "path": "3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.java",
           "sha": "01b1d10a17fc1a1fd203e553a7e6a2588aa4b7ce",
-          "lastSyncedAt": "2026-09-28T07:45:47.078Z"
+          "lastSyncedAt": "2026-10-02T18:10:28.782Z"
         }
       ]
     },
