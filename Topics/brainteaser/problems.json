@@ -4,7 +4,7 @@
     "slug": "brainteaser",
     "name": "Brainteaser"
   },
-  "updatedAt": "2026-09-24T18:17:41.729Z",
+  "updatedAt": "2026-10-02T18:02:27.927Z",
   "problems": [
     {
       "frontendId": "2419",
@@ -63,6 +63,26 @@
           "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.c",
           "sha": "8010e7ec185239987ec262ef86943f6c76025283",
           "lastSyncedAt": "2026-09-24T18:08:26.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4062",
+      "title": "Transform Array Using Pair Operations",
+      "slug": "transform-array-using-pair-operations",
+      "problemName": "4062-transform-array-using-pair-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-using-pair-operations/",
+      "folderPath": "4062-transform-array-using-pair-operations/",
+      "readmePath": "4062-transform-array-using-pair-operations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4062-transform-array-using-pair-operations.java",
+          "path": "4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.java",
+          "sha": "c449b9fb6b9745f906f991f75036024ed760db4f",
+          "lastSyncedAt": "2026-10-02T18:02:27.927Z"
         }
       ]
     }
