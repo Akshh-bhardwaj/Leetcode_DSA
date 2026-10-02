@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-28T08:08:27.614Z",
+  "updatedAt": "2026-10-02T18:02:52.043Z",
   "problems": [
     {
       "frontendId": "547",
@@ -62,7 +62,7 @@
           "filename": "1096-brace-expansion-ii.java",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
-          "lastSyncedAt": "2026-09-28T07:18:26.495Z"
+          "lastSyncedAt": "2026-10-02T18:02:52.043Z"
         }
       ]
     },
