@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T18:03:36.484Z",
+  "updatedAt": "2026-10-02T18:04:38.882Z",
   "problems": [
     {
       "frontendId": "15",
@@ -202,7 +202,7 @@
           "filename": "0451-sort-characters-by-frequency.java",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "c679486637e2452697183e3792e24178ace5eba5",
-          "lastSyncedAt": "2026-09-28T07:22:36.038Z"
+          "lastSyncedAt": "2026-10-02T18:04:38.882Z"
         }
       ]
     },
