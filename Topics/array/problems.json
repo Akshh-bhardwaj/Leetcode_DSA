@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:03:25.146Z",
+  "updatedAt": "2026-10-02T18:03:36.484Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4719,6 +4719,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
           "lastSyncedAt": "2026-09-28T07:44:55.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4056",
+      "title": "Number of Intersecting Interval Pairs I",
+      "slug": "number-of-intersecting-interval-pairs-i",
+      "problemName": "4056-number-of-intersecting-interval-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+      "folderPath": "4056-number-of-intersecting-interval-pairs-i/",
+      "readmePath": "4056-number-of-intersecting-interval-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4056-number-of-intersecting-interval-pairs-i.java",
+          "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.java",
+          "sha": "b0bf62aafaa90bc8e38abd3c1470c8220e999319",
+          "lastSyncedAt": "2026-10-02T18:03:36.484Z"
         }
       ]
     },
