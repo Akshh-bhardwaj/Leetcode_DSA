@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-02T18:06:54.340Z",
+  "updatedAt": "2026-10-02T18:07:07.486Z",
   "problems": [
     {
       "frontendId": "5",
@@ -630,7 +630,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
-          "lastSyncedAt": "2026-09-28T07:37:39.694Z"
+          "lastSyncedAt": "2026-10-02T18:07:07.486Z"
         }
       ]
     },
