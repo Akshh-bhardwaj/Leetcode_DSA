@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-02T18:00:57.706Z",
+  "updatedAt": "2026-10-02T18:03:15.617Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1267,6 +1267,26 @@
           "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
           "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
           "lastSyncedAt": "2026-09-24T08:44:02.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4058",
+      "title": "Maximum Pulse Value After One Subarray Rotation",
+      "slug": "maximum-pulse-value-after-one-subarray-rotation",
+      "problemName": "4058-maximum-pulse-value-after-one-subarray-rotation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/",
+      "folderPath": "4058-maximum-pulse-value-after-one-subarray-rotation/",
+      "readmePath": "4058-maximum-pulse-value-after-one-subarray-rotation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4058-maximum-pulse-value-after-one-subarray-rotation.java",
+          "path": "4058-maximum-pulse-value-after-one-subarray-rotation/4058-maximum-pulse-value-after-one-subarray-rotation.java",
+          "sha": "c63bde2220d2d30485461685bcc4fb07c4e89873",
+          "lastSyncedAt": "2026-10-02T18:03:15.617Z"
         }
       ]
     }
