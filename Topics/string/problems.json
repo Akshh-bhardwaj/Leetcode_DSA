@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T18:04:15.036Z",
+  "updatedAt": "2026-10-02T18:04:22.691Z",
   "problems": [
     {
       "frontendId": "3",
@@ -310,7 +310,7 @@
           "filename": "0151-reverse-words-in-a-string.java",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "94b66aca67b22c971e691c39c932a3759fe27e24",
-          "lastSyncedAt": "2026-09-28T07:21:16.077Z"
+          "lastSyncedAt": "2026-10-02T18:04:22.691Z"
         }
       ]
     },
