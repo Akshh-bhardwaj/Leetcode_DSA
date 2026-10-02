@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-28T08:18:40.821Z",
+  "updatedAt": "2026-10-02T18:03:36.484Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -183,6 +183,26 @@
           "path": "3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.c",
           "sha": "935ccfa48e12c471112a23de81a89bad8ac66d3b",
           "lastSyncedAt": "2026-09-28T08:00:45.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4056",
+      "title": "Number of Intersecting Interval Pairs I",
+      "slug": "number-of-intersecting-interval-pairs-i",
+      "problemName": "4056-number-of-intersecting-interval-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+      "folderPath": "4056-number-of-intersecting-interval-pairs-i/",
+      "readmePath": "4056-number-of-intersecting-interval-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4056-number-of-intersecting-interval-pairs-i.java",
+          "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.java",
+          "sha": "b0bf62aafaa90bc8e38abd3c1470c8220e999319",
+          "lastSyncedAt": "2026-10-02T18:03:36.484Z"
         }
       ]
     }
