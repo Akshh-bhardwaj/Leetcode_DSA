@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-02T18:09:17.484Z",
+  "updatedAt": "2026-10-02T18:11:19.731Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0053-maximum-subarray.java",
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "0f99a7ac8ddc940c24ecae2a648c89315e35968b",
-          "lastSyncedAt": "2026-09-28T07:46:53.240Z"
+          "lastSyncedAt": "2026-10-02T18:11:19.731Z"
         }
       ]
     },
