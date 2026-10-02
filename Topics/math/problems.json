@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T18:06:23.741Z",
+  "updatedAt": "2026-10-02T18:06:38.933Z",
   "problems": [
     {
       "frontendId": "2",
@@ -542,7 +542,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.java",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java",
           "sha": "f72042b16087624837c1417783b94ef2ae71257c",
-          "lastSyncedAt": "2026-09-28T07:34:57.912Z"
+          "lastSyncedAt": "2026-10-02T18:06:38.933Z"
         }
       ]
     },
