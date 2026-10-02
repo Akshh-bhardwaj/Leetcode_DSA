@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:11:48.281Z",
+  "updatedAt": "2026-10-02T18:11:52.241Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2210,7 +2210,7 @@
           "filename": "1920-build-array-from-permutation.java",
           "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
           "sha": "6cb27e352dbd34a6905ddb34c724957636900e71",
-          "lastSyncedAt": "2026-09-28T07:47:30.154Z"
+          "lastSyncedAt": "2026-10-02T18:11:52.241Z"
         }
       ]
     },
