@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:03:06.334Z",
+  "updatedAt": "2026-10-02T18:03:15.617Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4719,6 +4719,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
           "lastSyncedAt": "2026-09-28T07:44:55.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4058",
+      "title": "Maximum Pulse Value After One Subarray Rotation",
+      "slug": "maximum-pulse-value-after-one-subarray-rotation",
+      "problemName": "4058-maximum-pulse-value-after-one-subarray-rotation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/",
+      "folderPath": "4058-maximum-pulse-value-after-one-subarray-rotation/",
+      "readmePath": "4058-maximum-pulse-value-after-one-subarray-rotation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4058-maximum-pulse-value-after-one-subarray-rotation.java",
+          "path": "4058-maximum-pulse-value-after-one-subarray-rotation/4058-maximum-pulse-value-after-one-subarray-rotation.java",
+          "sha": "c63bde2220d2d30485461685bcc4fb07c4e89873",
+          "lastSyncedAt": "2026-10-02T18:03:15.617Z"
         }
       ]
     },
