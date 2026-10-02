@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-02T18:00:50.311Z",
+  "updatedAt": "2026-10-02T18:00:57.706Z",
   "problems": [
     {
       "frontendId": "20",
@@ -111,6 +111,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "077b9a5470c2407b7d0d9a51ad74bb47d750c67d",
           "lastSyncedAt": "2026-09-28T07:16:45.555Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "sha": "639b617c1f372bbe52457192ea415ce67552e9fc",
+          "lastSyncedAt": "2026-10-02T18:00:57.706Z"
         }
       ]
     }
