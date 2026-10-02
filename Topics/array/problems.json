@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:02:07.536Z",
+  "updatedAt": "2026-10-02T18:02:19.092Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4719,6 +4719,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "e80a79b2cad953816dfb4dfcce504db5e6d8a002",
           "lastSyncedAt": "2026-09-28T07:44:55.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4063",
+      "title": "Longest Subarray Divisible by K with At Most One Negation I",
+      "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+      "problemName": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/",
+      "folderPath": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/",
+      "readmePath": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
+          "path": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
+          "sha": "53ed6f36abd71d4c3f032bc8d2bead6f3a80b16e",
+          "lastSyncedAt": "2026-10-02T18:02:19.092Z"
         }
       ]
     },
