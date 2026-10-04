@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T18:13:44.730Z",
+  "updatedAt": "2026-10-04T17:35:25.957Z",
   "problems": [
     {
       "frontendId": "3",
@@ -211,6 +211,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "b6c3a07fab3356c5a66518eef8f85177d17767ad",
           "lastSyncedAt": "2026-10-02T18:05:38.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0032-longest-valid-parentheses.java",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
+          "sha": "833e49c3b481e44f6fdee0a73e58a5644c404d05",
+          "lastSyncedAt": "2026-10-04T17:35:25.957Z"
         }
       ]
     },
