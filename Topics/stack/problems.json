@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-02T18:07:28.432Z",
+  "updatedAt": "2026-10-04T17:35:25.957Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "8021fb625a52cbec48b7330af44e47455f2aa530",
           "lastSyncedAt": "2026-10-02T18:00:43.330Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0032-longest-valid-parentheses.java",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
+          "sha": "833e49c3b481e44f6fdee0a73e58a5644c404d05",
+          "lastSyncedAt": "2026-10-04T17:35:25.957Z"
         }
       ]
     },
