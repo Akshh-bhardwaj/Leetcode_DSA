@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-02T18:14:03.432Z",
+  "updatedAt": "2026-10-04T17:35:25.957Z",
   "problems": [
     {
       "frontendId": "5",
@@ -51,6 +51,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "ec74adac8f799fe4521383d458a2197df951110e",
           "lastSyncedAt": "2026-10-02T18:00:32.055Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0032-longest-valid-parentheses.java",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
+          "sha": "833e49c3b481e44f6fdee0a73e58a5644c404d05",
+          "lastSyncedAt": "2026-10-04T17:35:25.957Z"
         }
       ]
     },
