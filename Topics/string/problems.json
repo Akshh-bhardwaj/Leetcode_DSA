@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-04T17:36:12.059Z",
+  "updatedAt": "2026-10-05T20:10:00.156Z",
   "problems": [
     {
       "frontendId": "3",
@@ -819,6 +819,26 @@
           "path": "0796-rotate-string/0796-rotate-string.c",
           "sha": "1525456d4b34ab23d3adf36191fa72c889cd5624",
           "lastSyncedAt": "2026-09-28T08:05:51.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0856-score-of-parentheses.java",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.java",
+          "sha": "b4b82edcfd1d8b7d73d006557a468d6ae7677619",
+          "lastSyncedAt": "2026-10-05T20:10:00.156Z"
         }
       ]
     },
