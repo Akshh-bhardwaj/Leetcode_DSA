@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 375 | 121 | 184 | 70 |
+| 377 | 121 | 186 | 70 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 234 |
+| 1 days | 14 days | 235 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
@@ -28,20 +27,21 @@
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
-| 2026-10-04 | 1 |
+| 2026-10-04 | 2 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 231 | 62% |
-| String | 101 | 27% |
+| Array | 231 | 61% |
+| String | 103 | 27% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 19% |
-| Dynamic Programming | 62 | 17% |
+| Dynamic Programming | 63 | 17% |
 | Sorting | 60 | 16% |
+| Greedy | 40 | 11% |
 | Matrix | 40 | 11% |
-| Greedy | 39 | 10% |
 | Prefix Sum | 36 | 10% |
 | Two Pointers | 34 | 9% |
 
@@ -59,7 +59,7 @@
 | [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 25 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 7 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 9 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -67,14 +67,14 @@
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 10 |
 | [Counting Sort](Topics/counting-sort/) | 3 |
-| [Data Structures](Topics/data-structures/) | 0 |
+| [data-structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 19 |
 | [Design](Topics/design/) | 3 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 10 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 64 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 65 |
 | [Enumeration](Topics/enumeration/) | 10 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -84,7 +84,7 @@
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
-| [Greedy](Topics/greedy/) | 40 |
+| [Greedy](Topics/greedy/) | 41 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 88 |
 | [Heap](Topics/heap/) | 0 |
@@ -125,8 +125,8 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 21 |
-| [String](Topics/string/) | 102 |
+| [Stack](Topics/stack/) | 22 |
+| [String](Topics/string/) | 103 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
