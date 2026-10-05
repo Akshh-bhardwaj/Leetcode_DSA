@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-04T17:36:12.059Z",
+  "updatedAt": "2026-10-05T20:10:00.156Z",
   "problems": [
     {
       "frontendId": "20",
@@ -163,6 +163,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.c",
           "sha": "5538e1a2e99f60cb688b5d8c77b9e4a1f75583c0",
           "lastSyncedAt": "2026-09-24T18:06:08.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0856-score-of-parentheses.java",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.java",
+          "sha": "b4b82edcfd1d8b7d73d006557a468d6ae7677619",
+          "lastSyncedAt": "2026-10-05T20:10:00.156Z"
         }
       ]
     },
