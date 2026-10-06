@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 377 | 121 | 186 | 70 |
+| 378 | 121 | 187 | 70 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 235 |
+| 2 days | 14 days | 236 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-21 | 1 |
@@ -29,18 +28,19 @@
 | 2026-09-30 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-06 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 231 | 61% |
-| String | 103 | 27% |
+| String | 104 | 28% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 19% |
 | Dynamic Programming | 63 | 17% |
 | Sorting | 60 | 16% |
-| Greedy | 40 | 11% |
+| Greedy | 41 | 11% |
 | Matrix | 40 | 11% |
 | Prefix Sum | 36 | 10% |
 | Two Pointers | 34 | 9% |
@@ -59,7 +59,7 @@
 | [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 25 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 9 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 10 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -67,7 +67,7 @@
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 10 |
 | [Counting Sort](Topics/counting-sort/) | 3 |
-| [data-structures](Topics/data-structures/) | 0 |
+| [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 19 |
 | [Design](Topics/design/) | 3 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
@@ -84,7 +84,7 @@
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
-| [Greedy](Topics/greedy/) | 41 |
+| [Greedy](Topics/greedy/) | 42 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 88 |
 | [Heap](Topics/heap/) | 0 |
@@ -125,8 +125,8 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 22 |
-| [String](Topics/string/) | 103 |
+| [Stack](Topics/stack/) | 23 |
+| [String](Topics/string/) | 104 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
