@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-02T18:10:34.339Z",
+  "updatedAt": "2026-10-07T18:24:52.283Z",
   "problems": [
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0301-remove-invalid-parentheses.java",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
+          "sha": "cc152781a41759719a70b03d9bde74e2f935880e",
+          "lastSyncedAt": "2026-10-07T18:24:52.283Z"
+        }
+      ]
+    },
     {
       "frontendId": "547",
       "title": "Number of Provinces",
