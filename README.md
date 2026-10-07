@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 378 | 121 | 187 | 70 |
+| 379 | 121 | 187 | 71 |
 
 ## Activity
 
@@ -28,21 +28,21 @@
 | 2026-09-30 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-06 | 1 |
-| 2026-10-07 | 1 |
+| 2026-10-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 231 | 61% |
-| String | 104 | 28% |
+| String | 105 | 28% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 19% |
 | Dynamic Programming | 63 | 17% |
 | Sorting | 60 | 16% |
 | Greedy | 41 | 11% |
 | Matrix | 40 | 11% |
-| Prefix Sum | 36 | 10% |
+| Prefix Sum | 36 | 9% |
 | Two Pointers | 34 | 9% |
 
 ## Topics
@@ -51,7 +51,7 @@
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Array](Topics/array/) | 241 |
-| [Backtracking](Topics/backtracking/) | 7 |
+| [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 35 |
@@ -61,7 +61,7 @@
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 10 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -126,7 +126,7 @@
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 104 |
+| [String](Topics/string/) | 105 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
