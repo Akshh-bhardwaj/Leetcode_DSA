@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-10-02T18:11:19.731Z",
+  "updatedAt": "2026-10-11T18:47:49.323Z",
   "problems": [
     {
       "frontendId": "4",
@@ -82,7 +83,7 @@
           "filename": "0215-kth-largest-element-in-an-array.java",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
-          "lastSyncedAt": "2026-10-02T18:09:17.484Z"
+          "lastSyncedAt": "2026-10-11T18:47:49.323Z"
         }
       ]
     },
