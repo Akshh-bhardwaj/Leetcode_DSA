@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T19:00:30.343Z",
+  "updatedAt": "2026-10-11T19:01:45.203Z",
   "problems": [
     {
       "frontendId": "15",
@@ -791,7 +791,7 @@
           "filename": "2463-minimum-total-distance-traveled.c",
           "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.c",
           "sha": "5a46a5ec6438256dadacca5b38f66acc480427a2",
-          "lastSyncedAt": "2026-09-28T08:11:50.666Z"
+          "lastSyncedAt": "2026-10-11T19:01:45.203Z"
         }
       ]
     },
