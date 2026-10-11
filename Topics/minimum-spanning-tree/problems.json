@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "minimum-spanning-tree",
-    "name": "Minimum Spanning Tree"
+    "name": "Minimum Spanning Tree",
+    "tagId": "61083"
   },
-  "updatedAt": "2026-09-24T18:53:59.233Z",
+  "updatedAt": "2026-10-11T19:05:32.837Z",
   "problems": [
     {
       "frontendId": "3600",
@@ -22,7 +23,7 @@
           "filename": "3600-maximize-spanning-tree-stability-with-upgrades.c",
           "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.c",
           "sha": "017d65e5f890b8de404bd6fae2c146037c70cd27",
-          "lastSyncedAt": "2026-09-24T18:53:59.233Z"
+          "lastSyncedAt": "2026-10-11T19:05:32.837Z"
         }
       ]
     }
