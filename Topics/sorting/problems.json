@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T19:04:29.874Z",
+  "updatedAt": "2026-10-11T19:04:48.636Z",
   "problems": [
     {
       "frontendId": "15",
@@ -503,7 +503,7 @@
           "filename": "1727-largest-submatrix-with-rearrangements.c",
           "path": "1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.c",
           "sha": "1355ad090d4391686e7ad18d8f01905a8aac0c98",
-          "lastSyncedAt": "2026-09-28T08:20:18.317Z"
+          "lastSyncedAt": "2026-10-11T19:04:48.636Z"
         }
       ]
     },
