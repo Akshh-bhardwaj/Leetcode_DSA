@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T19:02:31.656Z",
+  "updatedAt": "2026-10-11T19:02:35.530Z",
   "problems": [
     {
       "frontendId": "67",
@@ -283,7 +283,7 @@
           "filename": "2075-decode-the-slanted-ciphertext.c",
           "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.c",
           "sha": "d79b883082ce2bbaaa260b7f9260a8a54dc795f8",
-          "lastSyncedAt": "2026-09-28T08:14:39.847Z"
+          "lastSyncedAt": "2026-10-11T19:02:35.530Z"
         }
       ]
     },
