@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "number-theory",
-    "name": "Number Theory"
+    "name": "Number Theory",
+    "tagId": "61067"
   },
-  "updatedAt": "2026-09-28T08:20:58.861Z",
+  "updatedAt": "2026-10-11T18:52:03.879Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -82,7 +83,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.java",
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
-          "lastSyncedAt": "2026-09-28T07:52:01.042Z"
+          "lastSyncedAt": "2026-10-11T18:52:03.879Z"
         }
       ]
     },
