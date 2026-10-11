@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T19:02:21.810Z",
+  "updatedAt": "2026-10-11T19:02:25.532Z",
   "problems": [
     {
       "frontendId": "67",
@@ -103,7 +103,7 @@
           "filename": "0874-walking-robot-simulation.c",
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.c",
           "sha": "03bee6590d8071dcbc2b8a7c51121db51627b910",
-          "lastSyncedAt": "2026-09-28T08:13:47.658Z"
+          "lastSyncedAt": "2026-10-11T19:02:25.532Z"
         }
       ]
     },
