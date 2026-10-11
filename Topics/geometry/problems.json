@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "geometry",
-    "name": "Geometry"
+    "name": "Geometry",
+    "tagId": "38"
   },
-  "updatedAt": "2026-10-02T18:08:00.856Z",
+  "updatedAt": "2026-10-11T18:45:45.854Z",
   "problems": [
     {
       "frontendId": "836",
@@ -62,7 +63,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.java",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.java",
           "sha": "f72042b16087624837c1417783b94ef2ae71257c",
-          "lastSyncedAt": "2026-10-02T18:06:38.933Z"
+          "lastSyncedAt": "2026-10-11T18:45:45.854Z"
         }
       ]
     },
