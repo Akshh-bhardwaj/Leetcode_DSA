@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "ordered-set",
-    "name": "Ordered Set"
+    "name": "Ordered Set",
+    "tagId": "61070"
   },
-  "updatedAt": "2026-10-02T18:13:18.515Z",
+  "updatedAt": "2026-10-11T18:50:56.482Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -22,7 +23,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.java",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "d3a93f3e6a6eef8f2c1284c9eedba31ea96e3842",
-          "lastSyncedAt": "2026-10-02T18:13:18.515Z"
+          "lastSyncedAt": "2026-10-11T18:50:56.482Z"
         }
       ]
     },
