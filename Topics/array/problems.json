@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T18:55:26.700Z",
+  "updatedAt": "2026-10-11T18:55:50.000Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1311,7 +1311,7 @@
           "filename": "1340-jump-game-v.c",
           "path": "1340-jump-game-v/1340-jump-game-v.c",
           "sha": "3012fb885c7447592893758d4d52b923901416e9",
-          "lastSyncedAt": "2026-09-28T08:02:30.050Z"
+          "lastSyncedAt": "2026-10-11T18:55:50.000Z"
         }
       ]
     },
