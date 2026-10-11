@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sliding-window",
-    "name": "Sliding Window"
+    "name": "Sliding Window",
+    "tagId": "55821"
   },
-  "updatedAt": "2026-10-02T18:13:35.346Z",
+  "updatedAt": "2026-10-11T18:43:29.312Z",
   "problems": [
     {
       "frontendId": "3",
@@ -42,7 +43,7 @@
           "filename": "0424-longest-repeating-character-replacement.java",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "fc38028bebc68a73ffc3f82bc57467f94d84e4c6",
-          "lastSyncedAt": "2026-10-02T18:03:47.215Z"
+          "lastSyncedAt": "2026-10-11T18:43:29.312Z"
         }
       ]
     },
