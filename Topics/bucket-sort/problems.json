@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bucket-sort",
-    "name": "Bucket Sort"
+    "name": "Bucket Sort",
+    "tagId": "61060"
   },
-  "updatedAt": "2026-10-02T18:04:38.882Z",
+  "updatedAt": "2026-10-11T18:44:09.966Z",
   "problems": [
     {
       "frontendId": "451",
@@ -22,7 +23,7 @@
           "filename": "0451-sort-characters-by-frequency.java",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "c679486637e2452697183e3792e24178ace5eba5",
-          "lastSyncedAt": "2026-10-02T18:04:38.882Z"
+          "lastSyncedAt": "2026-10-11T18:44:09.966Z"
         }
       ]
     }
