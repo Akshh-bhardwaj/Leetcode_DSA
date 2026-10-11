@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "zero-sum-game",
-    "name": "Zero-Sum Game"
+    "name": "Zero-Sum Game",
+    "tagId": "122082"
   },
-  "updatedAt": "2026-09-28T07:53:44.296Z",
+  "updatedAt": "2026-10-11T18:51:28.136Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -62,7 +63,7 @@
           "filename": "1510-stone-game-iv.java",
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "244b7ef45fc8894afe7d20330d459ccdf04e51cf",
-          "lastSyncedAt": "2026-09-28T07:49:55.972Z"
+          "lastSyncedAt": "2026-10-11T18:51:28.136Z"
         }
       ]
     }
