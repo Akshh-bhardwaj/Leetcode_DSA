@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "counting",
-    "name": "Counting"
+    "name": "Counting",
+    "tagId": "61062"
   },
-  "updatedAt": "2026-10-02T18:05:11.320Z",
+  "updatedAt": "2026-10-11T18:41:42.968Z",
   "problems": [
     {
       "frontendId": "383",
@@ -42,7 +43,7 @@
           "filename": "0387-first-unique-character-in-a-string.java",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "5a7a1ec200a29bb7fcb0c9827cb972d2fc991be6",
-          "lastSyncedAt": "2026-10-02T18:01:17.559Z"
+          "lastSyncedAt": "2026-10-11T18:41:42.968Z"
         }
       ]
     },
