@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T18:44:34.071Z",
+  "updatedAt": "2026-10-11T18:45:15.089Z",
   "problems": [
     {
       "frontendId": "1",
@@ -751,7 +751,7 @@
           "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
-          "lastSyncedAt": "2026-10-02T18:05:59.754Z"
+          "lastSyncedAt": "2026-10-11T18:45:15.089Z"
         }
       ]
     },
