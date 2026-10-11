@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T18:51:55.949Z",
+  "updatedAt": "2026-10-11T18:53:21.049Z",
   "problems": [
     {
       "frontendId": "5",
@@ -503,7 +503,7 @@
           "filename": "2095-delete-the-middle-node-of-a-linked-list.c",
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.c",
           "sha": "9effcc48583d8fb3f101c61c8848a5c5a2dcae4c",
-          "lastSyncedAt": "2026-09-28T07:57:13.029Z"
+          "lastSyncedAt": "2026-10-11T18:53:21.049Z"
         }
       ]
     },
