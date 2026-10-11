@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-02T18:09:30.924Z",
+  "updatedAt": "2026-10-11T18:42:16.712Z",
   "problems": [
     {
       "frontendId": "4",
@@ -726,7 +727,7 @@
           "filename": "4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.java",
           "path": "4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.java",
           "sha": "a2fe8b03cac302ca8612dccefb7de56733ddf847",
-          "lastSyncedAt": "2026-10-02T18:02:07.536Z"
+          "lastSyncedAt": "2026-10-11T18:42:16.712Z"
         }
       ]
     }
