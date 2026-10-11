@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-10-02T18:12:06.085Z",
+  "updatedAt": "2026-10-11T18:41:35.873Z",
   "problems": [
     {
       "frontendId": "303",
@@ -22,7 +23,7 @@
           "filename": "0303-range-sum-query-immutable.java",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "28e160a785dc3351e1a975501953ae849fffe724",
-          "lastSyncedAt": "2026-10-02T18:01:07.383Z"
+          "lastSyncedAt": "2026-10-11T18:41:35.873Z"
         }
       ]
     },
