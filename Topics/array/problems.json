@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T18:36:01.369Z",
+  "updatedAt": "2026-10-11T18:40:19.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2995,7 +2995,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.java",
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "0612020acb0c3b080abd7a64001c817b19fbfcad",
-          "lastSyncedAt": "2026-10-11T18:36:01.369Z"
+          "lastSyncedAt": "2026-10-11T18:40:19.737Z"
         }
       ]
     },
