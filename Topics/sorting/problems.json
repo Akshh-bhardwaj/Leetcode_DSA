@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-02T18:13:53.168Z",
+  "updatedAt": "2026-10-11T18:41:52.416Z",
   "problems": [
     {
       "frontendId": "15",
@@ -82,7 +83,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
-          "lastSyncedAt": "2026-10-02T18:01:38.531Z"
+          "lastSyncedAt": "2026-10-11T18:41:52.416Z"
         }
       ]
     },
