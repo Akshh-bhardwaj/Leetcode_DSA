@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-10-02T18:12:12.843Z",
+  "updatedAt": "2026-10-11T18:41:27.446Z",
   "problems": [
     {
       "frontendId": "48",
@@ -542,7 +543,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "sha": "639b617c1f372bbe52457192ea415ce67552e9fc",
-          "lastSyncedAt": "2026-10-02T18:00:57.706Z"
+          "lastSyncedAt": "2026-10-11T18:41:27.446Z"
         }
       ]
     },
