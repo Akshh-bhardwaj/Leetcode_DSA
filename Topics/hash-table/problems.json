@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T18:46:25.335Z",
+  "updatedAt": "2026-10-11T18:46:44.570Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1711,7 +1711,7 @@
           "filename": "3741-minimum-distance-between-three-equal-elements-ii.java",
           "path": "3741-minimum-distance-between-three-equal-elements-ii/3741-minimum-distance-between-three-equal-elements-ii.java",
           "sha": "bb124a3552364e186edad98d3c923ddb72c52dde",
-          "lastSyncedAt": "2026-10-02T18:07:54.733Z"
+          "lastSyncedAt": "2026-10-11T18:46:44.570Z"
         }
       ]
     },
