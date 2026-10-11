@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-11T19:04:36.704Z",
+  "updatedAt": "2026-10-11T19:04:42.757Z",
   "problems": [
     {
       "frontendId": "48",
@@ -643,7 +643,7 @@
           "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
-          "lastSyncedAt": "2026-09-28T08:20:09.251Z"
+          "lastSyncedAt": "2026-10-11T19:04:42.757Z"
         }
       ]
     },
