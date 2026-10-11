@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T18:53:38.818Z",
+  "updatedAt": "2026-10-11T18:53:50.383Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1191,7 +1191,7 @@
           "filename": "3558-number-of-ways-to-assign-edge-weights-i.c",
           "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.c",
           "sha": "7b5cd323456138984fc55af6d473e71a7de551b4",
-          "lastSyncedAt": "2026-09-28T07:58:59.653Z"
+          "lastSyncedAt": "2026-10-11T18:53:50.383Z"
         }
       ]
     },
