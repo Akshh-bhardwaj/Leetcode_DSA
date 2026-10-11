@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T18:54:15.181Z",
+  "updatedAt": "2026-10-11T18:55:33.911Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1251,7 +1251,7 @@
           "filename": "3121-count-the-number-of-special-characters-ii.c",
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.c",
           "sha": "b39cfdaa893825d9a9e1960b94db6304e4e7cde9",
-          "lastSyncedAt": "2026-09-28T08:02:06.350Z"
+          "lastSyncedAt": "2026-10-11T18:55:33.911Z"
         }
       ]
     },
