@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T18:45:59.518Z",
+  "updatedAt": "2026-10-11T18:46:54.499Z",
   "problems": [
     {
       "frontendId": "4",
@@ -479,7 +479,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.java",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
-          "lastSyncedAt": "2026-10-02T18:08:07.644Z"
+          "lastSyncedAt": "2026-10-11T18:46:54.499Z"
         }
       ]
     },
