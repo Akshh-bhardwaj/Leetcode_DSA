@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T18:42:24.652Z",
+  "updatedAt": "2026-10-11T18:42:30.967Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4859,7 +4859,7 @@
           "filename": "4062-transform-array-using-pair-operations.java",
           "path": "4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.java",
           "sha": "c449b9fb6b9745f906f991f75036024ed760db4f",
-          "lastSyncedAt": "2026-10-02T18:02:27.927Z"
+          "lastSyncedAt": "2026-10-11T18:42:30.967Z"
         }
       ]
     },
