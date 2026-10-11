@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-02T18:08:23.805Z",
+  "updatedAt": "2026-10-11T18:36:01.369Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -23,6 +24,26 @@
           "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.c",
           "sha": "543c057b5ab6077d341480490843b1c0f248f5fe",
           "lastSyncedAt": "2026-09-24T18:08:51.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2778-sum-of-squares-of-special-elements.java",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
+          "sha": "0612020acb0c3b080abd7a64001c817b19fbfcad",
+          "lastSyncedAt": "2026-10-11T18:36:01.369Z"
         }
       ]
     },
