@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-07T18:24:52.283Z",
+  "updatedAt": "2026-10-11T18:40:31.559Z",
   "problems": [
     {
       "frontendId": "301",
@@ -22,7 +23,7 @@
           "filename": "0301-remove-invalid-parentheses.java",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
           "sha": "cc152781a41759719a70b03d9bde74e2f935880e",
-          "lastSyncedAt": "2026-10-07T18:24:52.283Z"
+          "lastSyncedAt": "2026-10-11T18:40:31.559Z"
         }
       ]
     },
