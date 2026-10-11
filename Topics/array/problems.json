@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T19:01:53.355Z",
+  "updatedAt": "2026-10-11T19:02:01.532Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4579,7 +4579,7 @@
           "filename": "3740-minimum-distance-between-three-equal-elements-i.c",
           "path": "3740-minimum-distance-between-three-equal-elements-i/3740-minimum-distance-between-three-equal-elements-i.c",
           "sha": "5f19dc0b53675ea98d8f7c375e1f6e07c0f3b4f4",
-          "lastSyncedAt": "2026-09-28T08:12:28.437Z"
+          "lastSyncedAt": "2026-10-11T19:02:01.532Z"
         }
       ]
     },
