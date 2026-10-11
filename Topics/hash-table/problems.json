@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T18:57:15.157Z",
+  "updatedAt": "2026-10-11T18:58:10.831Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1571,7 +1571,7 @@
           "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
           "sha": "abba2d27db533ad7ed4d5925926f6ae2bd009a4b",
-          "lastSyncedAt": "2026-09-28T08:05:02.821Z"
+          "lastSyncedAt": "2026-10-11T18:58:10.831Z"
         }
       ]
     },
