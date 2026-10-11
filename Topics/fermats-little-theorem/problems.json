@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "fermats-little-theorem",
-    "name": "Fermat's Little Theorem"
+    "name": "Fermat's Little Theorem",
+    "tagId": "93288"
   },
-  "updatedAt": "2026-09-28T08:20:58.861Z",
+  "updatedAt": "2026-10-11T19:05:08.854Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -22,7 +23,7 @@
           "filename": "1622-fancy-sequence.c",
           "path": "1622-fancy-sequence/1622-fancy-sequence.c",
           "sha": "e696cf1635a261b19d9cb6dc67665400f8d87dc9",
-          "lastSyncedAt": "2026-09-28T08:20:58.861Z"
+          "lastSyncedAt": "2026-10-11T19:05:08.854Z"
         }
       ]
     }
