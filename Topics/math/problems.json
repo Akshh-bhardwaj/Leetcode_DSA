@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-02T18:14:03.432Z",
+  "updatedAt": "2026-10-11T18:42:35.998Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1498,7 +1499,7 @@
           "filename": "4061-minimum-queen-moves-to-reach-target.java",
           "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.java",
           "sha": "6e75cff3d8e0c5e5de1a8e12f0db8adf58b8625d",
-          "lastSyncedAt": "2026-10-02T18:02:35.362Z"
+          "lastSyncedAt": "2026-10-11T18:42:35.998Z"
         }
       ]
     }
