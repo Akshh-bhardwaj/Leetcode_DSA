@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-11T18:55:26.700Z",
+  "updatedAt": "2026-10-11T18:56:04.400Z",
   "problems": [
     {
       "frontendId": "14",
@@ -83,7 +83,7 @@
           "filename": "3043-find-the-length-of-the-longest-common-prefix.c",
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.c",
           "sha": "705ccadedb98db55f96f43a8679c054721fd92f2",
-          "lastSyncedAt": "2026-09-28T08:02:50.706Z"
+          "lastSyncedAt": "2026-10-11T18:56:04.400Z"
         }
       ]
     },
