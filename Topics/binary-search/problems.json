@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T19:01:14.203Z",
+  "updatedAt": "2026-10-11T19:01:33.404Z",
   "problems": [
     {
       "frontendId": "4",
@@ -559,7 +559,7 @@
           "filename": "3488-closest-equal-element-queries.c",
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
           "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
-          "lastSyncedAt": "2026-09-28T08:11:17.767Z"
+          "lastSyncedAt": "2026-10-11T19:01:33.404Z"
         }
       ]
     },
