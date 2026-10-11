@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T18:56:59.523Z",
+  "updatedAt": "2026-10-11T18:57:15.157Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1851,7 +1851,7 @@
           "filename": "1674-minimum-moves-to-make-array-complementary.c",
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.c",
           "sha": "0d1fcf7f64b43105a6ee35634bd50c67fc52a9c5",
-          "lastSyncedAt": "2026-09-28T08:04:08.222Z"
+          "lastSyncedAt": "2026-10-11T18:57:15.157Z"
         }
       ]
     },
