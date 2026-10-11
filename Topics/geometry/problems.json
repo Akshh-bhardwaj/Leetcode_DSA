@@ -5,7 +5,7 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-10-11T18:45:45.854Z",
+  "updatedAt": "2026-10-11T18:46:49.854Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,7 +23,7 @@
           "filename": "0836-rectangle-overlap.java",
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.java",
           "sha": "eb5b6710584094be3aa372df06d982e9ff9fa3c3",
-          "lastSyncedAt": "2026-10-02T18:08:00.856Z"
+          "lastSyncedAt": "2026-10-11T18:46:49.854Z"
         }
       ]
     },
