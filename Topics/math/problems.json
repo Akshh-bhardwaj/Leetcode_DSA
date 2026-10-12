@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-12T08:32:53.391Z",
+  "updatedAt": "2026-10-12T08:33:43.170Z",
   "problems": [
     {
       "frontendId": "2",
@@ -343,7 +343,7 @@
           "filename": "0836-rectangle-overlap.java",
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.java",
           "sha": "eb5b6710584094be3aa372df06d982e9ff9fa3c3",
-          "lastSyncedAt": "2026-10-12T08:22:01.094Z"
+          "lastSyncedAt": "2026-10-12T08:33:43.170Z"
         }
       ]
     },
