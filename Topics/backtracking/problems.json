@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-12T08:52:31.861Z",
+  "updatedAt": "2026-10-12T08:55:09.549Z",
   "problems": [
     {
       "frontendId": "22",
@@ -71,7 +71,7 @@
           "filename": "0401-binary-watch.c",
           "path": "0401-binary-watch/0401-binary-watch.c",
           "sha": "287e809550314757e3a5a9906074d2d10457dccf",
-          "lastSyncedAt": "2026-09-24T18:56:39.229Z"
+          "lastSyncedAt": "2026-10-12T08:55:09.549Z"
         }
       ]
     },
