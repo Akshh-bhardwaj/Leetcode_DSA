@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T08:38:42.552Z",
+  "updatedAt": "2026-10-12T08:38:45.995Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "0033-search-in-rotated-sorted-array.c",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.c",
           "sha": "c74fe0f5d9ba996a32f9c4c83a69749e9a505d6a",
-          "lastSyncedAt": "2026-10-11T18:55:59.683Z"
+          "lastSyncedAt": "2026-10-12T08:38:45.995Z"
         },
         {
           "language": "Java",
