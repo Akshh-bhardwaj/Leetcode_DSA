@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-12T08:41:44.955Z",
+  "updatedAt": "2026-10-12T08:52:43.543Z",
   "problems": [
     {
       "frontendId": "3",
@@ -191,7 +191,7 @@
           "filename": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "sha": "c2eddafba3a6c61652d59323338eb695b629e89b",
-          "lastSyncedAt": "2026-10-11T19:06:02.129Z"
+          "lastSyncedAt": "2026-10-12T08:52:43.543Z"
         }
       ]
     },
