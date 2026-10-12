@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T08:49:51.175Z",
+  "updatedAt": "2026-10-12T08:50:00.704Z",
   "problems": [
     {
       "frontendId": "303",
@@ -379,7 +379,7 @@
           "filename": "2906-construct-product-matrix.c",
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.c",
           "sha": "5aa7dc370fbb6ffacbc998ca89c6faf8954ecb9f",
-          "lastSyncedAt": "2026-10-11T19:04:02.876Z"
+          "lastSyncedAt": "2026-10-12T08:50:00.704Z"
         }
       ]
     },
