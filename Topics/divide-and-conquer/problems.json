@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-12T08:26:25.285Z",
+  "updatedAt": "2026-10-12T08:35:31.606Z",
   "problems": [
     {
       "frontendId": "4",
@@ -83,7 +83,7 @@
           "filename": "0215-kth-largest-element-in-an-array.java",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
-          "lastSyncedAt": "2026-10-12T08:23:36.636Z"
+          "lastSyncedAt": "2026-10-12T08:35:31.606Z"
         }
       ]
     },
