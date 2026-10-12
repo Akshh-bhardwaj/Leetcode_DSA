@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-12T08:34:43.056Z",
+  "updatedAt": "2026-10-12T08:54:09.786Z",
   "problems": [
     {
       "frontendId": "110",
@@ -63,7 +63,7 @@
           "filename": "1022-sum-of-root-to-leaf-binary-numbers.c",
           "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.c",
           "sha": "ae093b5a3475d22bc00f6c86add0145e6d9b3e97",
-          "lastSyncedAt": "2026-10-11T19:07:08.793Z"
+          "lastSyncedAt": "2026-10-12T08:54:09.786Z"
         }
       ]
     },
