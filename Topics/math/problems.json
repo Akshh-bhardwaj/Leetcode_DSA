@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-12T08:24:57.424Z",
+  "updatedAt": "2026-10-12T08:25:10.635Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,7 +143,7 @@
           "filename": "0050-powx-n.java",
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "c400ff4691ce4e8c6369b01b89029a9d207b53bb",
-          "lastSyncedAt": "2026-10-11T18:48:44.832Z"
+          "lastSyncedAt": "2026-10-12T08:25:10.635Z"
         }
       ]
     },
