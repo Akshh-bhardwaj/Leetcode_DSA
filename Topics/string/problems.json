@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T08:28:37.792Z",
+  "updatedAt": "2026-10-12T08:28:44.547Z",
   "problems": [
     {
       "frontendId": "3",
@@ -619,7 +619,7 @@
           "filename": "0443-string-compression.java",
           "path": "0443-string-compression/0443-string-compression.java",
           "sha": "8947ac3db98d11c1a10fd9528476b401c7aef761",
-          "lastSyncedAt": "2026-10-12T08:17:06.692Z"
+          "lastSyncedAt": "2026-10-12T08:28:44.547Z"
         }
       ]
     },
