@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T08:36:43.232Z",
+  "updatedAt": "2026-10-12T08:37:55.987Z",
   "problems": [
     {
       "frontendId": "303",
@@ -203,7 +203,7 @@
           "filename": "1871-jump-game-vii.c",
           "path": "1871-jump-game-vii/1871-jump-game-vii.c",
           "sha": "a6444ab2654275ea45a96964cb37fdd19410652a",
-          "lastSyncedAt": "2026-10-11T18:55:42.654Z"
+          "lastSyncedAt": "2026-10-12T08:37:55.987Z"
         },
         {
           "language": "Java",
