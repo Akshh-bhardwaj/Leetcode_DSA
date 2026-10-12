@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-12T08:33:24.731Z",
+  "updatedAt": "2026-10-12T08:34:44.286Z",
   "problems": [
     {
       "frontendId": "5",
@@ -583,7 +583,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.c",
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
           "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
-          "lastSyncedAt": "2026-10-11T18:54:09.419Z"
+          "lastSyncedAt": "2026-10-12T08:34:44.286Z"
         }
       ]
     },
