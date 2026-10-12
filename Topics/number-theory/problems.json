@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-11T19:05:08.854Z",
+  "updatedAt": "2026-10-12T08:30:57.036Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -83,7 +83,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.java",
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
-          "lastSyncedAt": "2026-10-11T18:52:03.879Z"
+          "lastSyncedAt": "2026-10-12T08:30:57.036Z"
         }
       ]
     },
