@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-12T08:44:57.480Z",
+  "updatedAt": "2026-10-12T08:53:56.981Z",
   "problems": [
     {
       "frontendId": "383",
@@ -103,7 +103,7 @@
           "filename": "1356-sort-integers-by-the-number-of-1-bits.c",
           "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.c",
           "sha": "4846c151c4653e13eff9c4b3e3948a27ef4c12b6",
-          "lastSyncedAt": "2026-10-11T19:07:00.409Z"
+          "lastSyncedAt": "2026-10-12T08:53:56.981Z"
         }
       ]
     },
