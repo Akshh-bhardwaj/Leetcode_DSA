@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-12T08:57:23.617Z",
+  "updatedAt": "2026-10-12T08:58:29.588Z",
   "problems": [
     {
       "frontendId": "215",
@@ -303,7 +303,7 @@
           "filename": "3650-minimum-cost-path-with-edge-reversals.c",
           "path": "3650-minimum-cost-path-with-edge-reversals/3650-minimum-cost-path-with-edge-reversals.c",
           "sha": "07b5bd3b1f9abd3306941f80cda661889df15923",
-          "lastSyncedAt": "2026-09-24T18:59:38.646Z"
+          "lastSyncedAt": "2026-10-12T08:58:29.588Z"
         }
       ]
     },
