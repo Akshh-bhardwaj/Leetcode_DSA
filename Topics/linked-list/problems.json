@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-11T18:58:54.802Z",
+  "updatedAt": "2026-10-12T08:18:16.841Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0025-reverse-nodes-in-k-group.java",
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "26dc327e132e497514f981a535bd331c959db088",
-          "lastSyncedAt": "2026-10-11T18:44:49.566Z"
+          "lastSyncedAt": "2026-10-12T08:18:16.841Z"
         }
       ]
     },
