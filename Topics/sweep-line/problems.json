@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sweep-line",
-    "name": "Sweep Line"
+    "name": "Sweep Line",
+    "tagId": "56119"
   },
-  "updatedAt": "2026-09-24T18:01:12.896Z",
+  "updatedAt": "2026-10-12T09:01:24.729Z",
   "problems": [
     {
       "frontendId": "3454",
@@ -22,7 +23,7 @@
           "filename": "3454-separate-squares-ii.c",
           "path": "3454-separate-squares-ii/3454-separate-squares-ii.c",
           "sha": "ab2ca666fe20df95fa1c97c768953a164546abaa",
-          "lastSyncedAt": "2026-09-24T18:01:12.896Z"
+          "lastSyncedAt": "2026-10-12T09:01:24.729Z"
         }
       ]
     }
