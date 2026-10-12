@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-12T08:20:28.573Z",
+  "updatedAt": "2026-10-12T08:22:07.854Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1039,7 +1039,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.java",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
-          "lastSyncedAt": "2026-10-11T18:46:54.499Z"
+          "lastSyncedAt": "2026-10-12T08:22:07.854Z"
         }
       ]
     },
