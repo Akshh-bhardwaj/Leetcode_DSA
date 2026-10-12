@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T09:02:07.557Z",
+  "updatedAt": "2026-10-12T09:02:59.601Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1531,7 +1531,7 @@
           "filename": "1458-max-dot-product-of-two-subsequences.c",
           "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.c",
           "sha": "a5c3677242ff4c9e1bf7d853a3082733b555f880",
-          "lastSyncedAt": "2026-09-24T18:02:16.649Z"
+          "lastSyncedAt": "2026-10-12T09:02:59.601Z"
         }
       ]
     },
