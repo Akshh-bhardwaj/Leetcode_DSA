@@ -5,18 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 379 | 121 | 187 | 71 |
+| 382 | 124 | 187 | 71 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 14 days | 236 |
+| 1 days | 14 days | 238 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
-| 2026-09-19 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 2 |
 | 2026-09-23 | 1 |
@@ -29,28 +27,30 @@
 | 2026-10-04 | 2 |
 | 2026-10-06 | 1 |
 | 2026-10-07 | 2 |
+| 2026-10-08 | 1 |
+| 2026-10-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 231 | 61% |
-| String | 105 | 28% |
+| Array | 232 | 61% |
+| String | 106 | 28% |
 | Hash Table | 86 | 23% |
 | Math | 73 | 19% |
-| Dynamic Programming | 63 | 17% |
+| Dynamic Programming | 63 | 16% |
 | Sorting | 60 | 16% |
 | Greedy | 41 | 11% |
-| Matrix | 40 | 11% |
+| Matrix | 40 | 10% |
 | Prefix Sum | 36 | 9% |
-| Two Pointers | 34 | 9% |
+| Two Pointers | 35 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 241 |
+| [Array](Topics/array/) | 242 |
 | [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -59,7 +59,7 @@
 | [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 25 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 10 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 11 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -75,7 +75,7 @@
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 65 |
-| [Enumeration](Topics/enumeration/) | 10 |
+| [Enumeration](Topics/enumeration/) | 11 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -92,7 +92,7 @@
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Least Common Multiple](Topics/least-common-multiple/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -125,13 +125,13 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 105 |
+| [Stack](Topics/stack/) | 24 |
+| [String](Topics/string/) | 106 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 34 |
+| [Two Pointers](Topics/two-pointers/) | 35 |
 | [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
