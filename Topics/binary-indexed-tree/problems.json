@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-11T18:55:11.552Z",
+  "updatedAt": "2026-10-12T08:36:55.631Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -23,7 +23,7 @@
           "filename": "3161-block-placement-queries.c",
           "path": "3161-block-placement-queries/3161-block-placement-queries.c",
           "sha": "fb2e944e76a3c2923774f49f6d72818220f52e02",
-          "lastSyncedAt": "2026-10-11T18:55:11.552Z"
+          "lastSyncedAt": "2026-10-12T08:36:55.631Z"
         },
         {
           "language": "Java",
