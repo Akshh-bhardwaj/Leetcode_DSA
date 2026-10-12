@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-12T08:20:18.348Z",
+  "updatedAt": "2026-10-12T08:20:28.573Z",
   "problems": [
     {
       "frontendId": "5",
@@ -879,7 +879,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
-          "lastSyncedAt": "2026-10-11T18:46:17.754Z"
+          "lastSyncedAt": "2026-10-12T08:20:28.573Z"
         }
       ]
     },
