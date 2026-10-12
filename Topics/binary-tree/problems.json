@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-12T09:03:14.527Z",
+  "updatedAt": "2026-10-12T09:03:22.810Z",
   "problems": [
     {
       "frontendId": "110",
@@ -83,7 +83,7 @@
           "filename": "1161-maximum-level-sum-of-a-binary-tree.c",
           "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.c",
           "sha": "3605298bd3e3a3c4116f8ab007395ba757c34644",
-          "lastSyncedAt": "2026-09-24T18:02:31.728Z"
+          "lastSyncedAt": "2026-10-12T09:03:22.810Z"
         }
       ]
     },
