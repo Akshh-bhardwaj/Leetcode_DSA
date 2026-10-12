@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T08:45:17.301Z",
+  "updatedAt": "2026-10-12T08:45:28.790Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1871,7 +1871,7 @@
           "filename": "1722-minimize-hamming-distance-after-swap-operations.c",
           "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.c",
           "sha": "c3455776d414c49a0eb371a3e9bbd2dd8ea3f2f8",
-          "lastSyncedAt": "2026-10-11T19:01:00.825Z"
+          "lastSyncedAt": "2026-10-12T08:45:28.790Z"
         }
       ]
     },
