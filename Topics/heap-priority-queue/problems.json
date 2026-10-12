@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-12T08:32:46.938Z",
+  "updatedAt": "2026-10-12T08:33:17.047Z",
   "problems": [
     {
       "frontendId": "215",
@@ -83,7 +83,7 @@
           "filename": "0502-ipo.java",
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
-          "lastSyncedAt": "2026-10-12T08:21:19.321Z"
+          "lastSyncedAt": "2026-10-12T08:33:17.047Z"
         }
       ]
     },
