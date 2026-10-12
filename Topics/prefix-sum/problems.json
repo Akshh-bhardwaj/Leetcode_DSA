@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T08:56:08.433Z",
+  "updatedAt": "2026-10-12T09:00:20.518Z",
   "problems": [
     {
       "frontendId": "303",
@@ -63,7 +63,7 @@
           "filename": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
           "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.c",
           "sha": "c5796cfda792d9eede6841b486247c0ca0a0b34d",
-          "lastSyncedAt": "2026-09-24T19:00:56.604Z"
+          "lastSyncedAt": "2026-10-12T09:00:20.518Z"
         }
       ]
     },
