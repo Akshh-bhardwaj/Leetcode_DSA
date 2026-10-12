@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-12T08:34:43.056Z",
+  "updatedAt": "2026-10-12T08:40:24.664Z",
   "problems": [
     {
       "frontendId": "110",
@@ -123,7 +123,7 @@
           "filename": "1306-jump-game-iii.c",
           "path": "1306-jump-game-iii/1306-jump-game-iii.c",
           "sha": "38ccb599cc512ae7367b924f12bf8c05c093d1ca",
-          "lastSyncedAt": "2026-10-11T18:56:34.505Z"
+          "lastSyncedAt": "2026-10-12T08:40:24.664Z"
         }
       ]
     },
