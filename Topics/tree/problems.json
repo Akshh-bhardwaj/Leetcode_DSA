@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-12T08:33:46.242Z",
+  "updatedAt": "2026-10-12T08:34:06.584Z",
   "problems": [
     {
       "frontendId": "110",
@@ -203,7 +203,7 @@
           "filename": "3558-number-of-ways-to-assign-edge-weights-i.c",
           "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.c",
           "sha": "7b5cd323456138984fc55af6d473e71a7de551b4",
-          "lastSyncedAt": "2026-10-11T18:53:50.383Z"
+          "lastSyncedAt": "2026-10-12T08:34:06.584Z"
         }
       ]
     },
