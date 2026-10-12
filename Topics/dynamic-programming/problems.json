@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-12T08:49:03.284Z",
+  "updatedAt": "2026-10-12T08:50:09.021Z",
   "problems": [
     {
       "frontendId": "5",
@@ -651,7 +651,7 @@
           "filename": "1594-maximum-non-negative-product-in-a-matrix.c",
           "path": "1594-maximum-non-negative-product-in-a-matrix/1594-maximum-non-negative-product-in-a-matrix.c",
           "sha": "e2d075c2786f6326f5421828b83a9d76884662a7",
-          "lastSyncedAt": "2026-10-11T19:04:10.443Z"
+          "lastSyncedAt": "2026-10-12T08:50:09.021Z"
         }
       ]
     },
