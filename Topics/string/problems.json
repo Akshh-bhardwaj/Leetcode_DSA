@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T08:42:59.494Z",
+  "updatedAt": "2026-10-12T08:44:57.480Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1707,7 +1707,7 @@
           "filename": "2833-furthest-point-from-origin.c",
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.c",
           "sha": "4f7b70d810ebdee95e65b88f8755ea96f9339f14",
-          "lastSyncedAt": "2026-10-11T19:00:42.181Z"
+          "lastSyncedAt": "2026-10-12T08:44:57.480Z"
         }
       ]
     },
