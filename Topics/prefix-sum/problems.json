@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T08:51:14.132Z",
+  "updatedAt": "2026-10-12T08:52:18.957Z",
   "problems": [
     {
       "frontendId": "303",
@@ -439,7 +439,7 @@
           "filename": "3130-find-all-possible-stable-binary-arrays-ii.c",
           "path": "3130-find-all-possible-stable-binary-arrays-ii/3130-find-all-possible-stable-binary-arrays-ii.c",
           "sha": "502fe959a22429c32dba8fa6914b43c00e5a650d",
-          "lastSyncedAt": "2026-10-11T19:05:44.856Z"
+          "lastSyncedAt": "2026-10-12T08:52:18.957Z"
         }
       ]
     },
