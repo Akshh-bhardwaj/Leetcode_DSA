@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-12T08:26:17.350Z",
+  "updatedAt": "2026-10-12T08:26:18.370Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1499,7 +1499,7 @@
           "filename": "4061-minimum-queen-moves-to-reach-target.java",
           "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.java",
           "sha": "6e75cff3d8e0c5e5de1a8e12f0db8adf58b8625d",
-          "lastSyncedAt": "2026-10-12T08:14:51.028Z"
+          "lastSyncedAt": "2026-10-12T08:26:18.370Z"
         }
       ]
     }
