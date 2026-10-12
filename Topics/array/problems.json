@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T08:56:08.433Z",
+  "updatedAt": "2026-10-12T08:56:54.615Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4251,7 +4251,7 @@
           "filename": "3634-minimum-removals-to-balance-array.c",
           "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.c",
           "sha": "22cbbf166a806689d47c86d01e199b9b07c236e2",
-          "lastSyncedAt": "2026-09-24T18:58:12.577Z"
+          "lastSyncedAt": "2026-10-12T08:56:54.615Z"
         }
       ]
     },
