@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-12T08:51:30.572Z",
+  "updatedAt": "2026-10-12T08:55:54.984Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -171,7 +171,7 @@
           "filename": "3721-longest-balanced-subarray-ii.c",
           "path": "3721-longest-balanced-subarray-ii/3721-longest-balanced-subarray-ii.c",
           "sha": "f3770c8a223983c0fe25e1c011a5c540db71a471",
-          "lastSyncedAt": "2026-09-24T18:57:21.818Z"
+          "lastSyncedAt": "2026-10-12T08:55:54.984Z"
         }
       ]
     }
