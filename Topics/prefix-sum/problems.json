@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T19:05:44.856Z",
+  "updatedAt": "2026-10-12T08:13:14.847Z",
   "problems": [
     {
       "frontendId": "303",
@@ -23,7 +23,7 @@
           "filename": "0303-range-sum-query-immutable.java",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "28e160a785dc3351e1a975501953ae849fffe724",
-          "lastSyncedAt": "2026-10-11T18:41:35.873Z"
+          "lastSyncedAt": "2026-10-12T08:13:14.847Z"
         }
       ]
     },
