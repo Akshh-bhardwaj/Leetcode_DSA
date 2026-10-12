@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T08:22:16.463Z",
+  "updatedAt": "2026-10-12T08:22:22.654Z",
   "problems": [
     {
       "frontendId": "1",
@@ -891,7 +891,7 @@
           "filename": "0835-image-overlap.java",
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "4623e15ccf0442b9a01330d91cd3aca51c9085b3",
-          "lastSyncedAt": "2026-10-11T18:47:03.814Z"
+          "lastSyncedAt": "2026-10-12T08:22:22.654Z"
         }
       ]
     },
