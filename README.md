@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 382 | 124 | 187 | 71 |
+| 383 | 125 | 187 | 71 |
 
 ## Activity
 
@@ -28,7 +28,7 @@
 | 2026-10-06 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
-| 2026-10-12 | 2 |
+| 2026-10-12 | 3 |
 
 ## Top Tags
 
@@ -36,14 +36,14 @@
 | --- | ---: | ---: |
 | Array | 232 | 61% |
 | String | 106 | 28% |
-| Hash Table | 86 | 23% |
+| Hash Table | 87 | 23% |
 | Math | 73 | 19% |
 | Dynamic Programming | 63 | 16% |
 | Sorting | 60 | 16% |
 | Greedy | 41 | 11% |
 | Matrix | 40 | 10% |
 | Prefix Sum | 36 | 9% |
-| Two Pointers | 35 | 9% |
+| Two Pointers | 36 | 9% |
 
 ## Topics
 
@@ -78,7 +78,7 @@
 | [Enumeration](Topics/enumeration/) | 11 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Geometry](Topics/geometry/) | 7 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
@@ -86,13 +86,13 @@
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Greedy](Topics/greedy/) | 42 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 88 |
+| [Hash Table](Topics/hash-table/) | 89 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 16 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Least Common Multiple](Topics/least-common-multiple/) | 1 |
-| [Linked List](Topics/linked-list/) | 12 |
+| [Linked List](Topics/linked-list/) | 13 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -131,7 +131,7 @@
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 35 |
+| [Two Pointers](Topics/two-pointers/) | 36 |
 | [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
