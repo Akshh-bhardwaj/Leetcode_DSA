@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-12T08:20:38.928Z",
+  "updatedAt": "2026-10-12T08:22:23.823Z",
   "problems": [
     {
       "frontendId": "20",
@@ -223,7 +223,7 @@
           "filename": "1021-remove-outermost-parentheses.java",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
           "sha": "0ed1a09567833000bfd47098ee5018fd4838667a",
-          "lastSyncedAt": "2026-10-12T08:11:14.148Z"
+          "lastSyncedAt": "2026-10-12T08:22:23.823Z"
         }
       ]
     },
