@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T08:14:01.582Z",
+  "updatedAt": "2026-10-12T08:14:10.175Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1079,7 +1079,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.java",
           "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java",
           "sha": "4f04c52e98b6607f8cfc4e0dd78a03a4cd8e569e",
-          "lastSyncedAt": "2026-10-11T18:42:11.582Z"
+          "lastSyncedAt": "2026-10-12T08:14:10.175Z"
         }
       ]
     },
