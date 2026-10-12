@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-12T08:55:21.813Z",
+  "updatedAt": "2026-10-12T09:00:50.127Z",
   "problems": [
     {
       "frontendId": "2",
@@ -903,7 +903,7 @@
           "filename": "3047-find-the-largest-area-of-square-inside-two-rectangles.c",
           "path": "3047-find-the-largest-area-of-square-inside-two-rectangles/3047-find-the-largest-area-of-square-inside-two-rectangles.c",
           "sha": "6e5b18028fe6ecbd65d89f75c9e587215a1209b2",
-          "lastSyncedAt": "2026-09-24T19:01:15.374Z"
+          "lastSyncedAt": "2026-10-12T09:00:50.127Z"
         }
       ]
     },
