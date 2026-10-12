@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-12T08:53:56.981Z",
+  "updatedAt": "2026-10-12T08:55:43.232Z",
   "problems": [
     {
       "frontendId": "383",
@@ -203,7 +203,7 @@
           "filename": "3713-longest-balanced-substring-i.c",
           "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.c",
           "sha": "8e2ab9106dc7f1da0cb80952a9f729c2c8e6ce34",
-          "lastSyncedAt": "2026-09-24T18:57:12.621Z"
+          "lastSyncedAt": "2026-10-12T08:55:43.232Z"
         }
       ]
     }
