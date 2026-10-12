@@ -5,8 +5,28 @@
     "name": "Floyd's Cycle Finding Algorithm",
     "tagId": "122033"
   },
-  "updatedAt": "2026-10-12T08:35:11.028Z",
+  "updatedAt": "2026-10-12T08:54:08.050Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
+          "sha": "2d47e6c49efa2f791f523035df2643a286c1a8ed",
+          "lastSyncedAt": "2026-10-12T08:54:08.050Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",
