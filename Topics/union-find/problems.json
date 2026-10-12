@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-12T08:45:28.790Z",
+  "updatedAt": "2026-10-12T08:49:03.284Z",
   "problems": [
     {
       "frontendId": "547",
@@ -143,7 +143,7 @@
           "filename": "2573-find-the-string-with-lcp.c",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
-          "lastSyncedAt": "2026-10-11T19:03:22.029Z"
+          "lastSyncedAt": "2026-10-12T08:49:03.284Z"
         }
       ]
     },
