@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-12T08:53:28.374Z",
+  "updatedAt": "2026-10-12T08:53:48.926Z",
   "problems": [
     {
       "frontendId": "67",
@@ -123,7 +123,7 @@
           "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "sha": "b2f85d8c7faf93b35f4ad113f3355e7f93052f17",
-          "lastSyncedAt": "2026-10-11T19:06:53.861Z"
+          "lastSyncedAt": "2026-10-12T08:53:48.926Z"
         }
       ]
     },
