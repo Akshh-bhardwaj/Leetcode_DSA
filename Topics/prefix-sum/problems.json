@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T08:14:16.751Z",
+  "updatedAt": "2026-10-12T08:14:30.924Z",
   "problems": [
     {
       "frontendId": "303",
@@ -779,7 +779,7 @@
           "filename": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
           "path": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
           "sha": "53ed6f36abd71d4c3f032bc8d2bead6f3a80b16e",
-          "lastSyncedAt": "2026-10-11T18:42:24.652Z"
+          "lastSyncedAt": "2026-10-12T08:14:30.924Z"
         }
       ]
     },
