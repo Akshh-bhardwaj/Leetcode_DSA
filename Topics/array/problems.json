@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T08:58:36.497Z",
+  "updatedAt": "2026-10-12T08:58:43.867Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2311,7 +2311,7 @@
           "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
           "path": "1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.c",
           "sha": "4b6bd9b8996fa985e7c033efcb5191c7d2802dda",
-          "lastSyncedAt": "2026-09-24T18:59:51.167Z"
+          "lastSyncedAt": "2026-10-12T08:58:43.867Z"
         }
       ]
     },
