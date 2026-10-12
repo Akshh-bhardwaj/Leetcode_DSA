@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-11T19:06:43.608Z",
+  "updatedAt": "2026-10-12T08:44:05.634Z",
   "problems": [
     {
       "frontendId": "547",
@@ -43,7 +43,7 @@
           "filename": "1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
-          "lastSyncedAt": "2026-10-11T19:00:10.555Z"
+          "lastSyncedAt": "2026-10-12T08:44:05.634Z"
         }
       ]
     },
