@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "primality-test",
-    "name": "Primality Test"
+    "name": "Primality Test",
+    "tagId": "95392"
   },
-  "updatedAt": "2026-09-24T18:56:17.712Z",
+  "updatedAt": "2026-10-12T08:54:39.427Z",
   "problems": [
     {
       "frontendId": "762",
@@ -22,7 +23,7 @@
           "filename": "0762-prime-number-of-set-bits-in-binary-representation.c",
           "path": "0762-prime-number-of-set-bits-in-binary-representation/0762-prime-number-of-set-bits-in-binary-representation.c",
           "sha": "278f32fadeccf20c335e8de7ed88ea200f758a91",
-          "lastSyncedAt": "2026-09-24T18:56:17.712Z"
+          "lastSyncedAt": "2026-10-12T08:54:39.427Z"
         }
       ]
     }
