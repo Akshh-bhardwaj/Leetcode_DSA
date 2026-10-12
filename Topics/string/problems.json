@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T08:57:53.177Z",
+  "updatedAt": "2026-10-12T08:58:10.621Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1767,7 +1767,7 @@
           "filename": "2976-minimum-cost-to-convert-string-i.c",
           "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.c",
           "sha": "66aef85dc519193bbd4eb838ca21bad61729da8f",
-          "lastSyncedAt": "2026-09-24T18:59:21.595Z"
+          "lastSyncedAt": "2026-10-12T08:58:10.621Z"
         }
       ]
     },
