@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-12T08:53:56.981Z",
+  "updatedAt": "2026-10-12T08:54:48.563Z",
   "problems": [
     {
       "frontendId": "15",
@@ -283,7 +283,7 @@
           "filename": "0761-special-binary-string.c",
           "path": "0761-special-binary-string/0761-special-binary-string.c",
           "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
-          "lastSyncedAt": "2026-09-24T18:56:24.605Z"
+          "lastSyncedAt": "2026-10-12T08:54:48.563Z"
         }
       ]
     },
