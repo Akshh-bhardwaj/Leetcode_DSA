@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 383 | 125 | 187 | 71 |
+| 384 | 126 | 187 | 71 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 238 |
+| 1 days | 14 days | 239 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 2 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 18 |
@@ -29,12 +28,13 @@
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-12 | 3 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 232 | 61% |
+| Array | 232 | 60% |
 | String | 106 | 28% |
 | Hash Table | 87 | 23% |
 | Math | 73 | 19% |
@@ -42,8 +42,8 @@
 | Sorting | 60 | 16% |
 | Greedy | 41 | 11% |
 | Matrix | 40 | 10% |
+| Two Pointers | 37 | 10% |
 | Prefix Sum | 36 | 9% |
-| Two Pointers | 36 | 9% |
 
 ## Topics
 
@@ -92,7 +92,7 @@
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Least Common Multiple](Topics/least-common-multiple/) | 1 |
-| [Linked List](Topics/linked-list/) | 13 |
+| [Linked List](Topics/linked-list/) | 14 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -115,7 +115,7 @@
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 8 |
 | [Shortest Path](Topics/shortest-path/) | 3 |
@@ -125,13 +125,13 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 24 |
+| [Stack](Topics/stack/) | 25 |
 | [String](Topics/string/) | 106 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 36 |
+| [Two Pointers](Topics/two-pointers/) | 37 |
 | [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
