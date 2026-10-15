@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-12T09:02:07.557Z",
+  "updatedAt": "2026-10-15T06:10:17.230Z",
   "problems": [
     {
       "frontendId": "20",
@@ -104,6 +104,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c",
           "sha": "96cc999b437ee7a65da6b9266b8bfdcbdc37ce0c",
           "lastSyncedAt": "2026-09-24T18:06:28.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
+          "sha": "4e30e83dfc2adec19e542bf55bf1141ebb26afbe",
+          "lastSyncedAt": "2026-10-15T06:10:17.230Z"
         }
       ]
     },
