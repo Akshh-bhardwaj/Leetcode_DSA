@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 386 | 126 | 189 | 71 |
+| 387 | 127 | 189 | 71 |
 
 ## Activity
 
@@ -28,13 +28,13 @@
 | 2026-10-08 | 1 |
 | 2026-10-12 | 3 |
 | 2026-10-15 | 1 |
-| 2026-10-16 | 2 |
+| 2026-10-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 234 | 61% |
+| Array | 234 | 60% |
 | String | 106 | 27% |
 | Hash Table | 89 | 23% |
 | Math | 73 | 19% |
@@ -92,7 +92,7 @@
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Least Common Multiple](Topics/least-common-multiple/) | 1 |
-| [Linked List](Topics/linked-list/) | 14 |
+| [Linked List](Topics/linked-list/) | 15 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -115,7 +115,7 @@
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 7 |
+| [Recursion](Topics/recursion/) | 8 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 8 |
 | [Shortest Path](Topics/shortest-path/) | 3 |
