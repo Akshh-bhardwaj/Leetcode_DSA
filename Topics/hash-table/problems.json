@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-16T08:23:04.342Z",
+  "updatedAt": "2026-10-16T08:49:16.193Z",
   "problems": [
     {
       "frontendId": "1",
@@ -371,7 +371,7 @@
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "e77273650c649f21c2b3fe51f1a1b1a5424af0bb",
-          "lastSyncedAt": "2026-10-16T08:23:04.342Z"
+          "lastSyncedAt": "2026-10-16T08:49:16.193Z"
         }
       ]
     },
