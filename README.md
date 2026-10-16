@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 385 | 126 | 188 | 71 |
+| 386 | 126 | 189 | 71 |
 
 ## Activity
 
@@ -28,15 +28,15 @@
 | 2026-10-08 | 1 |
 | 2026-10-12 | 3 |
 | 2026-10-15 | 1 |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 233 | 61% |
-| String | 106 | 28% |
-| Hash Table | 88 | 23% |
+| Array | 234 | 61% |
+| String | 106 | 27% |
+| Hash Table | 89 | 23% |
 | Math | 73 | 19% |
 | Dynamic Programming | 63 | 16% |
 | Sorting | 60 | 16% |
@@ -50,7 +50,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 243 |
+| [Array](Topics/array/) | 244 |
 | [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -86,7 +86,7 @@
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Greedy](Topics/greedy/) | 42 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 90 |
+| [Hash Table](Topics/hash-table/) | 91 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 16 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -132,7 +132,7 @@
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 37 |
-| [Union-Find](Topics/union-find/) | 9 |
+| [Union-Find](Topics/union-find/) | 10 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
 <!---LeetHub Summary End-->
