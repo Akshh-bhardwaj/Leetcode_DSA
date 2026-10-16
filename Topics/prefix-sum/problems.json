@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T09:00:36.610Z",
+  "updatedAt": "2026-10-16T08:23:04.342Z",
   "problems": [
     {
       "frontendId": "303",
@@ -24,6 +24,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "28e160a785dc3351e1a975501953ae849fffe724",
           "lastSyncedAt": "2026-10-12T08:24:15.086Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0560-subarray-sum-equals-k.java",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
+          "sha": "e77273650c649f21c2b3fe51f1a1b1a5424af0bb",
+          "lastSyncedAt": "2026-10-16T08:23:04.342Z"
         }
       ]
     },
