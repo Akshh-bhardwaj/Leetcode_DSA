@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-16T10:27:47.967Z",
+  "updatedAt": "2026-10-16T10:46:37.147Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,14 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.c",
           "sha": "13e0ca650411d19d717917e1db399824701c7704",
           "lastSyncedAt": "2026-09-24T18:16:11.830Z"
+        },
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
+          "sha": "c2f6f954d9be6987a5bcd18992fe19343f231b3d",
+          "lastSyncedAt": "2026-10-16T10:46:37.147Z"
         }
       ]
     },
