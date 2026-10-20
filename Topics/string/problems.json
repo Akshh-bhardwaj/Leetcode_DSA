@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T17:10:34.627Z",
+  "updatedAt": "2026-10-20T17:10:45.781Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1119,7 +1119,7 @@
           "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c",
           "sha": "b2f85d8c7faf93b35f4ad113f3355e7f93052f17",
-          "lastSyncedAt": "2026-10-12T08:53:48.926Z"
+          "lastSyncedAt": "2026-10-20T17:10:45.781Z"
         }
       ]
     },
