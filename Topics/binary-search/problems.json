@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-20T17:30:46.212Z",
+  "updatedAt": "2026-10-20T17:31:46.095Z",
   "problems": [
     {
       "frontendId": "4",
@@ -371,7 +371,7 @@
           "filename": "2106-maximum-fruits-harvested-after-at-most-k-steps.c",
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.c",
           "sha": "8d46341fe90169992106640b76b7032e319d0d4b",
-          "lastSyncedAt": "2026-09-24T18:16:29.947Z"
+          "lastSyncedAt": "2026-10-20T17:31:46.095Z"
         }
       ]
     },
