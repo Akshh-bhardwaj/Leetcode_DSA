@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-20T16:58:31.691Z",
+  "updatedAt": "2026-10-20T16:59:41.732Z",
   "problems": [
     {
       "frontendId": "301",
@@ -283,7 +283,7 @@
           "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.c",
           "sha": "abba2d27db533ad7ed4d5925926f6ae2bd009a4b",
-          "lastSyncedAt": "2026-10-12T08:42:06.067Z"
+          "lastSyncedAt": "2026-10-20T16:59:41.732Z"
         }
       ]
     },
