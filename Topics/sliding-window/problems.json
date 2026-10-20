@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-20T16:42:14.417Z",
+  "updatedAt": "2026-10-20T16:42:23.461Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,7 +63,7 @@
           "filename": "0438-find-all-anagrams-in-a-string.java",
           "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
           "sha": "40afd124472034b41f8ed0fca7ce6372627d30fa",
-          "lastSyncedAt": "2026-10-12T08:27:57.951Z"
+          "lastSyncedAt": "2026-10-20T16:42:23.461Z"
         }
       ]
     },
