@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T17:28:44.386Z",
+  "updatedAt": "2026-10-20T17:29:28.863Z",
   "problems": [
     {
       "frontendId": "3",
@@ -351,7 +351,7 @@
           "filename": "0166-fraction-to-recurring-decimal.c",
           "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.c",
           "sha": "a204501c021f5bfdd3ce5014fa860483ce1ff92e",
-          "lastSyncedAt": "2026-09-24T18:13:55.019Z"
+          "lastSyncedAt": "2026-10-20T17:29:28.863Z"
         }
       ]
     },
