@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T17:00:38.752Z",
+  "updatedAt": "2026-10-20T17:00:45.406Z",
   "problems": [
     {
       "frontendId": "2",
@@ -263,7 +263,7 @@
           "filename": "0396-rotate-function.c",
           "path": "0396-rotate-function/0396-rotate-function.c",
           "sha": "93d2eee5bd95b35343989e5b31220d79f141c869",
-          "lastSyncedAt": "2026-10-12T08:43:11.929Z"
+          "lastSyncedAt": "2026-10-20T17:00:45.406Z"
         }
       ]
     },
