@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-20T17:11:54.063Z",
+  "updatedAt": "2026-10-20T17:12:23.120Z",
   "problems": [
     {
       "frontendId": "4",
@@ -63,7 +63,7 @@
           "filename": "0190-reverse-bits.c",
           "path": "0190-reverse-bits/0190-reverse-bits.c",
           "sha": "98c236b5e6fb5209e1291964204a810494e633e7",
-          "lastSyncedAt": "2026-10-12T08:55:16.210Z"
+          "lastSyncedAt": "2026-10-20T17:12:23.120Z"
         }
       ]
     },
