@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-20T17:11:12.057Z",
+  "updatedAt": "2026-10-20T17:11:36.973Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,7 +183,7 @@
           "filename": "0868-binary-gap.c",
           "path": "0868-binary-gap/0868-binary-gap.c",
           "sha": "ecff925884b4e80085265af6e10de3e7ee485f4f",
-          "lastSyncedAt": "2026-10-12T08:54:36.295Z"
+          "lastSyncedAt": "2026-10-20T17:11:36.973Z"
         }
       ]
     },
