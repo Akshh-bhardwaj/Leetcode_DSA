@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T17:23:05.246Z",
+  "updatedAt": "2026-10-20T17:23:51.651Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1111,7 +1111,7 @@
           "filename": "3606-coupon-code-validator.c",
           "path": "3606-coupon-code-validator/3606-coupon-code-validator.c",
           "sha": "9cf8e8e813f685abb0af9dea124c583b80656f7e",
-          "lastSyncedAt": "2026-09-24T18:07:51.339Z"
+          "lastSyncedAt": "2026-10-20T17:23:51.651Z"
         }
       ]
     },
