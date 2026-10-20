@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-20T16:55:21.832Z",
+  "updatedAt": "2026-10-20T16:59:19.859Z",
   "problems": [
     {
       "frontendId": "67",
@@ -403,7 +403,7 @@
           "filename": "2553-separate-the-digits-in-an-array.c",
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.c",
           "sha": "fd08231ac38781c866056f58d80c9d281bc80f56",
-          "lastSyncedAt": "2026-10-12T08:41:37.137Z"
+          "lastSyncedAt": "2026-10-20T16:59:19.859Z"
         }
       ]
     },
