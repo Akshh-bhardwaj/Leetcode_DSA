@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:09:34.091Z",
+  "updatedAt": "2026-10-20T17:12:38.814Z",
   "problems": [
     {
       "frontendId": "5",
@@ -331,7 +331,7 @@
           "filename": "0799-champagne-tower.c",
           "path": "0799-champagne-tower/0799-champagne-tower.c",
           "sha": "dfb257b40c5f5afc9c6fa888c63d2f805be82c79",
-          "lastSyncedAt": "2026-10-12T08:55:30.343Z"
+          "lastSyncedAt": "2026-10-20T17:12:38.814Z"
         }
       ]
     },
