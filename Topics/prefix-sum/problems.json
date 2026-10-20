@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T17:09:17.715Z",
+  "updatedAt": "2026-10-20T17:12:42.818Z",
   "problems": [
     {
       "frontendId": "303",
@@ -679,7 +679,7 @@
           "filename": "3714-longest-balanced-substring-ii.c",
           "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.c",
           "sha": "c40f21d9dabb9bd7f686299db2f6f83882324c56",
-          "lastSyncedAt": "2026-10-12T08:55:33.710Z"
+          "lastSyncedAt": "2026-10-20T17:12:42.818Z"
         }
       ]
     },
