@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T16:56:27.183Z",
+  "updatedAt": "2026-10-20T16:56:35.250Z",
   "problems": [
     {
       "frontendId": "15",
@@ -683,7 +683,7 @@
           "filename": "2126-destroying-asteroids.c",
           "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
           "sha": "8036fee0a837906f256fc34992c155d13913602a",
-          "lastSyncedAt": "2026-10-12T08:36:43.232Z"
+          "lastSyncedAt": "2026-10-20T16:56:35.250Z"
         }
       ]
     },
