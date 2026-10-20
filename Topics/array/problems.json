@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:33:11.215Z",
+  "updatedAt": "2026-10-20T17:33:43.089Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,7 +43,7 @@
           "filename": "0004-median-of-two-sorted-arrays.c",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.c",
           "sha": "40bdfcbf4f5712c7a1e5dcf9c25b2e6039567137",
-          "lastSyncedAt": "2026-09-24T18:18:26.993Z"
+          "lastSyncedAt": "2026-10-20T17:33:43.089Z"
         }
       ]
     },
