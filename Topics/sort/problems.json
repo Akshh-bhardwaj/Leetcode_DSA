@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sort",
-    "name": "Sort"
+    "name": "Sort",
+    "tagId": "18"
   },
-  "updatedAt": "2026-09-24T18:16:39.956Z",
+  "updatedAt": "2026-10-20T17:31:56.603Z",
   "problems": [
     {
       "frontendId": "2561",
@@ -22,7 +23,7 @@
           "filename": "2561-rearranging-fruits.c",
           "path": "2561-rearranging-fruits/2561-rearranging-fruits.c",
           "sha": "81300fcd0e81ac5f4c3c167e9205f0fa37053905",
-          "lastSyncedAt": "2026-09-24T18:16:39.956Z"
+          "lastSyncedAt": "2026-10-20T17:31:56.603Z"
         }
       ]
     }
