@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T16:41:54.315Z",
+  "updatedAt": "2026-10-20T16:42:03.540Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1231,7 +1231,7 @@
           "filename": "4056-number-of-intersecting-interval-pairs-i.java",
           "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.java",
           "sha": "b0bf62aafaa90bc8e38abd3c1470c8220e999319",
-          "lastSyncedAt": "2026-10-12T08:27:31.602Z"
+          "lastSyncedAt": "2026-10-20T16:42:03.540Z"
         }
       ]
     },
