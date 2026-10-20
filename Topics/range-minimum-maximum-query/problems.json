@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "range-minimum-maximum-query",
-    "name": "Range Minimum/Maximum Query"
+    "name": "Range Minimum/Maximum Query",
+    "tagId": "122086"
   },
-  "updatedAt": "2026-09-24T18:05:58.587Z",
+  "updatedAt": "2026-10-20T17:21:56.315Z",
   "problems": [
     {
       "frontendId": "84",
@@ -22,7 +23,7 @@
           "filename": "0084-largest-rectangle-in-histogram.c",
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.c",
           "sha": "cce4a99cb402bb491cb91a84538c16c5132a3aed",
-          "lastSyncedAt": "2026-09-24T18:05:58.587Z"
+          "lastSyncedAt": "2026-10-20T17:21:56.315Z"
         }
       ]
     }
