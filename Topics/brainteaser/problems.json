@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-20T17:24:22.282Z",
+  "updatedAt": "2026-10-20T17:30:24.547Z",
   "problems": [
     {
       "frontendId": "2419",
@@ -43,7 +43,7 @@
           "filename": "3227-vowels-game-in-a-string.c",
           "path": "3227-vowels-game-in-a-string/3227-vowels-game-in-a-string.c",
           "sha": "595bedbc0bfb1737b44df3cd5ae4cea338006ab2",
-          "lastSyncedAt": "2026-09-24T18:14:45.325Z"
+          "lastSyncedAt": "2026-10-20T17:30:24.547Z"
         }
       ]
     },
