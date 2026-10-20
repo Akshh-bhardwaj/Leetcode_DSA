@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:31:46.095Z",
+  "updatedAt": "2026-10-20T17:31:56.603Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2867,7 +2867,7 @@
           "filename": "2561-rearranging-fruits.c",
           "path": "2561-rearranging-fruits/2561-rearranging-fruits.c",
           "sha": "81300fcd0e81ac5f4c3c167e9205f0fa37053905",
-          "lastSyncedAt": "2026-09-24T18:16:39.956Z"
+          "lastSyncedAt": "2026-10-20T17:31:56.603Z"
         }
       ]
     },
