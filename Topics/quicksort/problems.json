@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-10-20T17:29:06.719Z",
+  "updatedAt": "2026-10-20T17:30:55.996Z",
   "problems": [
     {
       "frontendId": "976",
@@ -43,7 +43,7 @@
           "filename": "1122-relative-sort-array.c",
           "path": "1122-relative-sort-array/1122-relative-sort-array.c",
           "sha": "0d394312bc613c713260b5b187301209876e2c62",
-          "lastSyncedAt": "2026-09-24T18:15:18.118Z"
+          "lastSyncedAt": "2026-10-20T17:30:55.996Z"
         }
       ]
     }
