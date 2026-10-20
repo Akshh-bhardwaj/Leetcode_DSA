@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:04:38.907Z",
+  "updatedAt": "2026-10-20T17:04:46.875Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2995,7 +2995,7 @@
           "filename": "2751-robot-collisions.c",
           "path": "2751-robot-collisions/2751-robot-collisions.c",
           "sha": "297389755392144fc6e78aca055530e73ee24b3e",
-          "lastSyncedAt": "2026-10-12T08:48:28.507Z"
+          "lastSyncedAt": "2026-10-20T17:04:46.875Z"
         }
       ]
     },
