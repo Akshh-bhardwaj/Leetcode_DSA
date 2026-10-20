@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:41:02.671Z",
+  "updatedAt": "2026-10-20T16:41:09.114Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4879,7 +4879,7 @@
           "filename": "4061-minimum-queen-moves-to-reach-target.java",
           "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.java",
           "sha": "6e75cff3d8e0c5e5de1a8e12f0db8adf58b8625d",
-          "lastSyncedAt": "2026-10-12T08:26:18.370Z"
+          "lastSyncedAt": "2026-10-20T16:41:09.114Z"
         }
       ]
     },
