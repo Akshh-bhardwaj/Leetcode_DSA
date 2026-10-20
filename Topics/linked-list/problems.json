@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-20T16:37:20.223Z",
+  "updatedAt": "2026-10-20T16:37:55.688Z",
   "problems": [
     {
       "frontendId": "2",
@@ -171,7 +171,7 @@
           "filename": "0234-palindrome-linked-list.java",
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "4e30e83dfc2adec19e542bf55bf1141ebb26afbe",
-          "lastSyncedAt": "2026-10-15T06:10:17.230Z"
+          "lastSyncedAt": "2026-10-20T16:37:55.688Z"
         }
       ]
     },
