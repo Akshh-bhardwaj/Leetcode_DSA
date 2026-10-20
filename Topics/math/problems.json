@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T16:46:24.865Z",
+  "updatedAt": "2026-10-20T16:46:58.450Z",
   "problems": [
     {
       "frontendId": "2",
@@ -1419,7 +1419,7 @@
           "filename": "3870-count-commas-in-range.java",
           "path": "3870-count-commas-in-range/3870-count-commas-in-range.java",
           "sha": "93e5668cfedd425cb27c176aeb4cc93a044fef99",
-          "lastSyncedAt": "2026-10-12T08:34:31.691Z"
+          "lastSyncedAt": "2026-10-20T16:46:58.450Z"
         }
       ]
     },
