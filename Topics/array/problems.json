@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:59:19.859Z",
+  "updatedAt": "2026-10-20T16:59:25.981Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3015,7 +3015,7 @@
           "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.c",
           "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.c",
           "sha": "b6fa7a7b64b54449acfd9e03d189d0d95c80ce23",
-          "lastSyncedAt": "2026-10-12T08:41:44.712Z"
+          "lastSyncedAt": "2026-10-20T16:59:25.981Z"
         }
       ]
     },
