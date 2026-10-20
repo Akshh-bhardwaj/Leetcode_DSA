@@ -1,0 +1,10 @@
+ListNode temp=head;
+  int c=0;         while(temp.next!=null){
+ c++; 
+ temp=temp.next;
+         }
+         ListNode t=head;
+         for(int x=1;x<=(c/2);x++){
+             t=t.next;
+         }
+         return t;
