@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-20T17:13:01.250Z",
+  "updatedAt": "2026-10-20T17:13:14.302Z",
   "problems": [
     {
       "frontendId": "4",
@@ -183,7 +183,7 @@
           "filename": "3719-longest-balanced-subarray-i.c",
           "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.c",
           "sha": "774c7813ecbbf727faf5331d190f87791189bd41",
-          "lastSyncedAt": "2026-10-12T08:56:08.433Z"
+          "lastSyncedAt": "2026-10-20T17:13:14.302Z"
         }
       ]
     },
