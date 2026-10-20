@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T17:05:06.005Z",
+  "updatedAt": "2026-10-20T17:06:56.663Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1091,7 +1091,7 @@
           "filename": "3567-minimum-absolute-difference-in-sliding-submatrix.c",
           "path": "3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.c",
           "sha": "57c38e329735bc236c9fb3b24fc6cc88c79e265f",
-          "lastSyncedAt": "2026-10-12T08:50:34.323Z"
+          "lastSyncedAt": "2026-10-20T17:06:56.663Z"
         }
       ]
     },
