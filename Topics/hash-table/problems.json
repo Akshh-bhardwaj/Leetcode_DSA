@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-20T16:58:12.319Z",
+  "updatedAt": "2026-10-20T16:58:23.172Z",
   "problems": [
     {
       "frontendId": "1",
@@ -671,7 +671,7 @@
           "filename": "1345-jump-game-iv.c",
           "path": "1345-jump-game-iv/1345-jump-game-iv.c",
           "sha": "306fd5f5462554ad1dfe484f212ede2596b157c2",
-          "lastSyncedAt": "2026-10-12T08:40:00.801Z"
+          "lastSyncedAt": "2026-10-20T16:58:23.172Z"
         }
       ]
     },
