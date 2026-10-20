@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-20T17:10:34.627Z",
+  "updatedAt": "2026-10-20T17:18:09.727Z",
   "problems": [
     {
       "frontendId": "301",
@@ -63,7 +63,7 @@
           "filename": "0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "sha": "9cf2e83a3953a0b5dde754c3208b9a6e0b347fae",
-          "lastSyncedAt": "2026-10-12T09:02:33.209Z"
+          "lastSyncedAt": "2026-10-20T17:18:09.727Z"
         }
       ]
     },
