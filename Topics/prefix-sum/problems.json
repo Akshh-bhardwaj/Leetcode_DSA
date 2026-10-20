@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T16:40:53.195Z",
+  "updatedAt": "2026-10-20T16:41:46.291Z",
   "problems": [
     {
       "frontendId": "303",
@@ -779,7 +779,7 @@
           "filename": "4058-maximum-pulse-value-after-one-subarray-rotation.java",
           "path": "4058-maximum-pulse-value-after-one-subarray-rotation/4058-maximum-pulse-value-after-one-subarray-rotation.java",
           "sha": "c63bde2220d2d30485461685bcc4fb07c4e89873",
-          "lastSyncedAt": "2026-10-12T08:27:09.273Z"
+          "lastSyncedAt": "2026-10-20T16:41:46.291Z"
         }
       ]
     },
