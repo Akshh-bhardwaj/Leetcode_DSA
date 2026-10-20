@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T17:05:15.654Z",
+  "updatedAt": "2026-10-20T17:05:18.945Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1667,7 +1667,7 @@
           "filename": "2573-find-the-string-with-lcp.c",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.c",
           "sha": "8899d019c3ed267d63829dc60282faebc99b415f",
-          "lastSyncedAt": "2026-10-12T08:49:03.284Z"
+          "lastSyncedAt": "2026-10-20T17:05:18.945Z"
         }
       ]
     },
