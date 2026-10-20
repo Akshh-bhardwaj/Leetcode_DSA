@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:29:06.719Z",
+  "updatedAt": "2026-10-20T17:29:22.183Z",
   "problems": [
     {
       "frontendId": "1",
@@ -431,7 +431,7 @@
           "filename": "0120-triangle.c",
           "path": "0120-triangle/0120-triangle.c",
           "sha": "13f5645258c3dc49276dccd236958a993d09464f",
-          "lastSyncedAt": "2026-09-24T18:13:47.727Z"
+          "lastSyncedAt": "2026-10-20T17:29:22.183Z"
         }
       ]
     },
