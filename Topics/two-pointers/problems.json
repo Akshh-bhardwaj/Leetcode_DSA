@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-20T16:55:21.832Z",
+  "updatedAt": "2026-10-20T16:55:59.013Z",
   "problems": [
     {
       "frontendId": "5",
@@ -723,7 +723,7 @@
           "filename": "3635-earliest-finish-time-for-land-and-water-rides-ii.c",
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.c",
           "sha": "885f1aea3b6a73723d87dc1695c1fb580d99f5b8",
-          "lastSyncedAt": "2026-10-12T08:35:43.895Z"
+          "lastSyncedAt": "2026-10-20T16:55:59.013Z"
         },
         {
           "language": "Java",
