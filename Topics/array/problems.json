@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:47:58.728Z",
+  "updatedAt": "2026-10-20T16:48:13.496Z",
   "problems": [
     {
       "frontendId": "1",
@@ -591,7 +591,7 @@
           "filename": "0283-move-zeroes.java",
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "39efa466155189f887558191cae53ce35969e964",
-          "lastSyncedAt": "2026-10-12T08:36:11.010Z"
+          "lastSyncedAt": "2026-10-20T16:48:13.496Z"
         }
       ]
     },
