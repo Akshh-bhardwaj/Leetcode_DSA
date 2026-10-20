@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:22:21.875Z",
+  "updatedAt": "2026-10-20T17:22:27.609Z",
   "problems": [
     {
       "frontendId": "1",
@@ -491,7 +491,7 @@
           "filename": "0150-evaluate-reverse-polish-notation.c",
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c",
           "sha": "96cc999b437ee7a65da6b9266b8bfdcbdc37ce0c",
-          "lastSyncedAt": "2026-09-24T18:06:28.892Z"
+          "lastSyncedAt": "2026-10-20T17:22:27.609Z"
         }
       ]
     },
