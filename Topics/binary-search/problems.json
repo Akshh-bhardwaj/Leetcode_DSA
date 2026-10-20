@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-20T16:44:25.381Z",
+  "updatedAt": "2026-10-20T16:45:19.793Z",
   "problems": [
     {
       "frontendId": "4",
@@ -251,7 +251,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "f3a6bda93bbc5228f65b50958e0a102658e111dc",
-          "lastSyncedAt": "2026-10-12T08:32:03.369Z"
+          "lastSyncedAt": "2026-10-20T16:45:19.793Z"
         }
       ]
     },
