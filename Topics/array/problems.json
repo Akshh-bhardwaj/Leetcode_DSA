@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:46:16.781Z",
+  "updatedAt": "2026-10-20T16:46:30.871Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3671,7 +3671,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.java",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "258448d61f71f21508ffe82dfd7f9276759adc72",
-          "lastSyncedAt": "2026-10-12T08:33:53.035Z"
+          "lastSyncedAt": "2026-10-20T16:46:30.871Z"
         }
       ]
     },
