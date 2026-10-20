@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T17:07:14.788Z",
+  "updatedAt": "2026-10-20T17:07:42.909Z",
   "problems": [
     {
       "frontendId": "303",
@@ -251,7 +251,7 @@
           "filename": "1878-get-biggest-three-rhombus-sums-in-a-grid.c",
           "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.c",
           "sha": "01daefeed9a9d3b073a7ae0483ef973243bb0969",
-          "lastSyncedAt": "2026-10-12T08:51:14.132Z"
+          "lastSyncedAt": "2026-10-20T17:07:42.909Z"
         }
       ]
     },
