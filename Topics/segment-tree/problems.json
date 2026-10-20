@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-20T17:13:14.302Z",
+  "updatedAt": "2026-10-20T17:17:25.063Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -91,7 +91,7 @@
           "filename": "3454-separate-squares-ii.c",
           "path": "3454-separate-squares-ii/3454-separate-squares-ii.c",
           "sha": "ab2ca666fe20df95fa1c97c768953a164546abaa",
-          "lastSyncedAt": "2026-10-12T09:01:24.729Z"
+          "lastSyncedAt": "2026-10-20T17:17:25.063Z"
         }
       ]
     },
