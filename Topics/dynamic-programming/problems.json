@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:09:17.715Z",
+  "updatedAt": "2026-10-20T17:09:34.091Z",
   "problems": [
     {
       "frontendId": "5",
@@ -739,7 +739,7 @@
           "filename": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.c",
           "sha": "c2eddafba3a6c61652d59323338eb695b629e89b",
-          "lastSyncedAt": "2026-10-12T08:52:43.543Z"
+          "lastSyncedAt": "2026-10-20T17:09:34.091Z"
         }
       ]
     },
