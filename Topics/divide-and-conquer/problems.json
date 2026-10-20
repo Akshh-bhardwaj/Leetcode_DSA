@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-20T17:13:14.302Z",
+  "updatedAt": "2026-10-20T17:13:29.445Z",
   "problems": [
     {
       "frontendId": "4",
@@ -123,7 +123,7 @@
           "filename": "1382-balance-a-binary-search-tree.c",
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.c",
           "sha": "673140aa177b01acb071a6509ea1217e628b6126",
-          "lastSyncedAt": "2026-10-12T08:56:21.632Z"
+          "lastSyncedAt": "2026-10-20T17:13:29.445Z"
         }
       ]
     },
