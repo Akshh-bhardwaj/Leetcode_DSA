@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:21:38.171Z",
+  "updatedAt": "2026-10-20T17:21:46.473Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4111,7 +4111,7 @@
           "filename": "3573-best-time-to-buy-and-sell-stock-v.c",
           "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.c",
           "sha": "ad0c4f1e4bf532615cfbc7b7744d63d171acc181",
-          "lastSyncedAt": "2026-09-24T18:05:48.486Z"
+          "lastSyncedAt": "2026-10-20T17:21:46.473Z"
         }
       ]
     },
