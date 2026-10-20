@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-20T17:20:06.386Z",
+  "updatedAt": "2026-10-20T17:22:37.392Z",
   "problems": [
     {
       "frontendId": "67",
@@ -143,7 +143,7 @@
           "filename": "1441-build-an-array-with-stack-operations.c",
           "path": "1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.c",
           "sha": "5c093ba87bcd6dfe2c9321b30b68eeaab4d0ff6e",
-          "lastSyncedAt": "2026-09-24T18:06:36.424Z"
+          "lastSyncedAt": "2026-10-20T17:22:37.392Z"
         }
       ]
     },
