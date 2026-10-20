@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T16:57:54.661Z",
+  "updatedAt": "2026-10-20T17:00:32.680Z",
   "problems": [
     {
       "frontendId": "3",
@@ -839,7 +839,7 @@
           "filename": "0796-rotate-string.c",
           "path": "0796-rotate-string/0796-rotate-string.c",
           "sha": "1525456d4b34ab23d3adf36191fa72c889cd5624",
-          "lastSyncedAt": "2026-10-12T08:42:59.494Z"
+          "lastSyncedAt": "2026-10-20T17:00:32.680Z"
         }
       ]
     },
