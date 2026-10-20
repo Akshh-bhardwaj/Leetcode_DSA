@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T17:07:05.976Z",
+  "updatedAt": "2026-10-20T17:07:14.788Z",
   "problems": [
     {
       "frontendId": "303",
@@ -419,7 +419,7 @@
           "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.c",
           "sha": "0116508c9ee06a55e3572299082d3f3fa1427de0",
-          "lastSyncedAt": "2026-10-12T08:50:54.153Z"
+          "lastSyncedAt": "2026-10-20T17:07:14.788Z"
         }
       ]
     },
