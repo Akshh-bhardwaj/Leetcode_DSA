@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:24:32.885Z",
+  "updatedAt": "2026-10-20T17:24:49.848Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4151,7 +4151,7 @@
           "filename": "3578-count-partitions-with-max-min-difference-at-most-k.c",
           "path": "3578-count-partitions-with-max-min-difference-at-most-k/3578-count-partitions-with-max-min-difference-at-most-k.c",
           "sha": "fa199e9fc25b3659136afdfa0c17ad46eb91fe9d",
-          "lastSyncedAt": "2026-09-24T18:09:01.175Z"
+          "lastSyncedAt": "2026-10-20T17:24:49.848Z"
         }
       ]
     },
