@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T16:49:25.836Z",
+  "updatedAt": "2026-10-20T16:51:52.650Z",
   "problems": [
     {
       "frontendId": "15",
@@ -931,7 +931,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
-          "lastSyncedAt": "2026-10-12T08:29:42.612Z"
+          "lastSyncedAt": "2026-10-20T16:51:52.650Z"
         }
       ]
     },
