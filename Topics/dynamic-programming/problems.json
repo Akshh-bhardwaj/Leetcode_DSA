@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:30:52.768Z",
+  "updatedAt": "2026-10-20T17:32:06.527Z",
   "problems": [
     {
       "frontendId": "5",
@@ -151,7 +151,7 @@
           "filename": "0118-pascals-triangle.c",
           "path": "0118-pascals-triangle/0118-pascals-triangle.c",
           "sha": "1b97262f4f80b54e6cb7efe792b4ca961dd6f7a7",
-          "lastSyncedAt": "2026-09-24T18:16:52.336Z"
+          "lastSyncedAt": "2026-10-20T17:32:06.527Z"
         }
       ]
     },
