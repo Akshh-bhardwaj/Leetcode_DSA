@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-20T16:37:12.628Z",
+  "updatedAt": "2026-10-20T16:37:20.223Z",
   "problems": [
     {
       "frontendId": "2",
@@ -151,7 +151,7 @@
           "filename": "0206-reverse-linked-list.java",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
           "sha": "2fa2553e4e6a58ce005c8ed1d0ce6cb8c01a6abe",
-          "lastSyncedAt": "2026-10-16T10:27:47.967Z"
+          "lastSyncedAt": "2026-10-20T16:37:20.223Z"
         }
       ]
     },
