@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-20T17:21:25.794Z",
+  "updatedAt": "2026-10-20T17:30:38.075Z",
   "problems": [
     {
       "frontendId": "301",
@@ -43,7 +43,7 @@
           "filename": "0547-number-of-provinces.c",
           "path": "0547-number-of-provinces/0547-number-of-provinces.c",
           "sha": "2853f816c8bb61144e8e170e9e12b04d5b2a9c88",
-          "lastSyncedAt": "2026-09-24T18:15:01.150Z"
+          "lastSyncedAt": "2026-10-20T17:30:38.075Z"
         }
       ]
     },
