@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:12:38.814Z",
+  "updatedAt": "2026-10-20T17:13:51.035Z",
   "problems": [
     {
       "frontendId": "5",
@@ -691,7 +691,7 @@
           "filename": "1653-minimum-deletions-to-make-string-balanced.c",
           "path": "1653-minimum-deletions-to-make-string-balanced/1653-minimum-deletions-to-make-string-balanced.c",
           "sha": "5243f062e7e5caeb460a13baeb9bae35f4c86509",
-          "lastSyncedAt": "2026-10-12T08:56:44.798Z"
+          "lastSyncedAt": "2026-10-20T17:13:51.035Z"
         }
       ]
     },
