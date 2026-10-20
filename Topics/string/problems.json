@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T16:57:01.788Z",
+  "updatedAt": "2026-10-20T16:57:10.649Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1887,7 +1887,7 @@
           "filename": "3121-count-the-number-of-special-characters-ii.c",
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.c",
           "sha": "b39cfdaa893825d9a9e1960b94db6304e4e7cde9",
-          "lastSyncedAt": "2026-10-12T08:37:38.168Z"
+          "lastSyncedAt": "2026-10-20T16:57:10.649Z"
         }
       ]
     },
