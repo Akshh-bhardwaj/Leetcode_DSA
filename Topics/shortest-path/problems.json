@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-10-20T17:15:07.245Z",
+  "updatedAt": "2026-10-20T17:15:26.860Z",
   "problems": [
     {
       "frontendId": "2976",
@@ -63,7 +63,7 @@
           "filename": "3650-minimum-cost-path-with-edge-reversals.c",
           "path": "3650-minimum-cost-path-with-edge-reversals/3650-minimum-cost-path-with-edge-reversals.c",
           "sha": "07b5bd3b1f9abd3306941f80cda661889df15923",
-          "lastSyncedAt": "2026-10-12T08:58:29.588Z"
+          "lastSyncedAt": "2026-10-20T17:15:26.860Z"
         }
       ]
     }
