@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-20T16:38:21.605Z",
+  "updatedAt": "2026-10-20T16:42:03.540Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -223,7 +223,7 @@
           "filename": "4056-number-of-intersecting-interval-pairs-i.java",
           "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.java",
           "sha": "b0bf62aafaa90bc8e38abd3c1470c8220e999319",
-          "lastSyncedAt": "2026-10-12T08:27:31.602Z"
+          "lastSyncedAt": "2026-10-20T16:42:03.540Z"
         }
       ]
     }
