@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-20T17:25:21.862Z",
+  "updatedAt": "2026-10-20T17:25:32.071Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1591,7 +1591,7 @@
           "filename": "3623-count-number-of-trapezoids-i.c",
           "path": "3623-count-number-of-trapezoids-i/3623-count-number-of-trapezoids-i.c",
           "sha": "a09e646e7d6d0b7f71e9505eb43324624e13248d",
-          "lastSyncedAt": "2026-09-24T18:09:44.106Z"
+          "lastSyncedAt": "2026-10-20T17:25:32.071Z"
         }
       ]
     },
