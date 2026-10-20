@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-20T17:18:48.977Z",
+  "updatedAt": "2026-10-20T17:20:24.112Z",
   "problems": [
     {
       "frontendId": "11",
@@ -659,7 +659,7 @@
           "filename": "3075-maximize-happiness-of-selected-children.c",
           "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.c",
           "sha": "015adde3b72b67c9d1111e25208526cda98f1270",
-          "lastSyncedAt": "2026-09-24T18:04:17.979Z"
+          "lastSyncedAt": "2026-10-20T17:20:24.112Z"
         }
       ]
     },
