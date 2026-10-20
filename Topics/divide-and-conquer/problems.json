@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-20T16:49:40.659Z",
+  "updatedAt": "2026-10-20T17:03:42.263Z",
   "problems": [
     {
       "frontendId": "4",
@@ -163,7 +163,7 @@
           "filename": "3655-xor-after-range-multiplication-queries-ii.c",
           "path": "3655-xor-after-range-multiplication-queries-ii/3655-xor-after-range-multiplication-queries-ii.c",
           "sha": "e68230e6f73c4ea0b1a4d4f8f90ea9807e565842",
-          "lastSyncedAt": "2026-10-12T08:47:09.861Z"
+          "lastSyncedAt": "2026-10-20T17:03:42.263Z"
         }
       ]
     },
