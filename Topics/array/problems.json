@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:45:53.091Z",
+  "updatedAt": "2026-10-20T16:46:07.654Z",
   "problems": [
     {
       "frontendId": "1",
@@ -771,7 +771,7 @@
           "filename": "0502-ipo.java",
           "path": "0502-ipo/0502-ipo.java",
           "sha": "65a38ac771ccb3bef35c3d22bdd3db34c0a59e48",
-          "lastSyncedAt": "2026-10-12T08:21:19.321Z"
+          "lastSyncedAt": "2026-10-20T16:46:07.654Z"
         }
       ]
     },
