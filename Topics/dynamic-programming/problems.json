@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:18:28.099Z",
+  "updatedAt": "2026-10-20T17:19:08.544Z",
   "problems": [
     {
       "frontendId": "5",
@@ -531,7 +531,7 @@
           "filename": "1411-number-of-ways-to-paint-n-3-grid.c",
           "path": "1411-number-of-ways-to-paint-n-3-grid/1411-number-of-ways-to-paint-n-3-grid.c",
           "sha": "c0a2290e4eb2152a22cb5103d76a4286ed7d1668",
-          "lastSyncedAt": "2026-09-24T18:02:57.929Z"
+          "lastSyncedAt": "2026-10-20T17:19:08.544Z"
         }
       ]
     },
