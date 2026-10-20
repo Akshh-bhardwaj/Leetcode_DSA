@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T16:54:42.586Z",
+  "updatedAt": "2026-10-20T16:55:46.950Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1299,7 +1299,7 @@
           "filename": "3753-total-waviness-of-numbers-in-range-ii.c",
           "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.c",
           "sha": "fc9b1ac8edb65e517b4bd14613e5b1d4c81daade",
-          "lastSyncedAt": "2026-10-12T08:35:24.848Z"
+          "lastSyncedAt": "2026-10-20T16:55:46.950Z"
         },
         {
           "language": "Java",
