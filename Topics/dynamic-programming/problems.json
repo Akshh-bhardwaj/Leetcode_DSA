@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T17:27:57.891Z",
+  "updatedAt": "2026-10-20T17:28:32.324Z",
   "problems": [
     {
       "frontendId": "5",
@@ -611,7 +611,7 @@
           "filename": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.c",
           "path": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.c",
           "sha": "006b82554aad5d6eb25e4f220bc83c342f642108",
-          "lastSyncedAt": "2026-09-24T18:12:54.107Z"
+          "lastSyncedAt": "2026-10-20T17:28:32.324Z"
         }
       ]
     },
