@@ -1,0 +1,7 @@
+movinf slow =1
+fast =1+1
+so agr slow=1
+fast =3
+fir
+slow =2
+fast=2
