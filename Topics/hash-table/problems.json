@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-20T17:05:47.250Z",
+  "updatedAt": "2026-10-20T17:09:23.207Z",
   "problems": [
     {
       "frontendId": "1",
@@ -931,7 +931,7 @@
           "filename": "1980-find-unique-binary-string.c",
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
           "sha": "48c72429044eef67081377787de57496d6e1fe5c",
-          "lastSyncedAt": "2026-10-12T08:52:31.861Z"
+          "lastSyncedAt": "2026-10-20T17:09:23.207Z"
         }
       ]
     },
