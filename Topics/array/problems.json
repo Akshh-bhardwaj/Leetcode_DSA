@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:56:56.202Z",
+  "updatedAt": "2026-10-20T16:57:01.788Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3415,7 +3415,7 @@
           "filename": "3093-longest-common-suffix-queries.c",
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
           "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
-          "lastSyncedAt": "2026-10-11T18:55:26.700Z"
+          "lastSyncedAt": "2026-10-20T16:57:01.788Z"
         }
       ]
     },
