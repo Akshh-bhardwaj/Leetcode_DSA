@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T17:05:47.250Z",
+  "updatedAt": "2026-10-20T17:06:00.596Z",
   "problems": [
     {
       "frontendId": "303",
@@ -559,7 +559,7 @@
           "filename": "3546-equal-sum-grid-partition-i.c",
           "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.c",
           "sha": "36cefbb388c010d95b21be002a9a54d7a7a6a785",
-          "lastSyncedAt": "2026-10-12T08:49:51.175Z"
+          "lastSyncedAt": "2026-10-20T17:06:00.596Z"
         }
       ]
     },
