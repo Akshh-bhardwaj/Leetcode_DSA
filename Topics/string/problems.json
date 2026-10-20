@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T17:10:16.076Z",
+  "updatedAt": "2026-10-20T17:10:34.627Z",
   "problems": [
     {
       "frontendId": "3",
@@ -2087,7 +2087,7 @@
           "filename": "3666-minimum-operations-to-equalize-binary-string.c",
           "path": "3666-minimum-operations-to-equalize-binary-string/3666-minimum-operations-to-equalize-binary-string.c",
           "sha": "0f37b4f232ed3ab513425ccdef85ac022e8f6461",
-          "lastSyncedAt": "2026-10-12T08:53:36.057Z"
+          "lastSyncedAt": "2026-10-20T17:10:34.627Z"
         }
       ]
     },
