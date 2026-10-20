@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-20T17:16:18.747Z",
+  "updatedAt": "2026-10-20T17:17:10.935Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1171,7 +1171,7 @@
           "filename": "2975-maximum-square-area-by-removing-fences-from-a-field.c",
           "path": "2975-maximum-square-area-by-removing-fences-from-a-field/2975-maximum-square-area-by-removing-fences-from-a-field.c",
           "sha": "0571e9bd6012469843a813ebc08c5e9e796439e1",
-          "lastSyncedAt": "2026-10-12T09:01:02.418Z"
+          "lastSyncedAt": "2026-10-20T17:17:10.935Z"
         }
       ]
     },
