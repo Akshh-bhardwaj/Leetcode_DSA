@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T17:24:22.282Z",
+  "updatedAt": "2026-10-20T17:24:41.557Z",
   "problems": [
     {
       "frontendId": "2",
@@ -743,7 +743,7 @@
           "filename": "1925-count-square-sum-triples.c",
           "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.c",
           "sha": "543c057b5ab6077d341480490843b1c0f248f5fe",
-          "lastSyncedAt": "2026-09-24T18:08:51.094Z"
+          "lastSyncedAt": "2026-10-20T17:24:41.557Z"
         }
       ]
     },
