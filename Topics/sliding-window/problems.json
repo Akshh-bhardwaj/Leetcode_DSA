@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-20T17:21:38.171Z",
+  "updatedAt": "2026-10-20T17:23:31.017Z",
   "problems": [
     {
       "frontendId": "3",
@@ -251,7 +251,7 @@
           "filename": "2110-number-of-smooth-descent-periods-of-a-stock.c",
           "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.c",
           "sha": "fc4cb94b5a606a8730594d5c17b449ff1a0cddbd",
-          "lastSyncedAt": "2026-09-24T18:07:28.385Z"
+          "lastSyncedAt": "2026-10-20T17:23:31.017Z"
         }
       ]
     },
