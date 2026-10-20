@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T17:26:32.968Z",
+  "updatedAt": "2026-10-20T17:26:53.739Z",
   "problems": [
     {
       "frontendId": "15",
@@ -263,7 +263,7 @@
           "filename": "0757-set-intersection-size-at-least-two.c",
           "path": "0757-set-intersection-size-at-least-two/0757-set-intersection-size-at-least-two.c",
           "sha": "2868d3cfccb63fd90d4679136ed03c56fffacc0b",
-          "lastSyncedAt": "2026-09-24T18:11:14.714Z"
+          "lastSyncedAt": "2026-10-20T17:26:53.739Z"
         }
       ]
     },
