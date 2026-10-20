@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-20T17:07:42.909Z",
+  "updatedAt": "2026-10-20T17:08:36.435Z",
   "problems": [
     {
       "frontendId": "215",
@@ -243,7 +243,7 @@
           "filename": "3296-minimum-number-of-seconds-to-make-mountain-height-zero.c",
           "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.c",
           "sha": "96579b3c9f1f3ba8814224a7f41e8880b14b8259",
-          "lastSyncedAt": "2026-10-12T08:51:50.373Z"
+          "lastSyncedAt": "2026-10-20T17:08:36.435Z"
         }
       ]
     },
