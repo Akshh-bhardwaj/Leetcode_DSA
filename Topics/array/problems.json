@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:06:56.663Z",
+  "updatedAt": "2026-10-20T17:07:05.976Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3463,7 +3463,7 @@
           "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
           "path": "3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.c",
           "sha": "570c062bf9360c63af28700ae6d7b360cc8e3abb",
-          "lastSyncedAt": "2026-10-12T08:50:44.848Z"
+          "lastSyncedAt": "2026-10-20T17:07:05.976Z"
         }
       ]
     },
