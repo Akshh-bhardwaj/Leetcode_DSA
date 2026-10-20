@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-20T17:27:30.762Z",
+  "updatedAt": "2026-10-20T17:29:45.871Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -43,7 +43,7 @@
           "filename": "2197-replace-non-coprime-numbers-in-array.c",
           "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
           "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
-          "lastSyncedAt": "2026-09-24T18:14:11.622Z"
+          "lastSyncedAt": "2026-10-20T17:29:45.871Z"
         }
       ]
     },
