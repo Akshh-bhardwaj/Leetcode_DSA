@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-20T16:58:23.172Z",
+  "updatedAt": "2026-10-20T16:58:49.542Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1091,7 +1091,7 @@
           "filename": "2784-check-if-array-is-good.c",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
           "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
-          "lastSyncedAt": "2026-10-12T08:40:58.455Z"
+          "lastSyncedAt": "2026-10-20T16:58:49.542Z"
         }
       ]
     },
