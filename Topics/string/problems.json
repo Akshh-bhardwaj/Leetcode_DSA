@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T16:38:35.258Z",
+  "updatedAt": "2026-10-20T16:38:43.675Z",
   "problems": [
     {
       "frontendId": "3",
@@ -879,7 +879,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.java",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.java",
           "sha": "782c8e9444570312080addb8e1c8fa90381de1b4",
-          "lastSyncedAt": "2026-10-12T08:22:42.261Z"
+          "lastSyncedAt": "2026-10-20T16:38:43.675Z"
         }
       ]
     },
