@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T16:47:44.970Z",
+  "updatedAt": "2026-10-20T16:49:16.779Z",
   "problems": [
     {
       "frontendId": "15",
@@ -143,7 +143,7 @@
           "filename": "0217-contains-duplicate.java",
           "path": "0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "86bc0540cc1a82be1340e35a1f8591e8f73e7f72",
-          "lastSyncedAt": "2026-10-12T08:37:59.672Z"
+          "lastSyncedAt": "2026-10-20T16:49:16.779Z"
         }
       ]
     },
