@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:24:22.282Z",
+  "updatedAt": "2026-10-20T17:24:32.885Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4171,7 +4171,7 @@
           "filename": "3583-count-special-triplets.c",
           "path": "3583-count-special-triplets/3583-count-special-triplets.c",
           "sha": "6160df5eba1259b917d8d4706b538dd21957e9b8",
-          "lastSyncedAt": "2026-09-24T18:08:41.011Z"
+          "lastSyncedAt": "2026-10-20T17:24:32.885Z"
         }
       ]
     },
