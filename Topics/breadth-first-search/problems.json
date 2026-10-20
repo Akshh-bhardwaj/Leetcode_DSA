@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-20T17:19:22.641Z",
+  "updatedAt": "2026-10-20T17:21:25.794Z",
   "problems": [
     {
       "frontendId": "301",
@@ -223,7 +223,7 @@
           "filename": "2092-find-all-people-with-secret.c",
           "path": "2092-find-all-people-with-secret/2092-find-all-people-with-secret.c",
           "sha": "06e8cf29992600691e78bb1ea2670db4ab8608e7",
-          "lastSyncedAt": "2026-09-24T18:05:27.276Z"
+          "lastSyncedAt": "2026-10-20T17:21:25.794Z"
         }
       ]
     },
