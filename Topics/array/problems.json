@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T16:58:58.508Z",
+  "updatedAt": "2026-10-20T16:59:08.564Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1851,7 +1851,7 @@
           "filename": "1665-minimum-initial-energy-to-finish-tasks.c",
           "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.c",
           "sha": "8e2f05d77983d95f848ee99f97cd789105ab92e4",
-          "lastSyncedAt": "2026-10-12T08:41:22.752Z"
+          "lastSyncedAt": "2026-10-20T16:59:08.564Z"
         }
       ]
     },
