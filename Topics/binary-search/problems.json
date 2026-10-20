@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-20T17:20:39.573Z",
+  "updatedAt": "2026-10-20T17:25:41.533Z",
   "problems": [
     {
       "frontendId": "4",
@@ -391,7 +391,7 @@
           "filename": "2141-maximum-running-time-of-n-computers.c",
           "path": "2141-maximum-running-time-of-n-computers/2141-maximum-running-time-of-n-computers.c",
           "sha": "f9e9245e37e72c7b6d0abf611f5d9e60eb367d80",
-          "lastSyncedAt": "2026-09-24T18:09:54.546Z"
+          "lastSyncedAt": "2026-10-20T17:25:41.533Z"
         }
       ]
     },
