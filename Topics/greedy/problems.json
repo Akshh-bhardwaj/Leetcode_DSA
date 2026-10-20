@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-20T16:53:44.226Z",
+  "updatedAt": "2026-10-20T16:55:04.160Z",
   "problems": [
     {
       "frontendId": "11",
@@ -847,7 +847,7 @@
           "filename": "3691-maximum-total-subarray-value-ii.c",
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.c",
           "sha": "8d30c0205c3781dbdd9c1c66d984c989013b2419",
-          "lastSyncedAt": "2026-10-12T08:34:16.021Z"
+          "lastSyncedAt": "2026-10-20T16:55:04.160Z"
         }
       ]
     },
