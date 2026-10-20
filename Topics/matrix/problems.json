@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-20T17:07:42.909Z",
+  "updatedAt": "2026-10-20T17:09:54.393Z",
   "problems": [
     {
       "frontendId": "48",
@@ -263,7 +263,7 @@
           "filename": "1582-special-positions-in-a-binary-matrix.c",
           "path": "1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.c",
           "sha": "47d00d210e821873ededbaa991d78783e427aa89",
-          "lastSyncedAt": "2026-10-12T08:52:59.574Z"
+          "lastSyncedAt": "2026-10-20T17:09:54.393Z"
         }
       ]
     },
