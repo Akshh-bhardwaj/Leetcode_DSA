@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:25:05.815Z",
+  "updatedAt": "2026-10-20T17:25:21.862Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4231,7 +4231,7 @@
           "filename": "3625-count-number-of-trapezoids-ii.c",
           "path": "3625-count-number-of-trapezoids-ii/3625-count-number-of-trapezoids-ii.c",
           "sha": "73264f1586e8d40d893176330020eca355aa60f4",
-          "lastSyncedAt": "2026-09-24T18:09:33.816Z"
+          "lastSyncedAt": "2026-10-20T17:25:21.862Z"
         }
       ]
     },
