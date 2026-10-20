@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-20T17:28:08.816Z",
+  "updatedAt": "2026-10-20T17:31:32.138Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,7 +43,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.c",
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
           "sha": "620361f12b409f6b86130d8433ff44503b79a81a",
-          "lastSyncedAt": "2026-09-24T18:16:15.887Z"
+          "lastSyncedAt": "2026-10-20T17:31:32.138Z"
         }
       ]
     },
