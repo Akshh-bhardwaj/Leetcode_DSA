@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T17:24:49.848Z",
+  "updatedAt": "2026-10-20T17:25:05.815Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3711,7 +3711,7 @@
           "filename": "3432-count-partitions-with-even-sum-difference.c",
           "path": "3432-count-partitions-with-even-sum-difference/3432-count-partitions-with-even-sum-difference.c",
           "sha": "a3b43b88feffd92608729bbcece0d038757a58b4",
-          "lastSyncedAt": "2026-09-24T18:09:17.703Z"
+          "lastSyncedAt": "2026-10-20T17:25:05.815Z"
         }
       ]
     },
