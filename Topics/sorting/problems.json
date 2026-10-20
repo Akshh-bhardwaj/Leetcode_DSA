@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T17:20:31.693Z",
+  "updatedAt": "2026-10-20T17:20:39.573Z",
   "problems": [
     {
       "frontendId": "15",
@@ -643,7 +643,7 @@
           "filename": "2054-two-best-non-overlapping-events.c",
           "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.c",
           "sha": "483542d8c1229e8ff60fa94bfe1c98965285bd28",
-          "lastSyncedAt": "2026-09-24T18:04:33.630Z"
+          "lastSyncedAt": "2026-10-20T17:20:39.573Z"
         }
       ]
     },
