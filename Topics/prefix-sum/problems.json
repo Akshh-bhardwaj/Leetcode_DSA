@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T17:16:55.818Z",
+  "updatedAt": "2026-10-20T17:20:18.740Z",
   "problems": [
     {
       "frontendId": "303",
@@ -331,7 +331,7 @@
           "filename": "2483-minimum-penalty-for-a-shop.c",
           "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.c",
           "sha": "59f656d9c06bd0a4c6f29059f2f7a47f6b33359a",
-          "lastSyncedAt": "2026-09-24T18:04:11.569Z"
+          "lastSyncedAt": "2026-10-20T17:20:18.740Z"
         }
       ]
     },
