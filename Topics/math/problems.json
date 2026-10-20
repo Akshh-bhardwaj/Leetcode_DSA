@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T17:25:32.071Z",
+  "updatedAt": "2026-10-20T17:27:24.126Z",
   "problems": [
     {
       "frontendId": "2",
@@ -603,7 +603,7 @@
           "filename": "1513-number-of-substrings-with-only-1s.c",
           "path": "1513-number-of-substrings-with-only-1s/1513-number-of-substrings-with-only-1s.c",
           "sha": "a7e5de4e45aaddffad07e85305962124c9f7768e",
-          "lastSyncedAt": "2026-09-24T18:11:42.202Z"
+          "lastSyncedAt": "2026-10-20T17:27:24.126Z"
         }
       ]
     },
