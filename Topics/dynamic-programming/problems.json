@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-20T16:53:22.551Z",
+  "updatedAt": "2026-10-20T16:54:42.586Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1099,7 +1099,7 @@
           "filename": "3559-number-of-ways-to-assign-edge-weights-ii.c",
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.c",
           "sha": "9c53e663e8b2a459573cbd6c815afca46eb3e33d",
-          "lastSyncedAt": "2026-10-12T08:33:46.242Z"
+          "lastSyncedAt": "2026-10-20T16:54:42.586Z"
         }
       ]
     },
