@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-20T16:44:25.381Z",
+  "updatedAt": "2026-10-20T16:45:32.763Z",
   "problems": [
     {
       "frontendId": "303",
@@ -143,7 +143,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "f3f8a1fd487e9dba42e576ddddecdd2d9d5a59ad",
-          "lastSyncedAt": "2026-10-12T08:32:21.444Z"
+          "lastSyncedAt": "2026-10-20T16:45:32.763Z"
         }
       ]
     },
