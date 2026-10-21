@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T19:01:29.407Z",
+  "updatedAt": "2026-10-21T19:01:39.530Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4639,7 +4639,7 @@
           "filename": "3741-minimum-distance-between-three-equal-elements-ii.java",
           "path": "3741-minimum-distance-between-three-equal-elements-ii/3741-minimum-distance-between-three-equal-elements-ii.java",
           "sha": "bb124a3552364e186edad98d3c923ddb72c52dde",
-          "lastSyncedAt": "2026-10-20T16:46:16.781Z"
+          "lastSyncedAt": "2026-10-21T19:01:39.530Z"
         }
       ]
     },
