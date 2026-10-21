@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T18:54:22.052Z",
+  "updatedAt": "2026-10-21T18:54:33.358Z",
   "problems": [
     {
       "frontendId": "5",
@@ -51,7 +51,7 @@
           "filename": "0022-generate-parentheses.java",
           "path": "0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "ec74adac8f799fe4521383d458a2197df951110e",
-          "lastSyncedAt": "2026-10-20T16:39:21.346Z"
+          "lastSyncedAt": "2026-10-21T18:54:33.358Z"
         }
       ]
     },
