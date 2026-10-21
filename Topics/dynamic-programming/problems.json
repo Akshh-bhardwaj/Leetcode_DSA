@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T19:16:12.660Z",
+  "updatedAt": "2026-10-21T19:16:21.493Z",
   "problems": [
     {
       "frontendId": "5",
@@ -999,7 +999,7 @@
           "filename": "3225-maximum-score-from-grid-operations.c",
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.c",
           "sha": "0110c000a0036654f74df32d8156145eed0e7853",
-          "lastSyncedAt": "2026-10-20T17:01:03.322Z"
+          "lastSyncedAt": "2026-10-21T19:16:21.493Z"
         }
       ]
     },
