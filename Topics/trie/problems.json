@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-21T18:59:36.130Z",
+  "updatedAt": "2026-10-21T19:12:39.371Z",
   "problems": [
     {
       "frontendId": "14",
@@ -103,7 +103,7 @@
           "filename": "3093-longest-common-suffix-queries.c",
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.c",
           "sha": "42177a61d1bc22c0ff5fb95d12324cf394662c57",
-          "lastSyncedAt": "2026-10-20T16:57:01.788Z"
+          "lastSyncedAt": "2026-10-21T19:12:39.371Z"
         }
       ]
     }
