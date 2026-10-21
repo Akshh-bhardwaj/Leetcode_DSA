@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T18:54:55.913Z",
+  "updatedAt": "2026-10-21T18:57:10.133Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1327,7 +1327,7 @@
           "filename": "4058-maximum-pulse-value-after-one-subarray-rotation.java",
           "path": "4058-maximum-pulse-value-after-one-subarray-rotation/4058-maximum-pulse-value-after-one-subarray-rotation.java",
           "sha": "c63bde2220d2d30485461685bcc4fb07c4e89873",
-          "lastSyncedAt": "2026-10-20T16:41:46.291Z"
+          "lastSyncedAt": "2026-10-21T18:57:10.133Z"
         }
       ]
     }
