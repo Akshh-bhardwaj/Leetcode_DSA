@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T19:15:55.054Z",
+  "updatedAt": "2026-10-21T19:16:04.306Z",
   "problems": [
     {
       "frontendId": "5",
@@ -211,7 +211,7 @@
           "filename": "0396-rotate-function.c",
           "path": "0396-rotate-function/0396-rotate-function.c",
           "sha": "93d2eee5bd95b35343989e5b31220d79f141c869",
-          "lastSyncedAt": "2026-10-20T17:00:45.406Z"
+          "lastSyncedAt": "2026-10-21T19:16:04.306Z"
         }
       ]
     },
