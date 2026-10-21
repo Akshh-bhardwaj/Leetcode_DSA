@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-21T19:29:24.308Z",
+  "updatedAt": "2026-10-21T19:40:52.215Z",
   "problems": [
     {
       "frontendId": "2",
@@ -271,7 +271,7 @@
           "filename": "3217-delete-nodes-from-linked-list-present-in-array.c",
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.c",
           "sha": "bb1261d3c5508dac171a28d86601c4b57d041a72",
-          "lastSyncedAt": "2026-10-20T17:28:08.816Z"
+          "lastSyncedAt": "2026-10-21T19:40:52.215Z"
         }
       ]
     },
