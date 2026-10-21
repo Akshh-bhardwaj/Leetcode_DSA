@@ -5,7 +5,7 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-10-21T19:08:01.712Z",
+  "updatedAt": "2026-10-21T19:09:05.025Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -43,7 +43,7 @@
           "filename": "1406-stone-game-iii.java",
           "path": "1406-stone-game-iii/1406-stone-game-iii.java",
           "sha": "10dcdfdc04053a3622d58596fbda0edc1a3b1a3e",
-          "lastSyncedAt": "2026-10-20T16:53:22.551Z"
+          "lastSyncedAt": "2026-10-21T19:09:05.025Z"
         }
       ]
     },
