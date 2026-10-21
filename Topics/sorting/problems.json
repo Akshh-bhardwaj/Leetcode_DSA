@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-21T19:19:45.278Z",
+  "updatedAt": "2026-10-21T19:20:02.732Z",
   "problems": [
     {
       "frontendId": "15",
@@ -811,7 +811,7 @@
           "filename": "2751-robot-collisions.c",
           "path": "2751-robot-collisions/2751-robot-collisions.c",
           "sha": "297389755392144fc6e78aca055530e73ee24b3e",
-          "lastSyncedAt": "2026-10-20T17:04:46.875Z"
+          "lastSyncedAt": "2026-10-21T19:20:02.732Z"
         }
       ]
     },
