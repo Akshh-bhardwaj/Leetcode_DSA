@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-21T19:07:26.623Z",
+  "updatedAt": "2026-10-21T19:08:18.758Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1927,7 +1927,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.java",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
           "sha": "203be90f3da02c9a9969b684b270a550c8775481",
-          "lastSyncedAt": "2026-10-20T16:52:34.617Z"
+          "lastSyncedAt": "2026-10-21T19:08:18.758Z"
         }
       ]
     },
