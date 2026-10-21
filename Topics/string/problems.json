@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-20T17:33:31.369Z",
+  "updatedAt": "2026-10-21T18:52:52.966Z",
   "problems": [
     {
       "frontendId": "3",
@@ -2148,6 +2148,26 @@
           "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.c",
           "sha": "10b363500af1ce0fd7985ad4c004221df79db2ea",
           "lastSyncedAt": "2026-10-20T16:54:33.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "problemName": "3863-minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+      "folderPath": "3863-minimum-operations-to-sort-a-string/",
+      "readmePath": "3863-minimum-operations-to-sort-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3863-minimum-operations-to-sort-a-string.java",
+          "path": "3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.java",
+          "sha": "ce7f03136023f45327917ab96998855cc99ca75e",
+          "lastSyncedAt": "2026-10-21T18:52:52.966Z"
         }
       ]
     }
