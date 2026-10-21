@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T19:01:50.309Z",
+  "updatedAt": "2026-10-21T19:03:22.671Z",
   "problems": [
     {
       "frontendId": "5",
@@ -371,7 +371,7 @@
           "filename": "0940-distinct-subsequences-ii.java",
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "fb74d634db3c82db7115f03c630db27c638028ce",
-          "lastSyncedAt": "2026-10-20T16:48:07.166Z"
+          "lastSyncedAt": "2026-10-21T19:03:22.671Z"
         }
       ]
     },
