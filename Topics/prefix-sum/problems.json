@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-21T19:26:22.767Z",
+  "updatedAt": "2026-10-21T19:26:34.143Z",
   "problems": [
     {
       "frontendId": "303",
@@ -699,7 +699,7 @@
           "filename": "3719-longest-balanced-subarray-i.c",
           "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.c",
           "sha": "774c7813ecbbf727faf5331d190f87791189bd41",
-          "lastSyncedAt": "2026-10-20T17:13:14.302Z"
+          "lastSyncedAt": "2026-10-21T19:26:34.143Z"
         }
       ]
     },
