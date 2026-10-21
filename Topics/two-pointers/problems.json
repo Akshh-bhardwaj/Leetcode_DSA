@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-21T19:10:05.660Z",
+  "updatedAt": "2026-10-21T19:10:10.999Z",
   "problems": [
     {
       "frontendId": "5",
@@ -603,7 +603,7 @@
           "filename": "2130-maximum-twin-sum-of-a-linked-list.c",
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.c",
           "sha": "774bd966f13ccf940405bc94bca4582f389b72d2",
-          "lastSyncedAt": "2026-10-20T16:54:27.956Z"
+          "lastSyncedAt": "2026-10-21T19:10:10.999Z"
         }
       ]
     },
