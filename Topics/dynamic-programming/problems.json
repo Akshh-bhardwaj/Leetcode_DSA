@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T19:19:45.278Z",
+  "updatedAt": "2026-10-21T19:19:55.412Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1059,7 +1059,7 @@
           "filename": "3418-maximum-amount-of-money-robot-can-earn.c",
           "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.c",
           "sha": "b15ecbeed9da3f19d4db7a731f8da2a64478b217",
-          "lastSyncedAt": "2026-10-20T17:04:38.907Z"
+          "lastSyncedAt": "2026-10-21T19:19:55.412Z"
         }
       ]
     },
