@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-21T18:55:19.031Z",
+  "updatedAt": "2026-10-21T18:55:30.223Z",
   "problems": [
     {
       "frontendId": "3",
@@ -251,7 +251,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "188e72af8e4388210497937b02564e89f163e601",
-          "lastSyncedAt": "2026-10-20T16:40:14.115Z"
+          "lastSyncedAt": "2026-10-21T18:55:30.223Z"
         }
       ]
     },
