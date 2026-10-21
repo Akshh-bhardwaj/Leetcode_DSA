@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-21T19:10:10.999Z",
+  "updatedAt": "2026-10-21T19:15:37.290Z",
   "problems": [
     {
       "frontendId": "2",
@@ -111,7 +111,7 @@
           "filename": "0061-rotate-list.c",
           "path": "0061-rotate-list/0061-rotate-list.c",
           "sha": "b3904676d4cea97fa9e8855296bcf1cbd634babb",
-          "lastSyncedAt": "2026-10-20T17:00:15.417Z"
+          "lastSyncedAt": "2026-10-21T19:15:37.290Z"
         }
       ]
     },
