@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T19:33:38.765Z",
+  "updatedAt": "2026-10-21T19:33:50.141Z",
   "problems": [
     {
       "frontendId": "5",
@@ -391,7 +391,7 @@
           "filename": "0960-delete-columns-to-make-sorted-iii.c",
           "path": "0960-delete-columns-to-make-sorted-iii/0960-delete-columns-to-make-sorted-iii.c",
           "sha": "8410e8a4805204417e5db5d6f1e434e3ac20dcd8",
-          "lastSyncedAt": "2026-10-20T17:20:52.946Z"
+          "lastSyncedAt": "2026-10-21T19:33:50.141Z"
         }
       ]
     },
