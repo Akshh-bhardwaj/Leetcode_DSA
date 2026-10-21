@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-21T19:04:39.598Z",
+  "updatedAt": "2026-10-21T19:06:24.225Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,7 +23,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.java",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
-          "lastSyncedAt": "2026-10-20T16:50:42.981Z"
+          "lastSyncedAt": "2026-10-21T19:06:24.225Z"
         }
       ]
     },
