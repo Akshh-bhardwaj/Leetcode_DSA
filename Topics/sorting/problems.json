@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-21T19:13:09.478Z",
+  "updatedAt": "2026-10-21T19:14:22.471Z",
   "problems": [
     {
       "frontendId": "15",
@@ -831,7 +831,7 @@
           "filename": "2784-check-if-array-is-good.c",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.c",
           "sha": "01713c0695aeb4e7928aa439c22642ab1e29c8ab",
-          "lastSyncedAt": "2026-10-20T16:58:49.542Z"
+          "lastSyncedAt": "2026-10-21T19:14:22.471Z"
         }
       ]
     },
