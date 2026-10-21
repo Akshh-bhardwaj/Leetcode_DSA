@@ -5,7 +5,7 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-10-20T17:27:43.508Z",
+  "updatedAt": "2026-10-21T19:40:29.642Z",
   "problems": [
     {
       "frontendId": "474",
@@ -23,7 +23,7 @@
           "filename": "0474-ones-and-zeroes.c",
           "path": "0474-ones-and-zeroes/0474-ones-and-zeroes.c",
           "sha": "e59396e87064bcd9d0fd3417ea389b6340a1f2db",
-          "lastSyncedAt": "2026-10-20T17:27:43.508Z"
+          "lastSyncedAt": "2026-10-21T19:40:29.642Z"
         }
       ]
     }
