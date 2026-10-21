@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-21T18:53:23.290Z",
+  "updatedAt": "2026-10-21T18:53:32.903Z",
   "problems": [
     {
       "frontendId": "2",
@@ -191,7 +191,7 @@
           "filename": "0876-middle-of-the-linked-list.java",
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.java",
           "sha": "485b6a1f3bc120207b5acf01b0847adef187153a",
-          "lastSyncedAt": "2026-10-20T16:38:16.337Z"
+          "lastSyncedAt": "2026-10-21T18:53:32.903Z"
         }
       ]
     },
