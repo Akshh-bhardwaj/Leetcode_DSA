@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T18:53:37.005Z",
+  "updatedAt": "2026-10-21T18:54:55.913Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2687,7 +2687,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "sha": "639b617c1f372bbe52457192ea415ce67552e9fc",
-          "lastSyncedAt": "2026-10-20T16:39:44.672Z"
+          "lastSyncedAt": "2026-10-21T18:54:55.913Z"
         }
       ]
     },
