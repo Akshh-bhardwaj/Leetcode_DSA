@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-21T19:00:29.807Z",
+  "updatedAt": "2026-10-21T19:01:13.933Z",
   "problems": [
     {
       "frontendId": "15",
@@ -871,7 +871,7 @@
           "filename": "2813-maximum-elegance-of-a-k-length-subsequence.java",
           "path": "2813-maximum-elegance-of-a-k-length-subsequence/2813-maximum-elegance-of-a-k-length-subsequence.java",
           "sha": "bf78c9b40c8cf867f89a2303b8139e09a043bcf5",
-          "lastSyncedAt": "2026-10-20T16:45:53.091Z"
+          "lastSyncedAt": "2026-10-21T19:01:13.933Z"
         }
       ]
     },
