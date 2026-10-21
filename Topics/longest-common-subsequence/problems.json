@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-10-21T19:31:05.164Z",
+  "updatedAt": "2026-10-21T19:31:30.944Z",
   "problems": [
     {
       "frontendId": "712",
@@ -43,7 +43,7 @@
           "filename": "1458-max-dot-product-of-two-subsequences.c",
           "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.c",
           "sha": "a5c3677242ff4c9e1bf7d853a3082733b555f880",
-          "lastSyncedAt": "2026-10-20T17:18:28.099Z"
+          "lastSyncedAt": "2026-10-21T19:31:30.944Z"
         }
       ]
     }
