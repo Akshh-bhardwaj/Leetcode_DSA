@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T19:07:18.622Z",
+  "updatedAt": "2026-10-21T19:07:34.424Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1191,7 +1191,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "7ed74911d3acbef3b98237ece12c87fd09228404",
-          "lastSyncedAt": "2026-10-20T16:51:52.650Z"
+          "lastSyncedAt": "2026-10-21T19:07:34.424Z"
         }
       ]
     },
