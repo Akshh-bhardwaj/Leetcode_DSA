@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-21T19:02:09.059Z",
+  "updatedAt": "2026-10-21T19:04:12.322Z",
   "problems": [
     {
       "frontendId": "2",
@@ -91,7 +91,7 @@
           "filename": "0050-powx-n.java",
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "c400ff4691ce4e8c6369b01b89029a9d207b53bb",
-          "lastSyncedAt": "2026-10-20T16:48:48.929Z"
+          "lastSyncedAt": "2026-10-21T19:04:12.322Z"
         }
       ]
     },
