@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-20T17:33:11.215Z",
+  "updatedAt": "2026-10-21T18:53:54.584Z",
   "problems": [
     {
       "frontendId": "11",
@@ -103,7 +103,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.java",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.java",
           "sha": "782c8e9444570312080addb8e1c8fa90381de1b4",
-          "lastSyncedAt": "2026-10-20T16:38:43.675Z"
+          "lastSyncedAt": "2026-10-21T18:53:54.584Z"
         }
       ]
     },
