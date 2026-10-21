@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T19:28:30.196Z",
+  "updatedAt": "2026-10-21T19:28:43.368Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1231,7 +1231,7 @@
           "filename": "1200-minimum-absolute-difference.c",
           "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.c",
           "sha": "e55c2691e2bfffe938a7602631c0cd9a6f91648d",
-          "lastSyncedAt": "2026-10-20T17:15:33.254Z"
+          "lastSyncedAt": "2026-10-21T19:28:43.368Z"
         }
       ]
     },
