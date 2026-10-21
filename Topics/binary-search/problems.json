@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-21T19:12:21.715Z",
+  "updatedAt": "2026-10-21T19:13:22.887Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,7 +43,7 @@
           "filename": "0033-search-in-rotated-sorted-array.c",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.c",
           "sha": "c74fe0f5d9ba996a32f9c4c83a69749e9a505d6a",
-          "lastSyncedAt": "2026-10-20T16:57:48.753Z"
+          "lastSyncedAt": "2026-10-21T19:13:22.887Z"
         },
         {
           "language": "Java",
