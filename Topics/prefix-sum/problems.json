@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-21T19:16:21.493Z",
+  "updatedAt": "2026-10-21T19:17:25.183Z",
   "problems": [
     {
       "frontendId": "303",
@@ -379,7 +379,7 @@
           "filename": "2615-sum-of-distances.c",
           "path": "2615-sum-of-distances/2615-sum-of-distances.c",
           "sha": "2827d4ee15d9a837dfd52fbf18a950d5746d5c60",
-          "lastSyncedAt": "2026-10-20T17:02:08.970Z"
+          "lastSyncedAt": "2026-10-21T19:17:25.183Z"
         }
       ]
     },
