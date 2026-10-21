@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-21T19:12:05.169Z",
+  "updatedAt": "2026-10-21T19:12:13.927Z",
   "problems": [
     {
       "frontendId": "11",
@@ -483,7 +483,7 @@
           "filename": "2126-destroying-asteroids.c",
           "path": "2126-destroying-asteroids/2126-destroying-asteroids.c",
           "sha": "8036fee0a837906f256fc34992c155d13913602a",
-          "lastSyncedAt": "2026-10-20T16:56:35.250Z"
+          "lastSyncedAt": "2026-10-21T19:12:13.927Z"
         },
         {
           "language": "Java",
