@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-21T19:00:29.807Z",
+  "updatedAt": "2026-10-21T19:01:02.730Z",
   "problems": [
     {
       "frontendId": "11",
@@ -559,7 +559,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "606cd74c3f789dc8d8dd29f88612d9defa0d2c30",
-          "lastSyncedAt": "2026-10-20T16:45:43.547Z"
+          "lastSyncedAt": "2026-10-21T19:01:02.730Z"
         }
       ]
     },
