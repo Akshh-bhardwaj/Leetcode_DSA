@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T19:17:25.183Z",
+  "updatedAt": "2026-10-21T19:17:34.591Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2767,7 +2767,7 @@
           "filename": "2452-words-within-two-edits-of-dictionary.c",
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.c",
           "sha": "eeb78cf19a31479a062f252e676f93fbc360708c",
-          "lastSyncedAt": "2026-10-20T17:02:18.464Z"
+          "lastSyncedAt": "2026-10-21T19:17:34.591Z"
         }
       ]
     },
