@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-21T18:56:06.382Z",
+  "updatedAt": "2026-10-21T18:57:18.912Z",
   "problems": [
     {
       "frontendId": "4",
@@ -707,7 +707,7 @@
           "filename": "4057-number-of-intersecting-interval-pairs-ii.java",
           "path": "4057-number-of-intersecting-interval-pairs-ii/4057-number-of-intersecting-interval-pairs-ii.java",
           "sha": "518c06a5f0ad19a9e3e91a5de6abef1c519a990f",
-          "lastSyncedAt": "2026-10-20T16:41:54.315Z"
+          "lastSyncedAt": "2026-10-21T18:57:18.912Z"
         }
       ]
     },
