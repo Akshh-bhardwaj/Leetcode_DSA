@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T18:38:33.921Z",
+  "updatedAt": "2026-10-22T18:40:32.433Z",
   "problems": [
     {
       "frontendId": "303",
@@ -63,7 +63,7 @@
           "filename": "1140-stone-game-ii.java",
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
-          "lastSyncedAt": "2026-10-22T17:42:07.706Z"
+          "lastSyncedAt": "2026-10-22T18:40:32.433Z"
         }
       ]
     },
