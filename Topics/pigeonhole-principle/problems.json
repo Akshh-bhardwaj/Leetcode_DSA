@@ -5,7 +5,7 @@
     "name": "Pigeonhole Principle",
     "tagId": "87235"
   },
-  "updatedAt": "2026-10-22T18:35:20.220Z",
+  "updatedAt": "2026-10-22T19:06:45.228Z",
   "problems": [
     {
       "frontendId": "287",
@@ -43,7 +43,7 @@
           "filename": "0961-n-repeated-element-in-size-2n-array.c",
           "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.c",
           "sha": "d1ccf43d5a675b6433a2c95a39526f5247e85192",
-          "lastSyncedAt": "2026-10-21T19:32:15.749Z"
+          "lastSyncedAt": "2026-10-22T19:06:45.228Z"
         }
       ]
     },
