@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:08:42.404Z",
+  "updatedAt": "2026-10-22T19:08:53.110Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1071,7 +1071,7 @@
           "filename": "0955-delete-columns-to-make-sorted-ii.c",
           "path": "0955-delete-columns-to-make-sorted-ii/0955-delete-columns-to-make-sorted-ii.c",
           "sha": "670472c20f2e68ee653692dcd5afb36835aa5ff6",
-          "lastSyncedAt": "2026-10-21T19:34:14.365Z"
+          "lastSyncedAt": "2026-10-22T19:08:53.110Z"
         }
       ]
     },
