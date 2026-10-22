@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-21T19:34:05.117Z",
+  "updatedAt": "2026-10-22T19:08:42.404Z",
   "problems": [
     {
       "frontendId": "944",
@@ -23,7 +23,7 @@
           "filename": "0944-delete-columns-to-make-sorted.c",
           "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.c",
           "sha": "7489b22ce83aee5d503ba9036777856afdf03759",
-          "lastSyncedAt": "2026-10-21T19:34:05.117Z"
+          "lastSyncedAt": "2026-10-22T19:08:42.404Z"
         }
       ]
     }
