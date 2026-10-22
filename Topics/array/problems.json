@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T18:28:37.363Z",
+  "updatedAt": "2026-10-22T18:29:08.595Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4859,7 +4859,7 @@
           "filename": "4059-lexicographically-largest-power-array.java",
           "path": "4059-lexicographically-largest-power-array/4059-lexicographically-largest-power-array.java",
           "sha": "85f8f2bba35ce533a7060e3baad9034e7b5bdf56",
-          "lastSyncedAt": "2026-10-22T17:28:14.028Z"
+          "lastSyncedAt": "2026-10-22T18:29:08.595Z"
         }
       ]
     },
