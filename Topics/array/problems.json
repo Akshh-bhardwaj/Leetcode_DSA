@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:05:04.826Z",
+  "updatedAt": "2026-10-22T19:05:12.404Z",
   "problems": [
     {
       "frontendId": "1",
@@ -371,7 +371,7 @@
           "filename": "0085-maximal-rectangle.c",
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.c",
           "sha": "57c47fd9fcf2c4f75ee8a34e1aca48fdf6291c0c",
-          "lastSyncedAt": "2026-10-21T19:30:53.086Z"
+          "lastSyncedAt": "2026-10-22T19:05:12.404Z"
         }
       ]
     },
