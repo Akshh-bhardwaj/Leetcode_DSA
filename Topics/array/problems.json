@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:02:14.779Z",
+  "updatedAt": "2026-10-22T19:02:27.225Z",
   "problems": [
     {
       "frontendId": "1",
@@ -4399,7 +4399,7 @@
           "filename": "3651-minimum-cost-path-with-teleportations.c",
           "path": "3651-minimum-cost-path-with-teleportations/3651-minimum-cost-path-with-teleportations.c",
           "sha": "541c2cf41f995dbd75857cf2322dd8c6e049bdb8",
-          "lastSyncedAt": "2026-10-21T19:28:30.196Z"
+          "lastSyncedAt": "2026-10-22T19:02:27.225Z"
         }
       ]
     },
