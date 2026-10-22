@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T18:58:45.675Z",
+  "updatedAt": "2026-10-22T18:58:47.898Z",
   "problems": [
     {
       "frontendId": "67",
@@ -163,7 +163,7 @@
           "filename": "0762-prime-number-of-set-bits-in-binary-representation.c",
           "path": "0762-prime-number-of-set-bits-in-binary-representation/0762-prime-number-of-set-bits-in-binary-representation.c",
           "sha": "278f32fadeccf20c335e8de7ed88ea200f758a91",
-          "lastSyncedAt": "2026-10-21T19:25:18.945Z"
+          "lastSyncedAt": "2026-10-22T18:58:47.898Z"
         }
       ]
     },
