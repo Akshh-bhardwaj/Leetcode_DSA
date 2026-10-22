@@ -5,7 +5,7 @@
     "name": "Doubly-Linked List",
     "tagId": "61058"
   },
-  "updatedAt": "2026-10-21T19:29:24.308Z",
+  "updatedAt": "2026-10-22T19:03:11.796Z",
   "problems": [
     {
       "frontendId": "3507",
@@ -43,7 +43,7 @@
           "filename": "3510-minimum-pair-removal-to-sort-array-ii.c",
           "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.c",
           "sha": "291f01b92d04a674ede7487c1cbe170ce51988d2",
-          "lastSyncedAt": "2026-10-21T19:29:07.390Z"
+          "lastSyncedAt": "2026-10-22T19:03:11.796Z"
         }
       ]
     }
