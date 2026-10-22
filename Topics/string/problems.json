@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T18:50:41.100Z",
+  "updatedAt": "2026-10-22T18:51:30.452Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1647,7 +1647,7 @@
           "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.c",
           "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.c",
           "sha": "22d5c7135d5d25805de3d7b22933258315d7a5f6",
-          "lastSyncedAt": "2026-10-22T17:55:43.524Z"
+          "lastSyncedAt": "2026-10-22T18:51:30.452Z"
         }
       ]
     },
