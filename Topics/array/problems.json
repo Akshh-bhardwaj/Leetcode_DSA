@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:18:57.596Z",
+  "updatedAt": "2026-10-22T19:19:08.126Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2011,7 +2011,7 @@
           "filename": "1792-maximum-average-pass-ratio.c",
           "path": "1792-maximum-average-pass-ratio/1792-maximum-average-pass-ratio.c",
           "sha": "7de5ee3e3a5e381eeefaa64b4a1bc971e5281739",
-          "lastSyncedAt": "2026-10-21T19:43:54.763Z"
+          "lastSyncedAt": "2026-10-22T19:19:08.126Z"
         }
       ]
     },
