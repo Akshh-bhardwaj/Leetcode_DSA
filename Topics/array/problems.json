@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T18:48:48.036Z",
+  "updatedAt": "2026-10-22T18:49:08.434Z",
   "problems": [
     {
       "frontendId": "1",
@@ -671,7 +671,7 @@
           "filename": "0396-rotate-function.c",
           "path": "0396-rotate-function/0396-rotate-function.c",
           "sha": "93d2eee5bd95b35343989e5b31220d79f141c869",
-          "lastSyncedAt": "2026-10-22T17:52:48.433Z"
+          "lastSyncedAt": "2026-10-22T18:49:08.434Z"
         }
       ]
     },
