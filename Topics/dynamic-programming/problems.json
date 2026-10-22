@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T18:48:28.533Z",
+  "updatedAt": "2026-10-22T18:49:02.948Z",
   "problems": [
     {
       "frontendId": "5",
@@ -311,7 +311,7 @@
           "filename": "0788-rotated-digits.c",
           "path": "0788-rotated-digits/0788-rotated-digits.c",
           "sha": "a51d847dbf8b865e50cc1dc7f01dc983f74f0868",
-          "lastSyncedAt": "2026-10-22T17:52:41.007Z"
+          "lastSyncedAt": "2026-10-22T18:49:02.948Z"
         }
       ]
     },
