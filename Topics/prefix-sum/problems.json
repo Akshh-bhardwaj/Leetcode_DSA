@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T19:07:51.454Z",
+  "updatedAt": "2026-10-22T19:09:12.410Z",
   "problems": [
     {
       "frontendId": "303",
@@ -619,7 +619,7 @@
           "filename": "3652-best-time-to-buy-and-sell-stock-using-strategy.c",
           "path": "3652-best-time-to-buy-and-sell-stock-using-strategy/3652-best-time-to-buy-and-sell-stock-using-strategy.c",
           "sha": "15f7e860b49e0e37a0845ff77c11bcefb83d771c",
-          "lastSyncedAt": "2026-10-21T19:34:34.811Z"
+          "lastSyncedAt": "2026-10-22T19:09:12.410Z"
         }
       ]
     },
