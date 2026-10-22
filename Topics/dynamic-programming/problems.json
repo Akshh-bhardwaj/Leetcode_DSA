@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T19:06:39.861Z",
+  "updatedAt": "2026-10-22T19:08:13.943Z",
   "problems": [
     {
       "frontendId": "5",
@@ -759,7 +759,7 @@
           "filename": "2054-two-best-non-overlapping-events.c",
           "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.c",
           "sha": "483542d8c1229e8ff60fa94bfe1c98965285bd28",
-          "lastSyncedAt": "2026-10-21T19:33:38.765Z"
+          "lastSyncedAt": "2026-10-22T19:08:13.943Z"
         }
       ]
     },
