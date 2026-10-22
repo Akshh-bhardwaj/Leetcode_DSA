@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-22T18:56:06.438Z",
+  "updatedAt": "2026-10-22T18:56:51.489Z",
   "problems": [
     {
       "frontendId": "22",
@@ -151,7 +151,7 @@
           "filename": "1980-find-unique-binary-string.c",
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.c",
           "sha": "48c72429044eef67081377787de57496d6e1fe5c",
-          "lastSyncedAt": "2026-10-21T19:23:28.820Z"
+          "lastSyncedAt": "2026-10-22T18:56:51.489Z"
         }
       ]
     },
