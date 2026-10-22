@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T18:59:12.521Z",
+  "updatedAt": "2026-10-22T18:59:19.964Z",
   "problems": [
     {
       "frontendId": "67",
@@ -43,7 +43,7 @@
           "filename": "0190-reverse-bits.c",
           "path": "0190-reverse-bits/0190-reverse-bits.c",
           "sha": "98c236b5e6fb5209e1291964204a810494e633e7",
-          "lastSyncedAt": "2026-10-21T19:25:47.091Z"
+          "lastSyncedAt": "2026-10-22T18:59:19.964Z"
         }
       ]
     },
