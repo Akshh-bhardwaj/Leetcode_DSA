@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T17:47:45.282Z",
+  "updatedAt": "2026-10-22T17:51:08.241Z",
   "problems": [
     {
       "frontendId": "11",
@@ -303,7 +303,7 @@
           "filename": "1665-minimum-initial-energy-to-finish-tasks.c",
           "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.c",
           "sha": "8e2f05d77983d95f848ee99f97cd789105ab92e4",
-          "lastSyncedAt": "2026-10-21T19:14:40.410Z"
+          "lastSyncedAt": "2026-10-22T17:51:08.241Z"
         }
       ]
     },
