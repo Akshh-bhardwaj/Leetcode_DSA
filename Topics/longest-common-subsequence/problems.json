@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-10-21T19:31:30.944Z",
+  "updatedAt": "2026-10-22T19:05:26.151Z",
   "problems": [
     {
       "frontendId": "712",
@@ -23,7 +23,7 @@
           "filename": "0712-minimum-ascii-delete-sum-for-two-strings.c",
           "path": "0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.c",
           "sha": "1faadbdc198ff6115bba204546b4c18ad85eabc5",
-          "lastSyncedAt": "2026-10-21T19:31:05.164Z"
+          "lastSyncedAt": "2026-10-22T19:05:26.151Z"
         }
       ]
     },
