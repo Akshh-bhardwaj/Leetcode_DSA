@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T18:57:03.424Z",
+  "updatedAt": "2026-10-22T18:57:12.354Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1339,7 +1339,7 @@
           "filename": "1784-check-if-binary-string-has-at-most-one-segment-of-ones.c",
           "path": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.c",
           "sha": "f24f551ec8f042c095f117b83e640a1988d73f16",
-          "lastSyncedAt": "2026-10-21T19:23:47.110Z"
+          "lastSyncedAt": "2026-10-22T18:57:12.354Z"
         }
       ]
     },
