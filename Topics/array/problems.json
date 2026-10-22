@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:03:52.077Z",
+  "updatedAt": "2026-10-22T19:03:57.670Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3591,7 +3591,7 @@
           "filename": "3314-construct-the-minimum-bitwise-array-i.c",
           "path": "3314-construct-the-minimum-bitwise-array-i/3314-construct-the-minimum-bitwise-array-i.c",
           "sha": "d78ad788f97c0574f36ac2b21d24ec606b82b8d3",
-          "lastSyncedAt": "2026-10-21T19:29:44.520Z"
+          "lastSyncedAt": "2026-10-22T19:03:57.670Z"
         }
       ]
     },
