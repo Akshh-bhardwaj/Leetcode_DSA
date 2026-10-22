@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T19:05:26.151Z",
+  "updatedAt": "2026-10-22T19:05:54.071Z",
   "problems": [
     {
       "frontendId": "5",
@@ -551,7 +551,7 @@
           "filename": "1458-max-dot-product-of-two-subsequences.c",
           "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.c",
           "sha": "a5c3677242ff4c9e1bf7d853a3082733b555f880",
-          "lastSyncedAt": "2026-10-21T19:31:30.944Z"
+          "lastSyncedAt": "2026-10-22T19:05:54.071Z"
         }
       ]
     },
