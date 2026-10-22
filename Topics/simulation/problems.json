@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T17:44:58.464Z",
+  "updatedAt": "2026-10-22T17:46:06.109Z",
   "problems": [
     {
       "frontendId": "67",
@@ -323,7 +323,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.c",
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.c",
           "sha": "d8d3ef78542c9d24cac58b095fcac6732877dcf0",
-          "lastSyncedAt": "2026-10-21T19:11:02.945Z"
+          "lastSyncedAt": "2026-10-22T17:46:06.109Z"
         }
       ]
     },
