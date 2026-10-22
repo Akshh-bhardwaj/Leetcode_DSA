@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-22T19:00:47.460Z",
+  "updatedAt": "2026-10-22T19:05:34.656Z",
   "problems": [
     {
       "frontendId": "110",
@@ -43,7 +43,7 @@
           "filename": "0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.c",
           "sha": "9cf2e83a3953a0b5dde754c3208b9a6e0b347fae",
-          "lastSyncedAt": "2026-10-21T19:31:13.047Z"
+          "lastSyncedAt": "2026-10-22T19:05:34.656Z"
         }
       ]
     },
