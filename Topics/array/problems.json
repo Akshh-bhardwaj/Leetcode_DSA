@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T18:27:03.734Z",
+  "updatedAt": "2026-10-22T18:27:14.560Z",
   "problems": [
     {
       "frontendId": "1",
@@ -631,7 +631,7 @@
           "filename": "0303-range-sum-query-immutable.java",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "28e160a785dc3351e1a975501953ae849fffe724",
-          "lastSyncedAt": "2026-10-22T17:26:15.462Z"
+          "lastSyncedAt": "2026-10-22T18:27:14.560Z"
         }
       ]
     },
