@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T19:17:39.079Z",
+  "updatedAt": "2026-10-22T19:17:46.625Z",
   "problems": [
     {
       "frontendId": "3",
@@ -979,7 +979,7 @@
           "filename": "0966-vowel-spellchecker.c",
           "path": "0966-vowel-spellchecker/0966-vowel-spellchecker.c",
           "sha": "f293f06f300ac2c809010a2acf9a06e4e7d4028f",
-          "lastSyncedAt": "2026-10-21T19:42:47.533Z"
+          "lastSyncedAt": "2026-10-22T19:17:46.625Z"
         }
       ]
     },
