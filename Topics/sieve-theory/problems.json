@@ -5,7 +5,7 @@
     "name": "Sieve Theory",
     "tagId": "122048"
   },
-  "updatedAt": "2026-10-21T19:32:00.557Z",
+  "updatedAt": "2026-10-22T19:06:27.121Z",
   "problems": [
     {
       "frontendId": "1390",
@@ -23,7 +23,7 @@
           "filename": "1390-four-divisors.c",
           "path": "1390-four-divisors/1390-four-divisors.c",
           "sha": "745e38619026a9ab4d0e43ddbbdb80bc23c8e30a",
-          "lastSyncedAt": "2026-10-21T19:32:00.557Z"
+          "lastSyncedAt": "2026-10-22T19:06:27.121Z"
         }
       ]
     }
