@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T19:12:23.056Z",
+  "updatedAt": "2026-10-22T19:13:50.356Z",
   "problems": [
     {
       "frontendId": "5",
@@ -839,7 +839,7 @@
           "filename": "2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
           "path": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/2435-paths-in-matrix-whose-sum-is-divisible-by-k.c",
           "sha": "5d991fc59095a1f5e4c52ac534564499755a4d60",
-          "lastSyncedAt": "2026-10-21T19:39:06.948Z"
+          "lastSyncedAt": "2026-10-22T19:13:50.356Z"
         }
       ]
     },
