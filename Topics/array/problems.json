@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:18:32.215Z",
+  "updatedAt": "2026-10-22T19:18:42.528Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1191,7 +1191,7 @@
           "filename": "1122-relative-sort-array.c",
           "path": "1122-relative-sort-array/1122-relative-sort-array.c",
           "sha": "0d394312bc613c713260b5b187301209876e2c62",
-          "lastSyncedAt": "2026-10-21T19:43:33.944Z"
+          "lastSyncedAt": "2026-10-22T19:18:42.528Z"
         }
       ]
     },
