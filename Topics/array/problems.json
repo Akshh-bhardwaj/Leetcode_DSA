@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:17:16.137Z",
+  "updatedAt": "2026-10-22T19:17:24.261Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2627,7 +2627,7 @@
           "filename": "2197-replace-non-coprime-numbers-in-array.c",
           "path": "2197-replace-non-coprime-numbers-in-array/2197-replace-non-coprime-numbers-in-array.c",
           "sha": "8cee6c6cce52f3d00b24f0cba4218361265ad783",
-          "lastSyncedAt": "2026-10-21T19:42:26.596Z"
+          "lastSyncedAt": "2026-10-22T19:17:24.261Z"
         }
       ]
     },
