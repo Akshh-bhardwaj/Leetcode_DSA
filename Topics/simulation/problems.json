@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T19:10:11.109Z",
+  "updatedAt": "2026-10-22T19:11:35.130Z",
   "problems": [
     {
       "frontendId": "67",
@@ -483,7 +483,7 @@
           "filename": "3433-count-mentions-per-user.c",
           "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.c",
           "sha": "7dd7490f207f61510dfd249a4520365b6a871a04",
-          "lastSyncedAt": "2026-10-21T19:36:55.098Z"
+          "lastSyncedAt": "2026-10-22T19:11:35.130Z"
         }
       ]
     },
