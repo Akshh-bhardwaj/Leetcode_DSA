@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T18:54:15.992Z",
+  "updatedAt": "2026-10-22T18:59:49.851Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -183,7 +183,7 @@
           "filename": "3713-longest-balanced-substring-i.c",
           "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.c",
           "sha": "8e2ab9106dc7f1da0cb80952a9f729c2c8e6ce34",
-          "lastSyncedAt": "2026-10-21T19:26:13.258Z"
+          "lastSyncedAt": "2026-10-22T18:59:49.851Z"
         }
       ]
     },
