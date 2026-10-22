@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-22T18:52:12.052Z",
+  "updatedAt": "2026-10-22T18:58:56.096Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,7 +103,7 @@
           "filename": "0761-special-binary-string.c",
           "path": "0761-special-binary-string/0761-special-binary-string.c",
           "sha": "c286e431d74e4f349648474c33ee8d9ac78120c3",
-          "lastSyncedAt": "2026-10-21T19:25:26.190Z"
+          "lastSyncedAt": "2026-10-22T18:58:56.096Z"
         }
       ]
     },
