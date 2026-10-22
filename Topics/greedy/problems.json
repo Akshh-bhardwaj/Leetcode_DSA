@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T19:00:31.527Z",
+  "updatedAt": "2026-10-22T19:02:59.970Z",
   "problems": [
     {
       "frontendId": "11",
@@ -423,7 +423,7 @@
           "filename": "1877-minimize-maximum-pair-sum-in-array.c",
           "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.c",
           "sha": "7582ec61131201165ed8979d7526aa815cf704f6",
-          "lastSyncedAt": "2026-10-21T19:28:57.359Z"
+          "lastSyncedAt": "2026-10-22T19:02:59.970Z"
         }
       ]
     },
