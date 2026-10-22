@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-22T18:48:13.655Z",
+  "updatedAt": "2026-10-22T18:49:48.931Z",
   "problems": [
     {
       "frontendId": "301",
@@ -163,7 +163,7 @@
           "filename": "1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.c",
           "sha": "adbb9d448a54089ec8b173fae85bfb24a3fd6be5",
-          "lastSyncedAt": "2026-10-22T17:53:34.687Z"
+          "lastSyncedAt": "2026-10-22T18:49:48.931Z"
         }
       ]
     },
