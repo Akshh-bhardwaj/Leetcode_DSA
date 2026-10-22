@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T18:51:13.659Z",
+  "updatedAt": "2026-10-22T18:51:23.337Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1411,7 +1411,7 @@
           "filename": "3488-closest-equal-element-queries.c",
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.c",
           "sha": "a53db680d4552ebdbf1f4ff2447b994fd7a75fda",
-          "lastSyncedAt": "2026-10-22T17:55:32.813Z"
+          "lastSyncedAt": "2026-10-22T18:51:23.337Z"
         }
       ]
     },
