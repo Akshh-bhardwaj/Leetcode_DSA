@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:16:28.853Z",
+  "updatedAt": "2026-10-22T19:16:42.845Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1151,7 +1151,7 @@
           "filename": "0976-largest-perimeter-triangle.c",
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.c",
           "sha": "ab6208f9e15a5212d18f225c776c1652202d931f",
-          "lastSyncedAt": "2026-10-21T19:41:49.277Z"
+          "lastSyncedAt": "2026-10-22T19:16:42.845Z"
         }
       ]
     },
