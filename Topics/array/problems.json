@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T19:07:07.282Z",
+  "updatedAt": "2026-10-22T19:07:30.007Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1391,7 +1391,7 @@
           "filename": "1351-count-negative-numbers-in-a-sorted-matrix.c",
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.c",
           "sha": "802568158d0825be86ab58b6d8f353d76022af3f",
-          "lastSyncedAt": "2026-10-21T19:32:57.050Z"
+          "lastSyncedAt": "2026-10-22T19:07:30.007Z"
         }
       ]
     },
