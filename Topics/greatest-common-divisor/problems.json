@@ -5,7 +5,7 @@
     "name": "Greatest Common Divisor",
     "tagId": "98781"
   },
-  "updatedAt": "2026-10-21T19:42:26.596Z",
+  "updatedAt": "2026-10-22T19:15:01.365Z",
   "problems": [
     {
       "frontendId": "2197",
@@ -43,7 +43,7 @@
           "filename": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
           "path": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.c",
           "sha": "efdbc57b9f7394b394c8b05d0f43670ce7825c28",
-          "lastSyncedAt": "2026-10-21T19:40:18.123Z"
+          "lastSyncedAt": "2026-10-22T19:15:01.365Z"
         }
       ]
     }
