@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T19:09:20.146Z",
+  "updatedAt": "2026-10-22T19:10:49.073Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1119,7 +1119,7 @@
           "filename": "3562-maximum-profit-from-trading-stocks-with-discounts.c",
           "path": "3562-maximum-profit-from-trading-stocks-with-discounts/3562-maximum-profit-from-trading-stocks-with-discounts.c",
           "sha": "7aced789c89780085531d26fa2ad70ea9f00eaff",
-          "lastSyncedAt": "2026-10-21T19:36:12.963Z"
+          "lastSyncedAt": "2026-10-22T19:10:49.073Z"
         }
       ]
     },
