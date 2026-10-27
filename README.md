@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 390 | 129 | 189 | 72 |
+| 391 | 129 | 190 | 72 |
 
 ## Activity
 
@@ -28,13 +28,13 @@
 | 2026-10-12 | 3 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
-| 2026-10-27 | 2 |
+| 2026-10-27 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 244 | 63% |
+| Array | 245 | 63% |
 | String | 106 | 27% |
 | Hash Table | 91 | 23% |
 | Math | 74 | 19% |
@@ -50,9 +50,9 @@
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 244 |
+| [Array](Topics/array/) | 245 |
 | [Backtracking](Topics/backtracking/) | 8 |
-| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 35 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -69,9 +69,9 @@
 | [Counting Sort](Topics/counting-sort/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 20 |
-| [Design](Topics/design/) | 3 |
+| [Design](Topics/design/) | 4 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 10 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 65 |
@@ -117,7 +117,7 @@
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
-| [Segment Tree](Topics/segment-tree/) | 8 |
+| [Segment Tree](Topics/segment-tree/) | 9 |
 | [Shortest Path](Topics/shortest-path/) | 3 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 31 |
@@ -125,6 +125,7 @@
 | [Sort](Topics/sort/) | 1 |
 | [Sorting](Topics/sorting/) | 62 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
+| [Sqrt Decomposition](Topics/sqrt-decomposition/) | 1 |
 | [Stack](Topics/stack/) | 25 |
 | [String](Topics/string/) | 107 |
 | [String Matching](Topics/string-matching/) | 3 |
