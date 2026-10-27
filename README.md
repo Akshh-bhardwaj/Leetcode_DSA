@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 389 | 128 | 189 | 72 |
+| 390 | 129 | 189 | 72 |
 
 ## Activity
 
@@ -28,7 +28,7 @@
 | 2026-10-12 | 3 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
-| 2026-10-27 | 1 |
+| 2026-10-27 | 2 |
 
 ## Top Tags
 
@@ -43,7 +43,7 @@
 | Greedy | 42 | 11% |
 | Matrix | 42 | 11% |
 | Prefix Sum | 40 | 10% |
-| Two Pointers | 37 | 10% |
+| Two Pointers | 37 | 9% |
 
 ## Topics
 
@@ -55,8 +55,8 @@
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 35 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 9 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 10 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 25 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 11 |
@@ -129,7 +129,7 @@
 | [String](Topics/string/) | 107 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
-| [Tree](Topics/tree/) | 13 |
+| [Tree](Topics/tree/) | 14 |
 | [Trie](Topics/trie/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 37 |
 | [Union-Find](Topics/union-find/) | 10 |
