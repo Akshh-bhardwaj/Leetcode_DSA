@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-22T18:55:53.733Z",
+  "updatedAt": "2026-10-27T07:55:41.593Z",
   "problems": [
     {
       "frontendId": "303",
@@ -24,6 +24,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "28e160a785dc3351e1a975501953ae849fffe724",
           "lastSyncedAt": "2026-10-22T18:27:14.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "307",
+      "title": "Range Sum Query - Mutable",
+      "slug": "range-sum-query-mutable",
+      "problemName": "0307-range-sum-query-mutable",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable/",
+      "folderPath": "0307-range-sum-query-mutable/",
+      "readmePath": "0307-range-sum-query-mutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0307-range-sum-query-mutable.java",
+          "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.java",
+          "sha": "5653c638564b4aa88e4461e0266393f2a40d1f77",
+          "lastSyncedAt": "2026-10-27T07:55:41.593Z"
         }
       ]
     },
