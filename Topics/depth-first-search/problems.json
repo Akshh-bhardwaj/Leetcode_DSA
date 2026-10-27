@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-22T19:18:20.782Z",
+  "updatedAt": "2026-10-27T07:34:18.431Z",
   "problems": [
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0104-maximum-depth-of-binary-tree.java",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
+          "sha": "4cbc025e17cf28797ff4492400d74ebc11778e0a",
+          "lastSyncedAt": "2026-10-27T07:34:18.431Z"
+        }
+      ]
+    },
     {
       "frontendId": "110",
       "title": "Balanced Binary Tree",
